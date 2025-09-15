@@ -1,0 +1,278 @@
+{
+  "level": "A1",
+  "topic": "greetings",
+  "description": "Basic greetings, introductions, and polite expressions",
+  "total_sentences": 30,
+  "sentences": [
+    {
+      "id": "a1_greetings_001",
+      "english": "Hello, how are you?",
+      "correctFrench": ["Bonjour", "comment", "allez-vous"],
+      "wordOptions": ["Bonjour", "comment", "allez-vous", "Salut", "ça", "va", "bonsoir", "tu", "vas"],
+      "explanation": "Formal greeting: 'Bonjour, comment allez-vous?' Use 'vous' for formal situations.",
+      "grammar_points": ["greetings", "formal_language", "question_formation"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_greetings_002",
+      "english": "Hi, how are you?",
+      "correctFrench": ["Salut", "comment", "ça", "va"],
+      "wordOptions": ["Salut", "comment", "ça", "va", "Bonjour", "allez-vous", "tu", "vas", "bien"],
+      "explanation": "Informal greeting: 'Salut, comment ça va?' Use with friends and family.",
+      "grammar_points": ["greetings", "informal_language", "question_formation"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_003",
+      "english": "I am fine, thank you.",
+      "correctFrench": ["Je", "vais", "bien", "merci"],
+      "wordOptions": ["Je", "vais", "bien", "merci", "Tu", "va", "mal", "s'il", "vous", "plaît"],
+      "explanation": "Response to 'how are you': 'Je vais bien, merci' (I am fine, thank you).",
+      "grammar_points": ["aller_conjugation", "responses", "politeness"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_004",
+      "english": "What is your name?",
+      "correctFrench": ["Comment", "vous", "appelez-vous"],
+      "wordOptions": ["Comment", "vous", "appelez-vous", "tu", "t'appelles", "je", "m'appelle", "quel", "nom"],
+      "explanation": "Formal way to ask someone's name: 'Comment vous appelez-vous?'",
+      "grammar_points": ["reflexive_verbs", "formal_language", "question_formation"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_greetings_005",
+      "english": "What is your name?",
+      "correctFrench": ["Comment", "tu", "t'appelles"],
+      "wordOptions": ["Comment", "tu", "t'appelles", "vous", "appelez-vous", "je", "m'appelle", "quel", "nom"],
+      "explanation": "Informal way to ask someone's name: 'Comment tu t'appelles?'",
+      "grammar_points": ["reflexive_verbs", "informal_language", "question_formation"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_greetings_006",
+      "english": "My name is Marie.",
+      "correctFrench": ["Je", "m'appelle", "Marie"],
+      "wordOptions": ["Je", "m'appelle", "Marie", "Tu", "t'appelles", "Il", "s'appelle", "mon", "nom", "est"],
+      "explanation": "Introducing yourself: 'Je m'appelle Marie' (My name is Marie).",
+      "grammar_points": ["reflexive_verbs", "introductions", "names"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_007",
+      "english": "Nice to meet you.",
+      "correctFrench": ["Enchanté", "de", "vous", "rencontrer"],
+      "wordOptions": ["Enchanté", "de", "vous", "rencontrer", "Enchantée", "te", "faire", "connaissance", "plaisir"],
+      "explanation": "Polite expression when meeting someone: 'Enchanté de vous rencontrer'.",
+      "grammar_points": ["politeness", "introductions", "formal_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_greetings_008",
+      "english": "Please.",
+      "correctFrench": ["S'il", "vous", "plaît"],
+      "wordOptions": ["S'il", "vous", "plaît", "te", "merci", "de", "rien", "excusez-moi"],
+      "explanation": "Formal 'please': 'S'il vous plaît'. Literally 'if it pleases you'.",
+      "grammar_points": ["politeness", "formal_language", "fixed_expressions"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_greetings_009",
+      "english": "Please.",
+      "correctFrench": ["S'il", "te", "plaît"],
+      "wordOptions": ["S'il", "te", "plaît", "vous", "merci", "de", "rien", "excuse-moi"],
+      "explanation": "Informal 'please': 'S'il te plaît'. Use with friends and family.",
+      "grammar_points": ["politeness", "informal_language", "fixed_expressions"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_010",
+      "english": "Thank you very much.",
+      "correctFrench": ["Merci", "beaucoup"],
+      "wordOptions": ["Merci", "beaucoup", "bien", "s'il", "vous", "plaît", "de", "rien"],
+      "explanation": "Expressing gratitude: 'Merci beaucoup' (Thank you very much).",
+      "grammar_points": ["politeness", "gratitude", "adverbs"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_greetings_011",
+      "english": "You're welcome.",
+      "correctFrench": ["De", "rien"],
+      "wordOptions": ["De", "rien", "Je", "vous", "en", "prie", "merci", "s'il", "plaît"],
+      "explanation": "Response to 'thank you': 'De rien' (You're welcome / It's nothing).",
+      "grammar_points": ["politeness", "responses", "fixed_expressions"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_012",
+      "english": "Excuse me.",
+      "correctFrench": ["Excusez-moi"],
+      "wordOptions": ["Excusez-moi", "Excuse-moi", "Pardon", "s'il", "vous", "plaît", "merci", "désolé"],
+      "explanation": "Formal 'excuse me': 'Excusez-moi'. Use to get attention or apologize.",
+      "grammar_points": ["politeness", "formal_language", "apologies"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_greetings_013",
+      "english": "Excuse me.",
+      "correctFrench": ["Excuse-moi"],
+      "wordOptions": ["Excuse-moi", "Excusez-moi", "Pardon", "s'il", "te", "plaît", "merci", "désolé"],
+      "explanation": "Informal 'excuse me': 'Excuse-moi'. Use with friends and family.",
+      "grammar_points": ["politeness", "informal_language", "apologies"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_014",
+      "english": "I'm sorry.",
+      "correctFrench": ["Je", "suis", "désolé"],
+      "wordOptions": ["Je", "suis", "désolé", "Tu", "es", "désolée", "pardon", "excuse-moi", "navré"],
+      "explanation": "Apology: 'Je suis désolé' (masculine) / 'Je suis désolée' (feminine).",
+      "grammar_points": ["être_conjugation", "apologies", "adjective_agreement"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_greetings_015",
+      "english": "Good morning.",
+      "correctFrench": ["Bonjour"],
+      "wordOptions": ["Bonjour", "Bonsoir", "Bonne", "nuit", "Salut", "matin", "après-midi"],
+      "explanation": "Morning greeting: 'Bonjour' (Good morning/Good day). Used until evening.",
+      "grammar_points": ["greetings", "time_expressions", "daily_routine"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_greetings_016",
+      "english": "Good evening.",
+      "correctFrench": ["Bonsoir"],
+      "wordOptions": ["Bonsoir", "Bonjour", "Bonne", "nuit", "Salut", "soir", "après-midi"],
+      "explanation": "Evening greeting: 'Bonsoir' (Good evening). Used from late afternoon.",
+      "grammar_points": ["greetings", "time_expressions", "daily_routine"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_greetings_017",
+      "english": "Good night.",
+      "correctFrench": ["Bonne", "nuit"],
+      "wordOptions": ["Bonne", "nuit", "Bonjour", "Bonsoir", "Salut", "journée", "soirée"],
+      "explanation": "Bedtime farewell: 'Bonne nuit' (Good night). Used when going to sleep.",
+      "grammar_points": ["greetings", "farewells", "time_expressions"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_018",
+      "english": "See you later.",
+      "correctFrench": ["À", "bientôt"],
+      "wordOptions": ["À", "bientôt", "tout", "l'heure", "demain", "plus", "tard", "au", "revoir"],
+      "explanation": "Casual farewell: 'À bientôt' (See you soon/later).",
+      "grammar_points": ["farewells", "time_expressions", "prepositions"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_greetings_019",
+      "english": "See you tomorrow.",
+      "correctFrench": ["À", "demain"],
+      "wordOptions": ["À", "demain", "bientôt", "tout", "l'heure", "plus", "tard", "au", "revoir"],
+      "explanation": "Farewell until tomorrow: 'À demain' (See you tomorrow).",
+      "grammar_points": ["farewells", "time_expressions", "prepositions"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_020",
+      "english": "Goodbye.",
+      "correctFrench": ["Au", "revoir"],
+      "wordOptions": ["Au", "revoir", "À", "bientôt", "demain", "tout", "l'heure", "salut", "adieu"],
+      "explanation": "Standard farewell: 'Au revoir' (Goodbye). Most common way to say goodbye.",
+      "grammar_points": ["farewells", "contractions", "politeness"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_greetings_021",
+      "english": "How old are you?",
+      "correctFrench": ["Quel", "âge", "avez-vous"],
+      "wordOptions": ["Quel", "âge", "avez-vous", "as-tu", "j'ai", "ans", "années", "vieux", "jeune"],
+      "explanation": "Asking age formally: 'Quel âge avez-vous?' Age uses 'avoir' in French.",
+      "grammar_points": ["question_formation", "age_expressions", "avoir_conjugation"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_greetings_022",
+      "english": "I am 25 years old.",
+      "correctFrench": ["J'ai", "vingt-cinq", "ans"],
+      "wordOptions": ["J'ai", "vingt-cinq", "ans", "Je", "suis", "années", "âgé", "vieux", "jeune"],
+      "explanation": "Stating age: 'J'ai 25 ans' (I am 25 years old). Use 'ans' not 'années'.",
+      "grammar_points": ["avoir_conjugation", "age_expressions", "numbers"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_greetings_023",
+      "english": "Where are you from?",
+      "correctFrench": ["D'où", "venez-vous"],
+      "wordOptions": ["D'où", "venez-vous", "viens-tu", "je", "viens", "de", "où", "habitez"],
+      "explanation": "Asking origin formally: 'D'où venez-vous?' (Where do you come from?)",
+      "grammar_points": ["question_formation", "origin", "irregular_verbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_greetings_024",
+      "english": "I am from France.",
+      "correctFrench": ["Je", "viens", "de", "France"],
+      "wordOptions": ["Je", "viens", "de", "France", "suis", "du", "Espagne", "Italie", "habite"],
+      "explanation": "Stating origin: 'Je viens de France' (I come from France). Countries use 'de'.",
+      "grammar_points": ["irregular_verbs", "origin", "countries"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_greetings_025",
+      "english": "Do you speak French?",
+      "correctFrench": ["Parlez-vous", "français"],
+      "wordOptions": ["Parlez-vous", "français", "Parles-tu", "Je", "parle", "anglais", "espagnol", "italien"],
+      "explanation": "Asking about language: 'Parlez-vous français?' (Do you speak French?)",
+      "grammar_points": ["question_formation", "languages", "present_tense"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_greetings_026",
+      "english": "Yes, I speak French.",
+      "correctFrench": ["Oui", "je", "parle", "français"],
+      "wordOptions": ["Oui", "je", "parle", "français", "Non", "tu", "parles", "anglais", "espagnol"],
+      "explanation": "Affirmative response: 'Oui, je parle français' (Yes, I speak French).",
+      "grammar_points": ["affirmation", "present_tense", "languages"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_greetings_027",
+      "english": "I don't understand.",
+      "correctFrench": ["Je", "ne", "comprends", "pas"],
+      "wordOptions": ["Je", "ne", "comprends", "pas", "Tu", "comprend", "n'", "understand", "parle"],
+      "explanation": "Expressing lack of understanding: 'Je ne comprends pas'. Negation with 'ne...pas'.",
+      "grammar_points": ["negation", "present_tense", "communication"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_greetings_028",
+      "english": "Can you repeat please?",
+      "correctFrench": ["Pouvez-vous", "répéter", "s'il", "vous", "plaît"],
+      "wordOptions": ["Pouvez-vous", "répéter", "s'il", "vous", "plaît", "Peux-tu", "te", "encore", "lentement"],
+      "explanation": "Polite request: 'Pouvez-vous répéter, s'il vous plaît?' (Can you repeat, please?)",
+      "grammar_points": ["modal_verbs", "requests", "politeness"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_greetings_029",
+      "english": "Have a good day.",
+      "correctFrench": ["Bonne", "journée"],
+      "wordOptions": ["Bonne", "journée", "Bon", "jour", "soirée", "nuit", "week-end", "vacances"],
+      "explanation": "Wishing well: 'Bonne journée' (Have a good day). Used when parting.",
+      "grammar_points": ["farewells", "wishes", "time_expressions"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_greetings_030",
+      "english": "Welcome!",
+      "correctFrench": ["Bienvenue"],
+      "wordOptions": ["Bienvenue", "Bonjour", "Salut", "Merci", "Au", "revoir", "Bonsoir"],
+      "explanation": "Welcoming someone: 'Bienvenue!' (Welcome!). Used to greet newcomers.",
+      "grammar_points": ["greetings", "hospitality", "fixed_expressions"],
+      "difficulty": 1.0
+    }
+  ]
+}

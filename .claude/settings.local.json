@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Read(//c/Users/Minsoo/Downloads/**)",
+      "Bash(unzip:*)",
+      "Bash(del start_server.bat start-simple.bat start-python.bat start_server.py)",
+      "Bash(rm:*)",
+      "Bash(move:*)",
+      "Bash(python:*)",
+      "Bash(py fixed_daily_bot.py)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

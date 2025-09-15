@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "topic": "food",
+  "description": "Food vocabulary, meals, and preferences",
+  "total_sentences": 50,
+  "sentences": [
+    {
+      "id": "a2_food_001",
+      "english": "I eat breakfast at 7 o'clock.",
+      "correctFrench": ["Je", "prends", "le", "petit-déjeuner", "à", "sept", "heures"],
+      "wordOptions": ["Je", "prends", "le", "petit-déjeuner", "à", "sept", "heures", "mange", "déjeuner", "huit", "heure"],
+      "explanation": "'Prendre' is commonly used for meals. 'Le petit-déjeuner' = breakfast.",
+      "grammar_points": ["meal_vocabulary", "time_expressions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_food_002",
+      "english": "She likes chocolate.",
+      "correctFrench": ["Elle", "aime", "le", "chocolat"],
+      "wordOptions": ["Elle", "aime", "le", "chocolat", "Il", "adore", "la", "gâteau", "café", "thé"],
+      "explanation": "'Aimer' = to like. 'Le chocolat' (masculine) - foods often take definite articles.",
+      "grammar_points": ["food_preferences", "definite_articles"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a2_food_003",
+      "english": "We are cooking dinner.",
+      "correctFrench": ["Nous", "préparons", "le", "dîner"],
+      "wordOptions": ["Nous", "préparons", "le", "dîner", "cuisinons", "faisons", "déjeuner", "souper", "repas"],
+      "explanation": "'Préparer' or 'cuisiner' = to cook. 'Le dîner' = dinner/evening meal.",
+      "grammar_points": ["cooking_verbs", "meal_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_food_004",
+      "english": "Do you want some bread?",
+      "correctFrench": ["Tu", "veux", "du", "pain", "?"],
+      "wordOptions": ["Tu", "veux", "du", "pain", "?", "Vous", "voulez", "de", "la", "baguette", "des"],
+      "explanation": "'Vouloir' = to want. 'Du pain' (partitive article) = some bread.",
+      "grammar_points": ["partitive_articles", "food_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_food_005",
+      "english": "The restaurant is expensive.",
+      "correctFrench": ["Le", "restaurant", "est", "cher"],
+      "wordOptions": ["Le", "restaurant", "est", "cher", "La", "café", "coûteux", "chère", "bon", "marché"],
+      "explanation": "'Cher' = expensive (masculine). 'Le restaurant' is masculine.",
+      "grammar_points": ["restaurant_vocabulary", "price_adjectives"],
+      "difficulty": 1.9
+    },
+    {
+      "id": "a2_food_006",
+      "english": "I drink coffee in the morning.",
+      "correctFrench": ["Je", "bois", "du", "café", "le", "matin"],
+      "wordOptions": ["Je", "bois", "du", "café", "le", "matin", "prends", "de", "thé", "soir", "après-midi"],
+      "explanation": "'Boire' = to drink (irregular verb). 'Du café' = some coffee. 'Le matin' = in the morning.",
+      "grammar_points": ["irregular_verbs", "partitive_articles", "time_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_food_007",
+      "english": "They ordered pizza.",
+      "correctFrench": ["Ils", "ont", "commandé", "une", "pizza"],
+      "wordOptions": ["Ils", "ont", "commandé", "une", "pizza", "Elles", "commander", "la", "pizzas", "pâtes"],
+      "explanation": "Passé composé: ont + commandé. 'Commander' = to order.",
+      "grammar_points": ["passe_compose", "restaurant_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_food_008",
+      "english": "The soup is hot.",
+      "correctFrench": ["La", "soupe", "est", "chaude"],
+      "wordOptions": ["La", "soupe", "est", "chaude", "Le", "potage", "chaud", "froide", "froid", "tiède"],
+      "explanation": "'La soupe' (feminine). 'Chaude' (feminine form of chaud = hot).",
+      "grammar_points": ["food_vocabulary", "temperature_adjectives"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a2_food_009",
+      "english": "We need eggs for the recipe.",
+      "correctFrench": ["Nous", "avons", "besoin", "d'œufs", "pour", "la", "recette"],
+      "wordOptions": ["Nous", "avons", "besoin", "d'œufs", "pour", "la", "recette", "des", "œuf", "le", "cuisine"],
+      "explanation": "'Avoir besoin de' = to need. 'D'œufs' = of eggs (des + œufs).",
+      "grammar_points": ["expressing_need", "ingredients"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_food_010",
+      "english": "She is vegetarian.",
+      "correctFrench": ["Elle", "est", "végétarienne"],
+      "wordOptions": ["Elle", "est", "végétarienne", "Il", "végétarien", "vegan", "carnivore", "omnivore"],
+      "explanation": "'Végétarienne' (feminine form). Dietary preferences agree with gender.",
+      "grammar_points": ["dietary_preferences", "adjective_agreement"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_food_011",
+      "english": "The cheese is delicious.",
+      "correctFrench": ["Le", "fromage", "est", "délicieux"],
+      "wordOptions": ["Le", "fromage", "est", "délicieux", "La", "yaourt", "délicieuse", "bon", "bonne", "excellent"],
+      "explanation": "'Le fromage' (masculine). 'Délicieux' (masculine form of delicious).",
+      "grammar_points": ["food_vocabulary", "taste_adjectives"],
+      "difficulty": 1.9
+    },
+    {
+      "id": "a2_food_012",
+      "english": "Can I have the menu, please?",
+      "correctFrench": ["Je", "peux", "avoir", "la", "carte", ",", "s'il", "vous", "plaît", "?"],
+      "wordOptions": ["Je", "peux", "avoir", "la", "carte", ",", "s'il", "vous", "plaît", "?", "menu", "le", "pourrai"],
+      "explanation": "'Pouvoir' = can/may. 'La carte' = menu. Polite request with 's'il vous plaît'.",
+      "grammar_points": ["modal_verbs", "restaurant_expressions", "politeness"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_food_013",
+      "english": "I'm allergic to nuts.",
+      "correctFrench": ["Je", "suis", "allergique", "aux", "noix"],
+      "wordOptions": ["Je", "suis", "allergique", "aux", "noix", "allergie", "des", "noisettes", "arachides", "amandes"],
+      "explanation": "'Allergique à' = allergic to. 'Aux noix' = to nuts (à + les = aux).",
+      "grammar_points": ["health_expressions", "contracted_articles"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_food_014",
+      "english": "The waiter brought the bill.",
+      "correctFrench": ["Le", "serveur", "a", "apporté", "l'addition"],
+      "wordOptions": ["Le", "serveur", "a", "apporté", "l'addition", "serveuse", "amené", "la", "note", "facture"],
+      "explanation": "Passé composé: a apporté. 'L'addition' = the bill (restaurant).",
+      "grammar_points": ["passe_compose", "restaurant_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_food_015",
+      "english": "We share the dessert.",
+      "correctFrench": ["Nous", "partageons", "le", "dessert"],
+      "wordOptions": ["Nous", "partageons", "le", "dessert", "partager", "partage", "gâteau", "tarte", "glace"],
+      "explanation": "'Partager' = to share. Present tense: nous partageons.",
+      "grammar_points": ["sharing_expressions", "dessert_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_food_016",
+      "english": "This wine is from France.",
+      "correctFrench": ["Ce", "vin", "vient", "de", "France"],
+      "wordOptions": ["Ce", "vin", "vient", "de", "France", "Cette", "bière", "viens", "du", "Italie", "Espagne"],
+      "explanation": "'Ce vin' (masculine). 'Venir de' = to come from. Countries without articles.",
+      "grammar_points": ["origin_expressions", "demonstrative_adjectives"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_food_017",
+      "english": "I prefer tea to coffee.",
+      "correctFrench": ["Je", "préfère", "le", "thé", "au", "café"],
+      "wordOptions": ["Je", "préfère", "le", "thé", "au", "café", "préférer", "la", "du", "que", "plutôt"],
+      "explanation": "'Préférer' = to prefer. 'Préférer X à Y' = prefer X to Y. 'Au café' = à + le.",
+      "grammar_points": ["preferences", "contracted_articles"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_food_018",
+      "english": "The fruit is fresh.",
+      "correctFrench": ["Le", "fruit", "est", "frais"],
+      "wordOptions": ["Le", "fruit", "est", "frais", "La", "fruits", "fraîche", "mûr", "pourri", "sucré"],
+      "explanation": "'Le fruit' (singular masculine). 'Frais' (masculine) / 'fraîche' (feminine).",
+      "grammar_points": ["food_quality", "adjective_agreement"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a2_food_019",
+      "english": "We cook with olive oil.",
+      "correctFrench": ["Nous", "cuisinons", "avec", "de", "l'huile", "d'olive"],
+      "wordOptions": ["Nous", "cuisinons", "avec", "de", "l'huile", "d'olive", "beurre", "margarine", "la", "du"],
+      "explanation": "'Cuisiner avec' = to cook with. 'De l'huile' = some oil (partitive).",
+      "grammar_points": ["cooking_methods", "partitive_articles"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_food_020",
+      "english": "The bakery opens at 7 AM.",
+      "correctFrench": ["La", "boulangerie", "ouvre", "à", "7", "heures"],
+      "wordOptions": ["La", "boulangerie", "ouvre", "à", "7", "heures", "Le", "pâtisserie", "ferme", "huit", "heure"],
+      "explanation": "'La boulangerie' = bakery. 'Ouvrir' = to open. Time with 'heures'.",
+      "grammar_points": ["shop_vocabulary", "time_expressions"],
+      "difficulty": 2.0
+    }
+  ]
+}

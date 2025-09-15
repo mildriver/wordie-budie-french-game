@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "topic": "daily-routine",
+  "description": "Daily activities and time expressions",
+  "total_sentences": 40,
+  "sentences": [
+    {
+      "id": "a2_routine_001",
+      "english": "I wake up at 6:30 AM.",
+      "correctFrench": ["Je", "me", "réveille", "à", "six", "heures", "trente"],
+      "wordOptions": ["Je", "me", "réveille", "à", "six", "heures", "trente", "lève", "sept", "et", "demie"],
+      "explanation": "Reflexive verb: se réveiller. Time: 6h30 = six heures trente.",
+      "grammar_points": ["reflexive_verbs", "time_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_routine_002",
+      "english": "She takes a shower every morning.",
+      "correctFrench": ["Elle", "prend", "une", "douche", "chaque", "matin"],
+      "wordOptions": ["Elle", "prend", "une", "douche", "chaque", "matin", "se", "lave", "tous", "les", "matins"],
+      "explanation": "'Prendre une douche' = to take a shower. 'Chaque matin' = every morning.",
+      "grammar_points": ["daily_activities", "frequency_expressions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_routine_003",
+      "english": "We brush our teeth after meals.",
+      "correctFrench": ["Nous", "nous", "brossons", "les", "dents", "après", "les", "repas"],
+      "wordOptions": ["Nous", "nous", "brossons", "les", "dents", "après", "les", "repas", "lavons", "repas", "dent"],
+      "explanation": "Reflexive: se brosser. 'Les dents' = teeth. 'Après les repas' = after meals.",
+      "grammar_points": ["reflexive_verbs", "body_parts", "time_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_routine_004",
+      "english": "He goes to work by bus.",
+      "correctFrench": ["Il", "va", "au", "travail", "en", "bus"],
+      "wordOptions": ["Il", "va", "au", "travail", "en", "bus", "aller", "le", "voiture", "métro", "pied"],
+      "explanation": "'Aller au travail' = to go to work. 'En bus' = by bus. Transportation means.",
+      "grammar_points": ["transportation", "prepositions", "work_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_routine_005",
+      "english": "I have lunch at noon.",
+      "correctFrench": ["Je", "déjeune", "à", "midi"],
+      "wordOptions": ["Je", "déjeune", "à", "midi", "prends", "le", "déjeuner", "minuit", "une", "heure"],
+      "explanation": "'Déjeuner' = to have lunch (verb). 'À midi' = at noon.",
+      "grammar_points": ["meal_vocabulary", "time_expressions"],
+      "difficulty": 1.9
+    },
+    {
+      "id": "a2_routine_006",
+      "english": "They finish work at 5 PM.",
+      "correctFrench": ["Ils", "finissent", "le", "travail", "à", "dix-sept", "heures"],
+      "wordOptions": ["Ils", "finissent", "le", "travail", "à", "dix-sept", "heures", "terminent", "cinq", "18h"],
+      "explanation": "'Finir' = to finish. 24-hour time: 5 PM = dix-sept heures.",
+      "grammar_points": ["work_vocabulary", "24_hour_time"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_routine_007",
+      "english": "She does her homework in the evening.",
+      "correctFrench": ["Elle", "fait", "ses", "devoirs", "le", "soir"],
+      "wordOptions": ["Elle", "fait", "ses", "devoirs", "le", "soir", "son", "devoir", "la", "soirée", "après-midi"],
+      "explanation": "'Faire ses devoirs' = to do homework. 'Le soir' = in the evening.",
+      "grammar_points": ["school_vocabulary", "time_expressions", "possessive_adjectives"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_routine_008",
+      "english": "We watch TV before sleeping.",
+      "correctFrench": ["Nous", "regardons", "la", "télé", "avant", "de", "dormir"],
+      "wordOptions": ["Nous", "regardons", "la", "télé", "avant", "de", "dormir", "télévision", "se", "coucher", "après"],
+      "explanation": "'Regarder la télé' = to watch TV. 'Avant de + infinitive' = before doing.",
+      "grammar_points": ["leisure_activities", "prepositions_with_infinitive"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_routine_009",
+      "english": "I get dressed quickly.",
+      "correctFrench": ["Je", "m'habille", "rapidement"],
+      "wordOptions": ["Je", "m'habille", "rapidement", "me", "habille", "vite", "lentement", "doucement"],
+      "explanation": "Reflexive verb: s'habiller = to get dressed. 'Rapidement' = quickly.",
+      "grammar_points": ["reflexive_verbs", "adverbs"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_routine_010",
+      "english": "He reads the newspaper every day.",
+      "correctFrench": ["Il", "lit", "le", "journal", "tous", "les", "jours"],
+      "wordOptions": ["Il", "lit", "le", "journal", "tous", "les", "jours", "lis", "chaque", "jour", "quotidien"],
+      "explanation": "'Lire' = to read (irregular). 'Tous les jours' = every day.",
+      "grammar_points": ["irregular_verbs", "frequency_expressions", "media_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_routine_011",
+      "english": "We have dinner together.",
+      "correctFrench": ["Nous", "dînons", "ensemble"],
+      "wordOptions": ["Nous", "dînons", "ensemble", "prenons", "le", "dîner", "seuls", "tous", "en", "famille"],
+      "explanation": "'Dîner' = to have dinner (verb). 'Ensemble' = together.",
+      "grammar_points": ["meal_vocabulary", "togetherness_expressions"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a2_routine_012",
+      "english": "She goes to bed late.",
+      "correctFrench": ["Elle", "se", "couche", "tard"],
+      "wordOptions": ["Elle", "se", "couche", "tard", "va", "au", "lit", "tôt", "dormir", "endort"],
+      "explanation": "Reflexive: se coucher = to go to bed. 'Tard' = late. 'Tôt' = early.",
+      "grammar_points": ["reflexive_verbs", "time_adverbs"],
+      "difficulty": 1.9
+    },
+    {
+      "id": "a2_routine_013",
+      "english": "I check my emails in the morning.",
+      "correctFrench": ["Je", "vérifie", "mes", "emails", "le", "matin"],
+      "wordOptions": ["Je", "vérifie", "mes", "emails", "le", "matin", "consulte", "courriels", "la", "soirée"],
+      "explanation": "'Vérifier' = to check. 'Mes emails' = my emails. Modern vocabulary.",
+      "grammar_points": ["technology_vocabulary", "possessive_adjectives", "time_expressions"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_routine_014",
+      "english": "They exercise three times a week.",
+      "correctFrench": ["Ils", "font", "du", "sport", "trois", "fois", "par", "semaine"],
+      "wordOptions": ["Ils", "font", "du", "sport", "trois", "fois", "par", "semaine", "de", "la", "gymnastique", "jour"],
+      "explanation": "'Faire du sport' = to exercise. 'Trois fois par semaine' = three times a week.",
+      "grammar_points": ["sports_vocabulary", "frequency_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_routine_015",
+      "english": "I clean my room on Saturdays.",
+      "correctFrench": ["Je", "nettoie", "ma", "chambre", "le", "samedi"],
+      "wordOptions": ["Je", "nettoie", "ma", "chambre", "le", "samedi", "range", "dimanche", "les", "samedis"],
+      "explanation": "'Nettoyer' = to clean. 'Le samedi' = on Saturdays (general habit).",
+      "grammar_points": ["household_activities", "days_of_week"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_routine_016",
+      "english": "She prepares coffee in the morning.",
+      "correctFrench": ["Elle", "prépare", "du", "café", "le", "matin"],
+      "wordOptions": ["Elle", "prépare", "du", "café", "le", "matin", "fait", "de", "la", "thé", "soir"],
+      "explanation": "'Préparer' = to prepare. 'Du café' = some coffee (partitive article).",
+      "grammar_points": ["food_preparation", "partitive_articles", "time_expressions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_routine_017",
+      "english": "We listen to music while cooking.",
+      "correctFrench": ["Nous", "écoutons", "de", "la", "musique", "en", "cuisinant"],
+      "wordOptions": ["Nous", "écoutons", "de", "la", "musique", "en", "cuisinant", "du", "pendant", "que", "cuisons"],
+      "explanation": "'Écouter' = to listen to. 'En + present participle' = while doing.",
+      "grammar_points": ["leisure_activities", "present_participle"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_routine_018",
+      "english": "He walks his dog twice a day.",
+      "correctFrench": ["Il", "promène", "son", "chien", "deux", "fois", "par", "jour"],
+      "wordOptions": ["Il", "promène", "son", "chien", "deux", "fois", "par", "jour", "sort", "sa", "une", "semaine"],
+      "explanation": "'Promener' = to walk (a pet). 'Deux fois par jour' = twice a day.",
+      "grammar_points": ["pet_vocabulary", "frequency_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_routine_019",
+      "english": "I call my parents every Sunday.",
+      "correctFrench": ["J'appelle", "mes", "parents", "tous", "les", "dimanches"],
+      "wordOptions": ["J'appelle", "mes", "parents", "tous", "les", "dimanches", "téléphone", "chaque", "dimanche"],
+      "explanation": "'Appeler' = to call. 'Tous les dimanches' = every Sunday.",
+      "grammar_points": ["family_vocabulary", "frequency_expressions", "communication_verbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_routine_020",
+      "english": "She studies French for two hours.",
+      "correctFrench": ["Elle", "étudie", "le", "français", "pendant", "deux", "heures"],
+      "wordOptions": ["Elle", "étudie", "le", "français", "pendant", "deux", "heures", "apprend", "pour", "depuis"],
+      "explanation": "'Étudier' = to study. 'Pendant deux heures' = for two hours (duration).",
+      "grammar_points": ["study_vocabulary", "duration_expressions"],
+      "difficulty": 2.3
+    }
+  ]
+}

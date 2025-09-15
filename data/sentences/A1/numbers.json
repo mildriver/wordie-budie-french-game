@@ -1,0 +1,323 @@
+{
+  "level": "A1",
+  "topic": "numbers",
+  "description": "Numbers, counting, quantities, and time expressions",
+  "total_sentences": 35,
+  "sentences": [
+    {
+      "id": "a1_numbers_001",
+      "english": "I have one book.",
+      "correctFrench": ["J'ai", "un", "livre"],
+      "wordOptions": ["J'ai", "un", "livre", "Tu", "as", "une", "deux", "livres", "cahier"],
+      "explanation": "Number one: 'un' (masculine) / 'une' (feminine). 'Un livre' (one book).",
+      "grammar_points": ["numbers", "indefinite_articles", "avoir_conjugation"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_numbers_002",
+      "english": "She has two cats.",
+      "correctFrench": ["Elle", "a", "deux", "chats"],
+      "wordOptions": ["Elle", "a", "deux", "chats", "Il", "ai", "trois", "chat", "chiens"],
+      "explanation": "Number two: 'deux'. No article with numbers. Plural noun 'chats'.",
+      "grammar_points": ["numbers", "avoir_conjugation", "plural_nouns"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_numbers_003",
+      "english": "We have three children.",
+      "correctFrench": ["Nous", "avons", "trois", "enfants"],
+      "wordOptions": ["Nous", "avons", "trois", "enfants", "Vous", "avez", "quatre", "enfant", "fils"],
+      "explanation": "Number three: 'trois'. Plural noun 'enfants' (children).",
+      "grammar_points": ["numbers", "avoir_conjugation", "family_members"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_numbers_004",
+      "english": "There are four chairs.",
+      "correctFrench": ["Il", "y", "a", "quatre", "chaises"],
+      "wordOptions": ["Il", "y", "a", "quatre", "chaises", "Elle", "cinq", "chaise", "tables", "fauteuils"],
+      "explanation": "Expression 'il y a' (there is/are). Number four: 'quatre'.",
+      "grammar_points": ["existential_expressions", "numbers", "furniture"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_005",
+      "english": "I buy five apples.",
+      "correctFrench": ["J'achète", "cinq", "pommes"],
+      "wordOptions": ["J'achète", "cinq", "pommes", "Tu", "achètes", "six", "pomme", "oranges", "bananes"],
+      "explanation": "Number five: 'cinq'. Present tense: 'j'achète' (I buy).",
+      "grammar_points": ["numbers", "present_tense", "food"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_006",
+      "english": "You have six pencils.",
+      "correctFrench": ["Tu", "as", "six", "crayons"],
+      "wordOptions": ["Tu", "as", "six", "crayons", "Vous", "avez", "sept", "crayon", "stylos", "gommes"],
+      "explanation": "Number six: 'six'. Plural noun 'crayons' (pencils).",
+      "grammar_points": ["numbers", "avoir_conjugation", "school_supplies"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_numbers_007",
+      "english": "There are seven days.",
+      "correctFrench": ["Il", "y", "a", "sept", "jours"],
+      "wordOptions": ["Il", "y", "a", "sept", "jours", "Elle", "huit", "jour", "semaines", "mois"],
+      "explanation": "Number seven: 'sept'. Time expression 'jours' (days).",
+      "grammar_points": ["existential_expressions", "numbers", "time"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_008",
+      "english": "I see eight birds.",
+      "correctFrench": ["Je", "vois", "huit", "oiseaux"],
+      "wordOptions": ["Je", "vois", "huit", "oiseaux", "Tu", "voit", "neuf", "oiseau", "chats", "chiens"],
+      "explanation": "Number eight: 'huit'. Present tense: 'je vois' (I see).",
+      "grammar_points": ["numbers", "present_tense", "animals"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_009",
+      "english": "She has nine flowers.",
+      "correctFrench": ["Elle", "a", "neuf", "fleurs"],
+      "wordOptions": ["Elle", "a", "neuf", "fleurs", "Il", "ai", "dix", "fleur", "roses", "tulipes"],
+      "explanation": "Number nine: 'neuf'. Plural noun 'fleurs' (flowers).",
+      "grammar_points": ["numbers", "avoir_conjugation", "nature"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_numbers_010",
+      "english": "We count to ten.",
+      "correctFrench": ["Nous", "comptons", "jusqu'à", "dix"],
+      "wordOptions": ["Nous", "comptons", "jusqu'à", "dix", "Vous", "comptez", "de", "onze", "vingt", "cent"],
+      "explanation": "Number ten: 'dix'. Expression 'compter jusqu'à' (count to).",
+      "grammar_points": ["numbers", "present_tense", "counting"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_numbers_011",
+      "english": "I am twenty years old.",
+      "correctFrench": ["J'ai", "vingt", "ans"],
+      "wordOptions": ["J'ai", "vingt", "ans", "Je", "suis", "trente", "années", "âgé", "vieux"],
+      "explanation": "Number twenty: 'vingt'. Age expression with 'avoir': 'j'ai 20 ans'.",
+      "grammar_points": ["numbers", "age_expressions", "avoir_conjugation"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_numbers_012",
+      "english": "The book costs fifteen euros.",
+      "correctFrench": ["Le", "livre", "coûte", "quinze", "euros"],
+      "wordOptions": ["Le", "livre", "coûte", "quinze", "euros", "La", "magazine", "seize", "euro", "dollars"],
+      "explanation": "Number fifteen: 'quinze'. Present tense: 'coûte' (costs). Currency 'euros'.",
+      "grammar_points": ["numbers", "present_tense", "money"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_numbers_013",
+      "english": "It is twelve o'clock.",
+      "correctFrench": ["Il", "est", "douze", "heures"],
+      "wordOptions": ["Il", "est", "douze", "heures", "Elle", "treize", "heure", "midi", "minuit"],
+      "explanation": "Number twelve: 'douze'. Time expression: 'il est 12 heures' (it's 12 o'clock).",
+      "grammar_points": ["numbers", "time_expressions", "être_conjugation"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_014",
+      "english": "I have eleven friends.",
+      "correctFrench": ["J'ai", "onze", "amis"],
+      "wordOptions": ["J'ai", "onze", "amis", "Tu", "as", "douze", "ami", "copains", "amies"],
+      "explanation": "Number eleven: 'onze'. Plural noun 'amis' (friends - masculine).",
+      "grammar_points": ["numbers", "avoir_conjugation", "friendship"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_numbers_015",
+      "english": "She buys thirteen oranges.",
+      "correctFrench": ["Elle", "achète", "treize", "oranges"],
+      "wordOptions": ["Elle", "achète", "treize", "oranges", "Il", "quatorze", "orange", "pommes", "bananes"],
+      "explanation": "Number thirteen: 'treize'. Present tense: 'elle achète' (she buys).",
+      "grammar_points": ["numbers", "present_tense", "food"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_016",
+      "english": "There are fourteen students.",
+      "correctFrench": ["Il", "y", "a", "quatorze", "étudiants"],
+      "wordOptions": ["Il", "y", "a", "quatorze", "étudiants", "Elle", "quinze", "étudiant", "élèves", "professeurs"],
+      "explanation": "Number fourteen: 'quatorze'. Plural noun 'étudiants' (students).",
+      "grammar_points": ["existential_expressions", "numbers", "education"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_017",
+      "english": "I read sixteen pages.",
+      "correctFrench": ["Je", "lis", "seize", "pages"],
+      "wordOptions": ["Je", "lis", "seize", "pages", "Tu", "lit", "dix-sept", "page", "livres", "chapitres"],
+      "explanation": "Number sixteen: 'seize'. Present tense: 'je lis' (I read).",
+      "grammar_points": ["numbers", "present_tense", "reading"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_numbers_018",
+      "english": "You have seventeen books.",
+      "correctFrench": ["Tu", "as", "dix-sept", "livres"],
+      "wordOptions": ["Tu", "as", "dix-sept", "livres", "Vous", "avez", "dix-huit", "livre", "cahiers", "magazines"],
+      "explanation": "Number seventeen: 'dix-sept' (compound number). Plural noun 'livres'.",
+      "grammar_points": ["numbers", "avoir_conjugation", "compound_numbers"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_019",
+      "english": "She is eighteen years old.",
+      "correctFrench": ["Elle", "a", "dix-huit", "ans"],
+      "wordOptions": ["Elle", "a", "dix-huit", "ans", "Il", "ai", "dix-neuf", "années", "âgée", "jeune"],
+      "explanation": "Number eighteen: 'dix-huit'. Age expression with 'avoir'.",
+      "grammar_points": ["numbers", "age_expressions", "avoir_conjugation"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_020",
+      "english": "We wait nineteen minutes.",
+      "correctFrench": ["Nous", "attendons", "dix-neuf", "minutes"],
+      "wordOptions": ["Nous", "attendons", "dix-neuf", "minutes", "Vous", "attendez", "vingt", "minute", "heures", "secondes"],
+      "explanation": "Number nineteen: 'dix-neuf'. Present tense: 'nous attendons' (we wait).",
+      "grammar_points": ["numbers", "present_tense", "time"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_numbers_021",
+      "english": "The class has thirty students.",
+      "correctFrench": ["La", "classe", "a", "trente", "étudiants"],
+      "wordOptions": ["La", "classe", "a", "trente", "étudiants", "Le", "cours", "quarante", "étudiant", "élèves"],
+      "explanation": "Number thirty: 'trente'. 'La classe a' (the class has).",
+      "grammar_points": ["numbers", "avoir_conjugation", "education"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_022",
+      "english": "I work forty hours.",
+      "correctFrench": ["Je", "travaille", "quarante", "heures"],
+      "wordOptions": ["Je", "travaille", "quarante", "heures", "Tu", "travailles", "cinquante", "heure", "minutes", "jours"],
+      "explanation": "Number forty: 'quarante'. Present tense: 'je travaille' (I work).",
+      "grammar_points": ["numbers", "present_tense", "work"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_023",
+      "english": "She has fifty euros.",
+      "correctFrench": ["Elle", "a", "cinquante", "euros"],
+      "wordOptions": ["Elle", "a", "cinquante", "euros", "Il", "ai", "soixante", "euro", "dollars", "francs"],
+      "explanation": "Number fifty: 'cinquante'. Currency 'euros' (plural).",
+      "grammar_points": ["numbers", "avoir_conjugation", "money"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_024",
+      "english": "There are sixty seconds.",
+      "correctFrench": ["Il", "y", "a", "soixante", "secondes"],
+      "wordOptions": ["Il", "y", "a", "soixante", "secondes", "Elle", "soixante-dix", "seconde", "minutes", "heures"],
+      "explanation": "Number sixty: 'soixante'. Time unit 'secondes' (seconds).",
+      "grammar_points": ["existential_expressions", "numbers", "time"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_numbers_025",
+      "english": "My grandfather is seventy.",
+      "correctFrench": ["Mon", "grand-père", "a", "soixante-dix", "ans"],
+      "wordOptions": ["Mon", "grand-père", "a", "soixante-dix", "ans", "Ma", "grand-mère", "quatre-vingts", "années", "âgé"],
+      "explanation": "Number seventy: 'soixante-dix' (60+10). Age expression.",
+      "grammar_points": ["numbers", "age_expressions", "family_members"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_numbers_026",
+      "english": "The building has eighty rooms.",
+      "correctFrench": ["Le", "bâtiment", "a", "quatre-vingts", "chambres"],
+      "wordOptions": ["Le", "bâtiment", "a", "quatre-vingts", "chambres", "La", "maison", "quatre-vingt", "chambre", "pièces"],
+      "explanation": "Number eighty: 'quatre-vingts' (4×20). Note the 's' in 'quatre-vingts'.",
+      "grammar_points": ["numbers", "avoir_conjugation", "buildings"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_numbers_027",
+      "english": "She is ninety years old.",
+      "correctFrench": ["Elle", "a", "quatre-vingt-dix", "ans"],
+      "wordOptions": ["Elle", "a", "quatre-vingt-dix", "ans", "Il", "ai", "cent", "années", "âgée", "vieille"],
+      "explanation": "Number ninety: 'quatre-vingt-dix' (4×20+10). Age expression.",
+      "grammar_points": ["numbers", "age_expressions", "avoir_conjugation"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_numbers_028",
+      "english": "I have one hundred books.",
+      "correctFrench": ["J'ai", "cent", "livres"],
+      "wordOptions": ["J'ai", "cent", "livres", "Tu", "as", "mille", "livre", "cahiers", "magazines"],
+      "explanation": "Number one hundred: 'cent' (no 'un' before 'cent'). Plural noun 'livres'.",
+      "grammar_points": ["numbers", "avoir_conjugation", "large_numbers"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_numbers_029",
+      "english": "The city has one thousand people.",
+      "correctFrench": ["La", "ville", "a", "mille", "habitants"],
+      "wordOptions": ["La", "ville", "a", "mille", "habitants", "Le", "village", "cent", "habitant", "personnes"],
+      "explanation": "Number one thousand: 'mille' (invariable). 'Habitants' (inhabitants).",
+      "grammar_points": ["numbers", "avoir_conjugation", "population"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_numbers_030",
+      "english": "It is half past three.",
+      "correctFrench": ["Il", "est", "trois", "heures", "et", "demie"],
+      "wordOptions": ["Il", "est", "trois", "heures", "et", "demie", "quatre", "demi", "quart", "moins"],
+      "explanation": "Time expression: 'trois heures et demie' (3:30). 'Demie' agrees with 'heures'.",
+      "grammar_points": ["time_expressions", "numbers", "être_conjugation"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_numbers_031",
+      "english": "It is quarter past four.",
+      "correctFrench": ["Il", "est", "quatre", "heures", "et", "quart"],
+      "wordOptions": ["Il", "est", "quatre", "heures", "et", "quart", "cinq", "demie", "demi", "moins"],
+      "explanation": "Time expression: 'quatre heures et quart' (4:15). 'Quart' (quarter).",
+      "grammar_points": ["time_expressions", "numbers", "être_conjugation"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_numbers_032",
+      "english": "It is quarter to five.",
+      "correctFrench": ["Il", "est", "cinq", "heures", "moins", "le", "quart"],
+      "wordOptions": ["Il", "est", "cinq", "heures", "moins", "le", "quart", "six", "et", "demie", "dix"],
+      "explanation": "Time expression: 'cinq heures moins le quart' (4:45). 'Moins le quart'.",
+      "grammar_points": ["time_expressions", "numbers", "être_conjugation"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_numbers_033",
+      "english": "I was born in 1990.",
+      "correctFrench": ["Je", "suis", "né", "en", "mille", "neuf", "cent", "quatre-vingt-dix"],
+      "wordOptions": ["Je", "suis", "né", "en", "mille", "neuf", "cent", "quatre-vingt-dix", "née", "deux", "mille"],
+      "explanation": "Year: 'mille neuf cent quatre-vingt-dix' (1990). Past participle 'né/née'.",
+      "grammar_points": ["years", "numbers", "past_participle"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_numbers_034",
+      "english": "The first student arrives.",
+      "correctFrench": ["Le", "premier", "étudiant", "arrive"],
+      "wordOptions": ["Le", "premier", "étudiant", "arrive", "La", "première", "étudiante", "deuxième", "troisième", "dernier"],
+      "explanation": "Ordinal number: 'premier' (first - masculine). 'Première' (feminine).",
+      "grammar_points": ["ordinal_numbers", "present_tense", "education"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_numbers_035",
+      "english": "She lives on the second floor.",
+      "correctFrench": ["Elle", "habite", "au", "deuxième", "étage"],
+      "wordOptions": ["Elle", "habite", "au", "deuxième", "étage", "Il", "premier", "troisième", "rez-de-chaussée", "dernier"],
+      "explanation": "Ordinal number: 'deuxième' (second). 'Au deuxième étage' (on the second floor).",
+      "grammar_points": ["ordinal_numbers", "present_tense", "buildings"],
+      "difficulty": 1.5
+    }
+  ]
+}

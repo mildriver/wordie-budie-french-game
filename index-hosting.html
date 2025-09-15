@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wordie Budie - French Learning Game</title>
+
+    <!-- Optimized for external hosting -->
+    <link rel="stylesheet" href="styles.css" id="main-css">
+    <link rel="manifest" href="manifest.json">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Interactive French language learning game with pronunciation, progress tracking, and multiple difficulty levels. Learn French sentence construction with Wordie Budie!">
+    <meta name="keywords" content="French learning, French game, language learning, sentence construction, French grammar, learn French online">
+    <meta name="author" content="Wordie Budie">
+
+    <!-- Open Graph Meta Tags for Social Sharing -->
+    <meta property="og:title" content="Wordie Budie - Interactive French Learning Game">
+    <meta property="og:description" content="Master French sentence construction with our interactive game featuring timer settings, pronunciation, and progress tracking.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://wordie-budie.netlify.app">
+    <meta property="og:image" content="https://wordie-budie.netlify.app/og-image.png">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Wordie Budie - French Learning Game">
+    <meta name="twitter:description" content="Interactive French learning with timer, TTS, and beautiful doodle design!">
+    <meta name="twitter:image" content="https://wordie-budie.netlify.app/twitter-image.png">
+
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Wordie Budie">
+
+    <!-- Performance and Caching -->
+    <meta name="version" content="2.0.0-hosting">
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate, post-check=0, pre-check=0">
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="pragma" content="no-cache">
+
+    <!-- Google Fonts for Hosting -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Caveat:wght@400;500;600;700&family=Amatic+SC:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Dynamic Cache-Busting Script -->
+    <script>
+    (function() {
+        // Force fresh CSS loading with dynamic timestamp
+        const cssLink = document.getElementById('main-css');
+        const timestamp = Date.now() + Math.random();
+        cssLink.href = `styles.css?v=${timestamp}&fresh=true`;
+
+        // Add cache-busting to script tag when DOM loads
+        document.addEventListener('DOMContentLoaded', function() {
+            const scripts = document.querySelectorAll('script[src]');
+            scripts.forEach(script => {
+                if (script.src.includes('script.js')) {
+                    const newSrc = `script.js?v=${Date.now()}&cache=false`;
+                    script.src = newSrc;
+                }
+            });
+        });
+
+        console.log('🎯 Wordie Budie v2.0.0 - Hosting version loaded with API integration!');
+    })();
+    </script>
+</head>
+<body>
+    <!-- Main Application Container -->
+    <div class="container">
+        <header role="banner">
+            <h1>🎯 Wordie Budie</h1>
+            <p style="margin: 5px 0; color: #666; font-size: 14px;">Interactive French Learning Game</p>
+
+            <!-- Level Selection -->
+            <div class="level-selector">
+                <label for="level">Choose Level:</label>
+                <select id="level" aria-label="Select French proficiency level">
+                    <option value="A1">A1 - Beginner</option>
+                    <option value="A2">A2 - Elementary</option>
+                    <option value="A1,A2">A1+A2 - Mixed Beginner</option>
+                    <option value="RANDOM_A1">🎲 Random A1</option>
+                    <option value="RANDOM_A2">🎲 Random A2</option>
+                    <option value="RANDOM_A1_A2">🎲 Random A1+A2</option>
+                </select>
+            </div>
+
+            <!-- Topic Selection -->
+            <div class="topic-selector">
+                <label for="topic">Choose Topic:</label>
+                <select id="topic" aria-label="Select learning topic">
+                    <option value="">Loading topics...</option>
+                </select>
+            </div>
+
+            <!-- Timer Settings -->
+            <div class="timer-settings">
+                <label for="timer-duration">Timer:</label>
+                <select id="timer-duration" aria-label="Select timer duration">
+                    <option value="0">Off</option>
+                    <option value="10">10 seconds</option>
+                    <option value="20">20 seconds</option>
+                    <option value="30">30 seconds</option>
+                    <option value="60">1 minute</option>
+                </select>
+            </div>
+        </header>
+
+        <main role="main">
+            <!-- Game Area -->
+            <div class="game-area" role="application" aria-label="French learning game">
+                <!-- Score Board -->
+                <div class="score-board" role="status" aria-live="polite" aria-label="Game statistics">
+                    <div class="score">Score: <span id="score">0</span></div>
+                    <div class="streak">Streak: <span id="streak">0</span></div>
+                    <div class="progress">Progress: <span id="progress">0/0</span></div>
+                </div>
+
+                <!-- Question Section -->
+                <div class="question-section">
+                    <div class="english-sentence">
+                        <h2 id="english-text" aria-live="polite" role="status">Select a level and topic to start!</h2>
+                    </div>
+
+                    <!-- French Construction Area -->
+                    <div class="french-construction">
+                        <div id="answer-area" class="answer-area" role="region" aria-label="Selected French words" aria-live="polite">
+                            <!-- Selected words will appear here -->
+                        </div>
+                    </div>
+
+                    <!-- Word Options -->
+                    <div class="word-options">
+                        <div id="word-bank" class="word-bank" role="group" aria-label="Available French words">
+                            <!-- Word options will appear here -->
+                        </div>
+                    </div>
+
+                    <!-- Game Controls -->
+                    <div class="game-controls" role="toolbar" aria-label="Game controls">
+                        <button id="clear-btn" class="btn btn-secondary" aria-label="Clear selected words">Clear</button>
+                        <button id="check-btn" class="btn btn-primary" aria-label="Check your French sentence">Check Answer</button>
+                        <button id="hint-btn" class="btn btn-hint" aria-label="Get a hint for the current question">Hint</button>
+                        <button id="replay-btn" class="btn btn-audio" aria-label="Replay French pronunciation">🔊 Replay</button>
+                        <button id="next-btn" class="btn btn-success" style="display: none;" aria-label="Go to next question">Next Question</button>
+                    </div>
+
+                    <!-- Feedback and Explanation -->
+                    <div id="feedback" class="feedback" role="status" aria-live="assertive" aria-label="Answer feedback"></div>
+                    <div id="explanation" class="explanation" role="region" aria-label="Grammar explanation" aria-live="polite"></div>
+                </div>
+            </div>
+
+            <!-- Statistics Panel -->
+            <div class="stats-panel" role="complementary" aria-label="Session statistics">
+                <h3>Session Stats</h3>
+                <div class="stat-item">
+                    <span>Correct Answers:</span>
+                    <span id="correct-count">0</span>
+                </div>
+                <div class="stat-item">
+                    <span>Total Questions:</span>
+                    <span id="total-count">0</span>
+                </div>
+                <div class="stat-item">
+                    <span>Accuracy:</span>
+                    <span id="accuracy">0%</span>
+                </div>
+                <div class="stat-item">
+                    <span>Best Streak:</span>
+                    <span id="best-streak">0</span>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Load Main Game Script -->
+    <script src="script.js"></script>
+
+    <!-- Google Analytics (Replace with your tracking ID) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+</body>
+</html>
