@@ -300,11 +300,13 @@
                 }
 
                 if (foundSentences && foundSentences.length > 0) {
-                    this.currentSentences = foundSentences;
+                    // Always shuffle questions for random order
+                    this.currentSentences = [...foundSentences]; // Create a copy
+                    this.shuffleArray(this.currentSentences); // Shuffle the questions
                     this.currentIndex = 0;
                     this.showQuestion();
 
-                    console.log(`✅ Loaded ${this.currentSentences.length} sentences for ${foundLevel} - ${topic}`);
+                    console.log(`✅ Loaded ${this.currentSentences.length} sentences for ${foundLevel} - ${topic} (shuffled)`);
                 } else {
                     console.log(`❌ No data found for topic: ${topic}`);
                     document.getElementById('english-text').textContent = 'Topic not found. Please select a different topic!';
@@ -371,11 +373,13 @@
                     return;
                 }
 
-                // Shuffle the sentences
+                // Shuffle the sentences multiple times for maximum randomness
                 this.shuffleArray(allSentences);
+                this.shuffleArray(allSentences); // Double shuffle for extra randomness
 
-                // Take first 20 sentences for random mode
+                // Take random selection for random mode
                 this.currentSentences = allSentences.slice(0, Math.min(20, allSentences.length));
+                this.shuffleArray(this.currentSentences); // Shuffle the selected ones again
                 this.currentIndex = 0;
 
                 console.log(`✅ Loaded ${this.currentSentences.length} random sentences for ${randomType}`);
@@ -388,9 +392,17 @@
             }
 
             shuffleArray(array) {
+                // Fisher-Yates shuffle with extra randomness
                 for (let i = array.length - 1; i > 0; i--) {
                     const j = Math.floor(Math.random() * (i + 1));
                     [array[i], array[j]] = [array[j], array[i]];
+                }
+
+                // Additional random swaps for extra shuffling
+                for (let i = 0; i < array.length / 2; i++) {
+                    const randomIndex1 = Math.floor(Math.random() * array.length);
+                    const randomIndex2 = Math.floor(Math.random() * array.length);
+                    [array[randomIndex1], array[randomIndex2]] = [array[randomIndex2], array[randomIndex1]];
                 }
             }
 
@@ -404,7 +416,7 @@
                 const sentence = this.currentSentences[this.currentIndex];
                 document.getElementById('english-text').textContent = sentence.english;
 
-                // Show shuffled word options
+                // Show shuffled word options (shuffle every time)
                 const shuffledWords = [...sentence.wordOptions];
                 this.shuffleArray(shuffledWords);
                 this.showWordOptions(shuffledWords);
