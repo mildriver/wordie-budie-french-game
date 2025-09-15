@@ -152,6 +152,14 @@
             console.log('🔄 Loading all French topics...');
             document.getElementById('english-text').textContent = 'Loading French topics... Please wait!';
 
+            let loadedCount = 0;
+            let totalTopics = 0;
+
+            // Calculate total topics
+            for (const topics of Object.values(AVAILABLE_TOPICS)) {
+                totalTopics += topics.length;
+            }
+
             for (const [level, topics] of Object.entries(AVAILABLE_TOPICS)) {
                 GAME_DATA[level] = {};
 
@@ -159,9 +167,13 @@
                     try {
                         const response = await fetch(`data/sentences/${level}/${topic}.json`);
                         if (response.ok) {
-                            const data = await response.json();
-                            GAME_DATA[level][topic] = data;
-                            console.log(`✅ Loaded ${level}/${topic}: ${data.length} sentences`);
+                            const jsonData = await response.json();
+                            // Handle both formats: direct array or object with sentences property
+                            const sentences = Array.isArray(jsonData) ? jsonData : jsonData.sentences || [];
+                            GAME_DATA[level][topic] = sentences;
+                            loadedCount++;
+                            console.log(`✅ Loaded ${level}/${topic}: ${sentences.length} sentences`);
+                            document.getElementById('english-text').textContent = `Loading topics... ${loadedCount}/${totalTopics}`;
                         } else {
                             console.log(`⚠️ Topic ${level}/${topic} not found, skipping...`);
                         }
