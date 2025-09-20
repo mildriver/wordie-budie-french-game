@@ -34,7 +34,7 @@
     <div class="container">
         <header role="banner">
             <h1>🎯 Wordie Budie</h1>
-            <p style="margin: 5px 0; color: #666; font-size: 14px;">French Learning Game - All Topics A1-C1</p>
+            <p style="margin: 5px 0; color: #666; font-size: 14px;">French Learning Game - All Topics A1-B2</p>
             <div class="level-selector">
                 <label for="level">Choose Level:</label>
                 <select id="level" aria-label="Select French proficiency level">
@@ -42,14 +42,12 @@
                     <option value="A2">A2 - Elementary</option>
                     <option value="B1">B1 - Intermediate</option>
                     <option value="B2">B2 - Upper Intermediate</option>
-                    <option value="C1">C1 - Advanced</option>
                     <option value="A1,A2">A1+A2 - Mixed Beginner</option>
                     <option value="B1,B2">B1+B2 - Mixed Intermediate</option>
                     <option value="RANDOM_A1">🎲 Random A1</option>
                     <option value="RANDOM_A2">🎲 Random A2</option>
                     <option value="RANDOM_B1">🎲 Random B1</option>
                     <option value="RANDOM_B2">🎲 Random B2</option>
-                    <option value="RANDOM_C1">🎲 Random C1</option>
                     <option value="RANDOM_ALL">🎲 Random All Levels</option>
                 </select>
             </div>
@@ -141,8 +139,7 @@
             "A1": ["basic", "colors", "family", "greetings", "numbers"],
             "A2": ["food", "daily-routine", "hobbies", "transportation", "work"],
             "B1": ["conditionals", "future", "opinions", "past-tense", "travel"],
-            "B2": ["abstract", "business", "complex", "literature", "subjunctive"],
-            "C1": ["academic", "advanced", "formal", "philosophy"]
+            "B2": ["abstract", "business", "complex", "literature", "subjunctive"]
         };
 
         // Load all topic data dynamically
@@ -236,7 +233,7 @@
                         if (topicCounts[topic]) {
                             const option = document.createElement('option');
                             option.value = topic;
-                            option.textContent = `${topic} (${topicCounts[topic]} questions)`;
+                            option.textContent = topic;
                             optgroup.appendChild(option);
                         }
                     });
@@ -246,7 +243,7 @@
                     }
                 }
 
-                console.log('✅ Topics populated with counts');
+                console.log('✅ Topics populated');
             }
 
             bindEvents() {
@@ -344,14 +341,6 @@
                 } else if (randomType === 'RANDOM_B2') {
                     if (GAME_DATA.B2) {
                         for (const topic of Object.values(GAME_DATA.B2)) {
-                            if (topic && topic.length > 0) {
-                                allSentences = allSentences.concat(topic);
-                            }
-                        }
-                    }
-                } else if (randomType === 'RANDOM_C1') {
-                    if (GAME_DATA.C1) {
-                        for (const topic of Object.values(GAME_DATA.C1)) {
                             if (topic && topic.length > 0) {
                                 allSentences = allSentences.concat(topic);
                             }
