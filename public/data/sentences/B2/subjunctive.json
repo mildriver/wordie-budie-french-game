@@ -1,0 +1,53 @@
+{
+  "level": "B2",
+  "topic": "subjunctive",
+  "description": "Advanced subjunctive constructions, complex mood usage, and sophisticated expressions",
+  "total_sentences": 140,
+  "sentences": [
+    {
+      "id": "b2_subj_001",
+      "english": "It is crucial that the committee reach consensus before proceeding.",
+      "correctFrench": ["Il", "est", "crucial", "que", "le", "comité", "parvienne", "à", "un", "consensus", "avant", "de", "poursuivre"],
+      "wordOptions": ["Il", "est", "crucial", "que", "le", "comité", "parvienne", "à", "un", "consensus", "avant", "de", "poursuivre", "parvient"],
+      "explanation": "'Il est crucial que' + subjunctive. 'Parvenir à' = to reach/achieve.",
+      "grammar_points": ["subjunctive_necessity", "consensus_building", "procedural_language"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_subj_002",
+      "english": "Whatever decision he makes, we will support him.",
+      "correctFrench": ["Quelle", "que", "soit", "la", "décision", "qu'il", "prenne", "nous", "le", "soutiendrons"],
+      "wordOptions": ["Quelle", "que", "soit", "la", "décision", "qu'il", "prenne", "nous", "le", "soutiendrons", "prend"],
+      "explanation": "'Quelle que soit' + subjunctive = whatever. Concessive construction with support.",
+      "grammar_points": ["concessive_subjunctive", "unconditional_support", "complex_relatives"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_subj_003",
+      "english": "I insist that all participants be treated equally.",
+      "correctFrench": ["J'insiste", "pour", "que", "tous", "les", "participants", "soient", "traités", "équitablement"],
+      "wordOptions": ["J'insiste", "pour", "que", "tous", "les", "participants", "soient", "traités", "équitablement", "sont"],
+      "explanation": "'Insister pour que' + subjunctive. Passive subjunctive construction.",
+      "grammar_points": ["insistence_expressions", "passive_subjunctive", "equality_principles"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_subj_004",
+      "english": "The mere fact that he hesitated suggests doubt.",
+      "correctFrench": ["Le", "seul", "fait", "qu'il", "ait", "hésité", "suggère", "un", "doute"],
+      "wordOptions": ["Le", "seul", "fait", "qu'il", "ait", "hésité", "suggère", "un", "doute", "a", "hésitait"],
+      "explanation": "'Le fait que' + subjunctive passé. Past subjunctive for completed action.",
+      "grammar_points": ["subjunctive_passe", "doubt_indicators", "behavioral_analysis"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_subj_005",
+      "english": "Not that I disapprove, but I would have done things differently.",
+      "correctFrench": ["Non", "pas", "que", "je", "désapprouve", "mais", "j'aurais", "fait", "les", "choses", "différemment"],
+      "wordOptions": ["Non", "pas", "que", "je", "désapprouve", "mais", "j'aurais", "fait", "les", "choses", "différemment", "désapprouv"],
+      "explanation": "'Non pas que' + subjunctive = not that. Diplomatic disagreement.",
+      "grammar_points": ["diplomatic_language", "subjunctive_disclaimer", "alternative_approaches"],
+      "difficulty": 4.8
+    }
+  ]
+}

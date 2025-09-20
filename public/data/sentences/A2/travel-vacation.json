@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "topic": "travel-vacation",
+  "description": "Travel, vacations, hotels, tourism, and holiday activities",
+  "total_sentences": 120,
+  "sentences": [
+    {
+      "id": "a2_travel_001",
+      "english": "We are planning a trip to Italy.",
+      "correctFrench": ["Nous", "planifions", "un", "voyage", "en", "Italie"],
+      "wordOptions": ["Nous", "planifions", "un", "voyage", "en", "Italie", "préparons", "organisons", "France", "Espagne"],
+      "explanation": "'Planifier un voyage' = to plan a trip. 'En Italie' = to Italy (country).",
+      "grammar_points": ["travel_planning", "country_prepositions", "trip_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_travel_002",
+      "english": "I booked a hotel room online.",
+      "correctFrench": ["J'ai", "réservé", "une", "chambre", "d'hôtel", "en", "ligne"],
+      "wordOptions": ["J'ai", "réservé", "une", "chambre", "d'hôtel", "en", "ligne", "sur", "internet", "web"],
+      "explanation": "Passé composé: j'ai réservé. 'En ligne' = online. Hotel bookings.",
+      "grammar_points": ["passe_compose", "hotel_vocabulary", "online_booking"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_003",
+      "english": "The flight arrives at 3:30 PM.",
+      "correctFrench": ["Le", "vol", "arrive", "à", "15h30"],
+      "wordOptions": ["Le", "vol", "arrive", "à", "15h30", "avion", "trois", "heures", "trente", "part"],
+      "explanation": "'Le vol arrive à' = flight arrives at. 24-hour time format.",
+      "grammar_points": ["flight_vocabulary", "time_expressions", "arrival_times"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_travel_004",
+      "english": "She packs her suitcase the night before.",
+      "correctFrench": ["Elle", "fait", "sa", "valise", "la", "veille", "au", "soir"],
+      "wordOptions": ["Elle", "fait", "sa", "valise", "la", "veille", "au", "soir", "prépare", "bagages", "avant"],
+      "explanation": "'Faire sa valise' = to pack suitcase. 'La veille au soir' = the night before.",
+      "grammar_points": ["packing_vocabulary", "time_expressions", "travel_preparation"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_005",
+      "english": "We stay at a beach resort.",
+      "correctFrench": ["Nous", "séjournons", "dans", "un", "complexe", "balnéaire"],
+      "wordOptions": ["Nous", "séjournons", "dans", "un", "complexe", "balnéaire", "restons", "hôtel", "station", "mer"],
+      "explanation": "'Séjourner dans' = to stay at. 'Un complexe balnéaire' = beach resort.",
+      "grammar_points": ["accommodation_vocabulary", "resort_types", "location_prepositions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_006",
+      "english": "I need to exchange money at the bank.",
+      "correctFrench": ["Je", "dois", "changer", "de", "l'argent", "à", "la", "banque"],
+      "wordOptions": ["Je", "dois", "changer", "de", "l'argent", "à", "la", "banque", "échanger", "monnaie", "bureau"],
+      "explanation": "'Changer de l'argent' = to exchange money. Currency exchange vocabulary.",
+      "grammar_points": ["currency_exchange", "banking_vocabulary", "travel_preparation"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_007",
+      "english": "The tourist guide speaks three languages.",
+      "correctFrench": ["Le", "guide", "touristique", "parle", "trois", "langues"],
+      "wordOptions": ["Le", "guide", "touristique", "parle", "trois", "langues", "La", "quatre", "deux", "idiomes"],
+      "explanation": "'Le guide touristique' = tourist guide. Language abilities.",
+      "grammar_points": ["tourism_vocabulary", "language_skills", "numbers"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_travel_008",
+      "english": "We visited many museums during our stay.",
+      "correctFrench": ["Nous", "avons", "visité", "beaucoup", "de", "musées", "pendant", "notre", "séjour"],
+      "wordOptions": ["Nous", "avons", "visité", "beaucoup", "de", "musées", "pendant", "notre", "séjour", "durant", "voyage"],
+      "explanation": "Passé composé: avons visité. 'Pendant notre séjour' = during our stay.",
+      "grammar_points": ["passe_compose", "tourism_activities", "duration_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_009",
+      "english": "I forgot my passport at home.",
+      "correctFrench": ["J'ai", "oublié", "mon", "passeport", "à", "la", "maison"],
+      "wordOptions": ["J'ai", "oublié", "mon", "passeport", "à", "la", "maison", "laissé", "chez", "moi", "carte"],
+      "explanation": "Passé composé: j'ai oublié. 'À la maison' = at home. Travel documents.",
+      "grammar_points": ["passe_compose", "travel_documents", "location_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_travel_010",
+      "english": "The beach is crowded in summer.",
+      "correctFrench": ["La", "plage", "est", "bondée", "en", "été"],
+      "wordOptions": ["La", "plage", "est", "bondée", "en", "été", "pleine", "monde", "automne", "hiver"],
+      "explanation": "'Bondée' = crowded (feminine). 'En été' = in summer. Seasonal tourism.",
+      "grammar_points": ["beach_vocabulary", "crowd_adjectives", "seasonal_expressions"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_travel_011",
+      "english": "She takes photos of famous landmarks.",
+      "correctFrench": ["Elle", "prend", "des", "photos", "de", "monuments", "célèbres"],
+      "wordOptions": ["Elle", "prend", "des", "photos", "de", "monuments", "célèbres", "fait", "sites", "touristiques", "connus"],
+      "explanation": "'Prendre des photos de' = to take photos of. Tourism photography.",
+      "grammar_points": ["photography_vocabulary", "landmarks_vocabulary", "adjective_placement"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_012",
+      "english": "We rent a car to explore the region.",
+      "correctFrench": ["Nous", "louons", "une", "voiture", "pour", "explorer", "la", "région"],
+      "wordOptions": ["Nous", "louons", "une", "voiture", "pour", "explorer", "la", "région", "découvrir", "visiter", "zone"],
+      "explanation": "'Louer une voiture pour' = to rent a car to. Transportation for tourism.",
+      "grammar_points": ["car_rental", "purpose_expressions", "regional_exploration"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_013",
+      "english": "The hotel includes breakfast in the price.",
+      "correctFrench": ["L'hôtel", "inclut", "le", "petit-déjeuner", "dans", "le", "prix"],
+      "wordOptions": ["L'hôtel", "inclut", "le", "petit-déjeuner", "dans", "le", "prix", "comprend", "tarif", "coût"],
+      "explanation": "'Inclure dans le prix' = to include in the price. Hotel services.",
+      "grammar_points": ["hotel_services", "price_inclusions", "accommodation_features"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_014",
+      "english": "I buy souvenirs for my friends.",
+      "correctFrench": ["J'achète", "des", "souvenirs", "pour", "mes", "amis"],
+      "wordOptions": ["J'achète", "des", "souvenirs", "pour", "mes", "amis", "cadeaux", "famille", "copains", "collègues"],
+      "explanation": "'Acheter des souvenirs pour' = to buy souvenirs for. Gift-giving while traveling.",
+      "grammar_points": ["souvenir_shopping", "gift_giving", "possessive_adjectives"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_travel_015",
+      "english": "The cruise ship sails around the Mediterranean.",
+      "correctFrench": ["Le", "bateau", "de", "croisière", "navigue", "autour", "de", "la", "Méditerranée"],
+      "wordOptions": ["Le", "bateau", "de", "croisière", "navigue", "autour", "de", "la", "Méditerranée", "dans", "Atlantique"],
+      "explanation": "'Le bateau de croisière' = cruise ship. 'Autour de' = around. Sea travel.",
+      "grammar_points": ["cruise_vocabulary", "geographical_expressions", "navigation_verbs"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_016",
+      "english": "We check out of the hotel at noon.",
+      "correctFrench": ["Nous", "libérons", "la", "chambre", "à", "midi"],
+      "wordOptions": ["Nous", "libérons", "la", "chambre", "à", "midi", "quittons", "l'hôtel", "partons", "de"],
+      "explanation": "'Libérer la chambre' = to check out. 'À midi' = at noon. Hotel procedures.",
+      "grammar_points": ["hotel_procedures", "checkout_vocabulary", "time_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_017",
+      "english": "She studies the map before going out.",
+      "correctFrench": ["Elle", "étudie", "la", "carte", "avant", "de", "sortir"],
+      "wordOptions": ["Elle", "étudie", "la", "carte", "avant", "de", "sortir", "plan", "regarde", "partir", "se"],
+      "explanation": "'Étudier la carte avant de' = to study map before. Navigation preparation.",
+      "grammar_points": ["navigation_vocabulary", "temporal_expressions", "infinitive_constructions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_018",
+      "english": "The travel agency offers package deals.",
+      "correctFrench": ["L'agence", "de", "voyage", "propose", "des", "forfaits"],
+      "wordOptions": ["L'agence", "de", "voyage", "propose", "des", "forfaits", "offre", "séjours", "circuits", "voyages"],
+      "explanation": "'L'agence de voyage' = travel agency. 'Des forfaits' = package deals.",
+      "grammar_points": ["travel_services", "package_vocabulary", "tourism_industry"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_019",
+      "english": "I prefer traveling in spring.",
+      "correctFrench": ["Je", "préfère", "voyager", "au", "printemps"],
+      "wordOptions": ["Je", "préfère", "voyager", "au", "printemps", "en", "été", "automne", "hiver", "partir"],
+      "explanation": "'Préférer voyager au printemps' = prefer traveling in spring. Seasonal preferences.",
+      "grammar_points": ["travel_preferences", "seasonal_expressions", "travel_timing"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_travel_020",
+      "english": "The customs officer checks our luggage.",
+      "correctFrench": ["Le", "douanier", "contrôle", "nos", "bagages"],
+      "wordOptions": ["Le", "douanier", "contrôle", "nos", "bagages", "La", "douanière", "vérifie", "valises", "affaires"],
+      "explanation": "'Le douanier contrôle' = customs officer checks. Airport procedures.",
+      "grammar_points": ["airport_vocabulary", "customs_procedures", "official_controls"],
+      "difficulty": 2.3
+    }
+  ]
+}

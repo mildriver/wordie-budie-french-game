@@ -1,0 +1,206 @@
+{
+  "level": "A2",
+  "topic": "daily-routine",
+  "description": "Daily activities, reflexive verbs, time expressions, and routine vocabulary",
+  "total_sentences": 1000,
+  "sentences": [
+    {
+      "id": "a2_daily-routine_001",
+      "english": "I wake up at 6:30 AM.",
+      "correctFrench": ["Je", "me", "réveille", "à", "six", "heures", "trente"],
+      "wordOptions": ["Je", "me", "réveille", "à", "six", "heures", "trente", "lève", "sept", "et", "demie"],
+      "explanation": "Reflexive verb: se réveiller. Time: 6h30 = six heures trente.",
+      "grammar_points": ["reflexive_verbs", "time_expressions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_002",
+      "english": "She takes a shower every morning.",
+      "correctFrench": ["Elle", "prend", "une", "douche", "chaque", "matin"],
+      "wordOptions": ["Elle", "prend", "une", "douche", "chaque", "matin", "se", "lave", "tous", "les", "matins"],
+      "explanation": "'Prendre une douche' = to take a shower. 'Chaque matin' = every morning.",
+      "grammar_points": ["daily_activities", "frequency_expressions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_003",
+      "english": "We brush our teeth after meals.",
+      "correctFrench": ["Nous", "nous", "brossons", "les", "dents", "après", "les", "repas"],
+      "wordOptions": ["Nous", "nous", "brossons", "les", "dents", "après", "les", "repas", "lavons", "repas", "dent"],
+      "explanation": "Reflexive: se brosser. 'Les dents' = teeth. 'Après les repas' = after meals.",
+      "grammar_points": ["reflexive_verbs", "body_parts", "time_expressions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_004",
+      "english": "He goes to work by bus.",
+      "correctFrench": ["Il", "va", "au", "travail", "en", "bus"],
+      "wordOptions": ["Il", "va", "au", "travail", "en", "bus", "aller", "le", "voiture", "métro", "pied"],
+      "explanation": "'Aller au travail' = to go to work. 'En bus' = by bus. Transportation means.",
+      "grammar_points": ["transportation", "prepositions", "work_vocabulary"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_005",
+      "english": "I have lunch at noon.",
+      "correctFrench": ["Je", "déjeune", "à", "midi"],
+      "wordOptions": ["Je", "déjeune", "à", "midi", "prends", "le", "déjeuner", "minuit", "une", "heure"],
+      "explanation": "'Déjeuner' = to have lunch (verb). 'À midi' = at noon.",
+      "grammar_points": ["meal_vocabulary", "time_expressions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_006",
+      "english": "They finish work at 5 PM.",
+      "correctFrench": ["Ils", "finissent", "le", "travail", "à", "dix-sept", "heures"],
+      "wordOptions": ["Ils", "finissent", "le", "travail", "à", "dix-sept", "heures", "terminent", "cinq", "18h"],
+      "explanation": "'Finir' = to finish. 24-hour time: 5 PM = dix-sept heures.",
+      "grammar_points": ["work_vocabulary", "24_hour_time"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_007",
+      "english": "She does her homework in the evening.",
+      "correctFrench": ["Elle", "fait", "ses", "devoirs", "le", "soir"],
+      "wordOptions": ["Elle", "fait", "ses", "devoirs", "le", "soir", "son", "devoir", "la", "soirée", "après-midi"],
+      "explanation": "'Faire ses devoirs' = to do homework. 'Le soir' = in the evening.",
+      "grammar_points": ["school_vocabulary", "time_expressions", "possessive_adjectives"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_008",
+      "english": "We watch TV before sleeping.",
+      "correctFrench": ["Nous", "regardons", "la", "télé", "avant", "de", "dormir"],
+      "wordOptions": ["Nous", "regardons", "la", "télé", "avant", "de", "dormir", "télévision", "se", "coucher", "après"],
+      "explanation": "'Regarder la télé' = to watch TV. 'Avant de + infinitive' = before doing.",
+      "grammar_points": ["leisure_activities", "prepositions_with_infinitive"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_009",
+      "english": "I get dressed quickly.",
+      "correctFrench": ["Je", "m'habille", "rapidement"],
+      "wordOptions": ["Je", "m'habille", "rapidement", "me", "habille", "vite", "lentement", "doucement"],
+      "explanation": "Reflexive verb: s'habiller = to get dressed. 'Rapidement' = quickly.",
+      "grammar_points": ["reflexive_verbs", "adverbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_010",
+      "english": "He reads the newspaper every day.",
+      "correctFrench": ["Il", "lit", "le", "journal", "tous", "les", "jours"],
+      "wordOptions": ["Il", "lit", "le", "journal", "tous", "les", "jours", "lis", "chaque", "jour", "quotidien"],
+      "explanation": "'Lire' = to read (irregular). 'Tous les jours' = every day.",
+      "grammar_points": ["irregular_verbs", "frequency_expressions", "media_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_025",
+      "english": "I'm going to wake up earlier tomorrow.",
+      "correctFrench": ["Je", "vais", "me", "réveiller", "plus", "tôt", "demain"],
+      "wordOptions": ["Je", "vais", "me", "réveiller", "plus", "tôt", "demain", "réveillerai", "plus", "tard", "hier"],
+      "explanation": "Near future: aller + infinitive. 'Plus tôt' = earlier. 'Demain' = tomorrow.",
+      "grammar_points": ["near_future", "reflexive_verbs", "comparative_adverbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_daily-routine_050",
+      "english": "She tries to maintain a healthy routine.",
+      "correctFrench": ["Elle", "essaie", "de", "maintenir", "une", "routine", "saine"],
+      "wordOptions": ["Elle", "essaie", "de", "maintenir", "une", "routine", "saine", "essaye", "garder", "bonne", "santé"],
+      "explanation": "'Essayer de' = to try to. 'Maintenir' = to maintain. 'Saine' = healthy.",
+      "grammar_points": ["attempt_expressions", "health_vocabulary", "adjective_agreement"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_daily-routine_100",
+      "english": "We establish consistent bedtime rituals.",
+      "correctFrench": ["Nous", "établissons", "des", "rituels", "du", "coucher", "cohérents"],
+      "wordOptions": ["Nous", "établissons", "des", "rituels", "du", "coucher", "cohérents", "mettons", "en", "place"],
+      "explanation": "'Établir' = to establish. 'Les rituels du coucher' = bedtime rituals.",
+      "grammar_points": ["habit_formation", "bedtime_vocabulary", "consistency_concepts"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "a2_daily-routine_200",
+      "english": "I used to sleep in on weekends when I was younger.",
+      "correctFrench": ["Je", "faisais", "la", "grasse", "matinée", "le", "week-end", "quand", "j'étais", "plus", "jeune"],
+      "wordOptions": ["Je", "faisais", "la", "grasse", "matinée", "le", "week-end", "quand", "j'étais", "plus", "jeune", "ai", "fait"],
+      "explanation": "Imperfect for past habits. 'Faire la grasse matinée' = to sleep in. Past context.",
+      "grammar_points": ["imperfect_tense", "past_habits", "age_expressions"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_daily-routine_300",
+      "english": "She will have finished her morning routine by 8 AM.",
+      "correctFrench": ["Elle", "aura", "fini", "sa", "routine", "matinale", "avant", "huit", "heures"],
+      "wordOptions": ["Elle", "aura", "fini", "sa", "routine", "matinale", "avant", "huit", "heures", "finira", "va", "finir"],
+      "explanation": "Future perfect concept simplified. 'Aura fini' = will have finished.",
+      "grammar_points": ["future_perfect", "morning_routine", "time_expressions"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_daily-routine_400",
+      "english": "If I could, I would sleep until 10 AM every day.",
+      "correctFrench": ["Si", "je", "pouvais", "je", "dormirais", "jusqu'à", "dix", "heures", "tous", "les", "jours"],
+      "wordOptions": ["Si", "je", "pouvais", "je", "dormirais", "jusqu'à", "dix", "heures", "tous", "les", "jours", "peux"],
+      "explanation": "Conditional: si + imperfect, conditional. 'Jusqu'à' = until. Hypothetical situation.",
+      "grammar_points": ["conditional_sentences", "hypothetical_situations", "sleep_preferences"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "a2_daily-routine_500",
+      "english": "Having established this routine, I feel more organized.",
+      "correctFrench": ["Ayant", "établi", "cette", "routine", "je", "me", "sens", "plus", "organisé"],
+      "wordOptions": ["Ayant", "établi", "cette", "routine", "je", "me", "sens", "plus", "organisé", "Après", "avoir"],
+      "explanation": "Past participle clause. 'Ayant établi' = having established. Feeling organized.",
+      "grammar_points": ["past_participle_clauses", "organization_vocabulary", "self_assessment"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "a2_daily-routine_600",
+      "english": "The more organized my routine is, the better I feel.",
+      "correctFrench": ["Plus", "ma", "routine", "est", "organisée", "mieux", "je", "me", "sens"],
+      "wordOptions": ["Plus", "ma", "routine", "est", "organisée", "mieux", "je", "me", "sens", "meilleur", "bien"],
+      "explanation": "Comparative structure: plus...mieux = the more...the better. Complex comparison.",
+      "grammar_points": ["comparative_correlations", "organization_vocabulary", "well_being"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "a2_daily-routine_700",
+      "english": "Despite being tired, she maintains her exercise routine.",
+      "correctFrench": ["Bien", "qu'elle", "soit", "fatiguée", "elle", "maintient", "sa", "routine", "d'exercice"],
+      "wordOptions": ["Bien", "qu'elle", "soit", "fatiguée", "elle", "maintient", "sa", "routine", "d'exercice", "que", "Malgré"],
+      "explanation": "Concession with subjunctive: 'bien que + subjunctive'. Maintaining despite difficulty.",
+      "grammar_points": ["concession_expressions", "subjunctive_mood", "exercise_vocabulary"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "a2_daily-routine_800",
+      "english": "It's important that everyone follows the household schedule.",
+      "correctFrench": ["Il", "est", "important", "que", "chacun", "suive", "l'horaire", "familial"],
+      "wordOptions": ["Il", "est", "important", "que", "chacun", "suive", "l'horaire", "familial", "suit", "tout", "le", "monde"],
+      "explanation": "Impersonal expression + subjunctive. 'Il est important que' + subjunctive mood.",
+      "grammar_points": ["impersonal_expressions", "subjunctive_mood", "family_organization"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "a2_daily-routine_900",
+      "english": "Whatever time I wake up, I always make my bed first.",
+      "correctFrench": ["Quelle", "que", "soit", "l'heure", "à", "laquelle", "je", "me", "réveille", "je", "fais", "toujours", "mon", "lit", "d'abord"],
+      "wordOptions": ["Quelle", "que", "soit", "l'heure", "à", "laquelle", "je", "me", "réveille", "je", "fais", "toujours", "mon", "lit", "d'abord", "peu", "importe"],
+      "explanation": "Complex concession: 'quelle que soit' = whatever. Subjunctive in concessive clause.",
+      "grammar_points": ["complex_concession", "subjunctive_mood", "priority_setting"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "a2_daily-routine_1000",
+      "english": "By optimizing my daily routine, I've managed to become more productive while maintaining work-life balance.",
+      "correctFrench": ["En", "optimisant", "ma", "routine", "quotidienne", "j'ai", "réussi", "à", "devenir", "plus", "productif", "tout", "en", "gardant", "l'équilibre", "vie", "professionnelle-vie", "privée"],
+      "wordOptions": ["En", "optimisant", "ma", "routine", "quotidienne", "j'ai", "réussi", "à", "devenir", "plus", "productif", "tout", "en", "gardant", "l'équilibre", "vie", "professionnelle-vie", "privée", "maintenant"],
+      "explanation": "Complex achievement expression. 'En + present participle', 'réussir à', 'tout en + present participle'.",
+      "grammar_points": ["complex_achievement", "present_participle", "work_life_balance"],
+      "difficulty": 2.9
+    }
+  ]
+}

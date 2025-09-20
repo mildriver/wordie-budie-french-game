@@ -1,0 +1,368 @@
+{
+  "level": "A1",
+  "topic": "family",
+  "description": "Family members and relationships vocabulary",
+  "total_sentences": 40,
+  "sentences": [
+    {
+      "id": "a1_family_001",
+      "english": "I have a sister.",
+      "correctFrench": ["J'ai", "une", "sœur"],
+      "wordOptions": ["J'ai", "une", "sœur", "Tu", "as", "un", "frère", "sœurs", "Je", "ai"],
+      "explanation": "J'ai = je + ai (contraction). 'Une sœur' (feminine family member).",
+      "grammar_points": ["avoir_conjugation", "family_members", "contractions"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_family_002",
+      "english": "I have two brothers.",
+      "correctFrench": ["J'ai", "deux", "frères"],
+      "wordOptions": ["J'ai", "deux", "frères", "Tu", "as", "trois", "frère", "sœurs", "parents", "un"],
+      "explanation": "Numbers with family members. 'Deux frères' (two brothers - no article with numbers).",
+      "grammar_points": ["avoir_conjugation", "numbers", "family_members", "plural_nouns"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_family_003",
+      "english": "She is my mother.",
+      "correctFrench": ["C'est", "ma", "mère"],
+      "wordOptions": ["C'est", "ma", "mère", "Elle", "est", "mon", "père", "sœur", "fille", "Il"],
+      "explanation": "'C'est' for identification. 'Ma mère' (my mother - feminine possessive).",
+      "grammar_points": ["demonstrative_pronouns", "possessive_adjectives", "family_members"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_004",
+      "english": "You are my friend.",
+      "correctFrench": ["Tu", "es", "mon", "ami"],
+      "wordOptions": ["Tu", "es", "mon", "ami", "Vous", "êtes", "ma", "amie", "copain", "frère", "Je"],
+      "explanation": "Possessive adjectives: 'mon ami' (my friend - masculine). 'Ma' → 'mon' before vowel sound.",
+      "grammar_points": ["être_conjugation", "possessive_adjectives", "friendship"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_005",
+      "english": "My father is tall.",
+      "correctFrench": ["Mon", "père", "est", "grand"],
+      "wordOptions": ["Mon", "père", "est", "grand", "Ma", "mère", "ai", "grande", "petit", "gros"],
+      "explanation": "Possessive 'mon père' (my father). 'Grand' (masculine adjective) agrees with 'père'.",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "family_members"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_family_006",
+      "english": "My mother is kind.",
+      "correctFrench": ["Ma", "mère", "est", "gentille"],
+      "wordOptions": ["Ma", "mère", "est", "gentille", "Mon", "père", "ai", "gentil", "méchante", "belle"],
+      "explanation": "Possessive 'ma mère' (my mother). 'Gentille' (feminine form of kind).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "personality_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_007",
+      "english": "You have a big family.",
+      "correctFrench": ["Tu", "as", "une", "grande", "famille"],
+      "wordOptions": ["Tu", "as", "une", "grande", "famille", "Vous", "avez", "un", "grand", "petite", "nombreuse"],
+      "explanation": "Size adjectives before noun: 'une grande famille'. 'Grande' (feminine form of big).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "family_members"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_008",
+      "english": "My brother is young.",
+      "correctFrench": ["Mon", "frère", "est", "jeune"],
+      "wordOptions": ["Mon", "frère", "est", "jeune", "Ma", "sœur", "ai", "vieux", "âgé", "petit"],
+      "explanation": "Possessive 'mon frère' (my brother). 'Jeune' is invariable (same for all genders).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "age_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_family_009",
+      "english": "My sister is beautiful.",
+      "correctFrench": ["Ma", "sœur", "est", "belle"],
+      "wordOptions": ["Ma", "sœur", "est", "belle", "Mon", "frère", "ai", "beau", "jolie", "moche"],
+      "explanation": "Possessive 'ma sœur' (my sister). 'Belle' (feminine form of beautiful).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "irregular_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_010",
+      "english": "We are a happy family.",
+      "correctFrench": ["Nous", "sommes", "une", "famille", "heureuse"],
+      "wordOptions": ["Nous", "sommes", "une", "famille", "heureuse", "Vous", "êtes", "un", "heureux", "triste", "grande"],
+      "explanation": "Être conjugation: 'nous sommes'. 'Heureuse' (feminine form) agrees with 'famille'.",
+      "grammar_points": ["être_conjugation", "adjective_agreement", "family_members"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_011",
+      "english": "My parents are doctors.",
+      "correctFrench": ["Mes", "parents", "sont", "médecins"],
+      "wordOptions": ["Mes", "parents", "sont", "médecins", "Mon", "parent", "est", "médecin", "professeurs", "infirmiers"],
+      "explanation": "Plural possessive 'mes parents'. Professions after être (no article).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "professions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_012",
+      "english": "Your grandmother is old.",
+      "correctFrench": ["Ta", "grand-mère", "est", "âgée"],
+      "wordOptions": ["Ta", "grand-mère", "est", "âgée", "Ton", "grand-père", "ai", "âgé", "jeune", "vieille"],
+      "explanation": "Possessive 'ta grand-mère' (your grandmother). 'Âgée' (feminine form of old/aged).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "age_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_013",
+      "english": "My grandfather is wise.",
+      "correctFrench": ["Mon", "grand-père", "est", "sage"],
+      "wordOptions": ["Mon", "grand-père", "est", "sage", "Ma", "grand-mère", "ai", "intelligent", "vieux", "gentil"],
+      "explanation": "Possessive 'mon grand-père' (my grandfather). 'Sage' is invariable (wise).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "personality_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_014",
+      "english": "I love my family.",
+      "correctFrench": ["J'aime", "ma", "famille"],
+      "wordOptions": ["J'aime", "ma", "famille", "Tu", "aimes", "mon", "déteste", "adore", "préfère", "respecte"],
+      "explanation": "Present tense: 'j'aime' (I love). 'Ma famille' (my family - feminine).",
+      "grammar_points": ["present_tense", "possessive_adjectives", "emotions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_015",
+      "english": "My cousin is funny.",
+      "correctFrench": ["Mon", "cousin", "est", "drôle"],
+      "wordOptions": ["Mon", "cousin", "est", "drôle", "Ma", "cousine", "ai", "amusant", "triste", "sérieux"],
+      "explanation": "Possessive 'mon cousin' (my cousin - masculine). 'Drôle' is invariable (funny).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "personality_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_016",
+      "english": "My aunt lives in Paris.",
+      "correctFrench": ["Ma", "tante", "habite", "à", "Paris"],
+      "wordOptions": ["Ma", "tante", "habite", "à", "Paris", "Mon", "oncle", "vit", "dans", "Lyon", "Marseille"],
+      "explanation": "Present tense: 'elle habite' (she lives). 'À Paris' (in Paris - city names use 'à').",
+      "grammar_points": ["present_tense", "family_members", "location"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_family_017",
+      "english": "My uncle is a teacher.",
+      "correctFrench": ["Mon", "oncle", "est", "professeur"],
+      "wordOptions": ["Mon", "oncle", "est", "professeur", "Ma", "tante", "ai", "médecin", "infirmier", "avocat"],
+      "explanation": "Possessive 'mon oncle' (my uncle). Professions after être (no article).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "professions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_018",
+      "english": "We visit our grandparents.",
+      "correctFrench": ["Nous", "visitons", "nos", "grands-parents"],
+      "wordOptions": ["Nous", "visitons", "nos", "grands-parents", "Vous", "visitez", "vos", "parents", "voyons", "rencontrons"],
+      "explanation": "Present tense: 'nous visitons' (we visit). 'Nos grands-parents' (our grandparents).",
+      "grammar_points": ["present_tense", "possessive_adjectives", "family_members"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_family_019",
+      "english": "My daughter is smart.",
+      "correctFrench": ["Ma", "fille", "est", "intelligente"],
+      "wordOptions": ["Ma", "fille", "est", "intelligente", "Mon", "fils", "ai", "intelligent", "bête", "sage"],
+      "explanation": "Possessive 'ma fille' (my daughter). 'Intelligente' (feminine form of smart).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "personality_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_020",
+      "english": "My son plays soccer.",
+      "correctFrench": ["Mon", "fils", "joue", "au", "football"],
+      "wordOptions": ["Mon", "fils", "joue", "au", "football", "Ma", "fille", "du", "tennis", "basket", "piano"],
+      "explanation": "Present tense: 'il joue' (he plays). Sports with 'jouer au': 'au football'.",
+      "grammar_points": ["present_tense", "sports", "contractions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_family_021",
+      "english": "My wife is French.",
+      "correctFrench": ["Ma", "femme", "est", "française"],
+      "wordOptions": ["Ma", "femme", "est", "française", "Mon", "mari", "ai", "français", "anglaise", "espagnole"],
+      "explanation": "Possessive 'ma femme' (my wife). 'Française' (feminine form of French).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "nationality_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_022",
+      "english": "My husband works a lot.",
+      "correctFrench": ["Mon", "mari", "travaille", "beaucoup"],
+      "wordOptions": ["Mon", "mari", "travaille", "beaucoup", "Ma", "femme", "peu", "énormément", "toujours", "jamais"],
+      "explanation": "Present tense: 'il travaille' (he works). Adverb 'beaucoup' (a lot).",
+      "grammar_points": ["present_tense", "family_members", "adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_023",
+      "english": "Our children are happy.",
+      "correctFrench": ["Nos", "enfants", "sont", "heureux"],
+      "wordOptions": ["Nos", "enfants", "sont", "heureux", "Vos", "enfant", "est", "heureuses", "tristes", "contents"],
+      "explanation": "Plural possessive 'nos enfants'. 'Heureux' (masculine plural) for mixed groups.",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "emotions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_024",
+      "english": "My baby is sleeping.",
+      "correctFrench": ["Mon", "bébé", "dort"],
+      "wordOptions": ["Mon", "bébé", "dort", "Ma", "enfant", "mange", "pleure", "joue", "rit", "sourit"],
+      "explanation": "Possessive 'mon bébé' (my baby). Present tense: 'il/elle dort' (sleeps).",
+      "grammar_points": ["possessive_adjectives", "present_tense", "family_members"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_025",
+      "english": "Your family is nice.",
+      "correctFrench": ["Ta", "famille", "est", "gentille"],
+      "wordOptions": ["Ta", "famille", "est", "gentille", "Ton", "frère", "ai", "gentil", "méchante", "sympa"],
+      "explanation": "Possessive 'ta famille' (your family). 'Gentille' (feminine form of nice).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "personality_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_026",
+      "english": "My nephew is tall.",
+      "correctFrench": ["Mon", "neveu", "est", "grand"],
+      "wordOptions": ["Mon", "neveu", "est", "grand", "Ma", "nièce", "ai", "grande", "petit", "gros"],
+      "explanation": "Possessive 'mon neveu' (my nephew). 'Grand' (masculine form of tall).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "size_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_027",
+      "english": "My niece is pretty.",
+      "correctFrench": ["Ma", "nièce", "est", "jolie"],
+      "wordOptions": ["Ma", "nièce", "est", "jolie", "Mon", "neveu", "ai", "joli", "belle", "moche"],
+      "explanation": "Possessive 'ma nièce' (my niece). 'Jolie' (feminine form of pretty).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "appearance_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_028",
+      "english": "We have dinner together.",
+      "correctFrench": ["Nous", "dînons", "ensemble"],
+      "wordOptions": ["Nous", "dînons", "ensemble", "Vous", "dînez", "mangeons", "seuls", "toujours", "souvent"],
+      "explanation": "Present tense: 'nous dînons' (we have dinner). Adverb 'ensemble' (together).",
+      "grammar_points": ["present_tense", "meals", "adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_029",
+      "english": "My stepmother is kind.",
+      "correctFrench": ["Ma", "belle-mère", "est", "gentille"],
+      "wordOptions": ["Ma", "belle-mère", "est", "gentille", "Mon", "beau-père", "ai", "gentil", "méchante", "sévère"],
+      "explanation": "Possessive 'ma belle-mère' (my stepmother). 'Gentille' (feminine form of kind).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "family_members"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_030",
+      "english": "My stepfather helps me.",
+      "correctFrench": ["Mon", "beau-père", "m'aide"],
+      "wordOptions": ["Mon", "beau-père", "m'aide", "Ma", "belle-mère", "t'aide", "nous", "aide", "aidez"],
+      "explanation": "Possessive 'mon beau-père' (my stepfather). 'M'aide' = me + aide (contraction).",
+      "grammar_points": ["possessive_adjectives", "present_tense", "contractions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_family_031",
+      "english": "Our family is small.",
+      "correctFrench": ["Notre", "famille", "est", "petite"],
+      "wordOptions": ["Notre", "famille", "est", "petite", "Votre", "grande", "nombreuse", "unie", "heureuse", "ai"],
+      "explanation": "Possessive 'notre famille' (our family). 'Petite' (feminine form of small).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "size_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_family_032",
+      "english": "I call my mother.",
+      "correctFrench": ["J'appelle", "ma", "mère"],
+      "wordOptions": ["J'appelle", "ma", "mère", "Tu", "appelles", "mon", "père", "téléphone", "écris", "visite"],
+      "explanation": "Present tense: 'j'appelle' (I call). Stem-changing verb 'appeler'.",
+      "grammar_points": ["present_tense", "stem_changing_verbs", "family_members"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_family_033",
+      "english": "My brother-in-law is funny.",
+      "correctFrench": ["Mon", "beau-frère", "est", "drôle"],
+      "wordOptions": ["Mon", "beau-frère", "est", "drôle", "Ma", "belle-sœur", "ai", "amusant", "sérieux", "triste"],
+      "explanation": "Possessive 'mon beau-frère' (my brother-in-law). 'Drôle' is invariable (funny).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "family_members"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_034",
+      "english": "My sister-in-law cooks well.",
+      "correctFrench": ["Ma", "belle-sœur", "cuisine", "bien"],
+      "wordOptions": ["Ma", "belle-sœur", "cuisine", "bien", "Mon", "beau-frère", "mal", "beaucoup", "souvent", "toujours"],
+      "explanation": "Possessive 'ma belle-sœur' (my sister-in-law). Present tense + adverb 'bien' (well).",
+      "grammar_points": ["possessive_adjectives", "present_tense", "adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_035",
+      "english": "We love our parents.",
+      "correctFrench": ["Nous", "aimons", "nos", "parents"],
+      "wordOptions": ["Nous", "aimons", "nos", "parents", "Vous", "aimez", "vos", "respectons", "adorons", "détestons"],
+      "explanation": "Present tense: 'nous aimons' (we love). Plural possessive 'nos parents'.",
+      "grammar_points": ["present_tense", "possessive_adjectives", "emotions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_036",
+      "english": "My family lives in France.",
+      "correctFrench": ["Ma", "famille", "habite", "en", "France"],
+      "wordOptions": ["Ma", "famille", "habite", "en", "France", "vit", "à", "dans", "Espagne", "Italie"],
+      "explanation": "Present tense: 'elle habite' (lives). Countries use 'en': 'en France'.",
+      "grammar_points": ["present_tense", "family_members", "countries"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_family_037",
+      "english": "Your parents are young.",
+      "correctFrench": ["Tes", "parents", "sont", "jeunes"],
+      "wordOptions": ["Tes", "parents", "sont", "jeunes", "Ton", "parent", "est", "jeune", "vieux", "âgés"],
+      "explanation": "Plural possessive 'tes parents' (your parents). 'Jeunes' (plural form).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "age_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_038",
+      "english": "My godmother is generous.",
+      "correctFrench": ["Ma", "marraine", "est", "généreuse"],
+      "wordOptions": ["Ma", "marraine", "est", "généreuse", "Mon", "parrain", "ai", "généreux", "avare", "gentille"],
+      "explanation": "Possessive 'ma marraine' (my godmother). 'Généreuse' (feminine form of generous).",
+      "grammar_points": ["possessive_adjectives", "être_conjugation", "personality_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_family_039",
+      "english": "My godfather gives gifts.",
+      "correctFrench": ["Mon", "parrain", "offre", "des", "cadeaux"],
+      "wordOptions": ["Mon", "parrain", "offre", "des", "cadeaux", "Ma", "marraine", "donne", "un", "cadeau", "reçoit"],
+      "explanation": "Present tense: 'il offre' (he gives/offers). 'Des cadeaux' (gifts - plural).",
+      "grammar_points": ["present_tense", "family_members", "gifts"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_family_040",
+      "english": "Our relatives are coming.",
+      "correctFrench": ["Nos", "parents", "arrivent"],
+      "wordOptions": ["Nos", "parents", "arrivent", "Vos", "parent", "arrive", "viennent", "partent", "restent"],
+      "explanation": "Plural possessive 'nos parents' (our relatives). Present tense: 'ils arrivent' (they arrive).",
+      "grammar_points": ["possessive_adjectives", "present_tense", "movement_verbs"],
+      "difficulty": 1.4
+    }
+  ]
+}

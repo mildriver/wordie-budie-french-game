@@ -1,0 +1,458 @@
+{
+  "level": "A1",
+  "topic": "colors",
+  "description": "Basic color vocabulary and adjective agreement",
+  "total_sentences": 50,
+  "sentences": [
+    {
+      "id": "a1_colors_001",
+      "english": "The car is red.",
+      "correctFrench": ["La", "voiture", "est", "rouge"],
+      "wordOptions": ["La", "voiture", "est", "rouge", "Le", "vélo", "ai", "bleu", "verte", "noire"],
+      "explanation": "'La voiture' (feminine). Color adjective 'rouge' is invariable (same for masculine/feminine).",
+      "grammar_points": ["definite_articles", "color_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_colors_002",
+      "english": "I have a blue pen.",
+      "correctFrench": ["J'ai", "un", "stylo", "bleu"],
+      "wordOptions": ["J'ai", "un", "stylo", "bleu", "Tu", "as", "une", "rouge", "crayon", "noir"],
+      "explanation": "Color adjectives usually come after the noun. 'Un stylo bleu' (a blue pen).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "adjective_placement"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_colors_003",
+      "english": "She has a white dress.",
+      "correctFrench": ["Elle", "a", "une", "robe", "blanche"],
+      "wordOptions": ["Elle", "a", "une", "robe", "blanche", "Il", "ai", "un", "blanc", "noire", "rouge"],
+      "explanation": "Color agreement: 'blanche' (feminine form of white). 'Une robe blanche' (a white dress).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_004",
+      "english": "You have green shoes.",
+      "correctFrench": ["Tu", "as", "des", "chaussures", "vertes"],
+      "wordOptions": ["Tu", "as", "des", "chaussures", "vertes", "Vous", "avez", "une", "chaussure", "verte", "noires"],
+      "explanation": "Plural indefinite article 'des'. Color agreement: 'vertes' (feminine plural of green).",
+      "grammar_points": ["avoir_conjugation", "plural_indefinite_articles", "color_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_colors_005",
+      "english": "The sky is blue.",
+      "correctFrench": ["Le", "ciel", "est", "bleu"],
+      "wordOptions": ["Le", "ciel", "est", "bleu", "La", "mer", "ai", "bleue", "gris", "noir"],
+      "explanation": "'Le ciel' (masculine). 'Bleu' (masculine form of blue) agrees with 'ciel'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_006",
+      "english": "She has a yellow bag.",
+      "correctFrench": ["Elle", "a", "un", "sac", "jaune"],
+      "wordOptions": ["Elle", "a", "un", "sac", "jaune", "Il", "ai", "une", "rouge", "vert", "noir"],
+      "explanation": "Color after noun: 'un sac jaune'. 'Jaune' is invariable (same for all genders).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "objects"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_007",
+      "english": "The grass is green.",
+      "correctFrench": ["L'herbe", "est", "verte"],
+      "wordOptions": ["L'herbe", "est", "verte", "Le", "arbre", "ai", "vert", "jaune", "brune"],
+      "explanation": "'L'herbe' (feminine, contraction). 'Verte' (feminine form of green) agrees with 'herbe'.",
+      "grammar_points": ["contractions", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_008",
+      "english": "The shirt is white.",
+      "correctFrench": ["La", "chemise", "est", "blanche"],
+      "wordOptions": ["La", "chemise", "est", "blanche", "Le", "t-shirt", "ai", "blanc", "noire", "rouge"],
+      "explanation": "'La chemise' (feminine). 'Blanche' (feminine form of white) agrees with 'chemise'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_009",
+      "english": "The snow is white.",
+      "correctFrench": ["La", "neige", "est", "blanche"],
+      "wordOptions": ["La", "neige", "est", "blanche", "Le", "nuage", "ai", "blanc", "grise", "noire"],
+      "explanation": "'La neige' (feminine). 'Blanche' (feminine form of white) agrees with 'neige'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_010",
+      "english": "I have a red car.",
+      "correctFrench": ["J'ai", "une", "voiture", "rouge"],
+      "wordOptions": ["J'ai", "une", "voiture", "rouge", "Tu", "as", "un", "vélo", "bleu", "noire"],
+      "explanation": "Color after noun: 'une voiture rouge'. 'Rouge' is invariable (same for all genders).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "vehicles"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_011",
+      "english": "The table is brown.",
+      "correctFrench": ["La", "table", "est", "marron"],
+      "wordOptions": ["La", "table", "est", "marron", "Le", "chaise", "ai", "brune", "noire", "blanche"],
+      "explanation": "'La table' (feminine). 'Marron' is invariable (doesn't change for gender/number).",
+      "grammar_points": ["definite_articles", "être_conjugation", "invariable_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_colors_012",
+      "english": "You have black hair.",
+      "correctFrench": ["Tu", "as", "les", "cheveux", "noirs"],
+      "wordOptions": ["Tu", "as", "les", "cheveux", "noirs", "Vous", "avez", "des", "cheveu", "blonds", "bruns"],
+      "explanation": "Body parts with definite article. 'Les cheveux noirs' (black hair - plural in French).",
+      "grammar_points": ["avoir_conjugation", "body_parts", "color_adjectives", "plural_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_colors_013",
+      "english": "The flowers are pink.",
+      "correctFrench": ["Les", "fleurs", "sont", "roses"],
+      "wordOptions": ["Les", "fleurs", "sont", "roses", "La", "fleur", "est", "rose", "rouges", "blanches"],
+      "explanation": "Plural agreement: 'les fleurs sont roses'. Color adjective 'roses' (feminine plural).",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_014",
+      "english": "I wear a black jacket.",
+      "correctFrench": ["Je", "porte", "une", "veste", "noire"],
+      "wordOptions": ["Je", "porte", "une", "veste", "noire", "Tu", "portes", "un", "noir", "blanche", "rouge"],
+      "explanation": "Present tense: 'je porte' (I wear). 'Noire' (feminine form of black) agrees with 'veste'.",
+      "grammar_points": ["present_tense", "color_adjectives", "clothing"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_015",
+      "english": "The sun is yellow.",
+      "correctFrench": ["Le", "soleil", "est", "jaune"],
+      "wordOptions": ["Le", "soleil", "est", "jaune", "La", "lune", "ai", "blanc", "orange", "rouge"],
+      "explanation": "'Le soleil' (masculine). 'Jaune' is invariable (same for all genders).",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_colors_016",
+      "english": "She has brown eyes.",
+      "correctFrench": ["Elle", "a", "les", "yeux", "marron"],
+      "wordOptions": ["Elle", "a", "les", "yeux", "marron", "Il", "ai", "des", "œil", "bleus", "verts"],
+      "explanation": "Body parts with definite article. 'Marron' is invariable (doesn't change).",
+      "grammar_points": ["avoir_conjugation", "body_parts", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_017",
+      "english": "The door is green.",
+      "correctFrench": ["La", "porte", "est", "verte"],
+      "wordOptions": ["La", "porte", "est", "verte", "Le", "fenêtre", "ai", "vert", "rouge", "bleue"],
+      "explanation": "'La porte' (feminine). 'Verte' (feminine form of green) agrees with 'porte'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_018",
+      "english": "I have a purple book.",
+      "correctFrench": ["J'ai", "un", "livre", "violet"],
+      "wordOptions": ["J'ai", "un", "livre", "violet", "Tu", "as", "une", "violette", "rouge", "bleu"],
+      "explanation": "Color after noun: 'un livre violet'. 'Violet' (masculine form of purple).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_019",
+      "english": "The walls are white.",
+      "correctFrench": ["Les", "murs", "sont", "blancs"],
+      "wordOptions": ["Les", "murs", "sont", "blancs", "Le", "mur", "est", "blanc", "blanches", "noirs"],
+      "explanation": "Plural agreement: 'les murs sont blancs'. Masculine plural 'blancs'.",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_colors_020",
+      "english": "You wear red shoes.",
+      "correctFrench": ["Tu", "portes", "des", "chaussures", "rouges"],
+      "wordOptions": ["Tu", "portes", "des", "chaussures", "rouges", "Vous", "portez", "une", "rouge", "noires", "bleues"],
+      "explanation": "Present tense: 'tu portes'. 'Rouges' (plural form of red) agrees with 'chaussures'.",
+      "grammar_points": ["present_tense", "color_adjectives", "plural_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_colors_021",
+      "english": "The cat is gray.",
+      "correctFrench": ["Le", "chat", "est", "gris"],
+      "wordOptions": ["Le", "chat", "est", "gris", "La", "chien", "ai", "grise", "noir", "blanc"],
+      "explanation": "'Le chat' (masculine). 'Gris' (masculine form of gray) agrees with 'chat'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_022",
+      "english": "I like the blue color.",
+      "correctFrench": ["J'aime", "la", "couleur", "bleue"],
+      "wordOptions": ["J'aime", "la", "couleur", "bleue", "Tu", "aimes", "le", "bleu", "rouge", "verte"],
+      "explanation": "Present tense: 'j'aime' (I like). 'Bleue' (feminine form) agrees with 'couleur'.",
+      "grammar_points": ["present_tense", "color_adjectives", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_023",
+      "english": "The house is yellow.",
+      "correctFrench": ["La", "maison", "est", "jaune"],
+      "wordOptions": ["La", "maison", "est", "jaune", "Le", "appartement", "ai", "rouge", "verte", "bleue"],
+      "explanation": "'La maison' (feminine). 'Jaune' is invariable (same for all genders).",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_colors_024",
+      "english": "She wears a pink dress.",
+      "correctFrench": ["Elle", "porte", "une", "robe", "rose"],
+      "wordOptions": ["Elle", "porte", "une", "robe", "rose", "Il", "ai", "un", "rouge", "blanche", "noire"],
+      "explanation": "Present tense: 'elle porte'. 'Rose' is invariable (same for all genders).",
+      "grammar_points": ["present_tense", "color_adjectives", "clothing"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_025",
+      "english": "The tree is green.",
+      "correctFrench": ["L'arbre", "est", "vert"],
+      "wordOptions": ["L'arbre", "est", "vert", "La", "fleur", "ai", "verte", "jaune", "brun"],
+      "explanation": "'L'arbre' (masculine, contraction). 'Vert' (masculine form of green).",
+      "grammar_points": ["contractions", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_026",
+      "english": "I have orange juice.",
+      "correctFrench": ["J'ai", "du", "jus", "d'orange"],
+      "wordOptions": ["J'ai", "du", "jus", "d'orange", "Tu", "as", "de", "la", "pomme", "rouge"],
+      "explanation": "Partitive article 'du' (some). 'Jus d'orange' (orange juice) - compound noun.",
+      "grammar_points": ["avoir_conjugation", "partitive_articles", "food"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_colors_027",
+      "english": "The car is black.",
+      "correctFrench": ["La", "voiture", "est", "noire"],
+      "wordOptions": ["La", "voiture", "est", "noire", "Le", "vélo", "ai", "noir", "blanche", "rouge"],
+      "explanation": "'La voiture' (feminine). 'Noire' (feminine form of black) agrees with 'voiture'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_028",
+      "english": "You have a brown bag.",
+      "correctFrench": ["Tu", "as", "un", "sac", "marron"],
+      "wordOptions": ["Tu", "as", "un", "sac", "marron", "Vous", "avez", "une", "brun", "noir", "rouge"],
+      "explanation": "Color after noun: 'un sac marron'. 'Marron' is invariable (doesn't change).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "invariable_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_029",
+      "english": "The flowers are red.",
+      "correctFrench": ["Les", "fleurs", "sont", "rouges"],
+      "wordOptions": ["Les", "fleurs", "sont", "rouges", "La", "fleur", "est", "rouge", "blanches", "jaunes"],
+      "explanation": "Plural agreement: 'les fleurs sont rouges'. 'Rouges' (plural form of red).",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_030",
+      "english": "I see a white bird.",
+      "correctFrench": ["Je", "vois", "un", "oiseau", "blanc"],
+      "wordOptions": ["Je", "vois", "un", "oiseau", "blanc", "Tu", "voit", "une", "blanche", "noir", "rouge"],
+      "explanation": "Present tense: 'je vois' (I see). 'Blanc' (masculine form of white) agrees with 'oiseau'.",
+      "grammar_points": ["present_tense", "color_adjectives", "animals"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_031",
+      "english": "The water is blue.",
+      "correctFrench": ["L'eau", "est", "bleue"],
+      "wordOptions": ["L'eau", "est", "bleue", "Le", "jus", "ai", "bleu", "verte", "claire"],
+      "explanation": "'L'eau' (feminine, contraction). 'Bleue' (feminine form of blue) agrees with 'eau'.",
+      "grammar_points": ["contractions", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_032",
+      "english": "She has a green hat.",
+      "correctFrench": ["Elle", "a", "un", "chapeau", "vert"],
+      "wordOptions": ["Elle", "a", "un", "chapeau", "vert", "Il", "ai", "une", "verte", "rouge", "bleu"],
+      "explanation": "Color after noun: 'un chapeau vert'. 'Vert' (masculine form) agrees with 'chapeau'.",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "clothing"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_033",
+      "english": "The apples are red.",
+      "correctFrench": ["Les", "pommes", "sont", "rouges"],
+      "wordOptions": ["Les", "pommes", "sont", "rouges", "La", "pomme", "est", "rouge", "vertes", "jaunes"],
+      "explanation": "Plural agreement: 'les pommes sont rouges'. Feminine plural 'rouges'.",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_034",
+      "english": "I wear blue jeans.",
+      "correctFrench": ["Je", "porte", "un", "jean", "bleu"],
+      "wordOptions": ["Je", "porte", "un", "jean", "bleu", "Tu", "portes", "des", "noir", "rouge", "vert"],
+      "explanation": "Present tense: 'je porte'. 'Un jean' (masculine singular). 'Bleu' agrees with 'jean'.",
+      "grammar_points": ["present_tense", "color_adjectives", "clothing"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_035",
+      "english": "The chair is brown.",
+      "correctFrench": ["La", "chaise", "est", "marron"],
+      "wordOptions": ["La", "chaise", "est", "marron", "Le", "fauteuil", "ai", "brune", "noire", "rouge"],
+      "explanation": "'La chaise' (feminine). 'Marron' is invariable (doesn't change for gender).",
+      "grammar_points": ["definite_articles", "être_conjugation", "invariable_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_colors_036",
+      "english": "You have green eyes.",
+      "correctFrench": ["Tu", "as", "les", "yeux", "verts"],
+      "wordOptions": ["Tu", "as", "les", "yeux", "verts", "Vous", "avez", "des", "œil", "bleus", "marron"],
+      "explanation": "Body parts with definite article. 'Verts' (masculine plural) agrees with 'yeux'.",
+      "grammar_points": ["avoir_conjugation", "body_parts", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_037",
+      "english": "The book is red.",
+      "correctFrench": ["Le", "livre", "est", "rouge"],
+      "wordOptions": ["Le", "livre", "est", "rouge", "La", "magazine", "ai", "bleu", "verte", "jaune"],
+      "explanation": "'Le livre' (masculine). 'Rouge' is invariable (same for all genders).",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_colors_038",
+      "english": "I like white wine.",
+      "correctFrench": ["J'aime", "le", "vin", "blanc"],
+      "wordOptions": ["J'aime", "le", "vin", "blanc", "Tu", "aimes", "la", "blanche", "rouge", "rosé"],
+      "explanation": "Present tense: 'j'aime'. 'Blanc' (masculine form) agrees with 'vin'.",
+      "grammar_points": ["present_tense", "color_adjectives", "food"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_039",
+      "english": "The dog is black.",
+      "correctFrench": ["Le", "chien", "est", "noir"],
+      "wordOptions": ["Le", "chien", "est", "noir", "La", "chat", "ai", "noire", "blanc", "brun"],
+      "explanation": "'Le chien' (masculine). 'Noir' (masculine form of black) agrees with 'chien'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_040",
+      "english": "She wears a blue skirt.",
+      "correctFrench": ["Elle", "porte", "une", "jupe", "bleue"],
+      "wordOptions": ["Elle", "porte", "une", "jupe", "bleue", "Il", "ai", "un", "bleu", "rouge", "verte"],
+      "explanation": "Present tense: 'elle porte'. 'Bleue' (feminine form of blue) agrees with 'jupe'.",
+      "grammar_points": ["present_tense", "color_adjectives", "clothing"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_041",
+      "english": "The leaves are green.",
+      "correctFrench": ["Les", "feuilles", "sont", "vertes"],
+      "wordOptions": ["Les", "feuilles", "sont", "vertes", "La", "feuille", "est", "verte", "jaunes", "brunes"],
+      "explanation": "Plural agreement: 'les feuilles sont vertes'. Feminine plural 'vertes'.",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_042",
+      "english": "I have a yellow shirt.",
+      "correctFrench": ["J'ai", "une", "chemise", "jaune"],
+      "wordOptions": ["J'ai", "une", "chemise", "jaune", "Tu", "as", "un", "rouge", "blanche", "verte"],
+      "explanation": "Color after noun: 'une chemise jaune'. 'Jaune' is invariable (same for all genders).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "clothing"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_043",
+      "english": "The ocean is blue.",
+      "correctFrench": ["L'océan", "est", "bleu"],
+      "wordOptions": ["L'océan", "est", "bleu", "La", "mer", "ai", "bleue", "vert", "gris"],
+      "explanation": "'L'océan' (masculine, contraction). 'Bleu' (masculine form) agrees with 'océan'.",
+      "grammar_points": ["contractions", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_044",
+      "english": "You see a red balloon.",
+      "correctFrench": ["Tu", "vois", "un", "ballon", "rouge"],
+      "wordOptions": ["Tu", "vois", "un", "ballon", "rouge", "Vous", "voyez", "une", "bleu", "vert", "jaune"],
+      "explanation": "Present tense: 'tu vois'. 'Rouge' is invariable (same for all genders).",
+      "grammar_points": ["present_tense", "color_adjectives", "objects"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_045",
+      "english": "The roses are pink.",
+      "correctFrench": ["Les", "roses", "sont", "roses"],
+      "wordOptions": ["Les", "roses", "sont", "roses", "La", "rose", "est", "rose", "rouges", "blanches"],
+      "explanation": "Plural agreement: 'les roses sont roses'. Color 'roses' (plural form).",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_046",
+      "english": "I buy a green apple.",
+      "correctFrench": ["J'achète", "une", "pomme", "verte"],
+      "wordOptions": ["J'achète", "une", "pomme", "verte", "Tu", "achètes", "un", "vert", "rouge", "jaune"],
+      "explanation": "Present tense: 'j'achète' (I buy). 'Verte' (feminine form) agrees with 'pomme'.",
+      "grammar_points": ["present_tense", "color_adjectives", "food"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_colors_047",
+      "english": "The wall is white.",
+      "correctFrench": ["Le", "mur", "est", "blanc"],
+      "wordOptions": ["Le", "mur", "est", "blanc", "La", "porte", "ai", "blanche", "gris", "jaune"],
+      "explanation": "'Le mur' (masculine). 'Blanc' (masculine form of white) agrees with 'mur'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_colors_048",
+      "english": "She has a purple flower.",
+      "correctFrench": ["Elle", "a", "une", "fleur", "violette"],
+      "wordOptions": ["Elle", "a", "une", "fleur", "violette", "Il", "ai", "un", "violet", "rouge", "blanche"],
+      "explanation": "Color after noun: 'une fleur violette'. 'Violette' (feminine form of purple).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_049",
+      "english": "The bananas are yellow.",
+      "correctFrench": ["Les", "bananes", "sont", "jaunes"],
+      "wordOptions": ["Les", "bananes", "sont", "jaunes", "La", "banane", "est", "jaune", "vertes", "brunes"],
+      "explanation": "Plural agreement: 'les bananes sont jaunes'. 'Jaunes' (plural form).",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_colors_050",
+      "english": "I paint with blue paint.",
+      "correctFrench": ["Je", "peins", "avec", "de", "la", "peinture", "bleue"],
+      "wordOptions": ["Je", "peins", "avec", "de", "la", "peinture", "bleue", "Tu", "peint", "du", "bleu", "rouge"],
+      "explanation": "Present tense: 'je peins' (I paint). 'Bleue' (feminine form) agrees with 'peinture'.",
+      "grammar_points": ["present_tense", "color_adjectives", "partitive_articles"],
+      "difficulty": 1.7
+    }
+  ]
+}

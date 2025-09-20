@@ -1,0 +1,53 @@
+{
+  "level": "B1",
+  "topic": "travel",
+  "description": "Complex travel situations, cultural experiences, and travel challenges",
+  "total_sentences": 100,
+  "sentences": [
+    {
+      "id": "b1_travel_001",
+      "english": "I wish I could afford to travel more often.",
+      "correctFrench": ["J'aimerais", "pouvoir", "me", "permettre", "de", "voyager", "plus", "souvent"],
+      "wordOptions": ["J'aimerais", "pouvoir", "me", "permettre", "de", "voyager", "plus", "souvent", "aurais", "aimé"],
+      "explanation": "'Aimerais pouvoir' = wish I could. 'Se permettre de' = to afford to.",
+      "grammar_points": ["wish_expressions", "financial_constraints", "travel_desires"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_travel_002",
+      "english": "The flight was delayed due to bad weather conditions.",
+      "correctFrench": ["Le", "vol", "a", "été", "retardé", "à", "cause", "du", "mauvais", "temps"],
+      "wordOptions": ["Le", "vol", "a", "été", "retardé", "à", "cause", "du", "mauvais", "temps", "en", "raison", "de"],
+      "explanation": "Passive voice + causation. 'À cause de' = because of (negative).",
+      "grammar_points": ["passive_voice", "causation_expressions", "flight_delays"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_travel_003",
+      "english": "Despite the language barrier, we managed to communicate.",
+      "correctFrench": ["Malgré", "la", "barrière", "de", "la", "langue", "nous", "avons", "réussi", "à", "communiquer"],
+      "wordOptions": ["Malgré", "la", "barrière", "de", "la", "langue", "nous", "avons", "réussi", "à", "communiquer", "Bien", "que"],
+      "explanation": "'Malgré' = despite. 'Réussir à' = to manage to. Overcoming difficulties.",
+      "grammar_points": ["concession_expressions", "communication_challenges", "achievement"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_travel_004",
+      "english": "I would recommend visiting this museum to anyone interested in art.",
+      "correctFrench": ["Je", "recommanderais", "de", "visiter", "ce", "musée", "à", "quiconque", "s'intéresse", "à", "l'art"],
+      "wordOptions": ["Je", "recommanderais", "de", "visiter", "ce", "musée", "à", "quiconque", "s'intéresse", "à", "l'art", "conseille"],
+      "explanation": "'Recommander de' + infinitive. 'Quiconque' = anyone who. Cultural recommendations.",
+      "grammar_points": ["recommendation_expressions", "cultural_activities", "indefinite_pronouns"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_travel_005",
+      "english": "The more countries I visit, the more I appreciate cultural diversity.",
+      "correctFrench": ["Plus", "je", "visite", "de", "pays", "plus", "j'apprécie", "la", "diversité", "culturelle"],
+      "wordOptions": ["Plus", "je", "visite", "de", "pays", "plus", "j'apprécie", "la", "diversité", "culturelle", "mieux"],
+      "explanation": "'Plus...plus' correlation. Progressive appreciation through travel experience.",
+      "grammar_points": ["progressive_correlation", "cultural_appreciation", "travel_learning"],
+      "difficulty": 3.7
+    }
+  ]
+}

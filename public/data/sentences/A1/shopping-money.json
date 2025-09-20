@@ -1,0 +1,188 @@
+{
+  "level": "A1",
+  "topic": "shopping-money",
+  "description": "Shopping, money, prices, and commercial transactions",
+  "total_sentences": 75,
+  "sentences": [
+    {
+      "id": "a1_shopping_001",
+      "english": "I buy bread at the bakery.",
+      "correctFrench": ["J'achète", "du", "pain", "à", "la", "boulangerie"],
+      "wordOptions": ["J'achète", "du", "pain", "à", "la", "boulangerie", "de", "le", "dans", "chez", "pâtisserie"],
+      "explanation": "'Acheter' = to buy. 'Du pain' = bread (partitive). 'À la boulangerie' = at the bakery.",
+      "grammar_points": ["shopping_verbs", "partitive_articles", "shop_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_shopping_002",
+      "english": "How much does this cost?",
+      "correctFrench": ["Combien", "coûte", "ceci", "?"],
+      "wordOptions": ["Combien", "coûte", "ceci", "?", "ça", "cela", "prix", "euros", "cher"],
+      "explanation": "'Combien' = how much. 'Coûter' = to cost. 'Ceci/ça' = this.",
+      "grammar_points": ["question_words", "price_vocabulary", "demonstratives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_shopping_003",
+      "english": "The book costs 15 euros.",
+      "correctFrench": ["Le", "livre", "coûte", "15", "euros"],
+      "wordOptions": ["Le", "livre", "coûte", "15", "euros", "quinze", "euro", "dollars", "francs", "prix"],
+      "explanation": "'Coûter' = to cost. Numbers with currency. 'Euros' (plural after numbers > 1).",
+      "grammar_points": ["price_expressions", "numbers", "currency"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_shopping_004",
+      "english": "I pay with a credit card.",
+      "correctFrench": ["Je", "paie", "avec", "une", "carte", "de", "crédit"],
+      "wordOptions": ["Je", "paie", "avec", "une", "carte", "de", "crédit", "paye", "bancaire", "bleue", "espèces"],
+      "explanation": "'Payer' = to pay. 'Une carte de crédit' = credit card. Payment methods.",
+      "grammar_points": ["payment_methods", "shopping_verbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_shopping_005",
+      "english": "The store is open until 8 PM.",
+      "correctFrench": ["Le", "magasin", "est", "ouvert", "jusqu'à", "20", "heures"],
+      "wordOptions": ["Le", "magasin", "est", "ouvert", "jusqu'à", "20", "heures", "fermé", "huit", "heure", "soir"],
+      "explanation": "'Ouvert' = open. 'Jusqu'à' = until. 24-hour time: 20 heures = 8 PM.",
+      "grammar_points": ["shop_hours", "time_expressions", "prepositions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_shopping_006",
+      "english": "She works as a cashier.",
+      "correctFrench": ["Elle", "travaille", "comme", "caissière"],
+      "wordOptions": ["Elle", "travaille", "comme", "caissière", "Il", "caissier", "vendeur", "vendeuse", "de"],
+      "explanation": "'Travailler comme' = to work as. 'Caissière' = cashier (feminine).",
+      "grammar_points": ["job_vocabulary", "profession_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_shopping_007",
+      "english": "I need to buy groceries.",
+      "correctFrench": ["Je", "dois", "acheter", "des", "courses"],
+      "wordOptions": ["Je", "dois", "acheter", "des", "courses", "faire", "provisions", "nourriture", "aliments"],
+      "explanation": "'Devoir' = must/need to. 'Des courses' = groceries. 'Faire les courses' = grocery shopping.",
+      "grammar_points": ["modal_verbs", "shopping_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_shopping_008",
+      "english": "The sale starts tomorrow.",
+      "correctFrench": ["Les", "soldes", "commencent", "demain"],
+      "wordOptions": ["Les", "soldes", "commencent", "demain", "La", "solde", "commence", "aujourd'hui", "hier"],
+      "explanation": "'Les soldes' = sales (feminine plural). 'Commencer' = to start. 'Demain' = tomorrow.",
+      "grammar_points": ["shopping_events", "time_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_shopping_009",
+      "english": "I want to return this shirt.",
+      "correctFrench": ["Je", "veux", "rendre", "cette", "chemise"],
+      "wordOptions": ["Je", "veux", "rendre", "cette", "chemise", "retourner", "échanger", "ce", "t-shirt"],
+      "explanation": "'Vouloir' = to want. 'Rendre' = to return (give back). 'Cette chemise' = this shirt.",
+      "grammar_points": ["customer_service", "demonstrative_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_shopping_010",
+      "english": "The receipt is in the bag.",
+      "correctFrench": ["Le", "reçu", "est", "dans", "le", "sac"],
+      "wordOptions": ["Le", "reçu", "est", "dans", "le", "sac", "La", "facture", "ticket", "poche", "portefeuille"],
+      "explanation": "'Le reçu' = receipt (masculine). 'Dans le sac' = in the bag.",
+      "grammar_points": ["shopping_documents", "location_prepositions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_shopping_011",
+      "english": "This dress is too expensive.",
+      "correctFrench": ["Cette", "robe", "est", "trop", "chère"],
+      "wordOptions": ["Cette", "robe", "est", "trop", "chère", "Ce", "cher", "coûteuse", "bon", "marché"],
+      "explanation": "'Cette robe' = this dress (feminine). 'Trop chère' = too expensive (feminine).",
+      "grammar_points": ["price_adjectives", "intensifiers", "demonstrative_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_shopping_012",
+      "english": "I'm looking for size medium.",
+      "correctFrench": ["Je", "cherche", "la", "taille", "M"],
+      "wordOptions": ["Je", "cherche", "la", "taille", "M", "recherche", "moyen", "moyenne", "S", "L", "XL"],
+      "explanation": "'Chercher' = to look for. 'La taille' = size. Clothing sizes: S, M, L, XL.",
+      "grammar_points": ["clothing_sizes", "shopping_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_shopping_013",
+      "english": "Do you accept cash?",
+      "correctFrench": ["Acceptez-vous", "les", "espèces", "?"],
+      "wordOptions": ["Acceptez-vous", "les", "espèces", "?", "Est-ce", "que", "vous", "liquide", "argent"],
+      "explanation": "'Accepter' = to accept. 'Les espèces' = cash. Formal question with inversion.",
+      "grammar_points": ["payment_methods", "formal_questions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_shopping_014",
+      "english": "The shopping center is big.",
+      "correctFrench": ["Le", "centre", "commercial", "est", "grand"],
+      "wordOptions": ["Le", "centre", "commercial", "est", "grand", "La", "galerie", "marchande", "gros", "énorme"],
+      "explanation": "'Le centre commercial' = shopping center. 'Grand' = big (masculine).",
+      "grammar_points": ["shopping_locations", "size_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_shopping_015",
+      "english": "I save money every month.",
+      "correctFrench": ["J'économise", "de", "l'argent", "chaque", "mois"],
+      "wordOptions": ["J'économise", "de", "l'argent", "chaque", "mois", "épargne", "tous", "les", "semaine"],
+      "explanation": "'Économiser' = to save money. 'Chaque mois' = every month. Financial vocabulary.",
+      "grammar_points": ["money_management", "frequency_expressions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_shopping_016",
+      "english": "The price includes tax.",
+      "correctFrench": ["Le", "prix", "comprend", "les", "taxes"],
+      "wordOptions": ["Le", "prix", "comprend", "les", "taxes", "inclut", "la", "taxe", "TVA", "frais"],
+      "explanation": "'Comprendre' = to include. 'Les taxes' = taxes. Price terminology.",
+      "grammar_points": ["price_components", "tax_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_shopping_017",
+      "english": "I have a discount coupon.",
+      "correctFrench": ["J'ai", "un", "bon", "de", "réduction"],
+      "wordOptions": ["J'ai", "un", "bon", "de", "réduction", "coupon", "remise", "promotion", "offre"],
+      "explanation": "'Un bon de réduction' = discount coupon. Savings terminology.",
+      "grammar_points": ["discount_vocabulary", "shopping_benefits"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_shopping_018",
+      "english": "The market sells fresh fruit.",
+      "correctFrench": ["Le", "marché", "vend", "des", "fruits", "frais"],
+      "wordOptions": ["Le", "marché", "vend", "des", "fruits", "frais", "légumes", "fruit", "fraîche", "fraîches"],
+      "explanation": "'Le marché' = market. 'Vendre' = to sell. 'Frais' (masculine plural adjective).",
+      "grammar_points": ["market_vocabulary", "food_quality", "adjective_agreement"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_shopping_019",
+      "english": "Can I try this on?",
+      "correctFrench": ["Puis-je", "essayer", "ceci", "?"],
+      "wordOptions": ["Puis-je", "essayer", "ceci", "?", "Est-ce", "que", "je", "peux", "ça", "cela"],
+      "explanation": "'Puis-je' = can I (formal). 'Essayer' = to try on. Clothing shopping.",
+      "grammar_points": ["trying_clothes", "formal_requests", "modal_verbs"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_shopping_020",
+      "english": "The checkout line is long.",
+      "correctFrench": ["La", "queue", "à", "la", "caisse", "est", "longue"],
+      "wordOptions": ["La", "queue", "à", "la", "caisse", "est", "longue", "file", "courte", "rapide", "lente"],
+      "explanation": "'La queue à la caisse' = checkout line. 'Longue' (feminine form of long).",
+      "grammar_points": ["shopping_situations", "length_adjectives"],
+      "difficulty": 1.6
+    }
+  ]
+}

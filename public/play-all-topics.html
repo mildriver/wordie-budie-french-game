@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wordie Budie - All Topics (A1-C1)</title>
+    <link rel="stylesheet" href="styles.css" id="main-css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="FrenchGame">
+    <meta name="description" content="Interactive French language learning game with 25 topics from A1 to C1 levels">
+
+    <!-- Version for cache busting -->
+    <meta name="version" content="3.0.0-all-topics">
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate, post-check=0, pre-check=0">
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="pragma" content="no-cache">
+
+    <!-- Dynamic Cache-Busting Script -->
+    <script>
+    (function() {
+        // Force fresh CSS loading with dynamic timestamp
+        const cssLink = document.getElementById('main-css');
+        const timestamp = Date.now() + Math.random();
+        cssLink.href = `styles.css?v=${timestamp}&fresh=true`;
+
+        console.log('🎯 Wordie Budie v3.0.0 - All Topics A1-C1 loaded!');
+    })();
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header role="banner">
+            <h1>🎯 Wordie Budie</h1>
+            <p style="margin: 5px 0; color: #666; font-size: 14px;">French Learning Game - All Topics A1-B2</p>
+            <div class="level-selector">
+                <label for="level">Choose Level:</label>
+                <select id="level" aria-label="Select French proficiency level">
+                    <option value="A1">A1 - Beginner</option>
+                    <option value="A2">A2 - Elementary</option>
+                    <option value="B1">B1 - Intermediate</option>
+                    <option value="B2">B2 - Upper Intermediate</option>
+                    <option value="A1,A2">A1+A2 - Mixed Beginner</option>
+                    <option value="B1,B2">B1+B2 - Mixed Intermediate</option>
+                    <option value="RANDOM_A1">🎲 Random A1</option>
+                    <option value="RANDOM_A2">🎲 Random A2</option>
+                    <option value="RANDOM_B1">🎲 Random B1</option>
+                    <option value="RANDOM_B2">🎲 Random B2</option>
+                    <option value="RANDOM_ALL">🎲 Random All Levels</option>
+                </select>
+            </div>
+            <div class="topic-selector">
+                <label for="topic">Choose Topic:</label>
+                <select id="topic" aria-label="Select learning topic">
+                    <option value="">Loading topics...</option>
+                </select>
+            </div>
+            <div class="timer-settings">
+                <label for="timer-duration">Timer:</label>
+                <select id="timer-duration" aria-label="Select timer duration">
+                    <option value="0">Off</option>
+                    <option value="10">10 seconds</option>
+                    <option value="20">20 seconds</option>
+                    <option value="30">30 seconds</option>
+                    <option value="60">1 minute</option>
+                </select>
+            </div>
+        </header>
+
+        <main role="main">
+            <div class="game-area" role="application" aria-label="French learning game">
+                <div class="score-board" role="status" aria-live="polite" aria-label="Game statistics">
+                    <div class="score">Score: <span id="score">0</span></div>
+                    <div class="streak">Streak: <span id="streak">0</span></div>
+                    <div class="progress">Progress: <span id="progress">0/0</span></div>
+                </div>
+
+                <div class="question-section">
+                    <div class="english-sentence">
+                        <h2 id="english-text" aria-live="polite" role="status">Loading French topics... Please wait!</h2>
+                    </div>
+
+                    <div class="french-construction">
+                        <div id="answer-area" class="answer-area" role="region" aria-label="Selected French words" aria-live="polite">
+                            <!-- Selected words will appear here -->
+                        </div>
+                    </div>
+
+                    <div class="word-options">
+                        <div id="word-bank" class="word-bank" role="group" aria-label="Available French words">
+                            <!-- Word options will appear here -->
+                        </div>
+                    </div>
+
+                    <div class="game-controls" role="toolbar" aria-label="Game controls">
+                        <button id="clear-btn" class="btn btn-secondary" aria-label="Clear selected words">Clear</button>
+                        <button id="check-btn" class="btn btn-primary" aria-label="Check your French sentence">Check Answer</button>
+                        <button id="hint-btn" class="btn btn-hint" aria-label="Get a hint for the current question">Hint</button>
+                        <button id="replay-btn" class="btn btn-audio" aria-label="Replay French pronunciation">🔊 Replay</button>
+                        <button id="next-btn" class="btn btn-success" style="display: none;" aria-label="Go to next question">Next Question</button>
+                    </div>
+
+                    <div id="feedback" class="feedback" role="status" aria-live="assertive" aria-label="Answer feedback"></div>
+                    <div id="explanation" class="explanation" role="region" aria-label="Grammar explanation" aria-live="polite"></div>
+                </div>
+            </div>
+
+            <div class="stats-panel" role="complementary" aria-label="Session statistics">
+                <h3>Session Stats</h3>
+                <div class="stat-item">
+                    <span>Correct Answers:</span>
+                    <span id="correct-count">0</span>
+                </div>
+                <div class="stat-item">
+                    <span>Total Questions:</span>
+                    <span id="total-count">0</span>
+                </div>
+                <div class="stat-item">
+                    <span>Accuracy:</span>
+                    <span id="accuracy">0%</span>
+                </div>
+                <div class="stat-item">
+                    <span>Best Streak:</span>
+                    <span id="best-streak">0</span>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // Dynamic data loading
+        let GAME_DATA = {};
+        let isDataLoaded = false;
+
+        // Available levels and topics structure
+        const AVAILABLE_TOPICS = {
+            "A1": ["basic", "colors", "family", "greetings", "numbers"],
+            "A2": ["food", "daily-routine", "hobbies", "transportation", "work"],
+            "B1": ["conditionals", "future", "opinions", "past-tense", "travel"],
+            "B2": ["abstract", "business", "complex", "literature", "subjunctive"]
+        };
+
+        // Load all topic data dynamically
+        async function loadAllTopics() {
+            if (isDataLoaded) return;
+
+            console.log('🔄 Loading all French topics...');
+            document.getElementById('english-text').textContent = 'Loading French topics... Please wait!';
+
+            let loadedCount = 0;
+            let totalTopics = 0;
+
+            // Calculate total topics
+            for (const topics of Object.values(AVAILABLE_TOPICS)) {
+                totalTopics += topics.length;
+            }
+
+            for (const [level, topics] of Object.entries(AVAILABLE_TOPICS)) {
+                GAME_DATA[level] = {};
+
+                for (const topic of topics) {
+                    try {
+                        const response = await fetch(`data/sentences/${level}/${topic}.json`);
+                        if (response.ok) {
+                            const jsonData = await response.json();
+                            // Handle both formats: direct array or object with sentences property
+                            const sentences = Array.isArray(jsonData) ? jsonData : jsonData.sentences || [];
+                            GAME_DATA[level][topic] = sentences;
+                            loadedCount++;
+                            console.log(`✅ Loaded ${level}/${topic}: ${sentences.length} sentences`);
+                            document.getElementById('english-text').textContent = `Loading topics... ${loadedCount}/${totalTopics}`;
+                        } else {
+                            console.log(`⚠️ Topic ${level}/${topic} not found, skipping...`);
+                        }
+                    } catch (error) {
+                        console.log(`❌ Error loading ${level}/${topic}:`, error.message);
+                    }
+                }
+            }
+
+            isDataLoaded = true;
+            console.log('🎯 All available topics loaded!');
+
+            // Trigger topic population after data is loaded
+            if (window.gameInstance) {
+                window.gameInstance.populateTopics();
+                document.getElementById('english-text').textContent = 'Select a level and topic to start!';
+            }
+        }
+
+        // Game Logic
+        class FrenchGame {
+            constructor() {
+                this.currentSentences = [];
+                this.currentIndex = 0;
+                this.selectedWords = [];
+                this.score = 0;
+                this.streak = 0;
+                this.totalCount = 0;
+                this.correctCount = 0;
+
+                this.init();
+            }
+
+            async init() {
+                await loadAllTopics();
+                this.populateTopics();
+                this.bindEvents();
+            }
+
+            populateTopics() {
+                const topicSelect = document.getElementById('topic');
+                topicSelect.innerHTML = '<option value="">Choose a topic...</option>';
+
+                // Count sentences for each topic
+                const topicCounts = {};
+                for (const [level, topics] of Object.entries(GAME_DATA)) {
+                    for (const [topicName, sentences] of Object.entries(topics)) {
+                        if (sentences && sentences.length > 0) {
+                            topicCounts[topicName] = sentences.length;
+                        }
+                    }
+                }
+
+                // Add all unique topics with counts, grouped by level
+                for (const [level, topics] of Object.entries(AVAILABLE_TOPICS)) {
+                    const optgroup = document.createElement('optgroup');
+                    optgroup.label = `${level} Level`;
+
+                    topics.forEach(topic => {
+                        if (topicCounts[topic]) {
+                            const option = document.createElement('option');
+                            option.value = topic;
+                            option.textContent = topic;
+                            optgroup.appendChild(option);
+                        }
+                    });
+
+                    if (optgroup.children.length > 0) {
+                        topicSelect.appendChild(optgroup);
+                    }
+                }
+
+                console.log('✅ Topics populated');
+            }
+
+            bindEvents() {
+                document.getElementById('level').addEventListener('change', () => this.loadSentences());
+                document.getElementById('topic').addEventListener('change', () => this.loadSentences());
+                document.getElementById('clear-btn').addEventListener('click', () => this.clearAnswer());
+                document.getElementById('check-btn').addEventListener('click', () => this.checkAnswer());
+                document.getElementById('next-btn').addEventListener('click', () => this.nextQuestion());
+                document.getElementById('hint-btn').addEventListener('click', () => this.showHint());
+                document.getElementById('replay-btn').addEventListener('click', () => this.replayAudio());
+            }
+
+            loadSentences() {
+                const level = document.getElementById('level').value;
+                const topic = document.getElementById('topic').value;
+
+                console.log(`Loading ${level} - ${topic}`);
+
+                // Handle random modes
+                if (level.startsWith('RANDOM_')) {
+                    this.loadRandomSentences(level);
+                    return;
+                }
+
+                if (!topic) {
+                    document.getElementById('english-text').textContent = 'Please select a topic to start!';
+                    document.getElementById('word-bank').innerHTML = '';
+                    return;
+                }
+
+                // Find sentences in selected level that matches the topic
+                let foundSentences = null;
+                let foundLevel = '';
+
+                // For mixed levels (e.g., "A1,A2")
+                if (level.includes(',')) {
+                    const levels = level.split(',');
+                    for (const singleLevel of levels) {
+                        if (GAME_DATA[singleLevel] && GAME_DATA[singleLevel][topic]) {
+                            foundSentences = GAME_DATA[singleLevel][topic];
+                            foundLevel = singleLevel;
+                            break;
+                        }
+                    }
+                } else {
+                    // Single level
+                    if (GAME_DATA[level] && GAME_DATA[level][topic]) {
+                        foundSentences = GAME_DATA[level][topic];
+                        foundLevel = level;
+                    }
+                }
+
+                if (foundSentences && foundSentences.length > 0) {
+                    // Always shuffle questions for random order
+                    this.currentSentences = [...foundSentences]; // Create a copy
+                    this.shuffleArray(this.currentSentences); // Shuffle the questions
+                    this.currentIndex = 0;
+                    this.showQuestion();
+
+                    console.log(`✅ Loaded ${this.currentSentences.length} sentences for ${foundLevel} - ${topic} (shuffled)`);
+                } else {
+                    console.log(`❌ No data found for topic: ${topic}`);
+                    document.getElementById('english-text').textContent = 'Topic not found. Please select a different topic!';
+                    document.getElementById('word-bank').innerHTML = '';
+                }
+            }
+
+            loadRandomSentences(randomType) {
+                let allSentences = [];
+
+                if (randomType === 'RANDOM_A1') {
+                    if (GAME_DATA.A1) {
+                        for (const topic of Object.values(GAME_DATA.A1)) {
+                            if (topic && topic.length > 0) {
+                                allSentences = allSentences.concat(topic);
+                            }
+                        }
+                    }
+                } else if (randomType === 'RANDOM_A2') {
+                    if (GAME_DATA.A2) {
+                        for (const topic of Object.values(GAME_DATA.A2)) {
+                            if (topic && topic.length > 0) {
+                                allSentences = allSentences.concat(topic);
+                            }
+                        }
+                    }
+                } else if (randomType === 'RANDOM_B1') {
+                    if (GAME_DATA.B1) {
+                        for (const topic of Object.values(GAME_DATA.B1)) {
+                            if (topic && topic.length > 0) {
+                                allSentences = allSentences.concat(topic);
+                            }
+                        }
+                    }
+                } else if (randomType === 'RANDOM_B2') {
+                    if (GAME_DATA.B2) {
+                        for (const topic of Object.values(GAME_DATA.B2)) {
+                            if (topic && topic.length > 0) {
+                                allSentences = allSentences.concat(topic);
+                            }
+                        }
+                    }
+                } else if (randomType === 'RANDOM_ALL') {
+                    // Get all sentences from all levels
+                    for (const level of Object.values(GAME_DATA)) {
+                        for (const topic of Object.values(level)) {
+                            if (topic && topic.length > 0) {
+                                allSentences = allSentences.concat(topic);
+                            }
+                        }
+                    }
+                }
+
+                if (allSentences.length === 0) {
+                    document.getElementById('english-text').textContent = 'No sentences available for this random mode.';
+                    return;
+                }
+
+                // Shuffle the sentences multiple times for maximum randomness
+                this.shuffleArray(allSentences);
+                this.shuffleArray(allSentences); // Double shuffle for extra randomness
+
+                // Take random selection for random mode
+                this.currentSentences = allSentences.slice(0, Math.min(20, allSentences.length));
+                this.shuffleArray(this.currentSentences); // Shuffle the selected ones again
+                this.currentIndex = 0;
+
+                console.log(`✅ Loaded ${this.currentSentences.length} random sentences for ${randomType}`);
+                document.getElementById('english-text').textContent = 'Random mode active! Mix of different topics.';
+
+                // Small delay then show first question
+                setTimeout(() => {
+                    this.showQuestion();
+                }, 1000);
+            }
+
+            shuffleArray(array) {
+                // Fisher-Yates shuffle with extra randomness
+                for (let i = array.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [array[i], array[j]] = [array[j], array[i]];
+                }
+
+                // Additional random swaps for extra shuffling
+                for (let i = 0; i < array.length / 2; i++) {
+                    const randomIndex1 = Math.floor(Math.random() * array.length);
+                    const randomIndex2 = Math.floor(Math.random() * array.length);
+                    [array[randomIndex1], array[randomIndex2]] = [array[randomIndex2], array[randomIndex1]];
+                }
+            }
+
+            showQuestion() {
+                if (!this.currentSentences.length || this.currentIndex >= this.currentSentences.length) {
+                    document.getElementById('english-text').textContent = 'No more questions! Great job!';
+                    document.getElementById('word-bank').innerHTML = '';
+                    return;
+                }
+
+                const sentence = this.currentSentences[this.currentIndex];
+                document.getElementById('english-text').textContent = sentence.english;
+
+                // Show shuffled word options (shuffle every time)
+                const shuffledWords = [...sentence.wordOptions];
+                this.shuffleArray(shuffledWords);
+                this.showWordOptions(shuffledWords);
+
+                // Clear previous selections
+                this.selectedWords = [];
+                document.getElementById('answer-area').innerHTML = '';
+
+                // Update progress
+                document.getElementById('progress').textContent = `${this.currentIndex + 1}/${this.currentSentences.length}`;
+
+                // Hide feedback
+                document.getElementById('feedback').textContent = '';
+                document.getElementById('explanation').textContent = '';
+                document.getElementById('next-btn').style.display = 'none';
+            }
+
+            showWordOptions(words) {
+                const wordBank = document.getElementById('word-bank');
+                wordBank.innerHTML = '';
+
+                words.forEach(word => {
+                    const wordElement = document.createElement('div');
+                    wordElement.className = 'word-option';
+                    wordElement.textContent = word;
+                    wordElement.style.cssText = `
+                        display: inline-block;
+                        margin: 5px;
+                        padding: 10px 15px;
+                        background: #667eea;
+                        color: white;
+                        border: 2px solid #667eea;
+                        border-radius: 8px;
+                        cursor: pointer;
+                        transition: all 0.3s ease;
+                        font-size: 16px;
+                        font-weight: bold;
+                        box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+                    `;
+
+                    // Add hover effect
+                    wordElement.addEventListener('mouseenter', () => {
+                        wordElement.style.backgroundColor = '#5a6fd8';
+                        wordElement.style.transform = 'translateY(-2px)';
+                    });
+
+                    wordElement.addEventListener('mouseleave', () => {
+                        if (wordElement.style.pointerEvents !== 'none') {
+                            wordElement.style.backgroundColor = '#667eea';
+                            wordElement.style.transform = 'translateY(0)';
+                        }
+                    });
+
+                    wordElement.addEventListener('click', () => this.selectWord(word, wordElement));
+                    wordBank.appendChild(wordElement);
+                });
+            }
+
+            selectWord(word, element) {
+                this.selectedWords.push(word);
+                element.style.backgroundColor = '#51cf66';
+                element.style.borderColor = '#51cf66';
+                element.style.color = 'white';
+                element.style.opacity = '0.7';
+                element.style.transform = 'scale(0.95)';
+                element.style.pointerEvents = 'none';
+
+                // Show in answer area
+                const answerArea = document.getElementById('answer-area');
+                const selectedElement = document.createElement('span');
+                selectedElement.textContent = word + ' ';
+                selectedElement.style.cssText = `
+                    display: inline-block;
+                    margin: 2px;
+                    padding: 4px 8px;
+                    background: #51cf66;
+                    color: white;
+                    border-radius: 4px;
+                `;
+                answerArea.appendChild(selectedElement);
+            }
+
+            clearAnswer() {
+                this.selectedWords = [];
+                document.getElementById('answer-area').innerHTML = '';
+
+                // Reset word options
+                const sentence = this.currentSentences[this.currentIndex];
+                if (sentence) {
+                    const shuffledWords = [...sentence.wordOptions];
+                    this.shuffleArray(shuffledWords);
+                    this.showWordOptions(shuffledWords);
+                }
+            }
+
+            checkAnswer() {
+                const sentence = this.currentSentences[this.currentIndex];
+                this.totalCount++;
+
+                const userAnswer = this.selectedWords.join(' ');
+                const correctAnswer = sentence.correctFrench.join(' ');
+
+                if (userAnswer === correctAnswer) {
+                    this.score += 10;
+                    this.streak++;
+                    this.correctCount++;
+                    document.getElementById('feedback').innerHTML = '🎉 Correct! Well done!';
+                    document.getElementById('feedback').style.color = '#51cf66';
+
+                    // Auto-play pronunciation on correct answer
+                    setTimeout(() => {
+                        this.playPronunciation(sentence.correctFrench.join(' '));
+                    }, 500); // Small delay so user hears success sound first
+                } else {
+                    this.streak = 0;
+                    document.getElementById('feedback').innerHTML = '❌ Not quite right. Try again!';
+                    document.getElementById('feedback').style.color = '#ff6b6b';
+                }
+
+                document.getElementById('explanation').textContent = sentence.explanation;
+                document.getElementById('next-btn').style.display = 'inline-block';
+
+                this.updateStats();
+            }
+
+            nextQuestion() {
+                this.currentIndex++;
+                this.showQuestion();
+            }
+
+            showHint() {
+                const sentence = this.currentSentences[this.currentIndex];
+                if (sentence.correctFrench.length > 0) {
+                    const firstWord = sentence.correctFrench[0];
+                    document.getElementById('feedback').innerHTML = `💡 Hint: Start with "${firstWord}"`;
+                    document.getElementById('feedback').style.color = '#ffc107';
+                }
+            }
+
+            playPronunciation(text) {
+                if ('speechSynthesis' in window) {
+                    // Stop any current speech
+                    speechSynthesis.cancel();
+
+                    const utterance = new SpeechSynthesisUtterance(text);
+                    utterance.lang = 'fr-FR';
+                    utterance.rate = 0.7; // Slightly slower for learning
+                    utterance.pitch = 1.0;
+                    utterance.volume = 1.0;
+
+                    // Try to use a French voice if available
+                    const voices = speechSynthesis.getVoices();
+                    const frenchVoice = voices.find(voice =>
+                        voice.lang.includes('fr') || voice.name.includes('French')
+                    );
+                    if (frenchVoice) {
+                        utterance.voice = frenchVoice;
+                    }
+
+                    speechSynthesis.speak(utterance);
+                    console.log(`🔊 Playing pronunciation: ${text}`);
+                } else {
+                    console.log('❌ Speech synthesis not supported');
+                }
+            }
+
+            replayAudio() {
+                const sentence = this.currentSentences[this.currentIndex];
+                if (sentence && sentence.correctFrench) {
+                    this.playPronunciation(sentence.correctFrench.join(' '));
+                } else {
+                    console.log('❌ No sentence to replay');
+                }
+            }
+
+            updateStats() {
+                document.getElementById('score').textContent = this.score;
+                document.getElementById('streak').textContent = this.streak;
+                document.getElementById('correct-count').textContent = this.correctCount;
+                document.getElementById('total-count').textContent = this.totalCount;
+
+                const accuracy = this.totalCount > 0 ? Math.round((this.correctCount / this.totalCount) * 100) : 0;
+                document.getElementById('accuracy').textContent = `${accuracy}%`;
+
+                // Update best streak
+                const bestStreak = parseInt(document.getElementById('best-streak').textContent) || 0;
+                if (this.streak > bestStreak) {
+                    document.getElementById('best-streak').textContent = this.streak;
+                }
+            }
+        }
+
+        // Initialize game when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            window.gameInstance = new FrenchGame();
+        });
+    </script>
+</body>
+</html>

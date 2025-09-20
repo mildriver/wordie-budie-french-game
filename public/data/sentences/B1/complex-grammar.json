@@ -1,0 +1,53 @@
+{
+  "level": "B1",
+  "topic": "complex-grammar",
+  "description": "Complex grammatical structures, relative pronouns, and advanced constructions",
+  "total_sentences": 140,
+  "sentences": [
+    {
+      "id": "b1_complex_001",
+      "english": "The book that I read yesterday was fascinating.",
+      "correctFrench": ["Le", "livre", "que", "j'ai", "lu", "hier", "était", "passionnant"],
+      "wordOptions": ["Le", "livre", "que", "j'ai", "lu", "hier", "était", "passionnant", "qui", "dont", "intéressant"],
+      "explanation": "'Que' = that/which (direct object). Relative pronoun for books.",
+      "grammar_points": ["relative_pronouns", "passe_compose", "book_descriptions"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_complex_002",
+      "english": "The person whose car is parked outside is my neighbor.",
+      "correctFrench": ["La", "personne", "dont", "la", "voiture", "est", "garée", "dehors", "est", "mon", "voisin"],
+      "wordOptions": ["La", "personne", "dont", "la", "voiture", "est", "garée", "dehors", "est", "mon", "voisin", "que", "qui"],
+      "explanation": "'Dont' = whose/of which. Possession relationship with relative pronoun.",
+      "grammar_points": ["possessive_relatives", "neighborhood_vocabulary", "parking"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_complex_003",
+      "english": "What worries me is the lack of communication.",
+      "correctFrench": ["Ce", "qui", "m'inquiète", "c'est", "le", "manque", "de", "communication"],
+      "wordOptions": ["Ce", "qui", "m'inquiète", "c'est", "le", "manque", "de", "communication", "que", "dont"],
+      "explanation": "'Ce qui' = what (subject). Emphasis construction with 'c'est'.",
+      "grammar_points": ["ce_qui_constructions", "worry_expressions", "communication_issues"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_complex_004",
+      "english": "The way he speaks suggests he's nervous.",
+      "correctFrench": ["La", "façon", "dont", "il", "parle", "suggère", "qu'il", "est", "nerveux"],
+      "wordOptions": ["La", "façon", "dont", "il", "parle", "suggère", "qu'il", "est", "nerveux", "manière", "que"],
+      "explanation": "'La façon dont' = the way that. Manner expressions with 'dont'.",
+      "grammar_points": ["manner_expressions", "behavioral_observation", "emotional_states"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_complex_005",
+      "english": "Having finished the project, we celebrated.",
+      "correctFrench": ["Ayant", "fini", "le", "projet", "nous", "avons", "fêté"],
+      "wordOptions": ["Ayant", "fini", "le", "projet", "nous", "avons", "fêté", "Après", "avoir", "célébré"],
+      "explanation": "Participe présent composé: 'ayant fini' = having finished. Literary style.",
+      "grammar_points": ["participe_present", "project_completion", "celebration"],
+      "difficulty": 3.8
+    }
+  ]
+}

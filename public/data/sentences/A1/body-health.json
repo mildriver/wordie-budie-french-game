@@ -1,0 +1,188 @@
+{
+  "level": "A1",
+  "topic": "body-health",
+  "description": "Body parts, health, feelings, and basic medical vocabulary",
+  "total_sentences": 90,
+  "sentences": [
+    {
+      "id": "a1_body_001",
+      "english": "My head hurts.",
+      "correctFrench": ["J'ai", "mal", "à", "la", "tête"],
+      "wordOptions": ["J'ai", "mal", "à", "la", "tête", "Mon", "fait", "au", "le", "dos", "ventre"],
+      "explanation": "'Avoir mal à' = to hurt/ache. 'La tête' = head (feminine).",
+      "grammar_points": ["health_expressions", "body_parts"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_body_002",
+      "english": "She has blue eyes.",
+      "correctFrench": ["Elle", "a", "les", "yeux", "bleus"],
+      "wordOptions": ["Elle", "a", "les", "yeux", "bleus", "des", "œil", "verts", "marron", "noirs", "bruns"],
+      "explanation": "'Les yeux' = eyes (masculine plural). 'Bleus' (masculine plural adjective).",
+      "grammar_points": ["body_parts", "color_adjectives", "physical_description"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_body_003",
+      "english": "I brush my teeth.",
+      "correctFrench": ["Je", "me", "brosse", "les", "dents"],
+      "wordOptions": ["Je", "me", "brosse", "les", "dents", "lave", "la", "dent", "cheveux", "mains"],
+      "explanation": "'Se brosser' = to brush (reflexive). 'Les dents' = teeth (feminine plural).",
+      "grammar_points": ["reflexive_verbs", "hygiene_activities", "body_parts"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_body_004",
+      "english": "The baby has small hands.",
+      "correctFrench": ["Le", "bébé", "a", "de", "petites", "mains"],
+      "wordOptions": ["Le", "bébé", "a", "de", "petites", "mains", "des", "petit", "grandes", "pieds", "doigts"],
+      "explanation": "'De petites mains' = small hands. 'De' replaces 'des' before adjective + noun.",
+      "grammar_points": ["body_parts", "size_adjectives", "de_replacement"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_body_005",
+      "english": "I am tired.",
+      "correctFrench": ["Je", "suis", "fatigué"],
+      "wordOptions": ["Je", "suis", "fatigué", "fatiguée", "malade", "content", "triste", "heureux"],
+      "explanation": "'Fatigué' = tired (masculine). Use 'fatiguée' for feminine subjects.",
+      "grammar_points": ["feelings_adjectives", "être_conjugation"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_body_006",
+      "english": "He has long hair.",
+      "correctFrench": ["Il", "a", "les", "cheveux", "longs"],
+      "wordOptions": ["Il", "a", "les", "cheveux", "longs", "des", "cheveu", "courts", "blonds", "bruns", "roux"],
+      "explanation": "'Les cheveux' = hair (masculine plural). 'Longs' (masculine plural adjective).",
+      "grammar_points": ["body_parts", "physical_description", "adjective_agreement"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_body_007",
+      "english": "My stomach is empty.",
+      "correctFrench": ["Mon", "estomac", "est", "vide"],
+      "wordOptions": ["Mon", "estomac", "est", "vide", "Ma", "ventre", "plein", "malade", "affamé", "rassasié"],
+      "explanation": "'Mon estomac' = my stomach (masculine). 'Vide' = empty.",
+      "grammar_points": ["body_parts", "possessive_adjectives", "health_states"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_body_008",
+      "english": "She washes her face.",
+      "correctFrench": ["Elle", "se", "lave", "le", "visage"],
+      "wordOptions": ["Elle", "se", "lave", "le", "visage", "la", "figure", "mains", "cheveux", "corps"],
+      "explanation": "'Se laver' = to wash oneself. 'Le visage' = face (masculine).",
+      "grammar_points": ["reflexive_verbs", "hygiene_activities", "body_parts"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_body_009",
+      "english": "I have a cold.",
+      "correctFrench": ["J'ai", "un", "rhume"],
+      "wordOptions": ["J'ai", "un", "rhume", "la", "grippe", "fièvre", "mal", "tête", "gorge"],
+      "explanation": "'Un rhume' = a cold (illness). Common health expression.",
+      "grammar_points": ["health_vocabulary", "avoir_expressions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_body_010",
+      "english": "The doctor examines the patient.",
+      "correctFrench": ["Le", "docteur", "examine", "le", "patient"],
+      "wordOptions": ["Le", "docteur", "examine", "le", "patient", "médecin", "la", "patiente", "soigne", "traite"],
+      "explanation": "'Le docteur' = doctor. 'Examiner' = to examine. Medical vocabulary.",
+      "grammar_points": ["medical_vocabulary", "professional_activities"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_body_011",
+      "english": "My feet are cold.",
+      "correctFrench": ["Mes", "pieds", "sont", "froids"],
+      "wordOptions": ["Mes", "pieds", "sont", "froids", "Mon", "pied", "froid", "chauds", "mouillés", "secs"],
+      "explanation": "'Mes pieds' = my feet (masculine plural). 'Froids' (masculine plural adjective).",
+      "grammar_points": ["body_parts", "temperature_adjectives", "possessive_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_body_012",
+      "english": "She smiles with her mouth.",
+      "correctFrench": ["Elle", "sourit", "avec", "sa", "bouche"],
+      "wordOptions": ["Elle", "sourit", "avec", "sa", "bouche", "souris", "son", "lèvres", "dents", "langue"],
+      "explanation": "'Sourire' = to smile (irregular). 'Sa bouche' = her mouth (feminine).",
+      "grammar_points": ["facial_expressions", "body_parts", "irregular_verbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_body_013",
+      "english": "I feel good.",
+      "correctFrench": ["Je", "me", "sens", "bien"],
+      "wordOptions": ["Je", "me", "sens", "bien", "suis", "vais", "mal", "mieux", "fatigué", "malade"],
+      "explanation": "'Se sentir' = to feel (reflexive). 'Bien' = good/well.",
+      "grammar_points": ["reflexive_verbs", "health_expressions", "feelings"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_body_014",
+      "english": "His nose is big.",
+      "correctFrench": ["Son", "nez", "est", "gros"],
+      "wordOptions": ["Son", "nez", "est", "gros", "Sa", "grosse", "petit", "long", "court", "pointu"],
+      "explanation": "'Son nez' = his nose (masculine). 'Gros' = big/fat (masculine).",
+      "grammar_points": ["body_parts", "size_adjectives", "possessive_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_body_015",
+      "english": "I need glasses to see.",
+      "correctFrench": ["J'ai", "besoin", "de", "lunettes", "pour", "voir"],
+      "wordOptions": ["J'ai", "besoin", "de", "lunettes", "pour", "voir", "des", "lentilles", "regarder", "lire"],
+      "explanation": "'Avoir besoin de' = to need. 'Des lunettes' = glasses. 'Pour' + infinitive.",
+      "grammar_points": ["expressing_need", "vision_vocabulary", "purpose_expressions"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_body_016",
+      "english": "The nurse takes my temperature.",
+      "correctFrench": ["L'infirmière", "prend", "ma", "température"],
+      "wordOptions": ["L'infirmière", "prend", "ma", "température", "infirmier", "la", "tension", "pouls", "mesure"],
+      "explanation": "'L'infirmière' = nurse (feminine). 'Prendre la température' = take temperature.",
+      "grammar_points": ["medical_vocabulary", "medical_procedures"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_body_017",
+      "english": "My back hurts a lot.",
+      "correctFrench": ["J'ai", "très", "mal", "au", "dos"],
+      "wordOptions": ["J'ai", "très", "mal", "au", "dos", "beaucoup", "à", "la", "le", "cou", "bras"],
+      "explanation": "'Très mal au dos' = back hurts a lot. 'Au dos' = à + le dos.",
+      "grammar_points": ["health_expressions", "intensifiers", "contracted_articles"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_body_018",
+      "english": "She has strong arms.",
+      "correctFrench": ["Elle", "a", "les", "bras", "forts"],
+      "wordOptions": ["Elle", "a", "les", "bras", "forts", "des", "bras", "fort", "faibles", "musclés", "longs"],
+      "explanation": "'Les bras' = arms (masculine plural). 'Forts' (masculine plural adjective).",
+      "grammar_points": ["body_parts", "strength_adjectives", "physical_description"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_body_019",
+      "english": "I go to the dentist.",
+      "correctFrench": ["Je", "vais", "chez", "le", "dentiste"],
+      "wordOptions": ["Je", "vais", "chez", "le", "dentiste", "va", "à", "la", "médecin", "docteur", "pharmacie"],
+      "explanation": "'Aller chez' = to go to (professional). 'Le dentiste' = dentist.",
+      "grammar_points": ["medical_appointments", "preposition_chez", "aller_conjugation"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_body_020",
+      "english": "The heart beats fast.",
+      "correctFrench": ["Le", "cœur", "bat", "vite"],
+      "wordOptions": ["Le", "cœur", "bat", "vite", "La", "battement", "lentement", "fort", "doucement", "régulièrement"],
+      "explanation": "'Le cœur' = heart (masculine). 'Battre' = to beat. 'Vite' = fast.",
+      "grammar_points": ["body_parts", "body_functions", "speed_adverbs"],
+      "difficulty": 1.4
+    }
+  ]
+}
