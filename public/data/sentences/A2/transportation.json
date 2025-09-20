@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "topic": "transportation",
+  "description": "Transportation, travel, vehicles, and getting around",
+  "total_sentences": 110,
+  "sentences": [
+    {
+      "id": "a2_transport_001",
+      "english": "I take the bus to work every day.",
+      "correctFrench": ["Je", "prends", "le", "bus", "pour", "aller", "au", "travail", "tous", "les", "jours"],
+      "wordOptions": ["Je", "prends", "le", "bus", "pour", "aller", "au", "travail", "tous", "les", "jours", "métro", "chaque"],
+      "explanation": "'Prendre le bus' = to take the bus. 'Pour aller au travail' = to go to work.",
+      "grammar_points": ["transportation_verbs", "purpose_expressions", "frequency"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_002",
+      "english": "The train arrives at 3 PM.",
+      "correctFrench": ["Le", "train", "arrive", "à", "15", "heures"],
+      "wordOptions": ["Le", "train", "arrive", "à", "15", "heures", "trois", "quinze", "part", "gare"],
+      "explanation": "'Arriver à' = to arrive at. 24-hour time: 15 heures = 3 PM.",
+      "grammar_points": ["transportation_vocabulary", "time_expressions", "arrival_departure"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_003",
+      "english": "She drives her car to the mall.",
+      "correctFrench": ["Elle", "conduit", "sa", "voiture", "au", "centre", "commercial"],
+      "wordOptions": ["Elle", "conduit", "sa", "voiture", "au", "centre", "commercial", "roule", "magasin", "galerie"],
+      "explanation": "'Conduire' = to drive (irregular). 'Au centre commercial' = to the mall.",
+      "grammar_points": ["driving_vocabulary", "possessive_adjectives", "locations"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_transport_004",
+      "english": "We need to buy metro tickets.",
+      "correctFrench": ["Nous", "devons", "acheter", "des", "tickets", "de", "métro"],
+      "wordOptions": ["Nous", "devons", "acheter", "des", "tickets", "de", "métro", "billets", "cartes", "passes"],
+      "explanation": "'Devoir acheter' = need to buy. 'Des tickets de métro' = metro tickets.",
+      "grammar_points": ["modal_verbs", "public_transport", "ticket_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_005",
+      "english": "The airplane took off on time.",
+      "correctFrench": ["L'avion", "a", "décollé", "à", "l'heure"],
+      "wordOptions": ["L'avion", "a", "décollé", "à", "l'heure", "décollait", "atterri", "en", "retard", "avance"],
+      "explanation": "Passé composé: a décollé. 'Décoller' = to take off. 'À l'heure' = on time.",
+      "grammar_points": ["air_travel", "passe_compose", "punctuality_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_006",
+      "english": "I'm waiting for the taxi.",
+      "correctFrench": ["J'attends", "le", "taxi"],
+      "wordOptions": ["J'attends", "le", "taxi", "attend", "taxi", "Uber", "bus", "métro", "tramway"],
+      "explanation": "'Attendre' = to wait for (no preposition needed). Present continuous context.",
+      "grammar_points": ["waiting_expressions", "transportation_services"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_transport_007",
+      "english": "The bicycle has a flat tire.",
+      "correctFrench": ["Le", "vélo", "a", "un", "pneu", "crevé"],
+      "wordOptions": ["Le", "vélo", "a", "un", "pneu", "crevé", "La", "bicyclette", "roue", "pneus", "dégonflé"],
+      "explanation": "'Le vélo' = bicycle. 'Un pneu crevé' = a flat tire. Vehicle problems.",
+      "grammar_points": ["vehicle_problems", "bicycle_vocabulary", "adjective_agreement"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_008",
+      "english": "He rides his motorcycle to school.",
+      "correctFrench": ["Il", "va", "à", "l'école", "en", "moto"],
+      "wordOptions": ["Il", "va", "à", "l'école", "en", "moto", "conduit", "sa", "motocyclette", "scooter"],
+      "explanation": "'Aller en moto' = to go by motorcycle. Transportation prepositions.",
+      "grammar_points": ["transportation_prepositions", "school_vocabulary", "vehicle_types"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_009",
+      "english": "The subway is crowded during rush hour.",
+      "correctFrench": ["Le", "métro", "est", "bondé", "aux", "heures", "de", "pointe"],
+      "wordOptions": ["Le", "métro", "est", "bondé", "aux", "heures", "de", "pointe", "plein", "vide", "pendant"],
+      "explanation": "'Bondé' = crowded. 'Aux heures de pointe' = during rush hour.",
+      "grammar_points": ["public_transport", "time_expressions", "crowd_adjectives"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_transport_010",
+      "english": "We walk to the nearby station.",
+      "correctFrench": ["Nous", "marchons", "jusqu'à", "la", "gare", "proche"],
+      "wordOptions": ["Nous", "marchons", "jusqu'à", "la", "gare", "proche", "allons", "à", "pied", "station"],
+      "explanation": "'Marcher jusqu'à' = to walk to. 'La gare proche' = the nearby station.",
+      "grammar_points": ["walking_vocabulary", "distance_expressions", "stations"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_011",
+      "english": "The ship sails across the ocean.",
+      "correctFrench": ["Le", "bateau", "navigue", "à", "travers", "l'océan"],
+      "wordOptions": ["Le", "bateau", "navigue", "à", "travers", "l'océan", "navire", "traverse", "mer", "sur"],
+      "explanation": "'Naviguer' = to sail. 'À travers l'océan' = across the ocean.",
+      "grammar_points": ["water_transport", "navigation_verbs", "geographical_features"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_012",
+      "english": "I forgot my bus pass at home.",
+      "correctFrench": ["J'ai", "oublié", "ma", "carte", "de", "bus", "à", "la", "maison"],
+      "wordOptions": ["J'ai", "oublié", "ma", "carte", "de", "bus", "à", "la", "maison", "laissé", "pass", "chez", "moi"],
+      "explanation": "Passé composé: j'ai oublié. 'Ma carte de bus' = my bus pass. 'À la maison' = at home.",
+      "grammar_points": ["passe_compose", "forgetfulness_expressions", "transport_cards"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_013",
+      "english": "The car needs gasoline.",
+      "correctFrench": ["La", "voiture", "a", "besoin", "d'essence"],
+      "wordOptions": ["La", "voiture", "a", "besoin", "d'essence", "manque", "carburant", "diesel", "pétrole"],
+      "explanation": "'Avoir besoin de' = to need. 'L'essence' = gasoline. Vehicle maintenance.",
+      "grammar_points": ["expressing_need", "fuel_vocabulary", "vehicle_maintenance"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_014",
+      "english": "She missed the last train.",
+      "correctFrench": ["Elle", "a", "raté", "le", "dernier", "train"],
+      "wordOptions": ["Elle", "a", "raté", "le", "dernier", "train", "manqué", "loupé", "premier", "prochain"],
+      "explanation": "Passé composé: a raté. 'Rater' = to miss (transportation). 'Le dernier train' = last train.",
+      "grammar_points": ["passe_compose", "missing_transport", "ordinal_numbers"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_015",
+      "english": "Traffic is heavy this morning.",
+      "correctFrench": ["La", "circulation", "est", "dense", "ce", "matin"],
+      "wordOptions": ["La", "circulation", "est", "dense", "ce", "matin", "Le", "trafic", "fluide", "bouchons", "embouteillages"],
+      "explanation": "'La circulation' = traffic. 'Dense' = heavy (traffic). 'Ce matin' = this morning.",
+      "grammar_points": ["traffic_vocabulary", "traffic_conditions", "time_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_016",
+      "english": "I prefer traveling by train.",
+      "correctFrench": ["Je", "préfère", "voyager", "en", "train"],
+      "wordOptions": ["Je", "préfère", "voyager", "en", "train", "par", "le", "avion", "voiture", "bus"],
+      "explanation": "'Préférer' = to prefer. 'Voyager en train' = to travel by train.",
+      "grammar_points": ["travel_preferences", "transportation_prepositions", "travel_verbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_transport_017",
+      "english": "The driver honks the horn.",
+      "correctFrench": ["Le", "conducteur", "klaxonne"],
+      "wordOptions": ["Le", "conducteur", "klaxonne", "La", "conductrice", "chauffeur", "sonne", "avertit"],
+      "explanation": "'Le conducteur' = driver. 'Klaxonner' = to honk. Driving behaviors.",
+      "grammar_points": ["driving_vocabulary", "vehicle_sounds", "driver_actions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_018",
+      "english": "We parked in the underground garage.",
+      "correctFrench": ["Nous", "avons", "garé", "dans", "le", "parking", "souterrain"],
+      "wordOptions": ["Nous", "avons", "garé", "dans", "le", "parking", "souterrain", "garons", "garage", "sous-sol"],
+      "explanation": "Passé composé: avons garé. 'Le parking souterrain' = underground parking.",
+      "grammar_points": ["passe_compose", "parking_vocabulary", "building_features"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_019",
+      "english": "The boat docks at the harbor.",
+      "correctFrench": ["Le", "bateau", "accoste", "au", "port"],
+      "wordOptions": ["Le", "bateau", "accoste", "au", "port", "arrive", "entre", "dans", "le", "quai", "marina"],
+      "explanation": "'Accoster' = to dock. 'Au port' = at the harbor. Maritime vocabulary.",
+      "grammar_points": ["maritime_vocabulary", "docking_verbs", "harbor_facilities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_020",
+      "english": "I need directions to the airport.",
+      "correctFrench": ["J'ai", "besoin", "d'indications", "pour", "l'aéroport"],
+      "wordOptions": ["J'ai", "besoin", "d'indications", "pour", "l'aéroport", "directions", "aller", "à", "vers"],
+      "explanation": "'Avoir besoin d'indications' = to need directions. 'Pour l'aéroport' = to the airport.",
+      "grammar_points": ["asking_directions", "expressing_need", "airport_vocabulary"],
+      "difficulty": 2.3
+    }
+  ]
+}

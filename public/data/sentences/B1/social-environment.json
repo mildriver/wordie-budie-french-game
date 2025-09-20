@@ -1,0 +1,53 @@
+{
+  "level": "B1",
+  "topic": "social-environment",
+  "description": "Social issues, environmental concerns, and contemporary topics",
+  "total_sentences": 130,
+  "sentences": [
+    {
+      "id": "b1_social_001",
+      "english": "Climate change is one of the biggest challenges facing humanity.",
+      "correctFrench": ["Le", "changement", "climatique", "est", "l'un", "des", "plus", "grands", "défis", "auxquels", "l'humanité", "fait", "face"],
+      "wordOptions": ["Le", "changement", "climatique", "est", "l'un", "des", "plus", "grands", "défis", "auxquels", "l'humanité", "fait", "face", "problèmes"],
+      "explanation": "'L'un des plus grands' = one of the biggest. 'Auxquels' = to which (relative).",
+      "grammar_points": ["superlative_expressions", "environmental_vocabulary", "complex_relatives"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_social_002",
+      "english": "Social media has changed the way we communicate.",
+      "correctFrench": ["Les", "réseaux", "sociaux", "ont", "changé", "la", "façon", "dont", "nous", "communiquons"],
+      "wordOptions": ["Les", "réseaux", "sociaux", "ont", "changé", "la", "façon", "dont", "nous", "communiquons", "manière", "que"],
+      "explanation": "'Les réseaux sociaux' = social media. 'La façon dont' = the way that.",
+      "grammar_points": ["social_media", "communication_change", "manner_expressions"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_social_003",
+      "english": "It's essential that we reduce our carbon footprint.",
+      "correctFrench": ["Il", "est", "essentiel", "que", "nous", "réduisions", "notre", "empreinte", "carbone"],
+      "wordOptions": ["Il", "est", "essentiel", "que", "nous", "réduisions", "notre", "empreinte", "carbone", "réduisons"],
+      "explanation": "'Il est essentiel que' + subjunctive. Environmental necessity.",
+      "grammar_points": ["subjunctive_necessity", "environmental_action", "carbon_footprint"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_social_004",
+      "english": "Despite economic difficulties, solidarity remains strong.",
+      "correctFrench": ["Malgré", "les", "difficultés", "économiques", "la", "solidarité", "reste", "forte"],
+      "wordOptions": ["Malgré", "les", "difficultés", "économiques", "la", "solidarité", "reste", "forte", "Bien", "que"],
+      "explanation": "'Malgré' = despite. Concession in face of challenges.",
+      "grammar_points": ["concession_expressions", "economic_challenges", "social_values"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_social_005",
+      "english": "The government should invest more in renewable energy.",
+      "correctFrench": ["Le", "gouvernement", "devrait", "investir", "davantage", "dans", "les", "énergies", "renouvelables"],
+      "wordOptions": ["Le", "gouvernement", "devrait", "investir", "davantage", "dans", "les", "énergies", "renouvelables", "plus"],
+      "explanation": "'Devrait' = should (conditional). 'Davantage' = more (formal).",
+      "grammar_points": ["conditional_advice", "government_policy", "renewable_energy"],
+      "difficulty": 3.5
+    }
+  ]
+}

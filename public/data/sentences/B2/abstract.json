@@ -1,0 +1,53 @@
+{
+  "level": "B2",
+  "topic": "abstract",
+  "description": "Abstract concepts, philosophical ideas, and complex intellectual discourse",
+  "total_sentences": 160,
+  "sentences": [
+    {
+      "id": "b2_abstract_001",
+      "english": "The concept of happiness remains subjective and culturally determined.",
+      "correctFrench": ["Le", "concept", "du", "bonheur", "demeure", "subjectif", "et", "culturellement", "déterminé"],
+      "wordOptions": ["Le", "concept", "du", "bonheur", "demeure", "subjectif", "et", "culturellement", "déterminé", "reste", "notion"],
+      "explanation": "'Demeurer' = to remain (formal). Abstract concept discussion with adverbial formation.",
+      "grammar_points": ["abstract_concepts", "cultural_relativity", "adverb_formation"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_abstract_002",
+      "english": "The paradox lies in the fact that freedom requires constraints.",
+      "correctFrench": ["Le", "paradoxe", "réside", "dans", "le", "fait", "que", "la", "liberté", "nécessite", "des", "contraintes"],
+      "wordOptions": ["Le", "paradoxe", "réside", "dans", "le", "fait", "que", "la", "liberté", "nécessite", "des", "contraintes", "se", "trouve"],
+      "explanation": "'Résider dans' = to lie in. Philosophical paradox expression.",
+      "grammar_points": ["paradox_expressions", "philosophical_concepts", "causation_abstract"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_abstract_003",
+      "english": "The dichotomy between reason and emotion has long fascinated philosophers.",
+      "correctFrench": ["La", "dichotomie", "entre", "raison", "et", "émotion", "fascine", "les", "philosophes", "depuis", "longtemps"],
+      "wordOptions": ["La", "dichotomie", "entre", "raison", "et", "émotion", "fascine", "les", "philosophes", "depuis", "longtemps", "opposition"],
+      "explanation": "'Dichotomie entre' = dichotomy between. Intellectual fascination over time.",
+      "grammar_points": ["philosophical_vocabulary", "intellectual_attraction", "temporal_duration"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_abstract_004",
+      "english": "The notion of authenticity presupposes an essential self.",
+      "correctFrench": ["La", "notion", "d'authenticité", "présuppose", "un", "soi", "essentiel"],
+      "wordOptions": ["La", "notion", "d'authenticité", "présuppose", "un", "soi", "essentiel", "concept", "implique", "moi"],
+      "explanation": "'Présupposer' = to presuppose. Abstract philosophical argumentation.",
+      "grammar_points": ["philosophical_argumentation", "identity_concepts", "presupposition"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_abstract_005",
+      "english": "The ephemeral nature of beauty enhances its poignancy.",
+      "correctFrench": ["La", "nature", "éphémère", "de", "la", "beauté", "renforce", "sa", "poignance"],
+      "wordOptions": ["La", "nature", "éphémère", "de", "la", "beauté", "renforce", "sa", "poignance", "caractère", "intensifie"],
+      "explanation": "'Éphémère' = ephemeral. 'Poignance' = poignancy. Aesthetic philosophy.",
+      "grammar_points": ["aesthetic_philosophy", "temporal_qualities", "emotional_intensity"],
+      "difficulty": 4.7
+    }
+  ]
+}

@@ -1,0 +1,2708 @@
+{
+  "level": "A1",
+  "topic": "basic",
+  "description": "Basic être and avoir sentences with simple adjectives",
+  "total_sentences": 1000,
+  "sentences": [
+    {
+      "id": "a1_basic_001",
+      "english": "I am happy.",
+      "correctFrench": ["Je", "suis", "heureux"],
+      "wordOptions": ["Je", "suis", "heureux", "Tu", "es", "heureuse", "Il", "est", "triste", "content"],
+      "explanation": "Basic être conjugation: je suis. 'Heureux' (masculine) / 'heureuse' (feminine).",
+      "grammar_points": ["être_conjugation", "adjective_agreement"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_basic_002",
+      "english": "She is tall.",
+      "correctFrench": ["Elle", "est", "grande"],
+      "wordOptions": ["Elle", "est", "grande", "Il", "ai", "grand", "petite", "petit", "Tu", "es"],
+      "explanation": "Être conjugation: elle est. 'Grande' (feminine form) agrees with 'elle'.",
+      "grammar_points": ["être_conjugation", "adjective_agreement"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_basic_003",
+      "english": "We are students.",
+      "correctFrench": ["Nous", "sommes", "étudiants"],
+      "wordOptions": ["Nous", "sommes", "étudiants", "Vous", "êtes", "étudiant", "professeurs", "élèves"],
+      "explanation": "Être conjugation: nous sommes. 'Étudiants' (masculine plural) - mixed groups use masculine.",
+      "grammar_points": ["être_conjugation", "plural_nouns"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_004",
+      "english": "You have a dog.",
+      "correctFrench": ["Tu", "as", "un", "chien"],
+      "wordOptions": ["Tu", "as", "un", "chien", "Je", "ai", "une", "chat", "chiens", "Vous", "avez"],
+      "explanation": "Avoir conjugation: tu as. 'Un chien' (masculine singular with indefinite article).",
+      "grammar_points": ["avoir_conjugation", "indefinite_articles"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_basic_005",
+      "english": "They have books.",
+      "correctFrench": ["Ils", "ont", "des", "livres"],
+      "wordOptions": ["Ils", "ont", "des", "livres", "Elles", "ai", "de", "livre", "un", "les"],
+      "explanation": "Avoir conjugation: ils ont. 'Des livres' (plural indefinite article + plural noun).",
+      "grammar_points": ["avoir_conjugation", "plural_indefinite_articles"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_006",
+      "english": "The house is big.",
+      "correctFrench": ["La", "maison", "est", "grande"],
+      "wordOptions": ["La", "maison", "est", "grande", "Le", "appartement", "ai", "grand", "petite"],
+      "explanation": "'La maison' (feminine). 'Grande' (feminine adjective) agrees with 'maison'.",
+      "grammar_points": ["definite_articles", "adjective_agreement"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_007",
+      "english": "I am French.",
+      "correctFrench": ["Je", "suis", "français"],
+      "wordOptions": ["Je", "suis", "français", "Tu", "es", "française", "anglais", "espagnol", "italien"],
+      "explanation": "Nationality adjectives: 'français' (masculine) / 'française' (feminine). No capital letter for adjectives.",
+      "grammar_points": ["être_conjugation", "nationality_adjectives"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_basic_008",
+      "english": "She has three cats.",
+      "correctFrench": ["Elle", "a", "trois", "chats"],
+      "wordOptions": ["Elle", "a", "trois", "chats", "Il", "ai", "deux", "chat", "quatre", "chiens"],
+      "explanation": "Numbers with plural nouns. 'Trois chats' (three cats - plural, no article with numbers).",
+      "grammar_points": ["avoir_conjugation", "numbers", "plural_nouns"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_009",
+      "english": "We are tired.",
+      "correctFrench": ["Nous", "sommes", "fatigués"],
+      "wordOptions": ["Nous", "sommes", "fatigués", "Vous", "êtes", "fatigué", "fatiguées", "contents", "tristes"],
+      "explanation": "Être with adjectives. 'Fatigués' (masculine plural) - default for mixed groups.",
+      "grammar_points": ["être_conjugation", "plural_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_010",
+      "english": "The car is red.",
+      "correctFrench": ["La", "voiture", "est", "rouge"],
+      "wordOptions": ["La", "voiture", "est", "rouge", "Le", "vélo", "ai", "bleu", "verte", "noire"],
+      "explanation": "'La voiture' (feminine). Color adjective 'rouge' is invariable (same for masculine/feminine).",
+      "grammar_points": ["definite_articles", "color_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_011",
+      "english": "You are nice.",
+      "correctFrench": ["Tu", "es", "gentil"],
+      "wordOptions": ["Tu", "es", "gentil", "Vous", "êtes", "gentille", "méchant", "sympa", "Je", "suis"],
+      "explanation": "Être with personality adjectives. 'Gentil' (masculine) / 'gentille' (feminine).",
+      "grammar_points": ["être_conjugation", "personality_adjectives"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_basic_012",
+      "english": "I have a sister.",
+      "correctFrench": ["J'ai", "une", "sœur"],
+      "wordOptions": ["J'ai", "une", "sœur", "Tu", "as", "un", "frère", "sœurs", "Je", "ai"],
+      "explanation": "J'ai = je + ai (contraction). 'Une sœur' (feminine family member).",
+      "grammar_points": ["avoir_conjugation", "family_members", "contractions"],
+      "difficulty": 1.0
+    },
+    {
+      "id": "a1_basic_013",
+      "english": "The students are young.",
+      "correctFrench": ["Les", "étudiants", "sont", "jeunes"],
+      "wordOptions": ["Les", "étudiants", "sont", "jeunes", "Le", "étudiant", "est", "jeune", "vieux", "âgés"],
+      "explanation": "Plural: 'les étudiants sont jeunes'. Adjective 'jeunes' agrees with plural noun.",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "plural_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_014",
+      "english": "She is a teacher.",
+      "correctFrench": ["Elle", "est", "professeure"],
+      "wordOptions": ["Elle", "est", "professeure", "Il", "ai", "professeur", "médecin", "infirmière", "Tu", "es"],
+      "explanation": "Professions with être. 'Professeure' (feminine form of teacher). No article with professions after être.",
+      "grammar_points": ["être_conjugation", "professions", "gender_agreements"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_015",
+      "english": "We have a new house.",
+      "correctFrench": ["Nous", "avons", "une", "nouvelle", "maison"],
+      "wordOptions": ["Nous", "avons", "une", "nouvelle", "maison", "Vous", "avez", "un", "nouveau", "appartement", "vieille"],
+      "explanation": "Avoir conjugation: nous avons. 'Nouvelle' (feminine form of 'new') comes before the noun.",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "adjective_agreement"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_016",
+      "english": "They are my friends.",
+      "correctFrench": ["Ce", "sont", "mes", "amis"],
+      "wordOptions": ["Ce", "sont", "mes", "amis", "Ils", "est", "mon", "ami", "amies", "copains"],
+      "explanation": "'Ce sont' (they are) for identification. 'Mes amis' (my friends - plural possessive).",
+      "grammar_points": ["demonstrative_pronouns", "possessive_adjectives", "plural_nouns"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_017",
+      "english": "I am 20 years old.",
+      "correctFrench": ["J'ai", "vingt", "ans"],
+      "wordOptions": ["J'ai", "vingt", "ans", "Je", "suis", "années", "âgé", "vieux", "jeune", "Tu", "as"],
+      "explanation": "Age expressions use 'avoir': j'ai 20 ans (literally 'I have 20 years'). 'Ans' not 'années' for age.",
+      "grammar_points": ["avoir_conjugation", "age_expressions", "numbers"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_018",
+      "english": "The books are interesting.",
+      "correctFrench": ["Les", "livres", "sont", "intéressants"],
+      "wordOptions": ["Les", "livres", "sont", "intéressants", "Le", "livre", "est", "intéressant", "ennuyeux", "difficiles"],
+      "explanation": "Plural agreement: 'les livres sont intéressants'. Masculine plural adjective ending in -s.",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "plural_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_019",
+      "english": "You have brown eyes.",
+      "correctFrench": ["Tu", "as", "les", "yeux", "marron"],
+      "wordOptions": ["Tu", "as", "les", "yeux", "marron", "Vous", "avez", "des", "œil", "bleus", "verts", "noirs"],
+      "explanation": "Body parts use definite article: 'les yeux' (the eyes). 'Marron' is invariable (doesn't change).",
+      "grammar_points": ["avoir_conjugation", "body_parts", "definite_articles", "color_adjectives"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_020",
+      "english": "She is very beautiful.",
+      "correctFrench": ["Elle", "est", "très", "belle"],
+      "wordOptions": ["Elle", "est", "très", "belle", "Il", "ai", "beau", "jolie", "moche", "assez"],
+      "explanation": "Intensifier 'très' (very). 'Belle' (feminine form of beautiful). 'Beau' → 'belle' (irregular).",
+      "grammar_points": ["être_conjugation", "intensifiers", "irregular_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_021",
+      "english": "I have a blue pen.",
+      "correctFrench": ["J'ai", "un", "stylo", "bleu"],
+      "wordOptions": ["J'ai", "un", "stylo", "bleu", "Tu", "as", "une", "rouge", "crayon", "noir"],
+      "explanation": "Color adjectives usually come after the noun. 'Un stylo bleu' (a blue pen).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "adjective_placement"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_022",
+      "english": "We are at home.",
+      "correctFrench": ["Nous", "sommes", "à", "la", "maison"],
+      "wordOptions": ["Nous", "sommes", "à", "la", "maison", "Vous", "êtes", "dans", "le", "école", "chez"],
+      "explanation": "Location with être + preposition. 'À la maison' (at home/at the house).",
+      "grammar_points": ["être_conjugation", "prepositions", "location"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_023",
+      "english": "The dog is small.",
+      "correctFrench": ["Le", "chien", "est", "petit"],
+      "wordOptions": ["Le", "chien", "est", "petit", "La", "chat", "ai", "petite", "grand", "gros"],
+      "explanation": "'Le chien' (masculine). 'Petit' (masculine adjective for small).",
+      "grammar_points": ["definite_articles", "être_conjugation", "size_adjectives"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_basic_024",
+      "english": "You have black hair.",
+      "correctFrench": ["Tu", "as", "les", "cheveux", "noirs"],
+      "wordOptions": ["Tu", "as", "les", "cheveux", "noirs", "Vous", "avez", "des", "cheveu", "blonds", "bruns"],
+      "explanation": "Body parts with definite article. 'Les cheveux noirs' (black hair - plural in French).",
+      "grammar_points": ["avoir_conjugation", "body_parts", "color_adjectives", "plural_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_025",
+      "english": "They are doctors.",
+      "correctFrench": ["Ils", "sont", "médecins"],
+      "wordOptions": ["Ils", "sont", "médecins", "Elles", "est", "médecin", "professeurs", "infirmiers", "Tu", "es"],
+      "explanation": "Professions after être (no article). 'Médecins' (plural form of doctor).",
+      "grammar_points": ["être_conjugation", "professions", "plural_nouns"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_026",
+      "english": "I am in the garden.",
+      "correctFrench": ["Je", "suis", "dans", "le", "jardin"],
+      "wordOptions": ["Je", "suis", "dans", "le", "jardin", "Tu", "es", "à", "la", "cuisine", "sur"],
+      "explanation": "Location with être + dans (in). 'Dans le jardin' (in the garden).",
+      "grammar_points": ["être_conjugation", "prepositions", "location"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_027",
+      "english": "She has a white dress.",
+      "correctFrench": ["Elle", "a", "une", "robe", "blanche"],
+      "wordOptions": ["Elle", "a", "une", "robe", "blanche", "Il", "ai", "un", "blanc", "noire", "rouge"],
+      "explanation": "Color agreement: 'blanche' (feminine form of white). 'Une robe blanche' (a white dress).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_028",
+      "english": "We are hungry.",
+      "correctFrench": ["Nous", "avons", "faim"],
+      "wordOptions": ["Nous", "avons", "faim", "Vous", "avez", "sommes", "soif", "froid", "chaud", "peur"],
+      "explanation": "Physical states with avoir: 'avoir faim' (to be hungry). Not être in French!",
+      "grammar_points": ["avoir_conjugation", "physical_states", "avoir_expressions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_029",
+      "english": "The children are playing.",
+      "correctFrench": ["Les", "enfants", "jouent"],
+      "wordOptions": ["Les", "enfants", "jouent", "Le", "enfant", "joue", "mangent", "dorment", "courent"],
+      "explanation": "Present tense: 'ils/elles jouent' (they play/are playing). 'Les enfants' (the children).",
+      "grammar_points": ["present_tense", "plural_subjects", "regular_verbs"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_030",
+      "english": "I have two brothers.",
+      "correctFrench": ["J'ai", "deux", "frères"],
+      "wordOptions": ["J'ai", "deux", "frères", "Tu", "as", "trois", "frère", "sœurs", "parents", "un"],
+      "explanation": "Numbers with family members. 'Deux frères' (two brothers - no article with numbers).",
+      "grammar_points": ["avoir_conjugation", "numbers", "family_members", "plural_nouns"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_031",
+      "english": "You are intelligent.",
+      "correctFrench": ["Tu", "es", "intelligent"],
+      "wordOptions": ["Tu", "es", "intelligent", "Vous", "êtes", "intelligente", "stupide", "bête", "Je", "suis"],
+      "explanation": "Personality adjectives. 'Intelligent' (masculine) / 'intelligente' (feminine).",
+      "grammar_points": ["être_conjugation", "personality_adjectives", "adjective_agreement"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_basic_032",
+      "english": "The table is brown.",
+      "correctFrench": ["La", "table", "est", "marron"],
+      "wordOptions": ["La", "table", "est", "marron", "Le", "chaise", "ai", "brune", "noire", "blanche"],
+      "explanation": "'La table' (feminine). 'Marron' is invariable (doesn't change for gender/number).",
+      "grammar_points": ["definite_articles", "être_conjugation", "invariable_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_033",
+      "english": "We have a big problem.",
+      "correctFrench": ["Nous", "avons", "un", "gros", "problème"],
+      "wordOptions": ["Nous", "avons", "un", "gros", "problème", "Vous", "avez", "une", "grosse", "petit", "grande"],
+      "explanation": "Adjective before noun: 'un gros problème'. 'Gros' (masculine) / 'grosse' (feminine).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "size_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_034",
+      "english": "She is my mother.",
+      "correctFrench": ["C'est", "ma", "mère"],
+      "wordOptions": ["C'est", "ma", "mère", "Elle", "est", "mon", "père", "sœur", "fille", "Il"],
+      "explanation": "'C'est' for identification. 'Ma mère' (my mother - feminine possessive).",
+      "grammar_points": ["demonstrative_pronouns", "possessive_adjectives", "family_members"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_035",
+      "english": "I am thirsty.",
+      "correctFrench": ["J'ai", "soif"],
+      "wordOptions": ["J'ai", "soif", "Je", "suis", "faim", "froid", "chaud", "peur", "Tu", "as"],
+      "explanation": "Physical states with avoir: 'avoir soif' (to be thirsty). French uses avoir, not être.",
+      "grammar_points": ["avoir_conjugation", "physical_states", "avoir_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_036",
+      "english": "The flowers are pretty.",
+      "correctFrench": ["Les", "fleurs", "sont", "jolies"],
+      "wordOptions": ["Les", "fleurs", "sont", "jolies", "La", "fleur", "est", "jolie", "belles", "moches"],
+      "explanation": "Plural agreement: 'les fleurs sont jolies'. Feminine plural adjective 'jolies'.",
+      "grammar_points": ["plural_definite_articles", "être_conjugation", "plural_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_037",
+      "english": "You have green shoes.",
+      "correctFrench": ["Tu", "as", "des", "chaussures", "vertes"],
+      "wordOptions": ["Tu", "as", "des", "chaussures", "vertes", "Vous", "avez", "une", "chaussure", "verte", "noires"],
+      "explanation": "Plural indefinite article 'des'. Color agreement: 'vertes' (feminine plural of green).",
+      "grammar_points": ["avoir_conjugation", "plural_indefinite_articles", "color_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_038",
+      "english": "They are in the kitchen.",
+      "correctFrench": ["Ils", "sont", "dans", "la", "cuisine"],
+      "wordOptions": ["Ils", "sont", "dans", "la", "cuisine", "Elles", "est", "à", "le", "salon", "sur"],
+      "explanation": "Location with être + dans. 'Dans la cuisine' (in the kitchen).",
+      "grammar_points": ["être_conjugation", "prepositions", "location", "rooms"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_039",
+      "english": "I have a headache.",
+      "correctFrench": ["J'ai", "mal", "à", "la", "tête"],
+      "wordOptions": ["J'ai", "mal", "à", "la", "tête", "Tu", "as", "dans", "le", "dos", "ventre"],
+      "explanation": "Pain expressions: 'avoir mal à + body part'. 'Mal à la tête' (headache).",
+      "grammar_points": ["avoir_conjugation", "pain_expressions", "body_parts"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_040",
+      "english": "She is a good student.",
+      "correctFrench": ["C'est", "une", "bonne", "étudiante"],
+      "wordOptions": ["C'est", "une", "bonne", "étudiante", "Elle", "est", "un", "bon", "mauvaise", "élève"],
+      "explanation": "'C'est' + article + adjective + noun. 'Bonne' (feminine form of good) before noun.",
+      "grammar_points": ["demonstrative_pronouns", "adjective_placement", "adjective_agreement"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_041",
+      "english": "We are cold.",
+      "correctFrench": ["Nous", "avons", "froid"],
+      "wordOptions": ["Nous", "avons", "froid", "Vous", "avez", "sommes", "chaud", "faim", "soif", "peur"],
+      "explanation": "Physical sensations with avoir: 'avoir froid' (to be cold). Not être in French.",
+      "grammar_points": ["avoir_conjugation", "physical_states", "avoir_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_042",
+      "english": "The cat is sleeping.",
+      "correctFrench": ["Le", "chat", "dort"],
+      "wordOptions": ["Le", "chat", "dort", "La", "chien", "mange", "joue", "court", "saute", "boit"],
+      "explanation": "Present tense: 'il/elle dort' (he/she sleeps/is sleeping). 'Le chat' (the cat).",
+      "grammar_points": ["present_tense", "irregular_verbs", "animals"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_043",
+      "english": "I have long hair.",
+      "correctFrench": ["J'ai", "les", "cheveux", "longs"],
+      "wordOptions": ["J'ai", "les", "cheveux", "longs", "Tu", "as", "des", "cheveu", "courts", "blonds"],
+      "explanation": "Body parts with definite article. 'Longs' (masculine plural) agrees with 'cheveux'.",
+      "grammar_points": ["avoir_conjugation", "body_parts", "adjective_agreement"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_044",
+      "english": "You are my friend.",
+      "correctFrench": ["Tu", "es", "mon", "ami"],
+      "wordOptions": ["Tu", "es", "mon", "ami", "Vous", "êtes", "ma", "amie", "copain", "frère", "Je"],
+      "explanation": "Possessive adjectives: 'mon ami' (my friend - masculine). 'Ma' → 'mon' before vowel sound.",
+      "grammar_points": ["être_conjugation", "possessive_adjectives", "friendship"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_045",
+      "english": "The door is open.",
+      "correctFrench": ["La", "porte", "est", "ouverte"],
+      "wordOptions": ["La", "porte", "est", "ouverte", "Le", "fenêtre", "ai", "ouvert", "fermée", "cassée"],
+      "explanation": "'La porte' (feminine). 'Ouverte' (feminine form of open) agrees with 'porte'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "adjective_agreement"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_046",
+      "english": "We have many friends.",
+      "correctFrench": ["Nous", "avons", "beaucoup", "d'amis"],
+      "wordOptions": ["Nous", "avons", "beaucoup", "d'amis", "Vous", "avez", "peu", "de", "amis", "copains"],
+      "explanation": "Quantity expression: 'beaucoup d'amis' (many friends). 'De' + plural noun.",
+      "grammar_points": ["avoir_conjugation", "quantity_expressions", "de_contraction"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_047",
+      "english": "She is wearing a hat.",
+      "correctFrench": ["Elle", "porte", "un", "chapeau"],
+      "wordOptions": ["Elle", "porte", "un", "chapeau", "Il", "ai", "une", "casquette", "chaussures", "robe"],
+      "explanation": "Present tense: 'elle porte' (she wears/is wearing). 'Un chapeau' (a hat).",
+      "grammar_points": ["present_tense", "clothing", "regular_verbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_048",
+      "english": "I am afraid.",
+      "correctFrench": ["J'ai", "peur"],
+      "wordOptions": ["J'ai", "peur", "Je", "suis", "faim", "soif", "froid", "chaud", "Tu", "as"],
+      "explanation": "Emotions with avoir: 'avoir peur' (to be afraid). French uses avoir, not être.",
+      "grammar_points": ["avoir_conjugation", "emotions", "avoir_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_049",
+      "english": "The window is closed.",
+      "correctFrench": ["La", "fenêtre", "est", "fermée"],
+      "wordOptions": ["La", "fenêtre", "est", "fermée", "Le", "porte", "ai", "fermé", "ouverte", "cassée"],
+      "explanation": "'La fenêtre' (feminine). 'Fermée' (feminine form of closed) agrees with 'fenêtre'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "adjective_agreement"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_050",
+      "english": "You have a nice smile.",
+      "correctFrench": ["Tu", "as", "un", "beau", "sourire"],
+      "wordOptions": ["Tu", "as", "un", "beau", "sourire", "Vous", "avez", "une", "belle", "joli", "laid"],
+      "explanation": "Adjective before noun: 'un beau sourire'. 'Beau' (masculine form of beautiful).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "irregular_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_051",
+      "english": "They are eating lunch.",
+      "correctFrench": ["Ils", "déjeunent"],
+      "wordOptions": ["Ils", "déjeunent", "Elles", "mangent", "dînent", "boivent", "cuisinent", "Tu", "manges"],
+      "explanation": "Present tense: 'ils déjeunent' (they have/are having lunch). Meal-specific verb.",
+      "grammar_points": ["present_tense", "meals", "regular_verbs"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_052",
+      "english": "I am in a hurry.",
+      "correctFrench": ["Je", "suis", "pressé"],
+      "wordOptions": ["Je", "suis", "pressé", "Tu", "es", "pressée", "en", "retard", "à", "l'heure"],
+      "explanation": "State with être: 'être pressé' (to be in a hurry). 'Pressé' (masculine) / 'pressée' (feminine).",
+      "grammar_points": ["être_conjugation", "states", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_053",
+      "english": "She has blue eyes.",
+      "correctFrench": ["Elle", "a", "les", "yeux", "bleus"],
+      "wordOptions": ["Elle", "a", "les", "yeux", "bleus", "Il", "ai", "des", "œil", "verts", "marron"],
+      "explanation": "Body parts with definite article. 'Les yeux bleus' (blue eyes - masculine plural).",
+      "grammar_points": ["avoir_conjugation", "body_parts", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_054",
+      "english": "We are late.",
+      "correctFrench": ["Nous", "sommes", "en", "retard"],
+      "wordOptions": ["Nous", "sommes", "en", "retard", "Vous", "êtes", "à", "l'heure", "pressés", "avance"],
+      "explanation": "Time expressions: 'être en retard' (to be late). Fixed expression with 'en'.",
+      "grammar_points": ["être_conjugation", "time_expressions", "prepositions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_055",
+      "english": "The baby is crying.",
+      "correctFrench": ["Le", "bébé", "pleure"],
+      "wordOptions": ["Le", "bébé", "pleure", "La", "enfant", "rit", "dort", "mange", "joue", "sourit"],
+      "explanation": "Present tense: 'il/elle pleure' (he/she cries/is crying). 'Le bébé' (the baby).",
+      "grammar_points": ["present_tense", "emotions", "family_members"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_056",
+      "english": "I have a red car.",
+      "correctFrench": ["J'ai", "une", "voiture", "rouge"],
+      "wordOptions": ["J'ai", "une", "voiture", "rouge", "Tu", "as", "un", "vélo", "bleu", "noire"],
+      "explanation": "Color after noun: 'une voiture rouge'. 'Rouge' is invariable (same for all genders).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "vehicles"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_057",
+      "english": "You are very kind.",
+      "correctFrench": ["Tu", "es", "très", "gentil"],
+      "wordOptions": ["Tu", "es", "très", "gentil", "Vous", "êtes", "gentille", "méchant", "sympa", "assez"],
+      "explanation": "Intensifier 'très' (very). 'Gentil' (masculine) / 'gentille' (feminine) for kind.",
+      "grammar_points": ["être_conjugation", "intensifiers", "personality_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_058",
+      "english": "The soup is hot.",
+      "correctFrench": ["La", "soupe", "est", "chaude"],
+      "wordOptions": ["La", "soupe", "est", "chaude", "Le", "café", "ai", "chaud", "froide", "tiède"],
+      "explanation": "'La soupe' (feminine). 'Chaude' (feminine form of hot) agrees with 'soupe'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "temperature_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_059",
+      "english": "We have homework.",
+      "correctFrench": ["Nous", "avons", "des", "devoirs"],
+      "wordOptions": ["Nous", "avons", "des", "devoirs", "Vous", "avez", "du", "devoir", "leçons", "examens"],
+      "explanation": "School vocabulary: 'des devoirs' (homework - always plural in French).",
+      "grammar_points": ["avoir_conjugation", "school_vocabulary", "plural_indefinite_articles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_060",
+      "english": "She is reading a book.",
+      "correctFrench": ["Elle", "lit", "un", "livre"],
+      "wordOptions": ["Elle", "lit", "un", "livre", "Il", "lis", "une", "magazine", "journal", "écrit"],
+      "explanation": "Present tense: 'elle lit' (she reads/is reading). Irregular verb 'lire' (to read).",
+      "grammar_points": ["present_tense", "irregular_verbs", "activities"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_061",
+      "english": "I am happy today.",
+      "correctFrench": ["Je", "suis", "heureux", "aujourd'hui"],
+      "wordOptions": ["Je", "suis", "heureux", "aujourd'hui", "Tu", "es", "heureuse", "triste", "hier", "demain"],
+      "explanation": "Time expressions: 'aujourd'hui' (today). 'Heureux' (masculine) / 'heureuse' (feminine).",
+      "grammar_points": ["être_conjugation", "time_expressions", "emotions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_062",
+      "english": "The coffee is cold.",
+      "correctFrench": ["Le", "café", "est", "froid"],
+      "wordOptions": ["Le", "café", "est", "froid", "La", "thé", "ai", "froide", "chaud", "tiède"],
+      "explanation": "'Le café' (masculine). 'Froid' (masculine form of cold) agrees with 'café'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "temperature_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_063",
+      "english": "You have a big family.",
+      "correctFrench": ["Tu", "as", "une", "grande", "famille"],
+      "wordOptions": ["Tu", "as", "une", "grande", "famille", "Vous", "avez", "un", "grand", "petite", "nombreuse"],
+      "explanation": "Size adjectives before noun: 'une grande famille'. 'Grande' (feminine form of big).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "family_members"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_064",
+      "english": "They are watching TV.",
+      "correctFrench": ["Ils", "regardent", "la", "télé"],
+      "wordOptions": ["Ils", "regardent", "la", "télé", "Elles", "regarde", "le", "télévision", "écoutent", "voient"],
+      "explanation": "Present tense: 'ils regardent' (they watch/are watching). 'La télé' (TV - informal).",
+      "grammar_points": ["present_tense", "regular_verbs", "entertainment"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_065",
+      "english": "I am sick.",
+      "correctFrench": ["Je", "suis", "malade"],
+      "wordOptions": ["Je", "suis", "malade", "Tu", "es", "en", "bonne", "santé", "fatigué", "bien"],
+      "explanation": "Health states with être: 'être malade' (to be sick). 'Malade' is invariable.",
+      "grammar_points": ["être_conjugation", "health", "invariable_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_066",
+      "english": "She has a small dog.",
+      "correctFrench": ["Elle", "a", "un", "petit", "chien"],
+      "wordOptions": ["Elle", "a", "un", "petit", "chien", "Il", "ai", "une", "petite", "chat", "gros"],
+      "explanation": "Size adjectives before noun: 'un petit chien'. 'Petit' (masculine form of small).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "animals"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_067",
+      "english": "We are going home.",
+      "correctFrench": ["Nous", "rentrons", "à", "la", "maison"],
+      "wordOptions": ["Nous", "rentrons", "à", "la", "maison", "Vous", "rentrez", "allons", "chez", "nous", "dans"],
+      "explanation": "Present tense: 'nous rentrons' (we go/are going home). 'À la maison' (home).",
+      "grammar_points": ["present_tense", "movement_verbs", "location"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_068",
+      "english": "The music is loud.",
+      "correctFrench": ["La", "musique", "est", "forte"],
+      "wordOptions": ["La", "musique", "est", "forte", "Le", "son", "ai", "fort", "faible", "douce"],
+      "explanation": "'La musique' (feminine). 'Forte' (feminine form of loud/strong) agrees with 'musique'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "sound_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_069",
+      "english": "I have a new phone.",
+      "correctFrench": ["J'ai", "un", "nouveau", "téléphone"],
+      "wordOptions": ["J'ai", "un", "nouveau", "téléphone", "Tu", "as", "une", "nouvelle", "vieux", "portable"],
+      "explanation": "Adjective before noun: 'un nouveau téléphone'. 'Nouveau' (masculine form of new).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "technology"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_070",
+      "english": "You are tired.",
+      "correctFrench": ["Tu", "es", "fatigué"],
+      "wordOptions": ["Tu", "es", "fatigué", "Vous", "êtes", "fatiguée", "reposé", "énergique", "Je", "suis"],
+      "explanation": "Physical states with être: 'être fatigué' (to be tired). 'Fatigué' (masculine) / 'fatiguée' (feminine).",
+      "grammar_points": ["être_conjugation", "physical_states", "adjective_agreement"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_071",
+      "english": "The bread is fresh.",
+      "correctFrench": ["Le", "pain", "est", "frais"],
+      "wordOptions": ["Le", "pain", "est", "frais", "La", "baguette", "ai", "fraîche", "vieux", "dur"],
+      "explanation": "'Le pain' (masculine). 'Frais' (masculine form of fresh). 'Frais' → 'fraîche' (feminine).",
+      "grammar_points": ["definite_articles", "être_conjugation", "food_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_072",
+      "english": "We have a test tomorrow.",
+      "correctFrench": ["Nous", "avons", "un", "examen", "demain"],
+      "wordOptions": ["Nous", "avons", "un", "examen", "demain", "Vous", "avez", "une", "test", "aujourd'hui", "hier"],
+      "explanation": "Time expressions: 'demain' (tomorrow). 'Un examen' (a test/exam).",
+      "grammar_points": ["avoir_conjugation", "time_expressions", "school_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_073",
+      "english": "She is cooking dinner.",
+      "correctFrench": ["Elle", "prépare", "le", "dîner"],
+      "wordOptions": ["Elle", "prépare", "le", "dîner", "Il", "cuisine", "fait", "déjeuner", "petit-déjeuner", "mange"],
+      "explanation": "Present tense: 'elle prépare' (she prepares/is preparing). 'Le dîner' (dinner).",
+      "grammar_points": ["present_tense", "cooking_verbs", "meals"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_074",
+      "english": "I am learning French.",
+      "correctFrench": ["J'apprends", "le", "français"],
+      "wordOptions": ["J'apprends", "le", "français", "Tu", "apprend", "étudies", "anglais", "espagnol", "italien", "parle"],
+      "explanation": "Present tense: 'j'apprends' (I learn/am learning). Languages with definite article.",
+      "grammar_points": ["present_tense", "irregular_verbs", "languages"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_075",
+      "english": "The weather is nice.",
+      "correctFrench": ["Il", "fait", "beau"],
+      "wordOptions": ["Il", "fait", "beau", "Le", "temps", "est", "mauvais", "chaud", "froid", "bel"],
+      "explanation": "Weather expressions: 'il fait beau' (it's nice weather). Impersonal 'il fait'.",
+      "grammar_points": ["weather_expressions", "impersonal_verbs", "faire_expressions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_076",
+      "english": "You have beautiful eyes.",
+      "correctFrench": ["Tu", "as", "de", "beaux", "yeux"],
+      "wordOptions": ["Tu", "as", "de", "beaux", "yeux", "Vous", "avez", "des", "belles", "jolis", "grands"],
+      "explanation": "Adjective before noun changes 'des' to 'de'. 'Beaux' (masculine plural of beautiful).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "de_contraction"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_077",
+      "english": "They are playing soccer.",
+      "correctFrench": ["Ils", "jouent", "au", "football"],
+      "wordOptions": ["Ils", "jouent", "au", "football", "Elles", "joue", "du", "tennis", "basket", "piano"],
+      "explanation": "Sports with 'jouer au': 'jouer au football' (to play soccer). 'Au' = à + le.",
+      "grammar_points": ["present_tense", "sports", "contractions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_078",
+      "english": "I am at school.",
+      "correctFrench": ["Je", "suis", "à", "l'école"],
+      "wordOptions": ["Je", "suis", "à", "l'école", "Tu", "es", "dans", "la", "école", "chez", "en"],
+      "explanation": "Location with être + à. 'À l'école' (at school). 'L'' before vowel sound.",
+      "grammar_points": ["être_conjugation", "prepositions", "contractions", "location"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_079",
+      "english": "She has curly hair.",
+      "correctFrench": ["Elle", "a", "les", "cheveux", "bouclés"],
+      "wordOptions": ["Elle", "a", "les", "cheveux", "bouclés", "Il", "ai", "des", "cheveu", "raides", "courts"],
+      "explanation": "Hair descriptions: 'les cheveux bouclés' (curly hair). 'Bouclés' (masculine plural).",
+      "grammar_points": ["avoir_conjugation", "body_parts", "hair_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_080",
+      "english": "We are happy together.",
+      "correctFrench": ["Nous", "sommes", "heureux", "ensemble"],
+      "wordOptions": ["Nous", "sommes", "heureux", "ensemble", "Vous", "êtes", "heureuses", "seuls", "tristes", "contents"],
+      "explanation": "Adverb 'ensemble' (together). 'Heureux' (masculine plural) for mixed groups.",
+      "grammar_points": ["être_conjugation", "emotions", "adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_081",
+      "english": "The store is closed.",
+      "correctFrench": ["Le", "magasin", "est", "fermé"],
+      "wordOptions": ["Le", "magasin", "est", "fermé", "La", "boutique", "ai", "fermée", "ouvert", "ouverte"],
+      "explanation": "'Le magasin' (masculine). 'Fermé' (masculine form of closed) agrees with 'magasin'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "adjective_agreement"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_082",
+      "english": "I have a lot of work.",
+      "correctFrench": ["J'ai", "beaucoup", "de", "travail"],
+      "wordOptions": ["J'ai", "beaucoup", "de", "travail", "Tu", "as", "peu", "du", "devoirs", "temps", "argent"],
+      "explanation": "Quantity expression: 'beaucoup de travail' (a lot of work). 'De' with quantities.",
+      "grammar_points": ["avoir_conjugation", "quantity_expressions", "work_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_083",
+      "english": "You are wearing glasses.",
+      "correctFrench": ["Tu", "portes", "des", "lunettes"],
+      "wordOptions": ["Tu", "portes", "des", "lunettes", "Vous", "portez", "une", "lunette", "chapeau", "montre"],
+      "explanation": "Present tense: 'tu portes' (you wear/are wearing). 'Des lunettes' (glasses - always plural).",
+      "grammar_points": ["present_tense", "clothing", "plural_nouns"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_084",
+      "english": "The movie is interesting.",
+      "correctFrench": ["Le", "film", "est", "intéressant"],
+      "wordOptions": ["Le", "film", "est", "intéressant", "La", "émission", "ai", "intéressante", "ennuyeux", "amusant"],
+      "explanation": "'Le film' (masculine). 'Intéressant' (masculine form of interesting).",
+      "grammar_points": ["definite_articles", "être_conjugation", "entertainment_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_085",
+      "english": "We are listening to music.",
+      "correctFrench": ["Nous", "écoutons", "de", "la", "musique"],
+      "wordOptions": ["Nous", "écoutons", "de", "la", "musique", "Vous", "écoutez", "du", "le", "radio", "chansons"],
+      "explanation": "Present tense: 'nous écoutons' (we listen/are listening). 'De la musique' (music).",
+      "grammar_points": ["present_tense", "partitive_articles", "entertainment"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_086",
+      "english": "She is very smart.",
+      "correctFrench": ["Elle", "est", "très", "intelligente"],
+      "wordOptions": ["Elle", "est", "très", "intelligente", "Il", "ai", "intelligent", "bête", "stupide", "assez"],
+      "explanation": "Intensifier 'très' (very). 'Intelligente' (feminine form of intelligent).",
+      "grammar_points": ["être_conjugation", "intensifiers", "personality_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_087",
+      "english": "I am drinking water.",
+      "correctFrench": ["Je", "bois", "de", "l'eau"],
+      "wordOptions": ["Je", "bois", "de", "l'eau", "Tu", "boit", "du", "la", "café", "thé", "jus"],
+      "explanation": "Present tense: 'je bois' (I drink/am drinking). 'De l'eau' (water) with partitive.",
+      "grammar_points": ["present_tense", "irregular_verbs", "partitive_articles"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_088",
+      "english": "The park is beautiful.",
+      "correctFrench": ["Le", "parc", "est", "beau"],
+      "wordOptions": ["Le", "parc", "est", "beau", "La", "jardin", "ai", "belle", "joli", "laid"],
+      "explanation": "'Le parc' (masculine). 'Beau' (masculine form of beautiful). Irregular adjective.",
+      "grammar_points": ["definite_articles", "être_conjugation", "irregular_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_089",
+      "english": "You have a good idea.",
+      "correctFrench": ["Tu", "as", "une", "bonne", "idée"],
+      "wordOptions": ["Tu", "as", "une", "bonne", "idée", "Vous", "avez", "un", "bon", "mauvaise", "excellente"],
+      "explanation": "Adjective before noun: 'une bonne idée'. 'Bonne' (feminine form of good).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_090",
+      "english": "They are dancing.",
+      "correctFrench": ["Ils", "dansent"],
+      "wordOptions": ["Ils", "dansent", "Elles", "danse", "chantent", "jouent", "courent", "sautent", "Tu", "danses"],
+      "explanation": "Present tense: 'ils dansent' (they dance/are dancing). Regular -er verb.",
+      "grammar_points": ["present_tense", "regular_verbs", "activities"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_091",
+      "english": "I am at the hospital.",
+      "correctFrench": ["Je", "suis", "à", "l'hôpital"],
+      "wordOptions": ["Je", "suis", "à", "l'hôpital", "Tu", "es", "dans", "la", "hôpital", "chez", "en"],
+      "explanation": "Location with être + à. 'À l'hôpital' (at the hospital). 'L'' before vowel sound.",
+      "grammar_points": ["être_conjugation", "prepositions", "contractions", "places"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_092",
+      "english": "She has a beautiful voice.",
+      "correctFrench": ["Elle", "a", "une", "belle", "voix"],
+      "wordOptions": ["Elle", "a", "une", "belle", "voix", "Il", "ai", "un", "beau", "jolie", "forte"],
+      "explanation": "Adjective before noun: 'une belle voix'. 'Belle' (feminine form of beautiful).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "irregular_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_093",
+      "english": "We are going to the beach.",
+      "correctFrench": ["Nous", "allons", "à", "la", "plage"],
+      "wordOptions": ["Nous", "allons", "à", "la", "plage", "Vous", "allez", "dans", "le", "montagne", "chez"],
+      "explanation": "Present tense: 'nous allons' (we go/are going). 'À la plage' (to the beach).",
+      "grammar_points": ["present_tense", "irregular_verbs", "vacation_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_094",
+      "english": "The food is delicious.",
+      "correctFrench": ["La", "nourriture", "est", "délicieuse"],
+      "wordOptions": ["La", "nourriture", "est", "délicieuse", "Le", "repas", "ai", "délicieux", "mauvaise", "bonne"],
+      "explanation": "'La nourriture' (feminine). 'Délicieuse' (feminine form of delicious).",
+      "grammar_points": ["definite_articles", "être_conjugation", "food_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_095",
+      "english": "I have a headache.",
+      "correctFrench": ["J'ai", "mal", "à", "la", "tête"],
+      "wordOptions": ["J'ai", "mal", "à", "la", "tête", "Tu", "as", "dans", "le", "dos", "ventre", "dents"],
+      "explanation": "Pain expressions: 'avoir mal à + body part'. 'Mal à la tête' (headache).",
+      "grammar_points": ["avoir_conjugation", "pain_expressions", "body_parts"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_096",
+      "english": "You are my best friend.",
+      "correctFrench": ["Tu", "es", "mon", "meilleur", "ami"],
+      "wordOptions": ["Tu", "es", "mon", "meilleur", "ami", "Vous", "êtes", "ma", "meilleure", "amie", "bon"],
+      "explanation": "Superlative: 'mon meilleur ami' (my best friend). 'Meilleur' (masculine) / 'meilleure' (feminine).",
+      "grammar_points": ["être_conjugation", "superlatives", "friendship"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_097",
+      "english": "The train is fast.",
+      "correctFrench": ["Le", "train", "est", "rapide"],
+      "wordOptions": ["Le", "train", "est", "rapide", "La", "voiture", "ai", "lent", "lente", "vite"],
+      "explanation": "'Le train' (masculine). 'Rapide' is invariable (same for masculine/feminine).",
+      "grammar_points": ["definite_articles", "être_conjugation", "speed_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_098",
+      "english": "We are having fun.",
+      "correctFrench": ["Nous", "nous", "amusons"],
+      "wordOptions": ["Nous", "nous", "amusons", "Vous", "vous", "amusez", "sommes", "avons", "rigolons", "jouons"],
+      "explanation": "Reflexive verb: 'se amuser' (to have fun). 'Nous nous amusons' (we have fun).",
+      "grammar_points": ["reflexive_verbs", "present_tense", "entertainment"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_basic_099",
+      "english": "She is buying bread.",
+      "correctFrench": ["Elle", "achète", "du", "pain"],
+      "wordOptions": ["Elle", "achète", "du", "pain", "Il", "achete", "de", "la", "baguette", "vend"],
+      "explanation": "Present tense: 'elle achète' (she buys/is buying). 'Du pain' (bread) with partitive.",
+      "grammar_points": ["present_tense", "stem_changing_verbs", "partitive_articles"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_100",
+      "english": "I am very happy.",
+      "correctFrench": ["Je", "suis", "très", "heureux"],
+      "wordOptions": ["Je", "suis", "très", "heureux", "Tu", "es", "heureuse", "triste", "content", "assez"],
+      "explanation": "Intensifier 'très' (very). 'Heureux' (masculine) / 'heureuse' (feminine) for happy.",
+      "grammar_points": ["être_conjugation", "intensifiers", "emotions"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_101",
+      "english": "The chair is comfortable.",
+      "correctFrench": ["La", "chaise", "est", "confortable"],
+      "wordOptions": ["La", "chaise", "est", "confortable", "Le", "fauteuil", "ai", "inconfortable", "dur", "molle"],
+      "explanation": "'La chaise' (feminine). 'Confortable' is invariable (same for masculine/feminine).",
+      "grammar_points": ["definite_articles", "être_conjugation", "invariable_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_102",
+      "english": "I have five fingers.",
+      "correctFrench": ["J'ai", "cinq", "doigts"],
+      "wordOptions": ["J'ai", "cinq", "doigts", "Tu", "as", "dix", "doigt", "orteils", "mains", "quatre"],
+      "explanation": "Numbers with body parts. 'Cinq doigts' (five fingers - no article with numbers).",
+      "grammar_points": ["avoir_conjugation", "numbers", "body_parts"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_103",
+      "english": "You are eating an apple.",
+      "correctFrench": ["Tu", "manges", "une", "pomme"],
+      "wordOptions": ["Tu", "manges", "une", "pomme", "Vous", "mangez", "un", "orange", "banane", "bois"],
+      "explanation": "Present tense: 'tu manges' (you eat/are eating). 'Une pomme' (an apple - feminine).",
+      "grammar_points": ["present_tense", "regular_verbs", "food"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_104",
+      "english": "The sun is bright.",
+      "correctFrench": ["Le", "soleil", "est", "brillant"],
+      "wordOptions": ["Le", "soleil", "est", "brillant", "La", "lune", "ai", "brillante", "sombre", "faible"],
+      "explanation": "'Le soleil' (masculine). 'Brillant' (masculine form of bright).",
+      "grammar_points": ["definite_articles", "être_conjugation", "weather_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_105",
+      "english": "We are walking in the park.",
+      "correctFrench": ["Nous", "marchons", "dans", "le", "parc"],
+      "wordOptions": ["Nous", "marchons", "dans", "le", "parc", "Vous", "marchez", "à", "la", "rue", "courons"],
+      "explanation": "Present tense: 'nous marchons' (we walk/are walking). 'Dans le parc' (in the park).",
+      "grammar_points": ["present_tense", "regular_verbs", "prepositions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_106",
+      "english": "She has a yellow bag.",
+      "correctFrench": ["Elle", "a", "un", "sac", "jaune"],
+      "wordOptions": ["Elle", "a", "un", "sac", "jaune", "Il", "ai", "une", "rouge", "vert", "noir"],
+      "explanation": "Color after noun: 'un sac jaune'. 'Jaune' is invariable (same for all genders).",
+      "grammar_points": ["avoir_conjugation", "color_adjectives", "objects"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_107",
+      "english": "I am writing a letter.",
+      "correctFrench": ["J'écris", "une", "lettre"],
+      "wordOptions": ["J'écris", "une", "lettre", "Tu", "écrit", "un", "email", "carte", "lis", "envoie"],
+      "explanation": "Present tense: 'j'écris' (I write/am writing). Irregular verb 'écrire' (to write).",
+      "grammar_points": ["present_tense", "irregular_verbs", "activities"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_108",
+      "english": "The room is clean.",
+      "correctFrench": ["La", "chambre", "est", "propre"],
+      "wordOptions": ["La", "chambre", "est", "propre", "Le", "salon", "ai", "sale", "rangée", "désordonnée"],
+      "explanation": "'La chambre' (feminine). 'Propre' is invariable (same for masculine/feminine).",
+      "grammar_points": ["definite_articles", "être_conjugation", "house_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_109",
+      "english": "You have a nice car.",
+      "correctFrench": ["Tu", "as", "une", "belle", "voiture"],
+      "wordOptions": ["Tu", "as", "une", "belle", "voiture", "Vous", "avez", "un", "beau", "jolie", "moche"],
+      "explanation": "Adjective before noun: 'une belle voiture'. 'Belle' (feminine form of beautiful).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "vehicles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_110",
+      "english": "They are singing a song.",
+      "correctFrench": ["Ils", "chantent", "une", "chanson"],
+      "wordOptions": ["Ils", "chantent", "une", "chanson", "Elles", "chante", "un", "musique", "dansent", "écoutent"],
+      "explanation": "Present tense: 'ils chantent' (they sing/are singing). 'Une chanson' (a song).",
+      "grammar_points": ["present_tense", "regular_verbs", "music"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_111",
+      "english": "I am hot.",
+      "correctFrench": ["J'ai", "chaud"],
+      "wordOptions": ["J'ai", "chaud", "Je", "suis", "froid", "faim", "soif", "peur", "Tu", "as"],
+      "explanation": "Physical sensations with avoir: 'avoir chaud' (to be hot). French uses avoir, not être.",
+      "grammar_points": ["avoir_conjugation", "physical_states", "avoir_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_112",
+      "english": "The book is thick.",
+      "correctFrench": ["Le", "livre", "est", "épais"],
+      "wordOptions": ["Le", "livre", "est", "épais", "La", "magazine", "ai", "épaisse", "mince", "fin"],
+      "explanation": "'Le livre' (masculine). 'Épais' (masculine) / 'épaisse' (feminine) for thick.",
+      "grammar_points": ["definite_articles", "être_conjugation", "size_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_113",
+      "english": "We are buying groceries.",
+      "correctFrench": ["Nous", "achetons", "des", "courses"],
+      "wordOptions": ["Nous", "achetons", "des", "courses", "Vous", "achetez", "de", "la", "nourriture", "vendons"],
+      "explanation": "Present tense: 'nous achetons' (we buy/are buying). 'Des courses' (groceries).",
+      "grammar_points": ["present_tense", "stem_changing_verbs", "shopping"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_114",
+      "english": "She is tall and thin.",
+      "correctFrench": ["Elle", "est", "grande", "et", "mince"],
+      "wordOptions": ["Elle", "est", "grande", "et", "mince", "Il", "ai", "petit", "ou", "grosse", "mais"],
+      "explanation": "Coordinating conjunction 'et' (and). Two adjectives: 'grande et mince' (tall and thin).",
+      "grammar_points": ["être_conjugation", "conjunctions", "physical_description"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_115",
+      "english": "I have a stomachache.",
+      "correctFrench": ["J'ai", "mal", "au", "ventre"],
+      "wordOptions": ["J'ai", "mal", "au", "ventre", "Tu", "as", "à", "la", "tête", "dos", "dents"],
+      "explanation": "Pain expressions: 'avoir mal au ventre' (to have a stomachache). 'Au' = à + le.",
+      "grammar_points": ["avoir_conjugation", "pain_expressions", "contractions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_116",
+      "english": "The water is cold.",
+      "correctFrench": ["L'eau", "est", "froide"],
+      "wordOptions": ["L'eau", "est", "froide", "Le", "jus", "ai", "froid", "chaude", "tiède"],
+      "explanation": "'L'eau' (feminine, contraction). 'Froide' (feminine form of cold) agrees with 'eau'.",
+      "grammar_points": ["contractions", "être_conjugation", "temperature_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_117",
+      "english": "You are running fast.",
+      "correctFrench": ["Tu", "cours", "vite"],
+      "wordOptions": ["Tu", "cours", "vite", "Vous", "courez", "lentement", "marches", "sautes", "nages"],
+      "explanation": "Present tense: 'tu cours' (you run/are running). Adverb 'vite' (fast/quickly).",
+      "grammar_points": ["present_tense", "irregular_verbs", "adverbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_118",
+      "english": "They have a big house.",
+      "correctFrench": ["Ils", "ont", "une", "grande", "maison"],
+      "wordOptions": ["Ils", "ont", "une", "grande", "maison", "Elles", "ai", "un", "grand", "petite", "appartement"],
+      "explanation": "Size adjectives before noun: 'une grande maison'. 'Grande' (feminine form of big).",
+      "grammar_points": ["avoir_conjugation", "adjective_placement", "housing"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_119",
+      "english": "I am sleeping well.",
+      "correctFrench": ["Je", "dors", "bien"],
+      "wordOptions": ["Je", "dors", "bien", "Tu", "dort", "mal", "mange", "travaille", "étudie"],
+      "explanation": "Present tense: 'je dors' (I sleep/am sleeping). Adverb 'bien' (well).",
+      "grammar_points": ["present_tense", "irregular_verbs", "adverbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_120",
+      "english": "The sky is blue.",
+      "correctFrench": ["Le", "ciel", "est", "bleu"],
+      "wordOptions": ["Le", "ciel", "est", "bleu", "La", "mer", "ai", "bleue", "gris", "noir"],
+      "explanation": "'Le ciel' (masculine). 'Bleu' (masculine form of blue) agrees with 'ciel'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_121",
+      "english": "We are making dinner.",
+      "correctFrench": ["Nous", "préparons", "le", "dîner"],
+      "wordOptions": ["Nous", "préparons", "le", "dîner", "Vous", "préparez", "faisons", "déjeuner", "petit-déjeuner", "mangeons"],
+      "explanation": "Present tense: 'nous préparons' (we prepare/are preparing). 'Le dîner' (dinner).",
+      "grammar_points": ["present_tense", "regular_verbs", "meals"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_122",
+      "english": "She has short hair.",
+      "correctFrench": ["Elle", "a", "les", "cheveux", "courts"],
+      "wordOptions": ["Elle", "a", "les", "cheveux", "courts", "Il", "ai", "des", "cheveu", "longs", "bouclés"],
+      "explanation": "Hair descriptions: 'les cheveux courts' (short hair). 'Courts' (masculine plural).",
+      "grammar_points": ["avoir_conjugation", "body_parts", "hair_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_123",
+      "english": "I am working today.",
+      "correctFrench": ["Je", "travaille", "aujourd'hui"],
+      "wordOptions": ["Je", "travaille", "aujourd'hui", "Tu", "travailles", "hier", "demain", "étudie", "joue"],
+      "explanation": "Present tense: 'je travaille' (I work/am working). Time expression 'aujourd'hui' (today).",
+      "grammar_points": ["present_tense", "regular_verbs", "time_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_124",
+      "english": "The pizza is delicious.",
+      "correctFrench": ["La", "pizza", "est", "délicieuse"],
+      "wordOptions": ["La", "pizza", "est", "délicieuse", "Le", "sandwich", "ai", "délicieux", "mauvaise", "bonne"],
+      "explanation": "'La pizza' (feminine). 'Délicieuse' (feminine form of delicious).",
+      "grammar_points": ["definite_articles", "être_conjugation", "food_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_125",
+      "english": "You are driving a car.",
+      "correctFrench": ["Tu", "conduis", "une", "voiture"],
+      "wordOptions": ["Tu", "conduis", "une", "voiture", "Vous", "conduisez", "un", "vélo", "moto", "marches"],
+      "explanation": "Present tense: 'tu conduis' (you drive/are driving). Irregular verb 'conduire' (to drive).",
+      "grammar_points": ["present_tense", "irregular_verbs", "vehicles"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_126",
+      "english": "They are old friends.",
+      "correctFrench": ["Ce", "sont", "de", "vieux", "amis"],
+      "wordOptions": ["Ce", "sont", "de", "vieux", "amis", "Ils", "est", "des", "vieil", "nouveaux", "jeunes"],
+      "explanation": "'Ce sont' for identification. 'De vieux amis' (old friends - adjective before noun).",
+      "grammar_points": ["demonstrative_pronouns", "adjective_placement", "de_contraction"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_127",
+      "english": "I am brushing my teeth.",
+      "correctFrench": ["Je", "me", "brosse", "les", "dents"],
+      "wordOptions": ["Je", "me", "brosse", "les", "dents", "Tu", "te", "brosses", "des", "cheveux", "lave"],
+      "explanation": "Reflexive verb: 'se brosser' (to brush). 'Je me brosse les dents' (I brush my teeth).",
+      "grammar_points": ["reflexive_verbs", "body_parts", "daily_routine"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_basic_128",
+      "english": "The mountain is high.",
+      "correctFrench": ["La", "montagne", "est", "haute"],
+      "wordOptions": ["La", "montagne", "est", "haute", "Le", "colline", "ai", "haut", "basse", "petite"],
+      "explanation": "'La montagne' (feminine). 'Haute' (feminine form of high) agrees with 'montagne'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "geography_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_129",
+      "english": "We are taking a photo.",
+      "correctFrench": ["Nous", "prenons", "une", "photo"],
+      "wordOptions": ["Nous", "prenons", "une", "photo", "Vous", "prenez", "un", "selfie", "image", "faisons"],
+      "explanation": "Present tense: 'nous prenons' (we take/are taking). Irregular verb 'prendre' (to take).",
+      "grammar_points": ["present_tense", "irregular_verbs", "photography"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_130",
+      "english": "She is wearing a skirt.",
+      "correctFrench": ["Elle", "porte", "une", "jupe"],
+      "wordOptions": ["Elle", "porte", "une", "jupe", "Il", "ai", "un", "pantalon", "robe", "short"],
+      "explanation": "Present tense: 'elle porte' (she wears/is wearing). 'Une jupe' (a skirt).",
+      "grammar_points": ["present_tense", "regular_verbs", "clothing"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_131",
+      "english": "I have a backache.",
+      "correctFrench": ["J'ai", "mal", "au", "dos"],
+      "wordOptions": ["J'ai", "mal", "au", "dos", "Tu", "as", "à", "la", "tête", "ventre", "cou"],
+      "explanation": "Pain expressions: 'avoir mal au dos' (to have a backache). 'Au' = à + le.",
+      "grammar_points": ["avoir_conjugation", "pain_expressions", "contractions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_132",
+      "english": "The grass is green.",
+      "correctFrench": ["L'herbe", "est", "verte"],
+      "wordOptions": ["L'herbe", "est", "verte", "Le", "arbre", "ai", "vert", "jaune", "brune"],
+      "explanation": "'L'herbe' (feminine, contraction). 'Verte' (feminine form of green) agrees with 'herbe'.",
+      "grammar_points": ["contractions", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_133",
+      "english": "You are playing piano.",
+      "correctFrench": ["Tu", "joues", "du", "piano"],
+      "wordOptions": ["Tu", "joues", "du", "piano", "Vous", "jouez", "de", "la", "guitare", "violon", "au"],
+      "explanation": "Musical instruments with 'jouer du': 'jouer du piano' (to play piano). 'Du' = de + le.",
+      "grammar_points": ["present_tense", "music", "contractions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_134",
+      "english": "They are washing dishes.",
+      "correctFrench": ["Ils", "lavent", "la", "vaisselle"],
+      "wordOptions": ["Ils", "lavent", "la", "vaisselle", "Elles", "lave", "les", "assiettes", "nettoient", "essuient"],
+      "explanation": "Present tense: 'ils lavent' (they wash/are washing). 'La vaisselle' (the dishes).",
+      "grammar_points": ["present_tense", "regular_verbs", "household_chores"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_135",
+      "english": "I am feeling good.",
+      "correctFrench": ["Je", "me", "sens", "bien"],
+      "wordOptions": ["Je", "me", "sens", "bien", "Tu", "te", "sent", "mal", "mieux", "suis"],
+      "explanation": "Reflexive verb: 'se sentir' (to feel). 'Je me sens bien' (I feel good).",
+      "grammar_points": ["reflexive_verbs", "health", "adverbs"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_136",
+      "english": "The ice is cold.",
+      "correctFrench": ["La", "glace", "est", "froide"],
+      "wordOptions": ["La", "glace", "est", "froide", "Le", "glaçon", "ai", "froid", "chaude", "tiède"],
+      "explanation": "'La glace' (feminine). 'Froide' (feminine form of cold) agrees with 'glace'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "temperature_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_137",
+      "english": "We are cleaning the house.",
+      "correctFrench": ["Nous", "nettoyons", "la", "maison"],
+      "wordOptions": ["Nous", "nettoyons", "la", "maison", "Vous", "nettoyez", "le", "appartement", "rangeons", "lavons"],
+      "explanation": "Present tense: 'nous nettoyons' (we clean/are cleaning). Stem-changing verb.",
+      "grammar_points": ["present_tense", "stem_changing_verbs", "household_chores"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_138",
+      "english": "She has a pet cat.",
+      "correctFrench": ["Elle", "a", "un", "chat", "domestique"],
+      "wordOptions": ["Elle", "a", "un", "chat", "domestique", "Il", "ai", "une", "chien", "animal", "sauvage"],
+      "explanation": "Pet vocabulary: 'un chat domestique' (a pet cat). Adjective after noun.",
+      "grammar_points": ["avoir_conjugation", "animals", "adjective_placement"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_139",
+      "english": "I am opening the door.",
+      "correctFrench": ["J'ouvre", "la", "porte"],
+      "wordOptions": ["J'ouvre", "la", "porte", "Tu", "ouvres", "ferme", "fenêtre", "tiroir", "boîte"],
+      "explanation": "Present tense: 'j'ouvre' (I open/am opening). Irregular verb 'ouvrir' (to open).",
+      "grammar_points": ["present_tense", "irregular_verbs", "actions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_140",
+      "english": "The shirt is white.",
+      "correctFrench": ["La", "chemise", "est", "blanche"],
+      "wordOptions": ["La", "chemise", "est", "blanche", "Le", "t-shirt", "ai", "blanc", "noire", "rouge"],
+      "explanation": "'La chemise' (feminine). 'Blanche' (feminine form of white) agrees with 'chemise'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_141",
+      "english": "You are closing the window.",
+      "correctFrench": ["Tu", "fermes", "la", "fenêtre"],
+      "wordOptions": ["Tu", "fermes", "la", "fenêtre", "Vous", "fermez", "ouvres", "porte", "tiroir", "livre"],
+      "explanation": "Present tense: 'tu fermes' (you close/are closing). Regular -er verb 'fermer' (to close).",
+      "grammar_points": ["present_tense", "regular_verbs", "actions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_142",
+      "english": "They are swimming in the pool.",
+      "correctFrench": ["Ils", "nagent", "dans", "la", "piscine"],
+      "wordOptions": ["Ils", "nagent", "dans", "la", "piscine", "Elles", "nage", "à", "le", "mer", "courent"],
+      "explanation": "Present tense: 'ils nagent' (they swim/are swimming). 'Dans la piscine' (in the pool).",
+      "grammar_points": ["present_tense", "regular_verbs", "sports"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_143",
+      "english": "I am calling my friend.",
+      "correctFrench": ["J'appelle", "mon", "ami"],
+      "wordOptions": ["J'appelle", "mon", "ami", "Tu", "appelles", "ma", "amie", "téléphone", "écris"],
+      "explanation": "Present tense: 'j'appelle' (I call/am calling). Stem-changing verb 'appeler' (to call).",
+      "grammar_points": ["present_tense", "stem_changing_verbs", "communication"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_144",
+      "english": "The tree is tall.",
+      "correctFrench": ["L'arbre", "est", "grand"],
+      "wordOptions": ["L'arbre", "est", "grand", "La", "fleur", "ai", "grande", "petit", "haut"],
+      "explanation": "'L'arbre' (masculine, contraction). 'Grand' (masculine form of tall) agrees with 'arbre'.",
+      "grammar_points": ["contractions", "être_conjugation", "size_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_145",
+      "english": "We are waiting for the bus.",
+      "correctFrench": ["Nous", "attendons", "le", "bus"],
+      "wordOptions": ["Nous", "attendons", "le", "bus", "Vous", "attendez", "train", "métro", "taxi", "prenons"],
+      "explanation": "Present tense: 'nous attendons' (we wait/are waiting). Regular -re verb 'attendre' (to wait).",
+      "grammar_points": ["present_tense", "regular_verbs", "transportation"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_146",
+      "english": "She is combing her hair.",
+      "correctFrench": ["Elle", "se", "peigne"],
+      "wordOptions": ["Elle", "se", "peigne", "Il", "te", "peignes", "brosse", "lave", "coupe"],
+      "explanation": "Reflexive verb: 'se peigner' (to comb one's hair). 'Elle se peigne' (she combs her hair).",
+      "grammar_points": ["reflexive_verbs", "daily_routine", "body_parts"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_147",
+      "english": "I have a toothache.",
+      "correctFrench": ["J'ai", "mal", "aux", "dents"],
+      "wordOptions": ["J'ai", "mal", "aux", "dents", "Tu", "as", "à", "la", "dent", "tête", "dos"],
+      "explanation": "Pain expressions: 'avoir mal aux dents' (to have a toothache). 'Aux' = à + les.",
+      "grammar_points": ["avoir_conjugation", "pain_expressions", "contractions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_148",
+      "english": "The soup is warm.",
+      "correctFrench": ["La", "soupe", "est", "tiède"],
+      "wordOptions": ["La", "soupe", "est", "tiède", "Le", "café", "ai", "chaud", "froide", "brûlante"],
+      "explanation": "'La soupe' (feminine). 'Tiède' is invariable (same for masculine/feminine) meaning warm/lukewarm.",
+      "grammar_points": ["definite_articles", "être_conjugation", "temperature_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_149",
+      "english": "You are helping your mother.",
+      "correctFrench": ["Tu", "aides", "ta", "mère"],
+      "wordOptions": ["Tu", "aides", "ta", "mère", "Vous", "aidez", "ton", "père", "sœur", "frère"],
+      "explanation": "Present tense: 'tu aides' (you help/are helping). Possessive 'ta mère' (your mother).",
+      "grammar_points": ["present_tense", "regular_verbs", "family_members"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_150",
+      "english": "They are building a house.",
+      "correctFrench": ["Ils", "construisent", "une", "maison"],
+      "wordOptions": ["Ils", "construisent", "une", "maison", "Elles", "construit", "un", "bâtiment", "détruisent", "réparent"],
+      "explanation": "Present tense: 'ils construisent' (they build/are building). Irregular verb 'construire' (to build).",
+      "grammar_points": ["present_tense", "irregular_verbs", "construction"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_151",
+      "english": "I am putting on my shoes.",
+      "correctFrench": ["Je", "mets", "mes", "chaussures"],
+      "wordOptions": ["Je", "mets", "mes", "chaussures", "Tu", "met", "tes", "chaussettes", "enlève", "porte"],
+      "explanation": "Present tense: 'je mets' (I put/am putting). Irregular verb 'mettre' (to put).",
+      "grammar_points": ["present_tense", "irregular_verbs", "clothing"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_152",
+      "english": "The clock is broken.",
+      "correctFrench": ["L'horloge", "est", "cassée"],
+      "wordOptions": ["L'horloge", "est", "cassée", "Le", "réveil", "ai", "cassé", "réparée", "neuve"],
+      "explanation": "'L'horloge' (feminine, contraction). 'Cassée' (feminine form of broken) agrees with 'horloge'.",
+      "grammar_points": ["contractions", "être_conjugation", "adjective_agreement"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_153",
+      "english": "We are planting flowers.",
+      "correctFrench": ["Nous", "plantons", "des", "fleurs"],
+      "wordOptions": ["Nous", "plantons", "des", "fleurs", "Vous", "plantez", "de", "la", "arbres", "légumes"],
+      "explanation": "Present tense: 'nous plantons' (we plant/are planting). 'Des fleurs' (flowers).",
+      "grammar_points": ["present_tense", "regular_verbs", "gardening"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_154",
+      "english": "She is painting a picture.",
+      "correctFrench": ["Elle", "peint", "un", "tableau"],
+      "wordOptions": ["Elle", "peint", "un", "tableau", "Il", "peins", "une", "image", "dessine", "regarde"],
+      "explanation": "Present tense: 'elle peint' (she paints/is painting). Irregular verb 'peindre' (to paint).",
+      "grammar_points": ["present_tense", "irregular_verbs", "art"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_155",
+      "english": "I am turning off the light.",
+      "correctFrench": ["J'éteins", "la", "lumière"],
+      "wordOptions": ["J'éteins", "la", "lumière", "Tu", "éteint", "allume", "lampe", "télé", "radio"],
+      "explanation": "Present tense: 'j'éteins' (I turn off/am turning off). Irregular verb 'éteindre' (to turn off).",
+      "grammar_points": ["present_tense", "irregular_verbs", "household_actions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_156",
+      "english": "The baby is small.",
+      "correctFrench": ["Le", "bébé", "est", "petit"],
+      "wordOptions": ["Le", "bébé", "est", "petit", "La", "enfant", "ai", "petite", "grand", "gros"],
+      "explanation": "'Le bébé' (masculine). 'Petit' (masculine form of small) agrees with 'bébé'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "size_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_basic_157",
+      "english": "You are fixing the bike.",
+      "correctFrench": ["Tu", "répares", "le", "vélo"],
+      "wordOptions": ["Tu", "répares", "le", "vélo", "Vous", "réparez", "la", "voiture", "casses", "utilises"],
+      "explanation": "Present tense: 'tu répares' (you fix/are fixing). Regular -er verb 'réparer' (to fix).",
+      "grammar_points": ["present_tense", "regular_verbs", "vehicles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_158",
+      "english": "They are crossing the street.",
+      "correctFrench": ["Ils", "traversent", "la", "rue"],
+      "wordOptions": ["Ils", "traversent", "la", "rue", "Elles", "traverse", "le", "pont", "marchent", "courent"],
+      "explanation": "Present tense: 'ils traversent' (they cross/are crossing). Regular -er verb 'traverser' (to cross).",
+      "grammar_points": ["present_tense", "regular_verbs", "city_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_159",
+      "english": "I am turning on the TV.",
+      "correctFrench": ["J'allume", "la", "télé"],
+      "wordOptions": ["J'allume", "la", "télé", "Tu", "allumes", "éteins", "radio", "ordinateur", "lumière"],
+      "explanation": "Present tense: 'j'allume' (I turn on/am turning on). Regular -er verb 'allumer' (to turn on).",
+      "grammar_points": ["present_tense", "regular_verbs", "electronics"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_160",
+      "english": "The river is deep.",
+      "correctFrench": ["La", "rivière", "est", "profonde"],
+      "wordOptions": ["La", "rivière", "est", "profonde", "Le", "lac", "ai", "profond", "peu", "large"],
+      "explanation": "'La rivière' (feminine). 'Profonde' (feminine form of deep) agrees with 'rivière'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "geography_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_161",
+      "english": "We are picking apples.",
+      "correctFrench": ["Nous", "cueillons", "des", "pommes"],
+      "wordOptions": ["Nous", "cueillons", "des", "pommes", "Vous", "cueillez", "de", "la", "fruits", "mangeons"],
+      "explanation": "Present tense: 'nous cueillons' (we pick/are picking). Irregular verb 'cueillir' (to pick).",
+      "grammar_points": ["present_tense", "irregular_verbs", "food"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_162",
+      "english": "She is knocking on the door.",
+      "correctFrench": ["Elle", "frappe", "à", "la", "porte"],
+      "wordOptions": ["Elle", "frappe", "à", "la", "porte", "Il", "sonne", "ouvre", "ferme", "fenêtre"],
+      "explanation": "Present tense: 'elle frappe' (she knocks/is knocking). 'Frapper à la porte' (to knock on the door).",
+      "grammar_points": ["present_tense", "regular_verbs", "actions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_163",
+      "english": "I am losing my keys.",
+      "correctFrench": ["Je", "perds", "mes", "clés"],
+      "wordOptions": ["Je", "perds", "mes", "clés", "Tu", "perd", "tes", "trouve", "cherche", "oublie"],
+      "explanation": "Present tense: 'je perds' (I lose/am losing). Regular -re verb 'perdre' (to lose).",
+      "grammar_points": ["present_tense", "regular_verbs", "objects"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_164",
+      "english": "The wind is strong.",
+      "correctFrench": ["Le", "vent", "est", "fort"],
+      "wordOptions": ["Le", "vent", "est", "fort", "La", "brise", "ai", "forte", "faible", "doux"],
+      "explanation": "'Le vent' (masculine). 'Fort' (masculine form of strong) agrees with 'vent'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "weather_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_165",
+      "english": "You are washing your hands.",
+      "correctFrench": ["Tu", "te", "laves", "les", "mains"],
+      "wordOptions": ["Tu", "te", "laves", "les", "mains", "Vous", "vous", "lavez", "des", "visage", "brosses"],
+      "explanation": "Reflexive verb: 'se laver' (to wash oneself). 'Tu te laves les mains' (you wash your hands).",
+      "grammar_points": ["reflexive_verbs", "body_parts", "daily_routine"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_166",
+      "english": "They are selling vegetables.",
+      "correctFrench": ["Ils", "vendent", "des", "légumes"],
+      "wordOptions": ["Ils", "vendent", "des", "légumes", "Elles", "vend", "de", "la", "fruits", "achètent"],
+      "explanation": "Present tense: 'ils vendent' (they sell/are selling). Regular -re verb 'vendre' (to sell).",
+      "grammar_points": ["present_tense", "regular_verbs", "food"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_167",
+      "english": "I am choosing a book.",
+      "correctFrench": ["Je", "choisis", "un", "livre"],
+      "wordOptions": ["Je", "choisis", "un", "livre", "Tu", "choisi", "une", "magazine", "lis", "achète"],
+      "explanation": "Present tense: 'je choisis' (I choose/am choosing). Regular -ir verb 'choisir' (to choose).",
+      "grammar_points": ["present_tense", "regular_verbs", "activities"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_168",
+      "english": "The phone is ringing.",
+      "correctFrench": ["Le", "téléphone", "sonne"],
+      "wordOptions": ["Le", "téléphone", "sonne", "La", "sonnette", "vibre", "marche", "fonctionne", "casse"],
+      "explanation": "Present tense: 'le téléphone sonne' (the phone rings/is ringing). Regular -er verb 'sonner' (to ring).",
+      "grammar_points": ["present_tense", "regular_verbs", "technology"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_169",
+      "english": "We are finishing our homework.",
+      "correctFrench": ["Nous", "finissons", "nos", "devoirs"],
+      "wordOptions": ["Nous", "finissons", "nos", "devoirs", "Vous", "finissez", "vos", "commençons", "faisons", "étudions"],
+      "explanation": "Present tense: 'nous finissons' (we finish/are finishing). Regular -ir verb 'finir' (to finish).",
+      "grammar_points": ["present_tense", "regular_verbs", "school_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_170",
+      "english": "She is folding clothes.",
+      "correctFrench": ["Elle", "plie", "des", "vêtements"],
+      "wordOptions": ["Elle", "plie", "des", "vêtements", "Il", "repasse", "lave", "sèche", "range", "porte"],
+      "explanation": "Present tense: 'elle plie' (she folds/is folding). Regular -er verb 'plier' (to fold).",
+      "grammar_points": ["present_tense", "regular_verbs", "household_chores"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_171",
+      "english": "I am climbing stairs.",
+      "correctFrench": ["Je", "monte", "les", "escaliers"],
+      "wordOptions": ["Je", "monte", "les", "escaliers", "Tu", "montes", "descends", "marches", "cours", "saute"],
+      "explanation": "Present tense: 'je monte' (I climb/am climbing). Regular -er verb 'monter' (to go up/climb).",
+      "grammar_points": ["present_tense", "regular_verbs", "movement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_172",
+      "english": "The fire is hot.",
+      "correctFrench": ["Le", "feu", "est", "chaud"],
+      "wordOptions": ["Le", "feu", "est", "chaud", "La", "flamme", "ai", "chaude", "froid", "tiède"],
+      "explanation": "'Le feu' (masculine). 'Chaud' (masculine form of hot) agrees with 'feu'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "temperature_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_173",
+      "english": "You are throwing the ball.",
+      "correctFrench": ["Tu", "lances", "la", "balle"],
+      "wordOptions": ["Tu", "lances", "la", "balle", "Vous", "lancez", "le", "ballon", "attrapes", "jettes"],
+      "explanation": "Present tense: 'tu lances' (you throw/are throwing). Regular -er verb 'lancer' (to throw).",
+      "grammar_points": ["present_tense", "regular_verbs", "sports"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_174",
+      "english": "They are digging a hole.",
+      "correctFrench": ["Ils", "creusent", "un", "trou"],
+      "wordOptions": ["Ils", "creusent", "un", "trou", "Elles", "creuse", "une", "fosse", "remplissent", "bouchent"],
+      "explanation": "Present tense: 'ils creusent' (they dig/are digging). Regular -er verb 'creuser' (to dig).",
+      "grammar_points": ["present_tense", "regular_verbs", "gardening"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_175",
+      "english": "I am pulling the rope.",
+      "correctFrench": ["Je", "tire", "la", "corde"],
+      "wordOptions": ["Je", "tire", "la", "corde", "Tu", "tires", "pousse", "chaîne", "ficelle", "câble"],
+      "explanation": "Present tense: 'je tire' (I pull/am pulling). Regular -er verb 'tirer' (to pull).",
+      "grammar_points": ["present_tense", "regular_verbs", "actions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_176",
+      "english": "The snow is white.",
+      "correctFrench": ["La", "neige", "est", "blanche"],
+      "wordOptions": ["La", "neige", "est", "blanche", "Le", "nuage", "ai", "blanc", "grise", "noire"],
+      "explanation": "'La neige' (feminine). 'Blanche' (feminine form of white) agrees with 'neige'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_177",
+      "english": "We are pushing the car.",
+      "correctFrench": ["Nous", "poussons", "la", "voiture"],
+      "wordOptions": ["Nous", "poussons", "la", "voiture", "Vous", "poussez", "le", "vélo", "tirons", "conduisons"],
+      "explanation": "Present tense: 'nous poussons' (we push/are pushing). Regular -er verb 'pousser' (to push).",
+      "grammar_points": ["present_tense", "regular_verbs", "vehicles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_178",
+      "english": "She is cutting paper.",
+      "correctFrench": ["Elle", "coupe", "du", "papier"],
+      "wordOptions": ["Elle", "coupe", "du", "papier", "Il", "découpe", "de", "la", "carton", "déchire"],
+      "explanation": "Present tense: 'elle coupe' (she cuts/is cutting). 'Du papier' (paper) with partitive.",
+      "grammar_points": ["present_tense", "regular_verbs", "partitive_articles"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_179",
+      "english": "I am catching the bus.",
+      "correctFrench": ["J'attrape", "le", "bus"],
+      "wordOptions": ["J'attrape", "le", "bus", "Tu", "attrapes", "prends", "train", "métro", "taxi"],
+      "explanation": "Present tense: 'j'attrape' (I catch/am catching). Regular -er verb 'attraper' (to catch).",
+      "grammar_points": ["present_tense", "regular_verbs", "transportation"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_180",
+      "english": "The stone is hard.",
+      "correctFrench": ["La", "pierre", "est", "dure"],
+      "wordOptions": ["La", "pierre", "est", "dure", "Le", "rocher", "ai", "dur", "molle", "lisse"],
+      "explanation": "'La pierre' (feminine). 'Dure' (feminine form of hard) agrees with 'pierre'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "texture_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_181",
+      "english": "You are mixing ingredients.",
+      "correctFrench": ["Tu", "mélanges", "les", "ingrédients"],
+      "wordOptions": ["Tu", "mélanges", "les", "ingrédients", "Vous", "mélangez", "des", "sépares", "ajoutes", "cuisines"],
+      "explanation": "Present tense: 'tu mélanges' (you mix/are mixing). Regular -er verb 'mélanger' (to mix).",
+      "grammar_points": ["present_tense", "regular_verbs", "cooking"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_182",
+      "english": "They are measuring the room.",
+      "correctFrench": ["Ils", "mesurent", "la", "chambre"],
+      "wordOptions": ["Ils", "mesurent", "la", "chambre", "Elles", "mesure", "le", "salon", "nettoient", "rangent"],
+      "explanation": "Present tense: 'ils mesurent' (they measure/are measuring). Regular -er verb 'mesurer' (to measure).",
+      "grammar_points": ["present_tense", "regular_verbs", "household_actions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_183",
+      "english": "I am shaking hands.",
+      "correctFrench": ["Je", "serre", "la", "main"],
+      "wordOptions": ["Je", "serre", "la", "main", "Tu", "serres", "donne", "tends", "lève", "baisse"],
+      "explanation": "Present tense: 'je serre' (I shake/am shaking). 'Serrer la main' (to shake hands).",
+      "grammar_points": ["present_tense", "regular_verbs", "greetings"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_184",
+      "english": "The pillow is soft.",
+      "correctFrench": ["L'oreiller", "est", "doux"],
+      "wordOptions": ["L'oreiller", "est", "doux", "Le", "matelas", "ai", "douce", "dur", "ferme"],
+      "explanation": "'L'oreiller' (masculine, contraction). 'Doux' (masculine form of soft) agrees with 'oreiller'.",
+      "grammar_points": ["contractions", "être_conjugation", "texture_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_185",
+      "english": "We are sharing food.",
+      "correctFrench": ["Nous", "partageons", "la", "nourriture"],
+      "wordOptions": ["Nous", "partageons", "la", "nourriture", "Vous", "partagez", "de", "mangeons", "préparons", "achetons"],
+      "explanation": "Present tense: 'nous partageons' (we share/are sharing). Stem-changing verb 'partager' (to share).",
+      "grammar_points": ["present_tense", "stem_changing_verbs", "food"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_186",
+      "english": "She is ironing clothes.",
+      "correctFrench": ["Elle", "repasse", "des", "vêtements"],
+      "wordOptions": ["Elle", "repasse", "des", "vêtements", "Il", "lave", "sèche", "plie", "range", "porte"],
+      "explanation": "Present tense: 'elle repasse' (she irons/is ironing). Regular -er verb 'repasser' (to iron).",
+      "grammar_points": ["present_tense", "regular_verbs", "household_chores"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_187",
+      "english": "I am stretching my arms.",
+      "correctFrench": ["J'étire", "mes", "bras"],
+      "wordOptions": ["J'étire", "mes", "bras", "Tu", "étires", "tes", "jambes", "lève", "baisse", "plie"],
+      "explanation": "Present tense: 'j'étire' (I stretch/am stretching). Regular -er verb 'étirer' (to stretch).",
+      "grammar_points": ["present_tense", "regular_verbs", "body_parts"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_188",
+      "english": "The juice is sweet.",
+      "correctFrench": ["Le", "jus", "est", "sucré"],
+      "wordOptions": ["Le", "jus", "est", "sucré", "La", "boisson", "ai", "sucrée", "salé", "amer"],
+      "explanation": "'Le jus' (masculine). 'Sucré' (masculine form of sweet) agrees with 'jus'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "taste_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_189",
+      "english": "You are polishing shoes.",
+      "correctFrench": ["Tu", "cires", "les", "chaussures"],
+      "wordOptions": ["Tu", "cires", "les", "chaussures", "Vous", "cirez", "des", "nettoies", "laves", "portes"],
+      "explanation": "Present tense: 'tu cires' (you polish/are polishing). Regular -er verb 'cirer' (to polish).",
+      "grammar_points": ["present_tense", "regular_verbs", "clothing"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_190",
+      "english": "They are loading the truck.",
+      "correctFrench": ["Ils", "chargent", "le", "camion"],
+      "wordOptions": ["Ils", "chargent", "le", "camion", "Elles", "charge", "la", "voiture", "déchargent", "conduisent"],
+      "explanation": "Present tense: 'ils chargent' (they load/are loading). Regular -er verb 'charger' (to load).",
+      "grammar_points": ["present_tense", "regular_verbs", "vehicles"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_191",
+      "english": "I am peeling an orange.",
+      "correctFrench": ["J'épluche", "une", "orange"],
+      "wordOptions": ["J'épluche", "une", "orange", "Tu", "épluches", "un", "pomme", "banane", "mange", "coupe"],
+      "explanation": "Present tense: 'j'épluche' (I peel/am peeling). Regular -er verb 'éplucher' (to peel).",
+      "grammar_points": ["present_tense", "regular_verbs", "food"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_192",
+      "english": "The mirror is clean.",
+      "correctFrench": ["Le", "miroir", "est", "propre"],
+      "wordOptions": ["Le", "miroir", "est", "propre", "La", "glace", "ai", "sale", "cassé", "neuf"],
+      "explanation": "'Le miroir' (masculine). 'Propre' is invariable (same for masculine/feminine) meaning clean.",
+      "grammar_points": ["definite_articles", "être_conjugation", "cleanliness_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_193",
+      "english": "We are decorating the room.",
+      "correctFrench": ["Nous", "décorons", "la", "chambre"],
+      "wordOptions": ["Nous", "décorons", "la", "chambre", "Vous", "décorez", "le", "salon", "nettoyons", "rangeons"],
+      "explanation": "Present tense: 'nous décorons' (we decorate/are decorating). Regular -er verb 'décorer' (to decorate).",
+      "grammar_points": ["present_tense", "regular_verbs", "household_actions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_194",
+      "english": "She is wrapping a gift.",
+      "correctFrench": ["Elle", "emballe", "un", "cadeau"],
+      "wordOptions": ["Elle", "emballe", "un", "cadeau", "Il", "déballe", "une", "paquet", "donne", "reçoit"],
+      "explanation": "Present tense: 'elle emballe' (she wraps/is wrapping). Regular -er verb 'emballer' (to wrap).",
+      "grammar_points": ["present_tense", "regular_verbs", "gifts"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_195",
+      "english": "I am wiping the table.",
+      "correctFrench": ["J'essuie", "la", "table"],
+      "wordOptions": ["J'essuie", "la", "table", "Tu", "essuies", "nettoie", "lave", "bureau", "chaise"],
+      "explanation": "Present tense: 'j'essuie' (I wipe/am wiping). Stem-changing verb 'essuyer' (to wipe).",
+      "grammar_points": ["present_tense", "stem_changing_verbs", "household_chores"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_196",
+      "english": "The bread is fresh.",
+      "correctFrench": ["Le", "pain", "est", "frais"],
+      "wordOptions": ["Le", "pain", "est", "frais", "La", "baguette", "ai", "fraîche", "vieux", "dur"],
+      "explanation": "'Le pain' (masculine). 'Frais' (masculine form of fresh) agrees with 'pain'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "food_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_197",
+      "english": "You are organizing papers.",
+      "correctFrench": ["Tu", "ranges", "des", "papiers"],
+      "wordOptions": ["Tu", "ranges", "des", "papiers", "Vous", "rangez", "de", "la", "documents", "classes", "tries"],
+      "explanation": "Present tense: 'tu ranges' (you organize/are organizing). Regular -er verb 'ranger' (to organize).",
+      "grammar_points": ["present_tense", "regular_verbs", "office_work"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_198",
+      "english": "They are harvesting grapes.",
+      "correctFrench": ["Ils", "récoltent", "des", "raisins"],
+      "wordOptions": ["Ils", "récoltent", "des", "raisins", "Elles", "récolte", "de", "la", "fruits", "plantent"],
+      "explanation": "Present tense: 'ils récoltent' (they harvest/are harvesting). Regular -er verb 'récolter' (to harvest).",
+      "grammar_points": ["present_tense", "regular_verbs", "agriculture"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_199",
+      "english": "I am checking my email.",
+      "correctFrench": ["Je", "vérifie", "mes", "emails"],
+      "wordOptions": ["Je", "vérifie", "mes", "emails", "Tu", "vérifies", "tes", "messages", "lis", "envoie"],
+      "explanation": "Present tense: 'je vérifie' (I check/am checking). Regular -er verb 'vérifier' (to check).",
+      "grammar_points": ["present_tense", "regular_verbs", "technology"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_200",
+      "english": "The cake is delicious.",
+      "correctFrench": ["Le", "gâteau", "est", "délicieux"],
+      "wordOptions": ["Le", "gâteau", "est", "délicieux", "La", "tarte", "ai", "délicieuse", "mauvais", "bon"],
+      "explanation": "'Le gâteau' (masculine). 'Délicieux' (masculine form of delicious) agrees with 'gâteau'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "food_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_201",
+      "english": "I am getting dressed.",
+      "correctFrench": ["Je", "m'habille"],
+      "wordOptions": ["Je", "m'habille", "Tu", "t'habilles", "me", "déshabille", "porte", "mets"],
+      "explanation": "Reflexive verb: 's'habiller' (to get dressed). 'Je m'habille' (I get dressed).",
+      "grammar_points": ["reflexive_verbs", "daily_routine", "clothing"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_202",
+      "english": "The lamp is bright.",
+      "correctFrench": ["La", "lampe", "est", "brillante"],
+      "wordOptions": ["La", "lampe", "est", "brillante", "Le", "éclairage", "ai", "brillant", "sombre", "faible"],
+      "explanation": "'La lampe' (feminine). 'Brillante' (feminine form of bright) agrees with 'lampe'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "light_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_203",
+      "english": "You are counting money.",
+      "correctFrench": ["Tu", "comptes", "l'argent"],
+      "wordOptions": ["Tu", "comptes", "l'argent", "Vous", "comptez", "de", "la", "monnaie", "dépenses"],
+      "explanation": "Present tense: 'tu comptes' (you count/are counting). 'L'argent' (money - contraction).",
+      "grammar_points": ["present_tense", "regular_verbs", "money"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_204",
+      "english": "They are resting.",
+      "correctFrench": ["Ils", "se", "reposent"],
+      "wordOptions": ["Ils", "se", "reposent", "Elles", "te", "repose", "dorment", "travaillent", "jouent"],
+      "explanation": "Reflexive verb: 'se reposer' (to rest). 'Ils se reposent' (they rest/are resting).",
+      "grammar_points": ["reflexive_verbs", "present_tense", "activities"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_205",
+      "english": "I am making coffee.",
+      "correctFrench": ["Je", "fais", "du", "café"],
+      "wordOptions": ["Je", "fais", "du", "café", "Tu", "fait", "de", "la", "thé", "bois"],
+      "explanation": "Present tense: 'je fais' (I make/am making). 'Du café' (coffee) with partitive.",
+      "grammar_points": ["present_tense", "irregular_verbs", "partitive_articles"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_206",
+      "english": "The garden is beautiful.",
+      "correctFrench": ["Le", "jardin", "est", "beau"],
+      "wordOptions": ["Le", "jardin", "est", "beau", "La", "cour", "ai", "belle", "laid", "joli"],
+      "explanation": "'Le jardin' (masculine). 'Beau' (masculine form of beautiful) agrees with 'jardin'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "irregular_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_207",
+      "english": "We are packing suitcases.",
+      "correctFrench": ["Nous", "faisons", "nos", "valises"],
+      "wordOptions": ["Nous", "faisons", "nos", "valises", "Vous", "faites", "vos", "bagages", "défaisons", "préparons"],
+      "explanation": "Idiomatic expression: 'faire ses valises' (to pack suitcases). 'Nos valises' (our suitcases).",
+      "grammar_points": ["present_tense", "irregular_verbs", "travel"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_208",
+      "english": "She is answering the phone.",
+      "correctFrench": ["Elle", "répond", "au", "téléphone"],
+      "wordOptions": ["Elle", "répond", "au", "téléphone", "Il", "réponds", "à", "la", "appelle", "raccroche"],
+      "explanation": "Present tense: 'elle répond' (she answers/is answering). 'Au téléphone' (to the phone).",
+      "grammar_points": ["present_tense", "regular_verbs", "communication"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_209",
+      "english": "I am looking for my keys.",
+      "correctFrench": ["Je", "cherche", "mes", "clés"],
+      "wordOptions": ["Je", "cherche", "mes", "clés", "Tu", "cherches", "tes", "trouve", "perds", "oublie"],
+      "explanation": "Present tense: 'je cherche' (I look for/am looking for). 'Mes clés' (my keys).",
+      "grammar_points": ["present_tense", "regular_verbs", "objects"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_210",
+      "english": "The street is busy.",
+      "correctFrench": ["La", "rue", "est", "animée"],
+      "wordOptions": ["La", "rue", "est", "animée", "Le", "boulevard", "ai", "animé", "calme", "vide"],
+      "explanation": "'La rue' (feminine). 'Animée' (feminine form of busy/lively) agrees with 'rue'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "city_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_211",
+      "english": "You are saving money.",
+      "correctFrench": ["Tu", "économises", "de", "l'argent"],
+      "wordOptions": ["Tu", "économises", "de", "l'argent", "Vous", "économisez", "du", "dépenses", "gagnes", "perds"],
+      "explanation": "Present tense: 'tu économises' (you save/are saving). 'De l'argent' (money) with partitive.",
+      "grammar_points": ["present_tense", "regular_verbs", "money"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_212",
+      "english": "They are playing cards.",
+      "correctFrench": ["Ils", "jouent", "aux", "cartes"],
+      "wordOptions": ["Ils", "jouent", "aux", "cartes", "Elles", "joue", "des", "échecs", "dames", "au"],
+      "explanation": "Games with 'jouer aux': 'jouer aux cartes' (to play cards). 'Aux' = à + les.",
+      "grammar_points": ["present_tense", "games", "contractions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_213",
+      "english": "I am getting up early.",
+      "correctFrench": ["Je", "me", "lève", "tôt"],
+      "wordOptions": ["Je", "me", "lève", "tôt", "Tu", "te", "lèves", "tard", "couche", "réveille"],
+      "explanation": "Reflexive verb: 'se lever' (to get up). 'Je me lève tôt' (I get up early).",
+      "grammar_points": ["reflexive_verbs", "daily_routine", "time_expressions"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_214",
+      "english": "The computer is new.",
+      "correctFrench": ["L'ordinateur", "est", "neuf"],
+      "wordOptions": ["L'ordinateur", "est", "neuf", "La", "tablette", "ai", "neuve", "vieux", "cassé"],
+      "explanation": "'L'ordinateur' (masculine, contraction). 'Neuf' (masculine form of new/brand new).",
+      "grammar_points": ["contractions", "être_conjugation", "technology_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_215",
+      "english": "We are visiting friends.",
+      "correctFrench": ["Nous", "rendons", "visite", "à", "des", "amis"],
+      "wordOptions": ["Nous", "rendons", "visite", "à", "des", "amis", "Vous", "rendez", "visitons", "voyons", "rencontrons"],
+      "explanation": "Idiomatic expression: 'rendre visite à' (to visit someone). Complex structure.",
+      "grammar_points": ["present_tense", "idiomatic_expressions", "friendship"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_basic_216",
+      "english": "She is wearing makeup.",
+      "correctFrench": ["Elle", "se", "maquille"],
+      "wordOptions": ["Elle", "se", "maquille", "Il", "te", "maquilles", "démaquille", "coiffe", "habille"],
+      "explanation": "Reflexive verb: 'se maquiller' (to put on makeup). 'Elle se maquille' (she puts on makeup).",
+      "grammar_points": ["reflexive_verbs", "beauty", "daily_routine"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_217",
+      "english": "I am borrowing a book.",
+      "correctFrench": ["J'emprunte", "un", "livre"],
+      "wordOptions": ["J'emprunte", "un", "livre", "Tu", "empruntes", "prête", "rends", "achète", "lis"],
+      "explanation": "Present tense: 'j'emprunte' (I borrow/am borrowing). 'Un livre' (a book).",
+      "grammar_points": ["present_tense", "regular_verbs", "library"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_218",
+      "english": "The weather is bad.",
+      "correctFrench": ["Il", "fait", "mauvais"],
+      "wordOptions": ["Il", "fait", "mauvais", "Le", "temps", "est", "beau", "chaud", "froid", "bel"],
+      "explanation": "Weather expressions: 'il fait mauvais' (the weather is bad). Impersonal 'il fait'.",
+      "grammar_points": ["weather_expressions", "impersonal_verbs", "faire_expressions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_219",
+      "english": "You are telling a story.",
+      "correctFrench": ["Tu", "racontes", "une", "histoire"],
+      "wordOptions": ["Tu", "racontes", "une", "histoire", "Vous", "racontez", "lis", "écris", "écoutes", "inventes"],
+      "explanation": "Present tense: 'tu racontes' (you tell/are telling). 'Une histoire' (a story).",
+      "grammar_points": ["present_tense", "regular_verbs", "storytelling"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_220",
+      "english": "They are moving house.",
+      "correctFrench": ["Ils", "déménagent"],
+      "wordOptions": ["Ils", "déménagent", "Elles", "déménage", "emménagent", "partent", "arrivent", "restent"],
+      "explanation": "Present tense: 'ils déménagent' (they move house/are moving). Single verb for moving house.",
+      "grammar_points": ["present_tense", "regular_verbs", "housing"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_221",
+      "english": "I am feeling tired.",
+      "correctFrench": ["Je", "me", "sens", "fatigué"],
+      "wordOptions": ["Je", "me", "sens", "fatigué", "Tu", "te", "sent", "fatiguée", "bien", "mal"],
+      "explanation": "Reflexive verb: 'se sentir' (to feel). 'Je me sens fatigué' (I feel tired).",
+      "grammar_points": ["reflexive_verbs", "health", "adjective_agreement"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_222",
+      "english": "The restaurant is expensive.",
+      "correctFrench": ["Le", "restaurant", "est", "cher"],
+      "wordOptions": ["Le", "restaurant", "est", "cher", "La", "café", "ai", "chère", "bon", "marché"],
+      "explanation": "'Le restaurant' (masculine). 'Cher' (masculine form of expensive) agrees with 'restaurant'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "price_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_223",
+      "english": "We are celebrating a birthday.",
+      "correctFrench": ["Nous", "fêtons", "un", "anniversaire"],
+      "wordOptions": ["Nous", "fêtons", "un", "anniversaire", "Vous", "fêtez", "célébrons", "organisons", "préparons", "oublions"],
+      "explanation": "Present tense: 'nous fêtons' (we celebrate/are celebrating). 'Un anniversaire' (a birthday).",
+      "grammar_points": ["present_tense", "regular_verbs", "celebrations"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_224",
+      "english": "She is doing yoga.",
+      "correctFrench": ["Elle", "fait", "du", "yoga"],
+      "wordOptions": ["Elle", "fait", "du", "yoga", "Il", "fait", "de", "la", "sport", "gymnastique"],
+      "explanation": "Activities with 'faire du': 'faire du yoga' (to do yoga). 'Du' = de + le.",
+      "grammar_points": ["present_tense", "irregular_verbs", "sports"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_225",
+      "english": "I am parking the car.",
+      "correctFrench": ["Je", "gare", "la", "voiture"],
+      "wordOptions": ["Je", "gare", "la", "voiture", "Tu", "gares", "conduis", "démarre", "arrête", "répare"],
+      "explanation": "Present tense: 'je gare' (I park/am parking). 'La voiture' (the car).",
+      "grammar_points": ["present_tense", "regular_verbs", "vehicles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_226",
+      "english": "The hotel is comfortable.",
+      "correctFrench": ["L'hôtel", "est", "confortable"],
+      "wordOptions": ["L'hôtel", "est", "confortable", "La", "chambre", "ai", "inconfortable", "luxueux", "simple"],
+      "explanation": "'L'hôtel' (masculine, contraction). 'Confortable' is invariable (same for all genders).",
+      "grammar_points": ["contractions", "être_conjugation", "comfort_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_227",
+      "english": "You are watering plants.",
+      "correctFrench": ["Tu", "arroses", "les", "plantes"],
+      "wordOptions": ["Tu", "arroses", "les", "plantes", "Vous", "arrosez", "des", "fleurs", "jardines", "plantes"],
+      "explanation": "Present tense: 'tu arroses' (you water/are watering). 'Les plantes' (the plants).",
+      "grammar_points": ["present_tense", "regular_verbs", "gardening"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_228",
+      "english": "They are arguing.",
+      "correctFrench": ["Ils", "se", "disputent"],
+      "wordOptions": ["Ils", "se", "disputent", "Elles", "te", "dispute", "parlent", "discutent", "crient"],
+      "explanation": "Reflexive verb: 'se disputer' (to argue). 'Ils se disputent' (they argue/are arguing).",
+      "grammar_points": ["reflexive_verbs", "emotions", "relationships"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_229",
+      "english": "I am getting married.",
+      "correctFrench": ["Je", "me", "marie"],
+      "wordOptions": ["Je", "me", "marie", "Tu", "te", "maries", "divorce", "sépare", "fiance", "rencontre"],
+      "explanation": "Reflexive verb: 'se marier' (to get married). 'Je me marie' (I get married).",
+      "grammar_points": ["reflexive_verbs", "life_events", "relationships"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_230",
+      "english": "The beach is crowded.",
+      "correctFrench": ["La", "plage", "est", "bondée"],
+      "wordOptions": ["La", "plage", "est", "bondée", "Le", "parc", "ai", "bondé", "vide", "calme"],
+      "explanation": "'La plage' (feminine). 'Bondée' (feminine form of crowded) agrees with 'plage'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "crowd_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_231",
+      "english": "We are having breakfast.",
+      "correctFrench": ["Nous", "prenons", "le", "petit-déjeuner"],
+      "wordOptions": ["Nous", "prenons", "le", "petit-déjeuner", "Vous", "prenez", "mangeons", "déjeuner", "dîner", "goûter"],
+      "explanation": "Meals with 'prendre': 'prendre le petit-déjeuner' (to have breakfast). Complex meal term.",
+      "grammar_points": ["present_tense", "irregular_verbs", "meals"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_232",
+      "english": "She is knitting a sweater.",
+      "correctFrench": ["Elle", "tricote", "un", "pull"],
+      "wordOptions": ["Elle", "tricote", "un", "pull", "Il", "coud", "fait", "achète", "porte", "lave"],
+      "explanation": "Present tense: 'elle tricote' (she knits/is knitting). 'Un pull' (a sweater).",
+      "grammar_points": ["present_tense", "regular_verbs", "crafts"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_233",
+      "english": "I am forgetting something.",
+      "correctFrench": ["J'oublie", "quelque", "chose"],
+      "wordOptions": ["J'oublie", "quelque", "chose", "Tu", "oublies", "me", "souviens", "rappelle", "perds"],
+      "explanation": "Present tense: 'j'oublie' (I forget/am forgetting). 'Quelque chose' (something).",
+      "grammar_points": ["present_tense", "regular_verbs", "indefinite_pronouns"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_234",
+      "english": "The movie theater is dark.",
+      "correctFrench": ["Le", "cinéma", "est", "sombre"],
+      "wordOptions": ["Le", "cinéma", "est", "sombre", "La", "salle", "ai", "claire", "lumineux", "noir"],
+      "explanation": "'Le cinéma' (masculine). 'Sombre' is invariable (same for masculine/feminine) meaning dark.",
+      "grammar_points": ["definite_articles", "être_conjugation", "light_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_235",
+      "english": "You are changing clothes.",
+      "correctFrench": ["Tu", "changes", "de", "vêtements"],
+      "wordOptions": ["Tu", "changes", "de", "vêtements", "Vous", "changez", "des", "mets", "enlèves", "portes"],
+      "explanation": "Present tense: 'tu changes de' (you change). 'Changer de vêtements' (to change clothes).",
+      "grammar_points": ["present_tense", "regular_verbs", "clothing"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_236",
+      "english": "They are getting divorced.",
+      "correctFrench": ["Ils", "divorcent"],
+      "wordOptions": ["Ils", "divorcent", "Elles", "divorce", "se", "marient", "séparent", "rencontrent"],
+      "explanation": "Present tense: 'ils divorcent' (they get divorced/are getting divorced). Life event verb.",
+      "grammar_points": ["present_tense", "regular_verbs", "life_events"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_237",
+      "english": "I am remembering something.",
+      "correctFrench": ["Je", "me", "souviens", "de", "quelque", "chose"],
+      "wordOptions": ["Je", "me", "souviens", "de", "quelque", "chose", "Tu", "te", "souvient", "oublie", "rappelle"],
+      "explanation": "Reflexive verb: 'se souvenir de' (to remember). Complex structure with 'de'.",
+      "grammar_points": ["reflexive_verbs", "memory", "prepositions"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_basic_238",
+      "english": "The library is quiet.",
+      "correctFrench": ["La", "bibliothèque", "est", "silencieuse"],
+      "wordOptions": ["La", "bibliothèque", "est", "silencieuse", "Le", "musée", "ai", "silencieux", "bruyante", "calme"],
+      "explanation": "'La bibliothèque' (feminine). 'Silencieuse' (feminine form of quiet) agrees with 'bibliothèque'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "sound_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_239",
+      "english": "We are going shopping.",
+      "correctFrench": ["Nous", "faisons", "les", "courses"],
+      "wordOptions": ["Nous", "faisons", "les", "courses", "Vous", "faites", "du", "shopping", "achetons", "vendons"],
+      "explanation": "Idiomatic expression: 'faire les courses' (to go shopping/grocery shopping).",
+      "grammar_points": ["present_tense", "irregular_verbs", "shopping"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_240",
+      "english": "She is getting angry.",
+      "correctFrench": ["Elle", "se", "fâche"],
+      "wordOptions": ["Elle", "se", "fâche", "Il", "te", "fâches", "calme", "énerve", "dispute"],
+      "explanation": "Reflexive verb: 'se fâcher' (to get angry). 'Elle se fâche' (she gets angry).",
+      "grammar_points": ["reflexive_verbs", "emotions", "anger"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_241",
+      "english": "I am losing weight.",
+      "correctFrench": ["Je", "maigris"],
+      "wordOptions": ["Je", "maigris", "Tu", "maigrit", "grossis", "mange", "fais", "régime"],
+      "explanation": "Present tense: 'je maigris' (I lose weight/am losing weight). Regular -ir verb 'maigrir'.",
+      "grammar_points": ["present_tense", "regular_verbs", "health"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_242",
+      "english": "The museum is interesting.",
+      "correctFrench": ["Le", "musée", "est", "intéressant"],
+      "wordOptions": ["Le", "musée", "est", "intéressant", "La", "galerie", "ai", "intéressante", "ennuyeux", "fascinant"],
+      "explanation": "'Le musée' (masculine). 'Intéressant' (masculine form of interesting) agrees with 'musée'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "culture_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_243",
+      "english": "You are gaining weight.",
+      "correctFrench": ["Tu", "grossis"],
+      "wordOptions": ["Tu", "grossis", "Vous", "grossissez", "maigris", "mange", "fais", "régime"],
+      "explanation": "Present tense: 'tu grossis' (you gain weight/are gaining weight). Regular -ir verb 'grossir'.",
+      "grammar_points": ["present_tense", "regular_verbs", "health"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_244",
+      "english": "They are getting ready.",
+      "correctFrench": ["Ils", "se", "préparent"],
+      "wordOptions": ["Ils", "se", "préparent", "Elles", "te", "prépare", "habillent", "dépêchent", "lèvent"],
+      "explanation": "Reflexive verb: 'se préparer' (to get ready). 'Ils se préparent' (they get ready).",
+      "grammar_points": ["reflexive_verbs", "daily_routine", "preparation"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_245",
+      "english": "I am taking a shower.",
+      "correctFrench": ["Je", "prends", "une", "douche"],
+      "wordOptions": ["Je", "prends", "une", "douche", "Tu", "prend", "un", "bain", "me", "lave"],
+      "explanation": "Idiomatic expression: 'prendre une douche' (to take a shower). Uses 'prendre' not reflexive.",
+      "grammar_points": ["present_tense", "irregular_verbs", "daily_routine"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_246",
+      "english": "The airport is busy.",
+      "correctFrench": ["L'aéroport", "est", "animé"],
+      "wordOptions": ["L'aéroport", "est", "animé", "La", "gare", "ai", "animée", "calme", "vide"],
+      "explanation": "'L'aéroport' (masculine, contraction). 'Animé' (masculine form of busy) agrees with 'aéroport'.",
+      "grammar_points": ["contractions", "être_conjugation", "travel_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_247",
+      "english": "We are hurrying.",
+      "correctFrench": ["Nous", "nous", "dépêchons"],
+      "wordOptions": ["Nous", "nous", "dépêchons", "Vous", "vous", "dépêchez", "pressons", "courons", "marchons"],
+      "explanation": "Reflexive verb: 'se dépêcher' (to hurry). 'Nous nous dépêchons' (we hurry).",
+      "grammar_points": ["reflexive_verbs", "movement", "time_pressure"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_248",
+      "english": "She is taking a bath.",
+      "correctFrench": ["Elle", "prend", "un", "bain"],
+      "wordOptions": ["Elle", "prend", "un", "bain", "Il", "prends", "une", "douche", "se", "lave"],
+      "explanation": "Idiomatic expression: 'prendre un bain' (to take a bath). Uses 'prendre' not reflexive.",
+      "grammar_points": ["present_tense", "irregular_verbs", "daily_routine"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_249",
+      "english": "I am getting bored.",
+      "correctFrench": ["Je", "m'ennuie"],
+      "wordOptions": ["Je", "m'ennuie", "Tu", "t'ennuies", "me", "amuse", "intéresse", "fatigue"],
+      "explanation": "Reflexive verb: 's'ennuyer' (to get bored). 'Je m'ennuie' (I get bored).",
+      "grammar_points": ["reflexive_verbs", "emotions", "boredom"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_250",
+      "english": "The store is open.",
+      "correctFrench": ["Le", "magasin", "est", "ouvert"],
+      "wordOptions": ["Le", "magasin", "est", "ouvert", "La", "boutique", "ai", "ouverte", "fermé", "fermée"],
+      "explanation": "'Le magasin' (masculine). 'Ouvert' (masculine form of open) agrees with 'magasin'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "business_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_251",
+      "english": "You are getting lost.",
+      "correctFrench": ["Tu", "te", "perds"],
+      "wordOptions": ["Tu", "te", "perds", "Vous", "vous", "perdez", "me", "trouve", "cherche", "oriente"],
+      "explanation": "Reflexive verb: 'se perdre' (to get lost). 'Tu te perds' (you get lost).",
+      "grammar_points": ["reflexive_verbs", "movement", "direction"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_252",
+      "english": "They are getting engaged.",
+      "correctFrench": ["Ils", "se", "fiancent"],
+      "wordOptions": ["Ils", "se", "fiancent", "Elles", "te", "fiance", "marient", "rencontrent", "séparent"],
+      "explanation": "Reflexive verb: 'se fiancer' (to get engaged). 'Ils se fiancent' (they get engaged).",
+      "grammar_points": ["reflexive_verbs", "life_events", "relationships"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_253",
+      "english": "I am making a mistake.",
+      "correctFrench": ["Je", "fais", "une", "erreur"],
+      "wordOptions": ["Je", "fais", "une", "erreur", "Tu", "fait", "faute", "corrige", "répète", "évite"],
+      "explanation": "Idiomatic expression: 'faire une erreur' (to make a mistake). Uses 'faire'.",
+      "grammar_points": ["present_tense", "irregular_verbs", "mistakes"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_254",
+      "english": "The bank is closed.",
+      "correctFrench": ["La", "banque", "est", "fermée"],
+      "wordOptions": ["La", "banque", "est", "fermée", "Le", "bureau", "ai", "fermé", "ouverte", "ouverte"],
+      "explanation": "'La banque' (feminine). 'Fermée' (feminine form of closed) agrees with 'banque'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "business_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_255",
+      "english": "We are making progress.",
+      "correctFrench": ["Nous", "faisons", "des", "progrès"],
+      "wordOptions": ["Nous", "faisons", "des", "progrès", "Vous", "faites", "du", "avançons", "réussissons", "améliorons"],
+      "explanation": "Idiomatic expression: 'faire des progrès' (to make progress). 'Des progrès' (progress - plural).",
+      "grammar_points": ["present_tense", "irregular_verbs", "achievement"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_256",
+      "english": "She is getting worried.",
+      "correctFrench": ["Elle", "s'inquiète"],
+      "wordOptions": ["Elle", "s'inquiète", "Il", "t'inquiètes", "se", "calme", "rassure", "stresse"],
+      "explanation": "Reflexive verb: 's'inquiéter' (to worry/get worried). 'Elle s'inquiète' (she worries).",
+      "grammar_points": ["reflexive_verbs", "emotions", "worry"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_257",
+      "english": "I am making friends.",
+      "correctFrench": ["Je", "me", "fais", "des", "amis"],
+      "wordOptions": ["Je", "me", "fais", "des", "amis", "Tu", "te", "fait", "rencontre", "trouve", "perds"],
+      "explanation": "Reflexive expression: 'se faire des amis' (to make friends). Complex reflexive structure.",
+      "grammar_points": ["reflexive_verbs", "friendship", "social_relationships"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_basic_258",
+      "english": "The post office is far.",
+      "correctFrench": ["La", "poste", "est", "loin"],
+      "wordOptions": ["La", "poste", "est", "loin", "Le", "bureau", "ai", "près", "proche", "éloigné"],
+      "explanation": "'La poste' (feminine). 'Loin' is invariable (same for all genders) meaning far.",
+      "grammar_points": ["definite_articles", "être_conjugation", "distance_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_259",
+      "english": "You are making noise.",
+      "correctFrench": ["Tu", "fais", "du", "bruit"],
+      "wordOptions": ["Tu", "fais", "du", "bruit", "Vous", "faites", "de", "la", "silence", "calme"],
+      "explanation": "Idiomatic expression: 'faire du bruit' (to make noise). 'Du bruit' (noise) with partitive.",
+      "grammar_points": ["present_tense", "irregular_verbs", "sound"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_260",
+      "english": "They are getting sick.",
+      "correctFrench": ["Ils", "tombent", "malades"],
+      "wordOptions": ["Ils", "tombent", "malades", "Elles", "tombe", "malade", "guérissent", "soignent", "vont"],
+      "explanation": "Idiomatic expression: 'tomber malade' (to get sick). 'Malades' (sick - plural adjective).",
+      "grammar_points": ["present_tense", "irregular_verbs", "health"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_261",
+      "english": "I am getting better.",
+      "correctFrench": ["Je", "vais", "mieux"],
+      "wordOptions": ["Je", "vais", "mieux", "Tu", "va", "bien", "mal", "guéris", "améliore"],
+      "explanation": "Health expression: 'aller mieux' (to get better/feel better). Uses 'aller' + 'mieux'.",
+      "grammar_points": ["present_tense", "irregular_verbs", "health"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_262",
+      "english": "The pharmacy is near.",
+      "correctFrench": ["La", "pharmacie", "est", "près"],
+      "wordOptions": ["La", "pharmacie", "est", "près", "Le", "hôpital", "ai", "loin", "proche", "éloigné"],
+      "explanation": "'La pharmacie' (feminine). 'Près' is invariable (same for all genders) meaning near.",
+      "grammar_points": ["definite_articles", "être_conjugation", "distance_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_263",
+      "english": "We are getting older.",
+      "correctFrench": ["Nous", "vieillissons"],
+      "wordOptions": ["Nous", "vieillissons", "Vous", "vieillissez", "rajeunissons", "grandissons", "changeons", "évoluons"],
+      "explanation": "Present tense: 'nous vieillissons' (we get older/are getting older). Regular -ir verb 'vieillir'.",
+      "grammar_points": ["present_tense", "regular_verbs", "aging"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_264",
+      "english": "She is getting scared.",
+      "correctFrench": ["Elle", "a", "peur"],
+      "wordOptions": ["Elle", "a", "peur", "Il", "ai", "faim", "soif", "froid", "chaud"],
+      "explanation": "Emotion with avoir: 'avoir peur' (to be scared/afraid). French uses avoir, not être.",
+      "grammar_points": ["avoir_conjugation", "emotions", "avoir_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_265",
+      "english": "I am making dinner.",
+      "correctFrench": ["Je", "prépare", "le", "dîner"],
+      "wordOptions": ["Je", "prépare", "le", "dîner", "Tu", "prépares", "fais", "cuisine", "mange", "sers"],
+      "explanation": "Present tense: 'je prépare' (I prepare/am preparing). 'Le dîner' (dinner).",
+      "grammar_points": ["present_tense", "regular_verbs", "meals"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_266",
+      "english": "The school is big.",
+      "correctFrench": ["L'école", "est", "grande"],
+      "wordOptions": ["L'école", "est", "grande", "Le", "collège", "ai", "grand", "petite", "énorme"],
+      "explanation": "'L'école' (feminine, contraction). 'Grande' (feminine form of big) agrees with 'école'.",
+      "grammar_points": ["contractions", "être_conjugation", "size_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_267",
+      "english": "You are getting confused.",
+      "correctFrench": ["Tu", "te", "trompes"],
+      "wordOptions": ["Tu", "te", "trompes", "Vous", "vous", "trompez", "me", "comprends", "confonds", "perds"],
+      "explanation": "Reflexive verb: 'se tromper' (to make a mistake/get confused). 'Tu te trompes' (you're wrong).",
+      "grammar_points": ["reflexive_verbs", "mistakes", "confusion"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_268",
+      "english": "They are making plans.",
+      "correctFrench": ["Ils", "font", "des", "projets"],
+      "wordOptions": ["Ils", "font", "des", "projets", "Elles", "fait", "de", "la", "préparent", "organisent"],
+      "explanation": "Idiomatic expression: 'faire des projets' (to make plans). 'Des projets' (plans/projects).",
+      "grammar_points": ["present_tense", "irregular_verbs", "planning"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_269",
+      "english": "I am getting hungry.",
+      "correctFrench": ["J'ai", "faim"],
+      "wordOptions": ["J'ai", "faim", "Je", "suis", "soif", "froid", "chaud", "peur"],
+      "explanation": "Physical state with avoir: 'avoir faim' (to be hungry). French uses avoir, not être.",
+      "grammar_points": ["avoir_conjugation", "physical_states", "avoir_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_270",
+      "english": "The church is old.",
+      "correctFrench": ["L'église", "est", "vieille"],
+      "wordOptions": ["L'église", "est", "vieille", "Le", "temple", "ai", "vieux", "ancienne", "moderne"],
+      "explanation": "'L'église' (feminine, contraction). 'Vieille' (feminine form of old) agrees with 'église'.",
+      "grammar_points": ["contractions", "être_conjugation", "age_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_271",
+      "english": "We are making a cake.",
+      "correctFrench": ["Nous", "faisons", "un", "gâteau"],
+      "wordOptions": ["Nous", "faisons", "un", "gâteau", "Vous", "faites", "une", "tarte", "cuisinons", "préparons"],
+      "explanation": "Present tense: 'nous faisons' (we make/are making). 'Un gâteau' (a cake).",
+      "grammar_points": ["present_tense", "irregular_verbs", "cooking"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_272",
+      "english": "She is getting sleepy.",
+      "correctFrench": ["Elle", "a", "sommeil"],
+      "wordOptions": ["Elle", "a", "sommeil", "Il", "ai", "faim", "soif", "dort", "fatigue"],
+      "explanation": "Physical state with avoir: 'avoir sommeil' (to be sleepy). French uses avoir, not être.",
+      "grammar_points": ["avoir_conjugation", "physical_states", "avoir_expressions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_273",
+      "english": "I am making a reservation.",
+      "correctFrench": ["Je", "fais", "une", "réservation"],
+      "wordOptions": ["Je", "fais", "une", "réservation", "Tu", "fait", "prends", "annule", "confirme", "change"],
+      "explanation": "Idiomatic expression: 'faire une réservation' (to make a reservation). Uses 'faire'.",
+      "grammar_points": ["present_tense", "irregular_verbs", "travel"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_274",
+      "english": "The bridge is long.",
+      "correctFrench": ["Le", "pont", "est", "long"],
+      "wordOptions": ["Le", "pont", "est", "long", "La", "route", "ai", "longue", "court", "large"],
+      "explanation": "'Le pont' (masculine). 'Long' (masculine form of long) agrees with 'pont'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "length_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_275",
+      "english": "You are getting impatient.",
+      "correctFrench": ["Tu", "deviens", "impatient"],
+      "wordOptions": ["Tu", "deviens", "impatient", "Vous", "devenez", "impatiente", "patient", "calme", "nerveux"],
+      "explanation": "Present tense: 'tu deviens' (you become/are becoming). 'Devenir' (to become) + adjective.",
+      "grammar_points": ["present_tense", "irregular_verbs", "personality_changes"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_276",
+      "english": "They are making music.",
+      "correctFrench": ["Ils", "font", "de", "la", "musique"],
+      "wordOptions": ["Ils", "font", "de", "la", "musique", "Elles", "fait", "du", "jouent", "écoutent", "chantent"],
+      "explanation": "Idiomatic expression: 'faire de la musique' (to make music). 'De la musique' (music).",
+      "grammar_points": ["present_tense", "irregular_verbs", "music"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_277",
+      "english": "I am getting nervous.",
+      "correctFrench": ["Je", "deviens", "nerveux"],
+      "wordOptions": ["Je", "deviens", "nerveux", "Tu", "devient", "nerveuse", "calme", "stressé", "inquiet"],
+      "explanation": "Present tense: 'je deviens' (I become/am becoming). 'Devenir' (to become) + adjective.",
+      "grammar_points": ["present_tense", "irregular_verbs", "emotional_changes"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_278",
+      "english": "The market is busy.",
+      "correctFrench": ["Le", "marché", "est", "animé"],
+      "wordOptions": ["Le", "marché", "est", "animé", "La", "foire", "ai", "animée", "calme", "vide"],
+      "explanation": "'Le marché' (masculine). 'Animé' (masculine form of busy/lively) agrees with 'marché'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "activity_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_279",
+      "english": "We are making a decision.",
+      "correctFrench": ["Nous", "prenons", "une", "décision"],
+      "wordOptions": ["Nous", "prenons", "une", "décision", "Vous", "prenez", "faisons", "changeons", "hésitons", "choisissons"],
+      "explanation": "Idiomatic expression: 'prendre une décision' (to make a decision). Uses 'prendre' not 'faire'.",
+      "grammar_points": ["present_tense", "irregular_verbs", "decision_making"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_280",
+      "english": "She is getting excited.",
+      "correctFrench": ["Elle", "s'excite"],
+      "wordOptions": ["Elle", "s'excite", "Il", "t'excites", "se", "calme", "énerve", "passionne"],
+      "explanation": "Reflexive verb: 's'exciter' (to get excited). 'Elle s'excite' (she gets excited).",
+      "grammar_points": ["reflexive_verbs", "emotions", "excitement"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_281",
+      "english": "I am making an appointment.",
+      "correctFrench": ["Je", "prends", "rendez-vous"],
+      "wordOptions": ["Je", "prends", "rendez-vous", "Tu", "prend", "un", "fais", "annule", "reporte"],
+      "explanation": "Idiomatic expression: 'prendre rendez-vous' (to make an appointment). Fixed expression.",
+      "grammar_points": ["present_tense", "irregular_verbs", "appointments"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_282",
+      "english": "The office is modern.",
+      "correctFrench": ["Le", "bureau", "est", "moderne"],
+      "wordOptions": ["Le", "bureau", "est", "moderne", "La", "salle", "ai", "ancienne", "vieux", "nouveau"],
+      "explanation": "'Le bureau' (masculine). 'Moderne' is invariable (same for masculine/feminine).",
+      "grammar_points": ["definite_articles", "être_conjugation", "style_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_basic_283",
+      "english": "You are getting ready to leave.",
+      "correctFrench": ["Tu", "te", "prépares", "à", "partir"],
+      "wordOptions": ["Tu", "te", "prépares", "à", "partir", "Vous", "vous", "préparez", "pour", "rester", "arriver"],
+      "explanation": "Reflexive verb + infinitive: 'se préparer à' (to get ready to). Complex structure.",
+      "grammar_points": ["reflexive_verbs", "infinitive_constructions", "preparation"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_basic_284",
+      "english": "They are making a mess.",
+      "correctFrench": ["Ils", "font", "du", "désordre"],
+      "wordOptions": ["Ils", "font", "du", "désordre", "Elles", "fait", "de", "la", "rangent", "nettoient"],
+      "explanation": "Idiomatic expression: 'faire du désordre' (to make a mess). 'Du désordre' (mess/disorder).",
+      "grammar_points": ["present_tense", "irregular_verbs", "cleanliness"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_285",
+      "english": "I am getting used to it.",
+      "correctFrench": ["Je", "m'habitue"],
+      "wordOptions": ["Je", "m'habitue", "Tu", "t'habitues", "me", "adapte", "comprends", "apprends"],
+      "explanation": "Reflexive verb: 's'habituer' (to get used to). 'Je m'habitue' (I get used to it).",
+      "grammar_points": ["reflexive_verbs", "adaptation", "habits"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_286",
+      "english": "The stadium is huge.",
+      "correctFrench": ["Le", "stade", "est", "énorme"],
+      "wordOptions": ["Le", "stade", "est", "énorme", "La", "salle", "ai", "immense", "petit", "grand"],
+      "explanation": "'Le stade' (masculine). 'Énorme' is invariable (same for masculine/feminine) meaning huge.",
+      "grammar_points": ["definite_articles", "être_conjugation", "size_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_287",
+      "english": "We are making an effort.",
+      "correctFrench": ["Nous", "faisons", "un", "effort"],
+      "wordOptions": ["Nous", "faisons", "une", "effort", "Vous", "faites", "des", "efforts", "essayons", "tentons"],
+      "explanation": "Idiomatic expression: 'faire un effort' (to make an effort). 'Un effort' (an effort).",
+      "grammar_points": ["present_tense", "irregular_verbs", "effort"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_288",
+      "english": "She is getting jealous.",
+      "correctFrench": ["Elle", "devient", "jalouse"],
+      "wordOptions": ["Elle", "devient", "jalouse", "Il", "devient", "jaloux", "envieuse", "fâchée", "triste"],
+      "explanation": "Present tense: 'elle devient' (she becomes/is becoming). 'Jalouse' (feminine form of jealous).",
+      "grammar_points": ["present_tense", "irregular_verbs", "emotional_changes"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_289",
+      "english": "I am making a list.",
+      "correctFrench": ["Je", "fais", "une", "liste"],
+      "wordOptions": ["Je", "fais", "une", "liste", "Tu", "fait", "écris", "prépare", "note", "rédige"],
+      "explanation": "Idiomatic expression: 'faire une liste' (to make a list). Uses 'faire' not 'écrire'.",
+      "grammar_points": ["present_tense", "irregular_verbs", "organization"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_290",
+      "english": "The castle is ancient.",
+      "correctFrench": ["Le", "château", "est", "ancien"],
+      "wordOptions": ["Le", "château", "est", "ancien", "La", "forteresse", "ai", "ancienne", "moderne", "nouveau"],
+      "explanation": "'Le château' (masculine). 'Ancien' (masculine form of ancient/old) agrees with 'château'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "age_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_291",
+      "english": "You are getting stronger.",
+      "correctFrench": ["Tu", "deviens", "plus", "fort"],
+      "wordOptions": ["Tu", "deviens", "plus", "fort", "Vous", "devenez", "forte", "faible", "moins", "très"],
+      "explanation": "Comparative: 'devenir plus fort' (to become stronger). 'Plus' + adjective for comparison.",
+      "grammar_points": ["present_tense", "irregular_verbs", "comparatives"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_basic_292",
+      "english": "They are making a film.",
+      "correctFrench": ["Ils", "font", "un", "film"],
+      "wordOptions": ["Ils", "font", "un", "film", "Elles", "fait", "une", "tournent", "regardent", "voient"],
+      "explanation": "Idiomatic expression: 'faire un film' (to make a film). Uses 'faire' for creating.",
+      "grammar_points": ["present_tense", "irregular_verbs", "entertainment"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_293",
+      "english": "I am getting dizzy.",
+      "correctFrench": ["J'ai", "le", "vertige"],
+      "wordOptions": ["J'ai", "le", "vertige", "Tu", "as", "la", "mal", "tête", "nausée"],
+      "explanation": "Physical state with avoir: 'avoir le vertige' (to be dizzy/have vertigo). Fixed expression.",
+      "grammar_points": ["avoir_conjugation", "physical_states", "health"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_basic_294",
+      "english": "The forest is dense.",
+      "correctFrench": ["La", "forêt", "est", "dense"],
+      "wordOptions": ["La", "forêt", "est", "dense", "Le", "bois", "ai", "épaisse", "clairsemée", "verte"],
+      "explanation": "'La forêt' (feminine). 'Dense' is invariable (same for masculine/feminine) meaning dense.",
+      "grammar_points": ["definite_articles", "être_conjugation", "nature_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_295",
+      "english": "We are making a video.",
+      "correctFrench": ["Nous", "faisons", "une", "vidéo"],
+      "wordOptions": ["Nous", "faisons", "une", "vidéo", "Vous", "faites", "un", "film", "tournons", "regardons"],
+      "explanation": "Present tense: 'nous faisons' (we make/are making). 'Une vidéo' (a video).",
+      "grammar_points": ["present_tense", "irregular_verbs", "technology"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_296",
+      "english": "She is getting homesick.",
+      "correctFrench": ["Elle", "a", "le", "mal", "du", "pays"],
+      "wordOptions": ["Elle", "a", "le", "mal", "du", "pays", "Il", "ai", "de", "la", "nostalgie", "tristesse"],
+      "explanation": "Idiomatic expression: 'avoir le mal du pays' (to be homesick). Complex fixed expression.",
+      "grammar_points": ["avoir_conjugation", "emotions", "idiomatic_expressions"],
+      "difficulty": 1.9
+    },
+    {
+      "id": "a1_basic_297",
+      "english": "I am making a sandwich.",
+      "correctFrench": ["Je", "fais", "un", "sandwich"],
+      "wordOptions": ["Je", "fais", "un", "sandwich", "Tu", "fait", "prépare", "mange", "achète", "coupe"],
+      "explanation": "Present tense: 'je fais' (I make/am making). 'Un sandwich' (a sandwich).",
+      "grammar_points": ["present_tense", "irregular_verbs", "food"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_basic_298",
+      "english": "The valley is green.",
+      "correctFrench": ["La", "vallée", "est", "verte"],
+      "wordOptions": ["La", "vallée", "est", "verte", "Le", "champ", "ai", "vert", "jaune", "brune"],
+      "explanation": "'La vallée' (feminine). 'Verte' (feminine form of green) agrees with 'vallée'.",
+      "grammar_points": ["definite_articles", "être_conjugation", "color_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_basic_299",
+      "english": "You are getting better at French.",
+      "correctFrench": ["Tu", "progresses", "en", "français"],
+      "wordOptions": ["Tu", "progresses", "en", "français", "Vous", "progressez", "améliores", "apprends", "étudies", "parles"],
+      "explanation": "Present tense: 'tu progresses' (you progress/are progressing). 'En français' (in French).",
+      "grammar_points": ["present_tense", "regular_verbs", "languages"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_basic_300",
+      "english": "They are making history.",
+      "correctFrench": ["Ils", "font", "l'histoire"],
+      "wordOptions": ["Ils", "font", "l'histoire", "Elles", "fait", "de", "la", "étudient", "apprennent"],
+      "explanation": "Idiomatic expression: 'faire l'histoire' (to make history). 'L'histoire' (history).",
+      "grammar_points": ["present_tense", "irregular_verbs", "achievement"],
+      "difficulty": 1.7
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "level": "B2",
+  "topic": "complex",
+  "description": "Complex grammatical structures, advanced syntax, and sophisticated language use",
+  "total_sentences": 200,
+  "sentences": [
+    {
+      "id": "b2_complex_001",
+      "english": "Not only did she finish the project early, but she also exceeded expectations.",
+      "correctFrench": ["Non", "seulement", "elle", "a", "fini", "le", "projet", "en", "avance", "mais", "elle", "a", "aussi", "dépassé", "les", "attentes"],
+      "wordOptions": ["Non", "seulement", "elle", "a", "fini", "le", "projet", "en", "avance", "mais", "elle", "a", "aussi", "dépassé", "les", "attentes", "également"],
+      "explanation": "'Non seulement...mais aussi' = not only...but also. Emphatic construction for achievements.",
+      "grammar_points": ["emphatic_constructions", "project_success", "expectation_expressions"],
+      "difficulty": 4.2
+    },
+    {
+      "id": "b2_complex_002",
+      "english": "The fact that he apologized doesn't change what happened.",
+      "correctFrench": ["Le", "fait", "qu'il", "se", "soit", "excusé", "ne", "change", "rien", "à", "ce", "qui", "s'est", "passé"],
+      "wordOptions": ["Le", "fait", "qu'il", "se", "soit", "excusé", "ne", "change", "rien", "à", "ce", "qui", "s'est", "passé", "a"],
+      "explanation": "'Le fait que' + subjunctive. Complex nominalization with subjunctive mood.",
+      "grammar_points": ["fact_expressions", "subjunctive_advanced", "consequence_denial"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_complex_003",
+      "english": "Were it not for his intervention, the situation would have deteriorated.",
+      "correctFrench": ["N'eût", "été", "son", "intervention", "la", "situation", "se", "serait", "dégradée"],
+      "wordOptions": ["N'eût", "été", "son", "intervention", "la", "situation", "se", "serait", "dégradée", "Sans", "Si", "pas"],
+      "explanation": "'N'eût été' = were it not for (literary conditional). Hypothetical past intervention.",
+      "grammar_points": ["literary_conditional", "hypothetical_past", "intervention_consequences"],
+      "difficulty": 4.8
+    },
+    {
+      "id": "b2_complex_004",
+      "english": "The more challenging the task, the more motivated she becomes.",
+      "correctFrench": ["Plus", "la", "tâche", "est", "difficile", "plus", "elle", "devient", "motivée"],
+      "wordOptions": ["Plus", "la", "tâche", "est", "difficile", "plus", "elle", "devient", "motivée", "compliquée", "stimulée"],
+      "explanation": "Correlative construction 'plus...plus'. Challenge-motivation relationship.",
+      "grammar_points": ["correlative_structures", "motivation_psychology", "task_difficulty"],
+      "difficulty": 4.1
+    },
+    {
+      "id": "b2_complex_005",
+      "english": "Whatever the consequences may be, we must tell the truth.",
+      "correctFrench": ["Quelles", "que", "soient", "les", "conséquences", "nous", "devons", "dire", "la", "vérité"],
+      "wordOptions": ["Quelles", "que", "soient", "les", "conséquences", "nous", "devons", "dire", "la", "vérité", "sont"],
+      "explanation": "'Quel(le) que soit/soient' = whatever. Concessive subjunctive construction.",
+      "grammar_points": ["concessive_subjunctive", "moral_imperatives", "truth_telling"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_complex_006",
+      "english": "Far from being discouraged, he redoubled his efforts.",
+      "correctFrench": ["Loin", "d'être", "découragé", "il", "a", "redoublé", "d'efforts"],
+      "wordOptions": ["Loin", "d'être", "découragé", "il", "a", "redoublé", "d'efforts", "Au", "lieu", "plutôt"],
+      "explanation": "'Loin de' + infinitive = far from. Contrary behavior to expectation.",
+      "grammar_points": ["contrary_expressions", "effort_intensification", "perseverance"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_complex_007",
+      "english": "It is imperative that all safety protocols be followed.",
+      "correctFrench": ["Il", "est", "impératif", "que", "tous", "les", "protocoles", "de", "sécurité", "soient", "respectés"],
+      "wordOptions": ["Il", "est", "impératif", "que", "tous", "les", "protocoles", "de", "sécurité", "soient", "respectés", "sont"],
+      "explanation": "'Il est impératif que' + subjunctive. Strong necessity in professional context.",
+      "grammar_points": ["strong_necessity", "safety_protocols", "passive_subjunctive"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_complex_008",
+      "english": "The proposal, having been thoroughly reviewed, was unanimously approved.",
+      "correctFrench": ["La", "proposition", "ayant", "été", "soigneusement", "examinée", "a", "été", "approuvée", "à", "l'unanimité"],
+      "wordOptions": ["La", "proposition", "ayant", "été", "soigneusement", "examinée", "a", "été", "approuvée", "à", "l'unanimité", "après"],
+      "explanation": "Participe présent passé passif. Complex temporal and passive construction.",
+      "grammar_points": ["participe_passe_compose", "passive_constructions", "unanimous_approval"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_complex_009",
+      "english": "Hardly had he arrived when the meeting began.",
+      "correctFrench": ["À", "peine", "était-il", "arrivé", "que", "la", "réunion", "a", "commencé"],
+      "wordOptions": ["À", "peine", "était-il", "arrivé", "que", "la", "réunion", "a", "commencé", "eut-il", "était", "il"],
+      "explanation": "'À peine...que' with inversion. Immediate temporal sequence.",
+      "grammar_points": ["temporal_inversion", "immediate_sequence", "formal_style"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_complex_010",
+      "english": "The extent to which technology influences our lives is remarkable.",
+      "correctFrench": ["La", "mesure", "dans", "laquelle", "la", "technologie", "influence", "nos", "vies", "est", "remarquable"],
+      "wordOptions": ["La", "mesure", "dans", "laquelle", "la", "technologie", "influence", "nos", "vies", "est", "remarquable", "degré"],
+      "explanation": "'La mesure dans laquelle' = the extent to which. Degree expression with relative.",
+      "grammar_points": ["degree_expressions", "technology_impact", "complex_relatives"],
+      "difficulty": 4.4
+    }
+  ]
+}

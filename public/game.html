@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Wordie Budie - Free French Learning Game</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Play Wordie Budie now! Interactive French sentence construction game with timer challenges and instant pronunciation feedback.">
+    <meta name="keywords" content="play french game, french learning, sentence construction, language practice">
+
+    <!-- AdSense Optimization -->
+    <meta name="google-adsense-account" content="ca-pub-YOUR-ADSENSE-ID">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Caveat:wght@400;600;700&family=Amatic+SC:wght@400;700&display=swap');
+
+        body {
+            font-family: 'Kalam', cursive;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 10px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .instructions {
+            background: #f8f9fa;
+            padding: 20px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .instructions h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+
+        .instructions ul {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+
+        .instructions li {
+            background: white;
+            padding: 10px 15px;
+            border-radius: 6px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .ad-small {
+            background: #f0f0f0;
+            border: 2px dashed #ccc;
+            padding: 15px;
+            text-align: center;
+            margin: 15px;
+            border-radius: 8px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .game-container {
+            position: relative;
+            margin: 20px;
+        }
+
+        .game-frame {
+            width: 100%;
+            height: 900px; /* Increased height for full visibility */
+            border: none;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+
+        .sidebar {
+            background: #f8f9fa;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 12px;
+            border: 1px solid #e0e0e0;
+        }
+
+        .progress-card {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .progress-card h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+
+        .back-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 25px;
+            margin: 20px;
+            transition: transform 0.3s ease;
+        }
+
+        .back-button:hover {
+            transform: translateY(-2px);
+        }
+
+        .social-share {
+            text-align: center;
+            padding: 30px 20px;
+            background: linear-gradient(135deg, #51cf66 0%, #40c057 100%);
+            color: white;
+        }
+
+        .social-share h2 {
+            margin-bottom: 15px;
+        }
+
+        .share-button {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 6px;
+            margin: 5px;
+            transition: background 0.3s ease;
+        }
+
+        .share-button:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 5px;
+                border-radius: 8px;
+            }
+
+            .game-frame {
+                height: 800px; /* Increased for mobile */
+            }
+
+            .instructions ul {
+                grid-template-columns: 1fr;
+            }
+
+            .header h1 {
+                font-size: 1.5rem;
+            }
+
+            /* Hide sidebar on mobile to give more space to game */
+            .sidebar {
+                display: none;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 2px;
+            }
+
+            .game-frame {
+                height: 700px; /* Still good size for small screens */
+            }
+
+            .game-container {
+                margin: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🎯 Wordie Budie Game</h1>
+            <p>Interactive French Learning Session</p>
+            <a href="index-netlify.html" class="back-button">← Back to Home</a>
+        </div>
+
+        <!-- Game Instructions -->
+        <div class="instructions">
+            <h2>🎮 How to Play:</h2>
+            <ul>
+                <li><strong>1.</strong> Read the English sentence</li>
+                <li><strong>2.</strong> Drag French words to build translation</li>
+                <li><strong>3.</strong> Click "Check Answer" for feedback</li>
+                <li><strong>4.</strong> Use hints if you need help</li>
+                <li><strong>💡 Tip:</strong> Try timer challenges for extra points!</li>
+            </ul>
+        </div>
+
+        <!-- Small Ad Above Game -->
+        <div class="ad-small">
+            📢 Google AdSense Ad (320x50 or 320x100)
+            <!-- Replace with actual AdSense code:
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-YOUR-ADSENSE-ID"
+                 data-ad-slot="YOUR-AD-SLOT"
+                 data-ad-format="banner"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            -->
+        </div>
+
+        <!-- Main Game Container -->
+        <div class="game-container">
+            <!-- Embed Your Current Game -->
+            <iframe
+                src="play-all-topics.html"
+                class="game-frame"
+                title="Wordie Budie French Learning Game"
+                scrolling="yes"
+                allowfullscreen>
+                <p>Your browser doesn't support iframes. <a href="play-all-topics.html">Click here to play the game directly.</a></p>
+            </iframe>
+        </div>
+
+        <!-- Progress Sidebar -->
+        <div class="sidebar">
+            <div class="progress-card">
+                <h3>📊 Your Progress</h3>
+                <p><strong>Level:</strong> A2 Elementary</p>
+                <p><strong>Streak:</strong> 12 questions</p>
+                <p><strong>Accuracy:</strong> 87%</p>
+                <p><strong>Time played today:</strong> 23 minutes</p>
+            </div>
+
+            <div class="progress-card">
+                <h3>🏆 Recent Achievements</h3>
+                <p>🎯 First 10 Streak!</p>
+                <p>📚 A1 Level Complete</p>
+                <p>⚡ Speed Demon (10s timer)</p>
+            </div>
+
+            <div class="progress-card">
+                <h3>🎯 Daily Goal</h3>
+                <p>20 questions completed</p>
+                <div style="background: #e0e0e0; height: 8px; border-radius: 4px; margin: 10px 0;">
+                    <div style="background: #51cf66; height: 8px; width: 80%; border-radius: 4px;"></div>
+                </div>
+                <p><small>16/20 completed (80%)</small></p>
+            </div>
+        </div>
+
+        <!-- Ad Below Game -->
+        <div class="ad-small">
+            📢 Google AdSense Ad (728x90 Banner)
+            <!-- Replace with actual AdSense code -->
+        </div>
+
+        <!-- Social Sharing Section -->
+        <div class="social-share">
+            <h2>🎉 Enjoying Wordie Budie?</h2>
+            <p>Share with friends and help them learn French too!</p>
+            <br>
+            <a href="https://facebook.com/sharer/sharer.php?u=https://yoursite.netlify.app" class="share-button" target="_blank">📘 Share on Facebook</a>
+            <a href="https://twitter.com/intent/tweet?text=I'm%20learning%20French%20with%20Wordie%20Budie!&url=https://yoursite.netlify.app" class="share-button" target="_blank">🐦 Tweet</a>
+            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://yoursite.netlify.app" class="share-button" target="_blank">💼 LinkedIn</a>
+        </div>
+    </div>
+
+    <!-- Simple Analytics -->
+    <script>
+        // Track game page views
+        console.log('🎮 Game page loaded - User started playing!');
+
+        // Simple engagement tracking
+        let gameStartTime = Date.now();
+
+        window.addEventListener('beforeunload', function() {
+            let playTime = Math.round((Date.now() - gameStartTime) / 1000);
+            console.log(`User played for ${playTime} seconds`);
+        });
+
+        // Log when iframe loads
+        document.querySelector('.game-frame').addEventListener('load', function() {
+            console.log('🎯 Wordie Budie game loaded successfully!');
+        });
+    </script>
+</body>
+</html>

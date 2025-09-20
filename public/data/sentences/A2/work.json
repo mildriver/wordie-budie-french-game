@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "topic": "work",
+  "description": "Jobs, professions, workplace, and work-related activities",
+  "total_sentences": 100,
+  "sentences": [
+    {
+      "id": "a2_work_001",
+      "english": "I work as a teacher at a primary school.",
+      "correctFrench": ["Je", "travaille", "comme", "professeur", "dans", "une", "école", "primaire"],
+      "wordOptions": ["Je", "travaille", "comme", "professeur", "dans", "une", "école", "primaire", "instituteur", "secondaire", "à"],
+      "explanation": "'Travailler comme' = to work as. 'Une école primaire' = primary school.",
+      "grammar_points": ["profession_vocabulary", "workplace_locations", "prepositions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_002",
+      "english": "She starts work at 9 AM.",
+      "correctFrench": ["Elle", "commence", "le", "travail", "à", "9", "heures"],
+      "wordOptions": ["Elle", "commence", "le", "travail", "à", "9", "heures", "travail", "neuf", "heure", "finit"],
+      "explanation": "'Commencer le travail' = to start work. Time expressions with 'à'.",
+      "grammar_points": ["work_schedule", "time_expressions", "daily_routine"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_003",
+      "english": "He is a doctor at the hospital.",
+      "correctFrench": ["Il", "est", "médecin", "à", "l'hôpital"],
+      "wordOptions": ["Il", "est", "médecin", "à", "l'hôpital", "docteur", "dans", "le", "clinique", "cabinet"],
+      "explanation": "'Être médecin' = to be a doctor. 'À l'hôpital' = at the hospital.",
+      "grammar_points": ["medical_professions", "workplace_locations", "être_profession"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_work_004",
+      "english": "We have a meeting this afternoon.",
+      "correctFrench": ["Nous", "avons", "une", "réunion", "cet", "après-midi"],
+      "wordOptions": ["Nous", "avons", "une", "réunion", "cet", "après-midi", "rendez-vous", "conférence", "ce", "matin"],
+      "explanation": "'Avoir une réunion' = to have a meeting. 'Cet après-midi' = this afternoon.",
+      "grammar_points": ["business_vocabulary", "time_expressions", "demonstrative_adjectives"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_005",
+      "english": "The secretary answers the phone.",
+      "correctFrench": ["La", "secrétaire", "répond", "au", "téléphone"],
+      "wordOptions": ["La", "secrétaire", "répond", "au", "téléphone", "Le", "assistante", "téléphone", "décroche", "appel"],
+      "explanation": "'Répondre au téléphone' = to answer the phone. Office duties vocabulary.",
+      "grammar_points": ["office_vocabulary", "workplace_duties", "contracted_articles"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_006",
+      "english": "I need to finish this report today.",
+      "correctFrench": ["Je", "dois", "finir", "ce", "rapport", "aujourd'hui"],
+      "wordOptions": ["Je", "dois", "finir", "ce", "rapport", "aujourd'hui", "terminer", "compléter", "dossier", "document"],
+      "explanation": "'Devoir finir' = must finish. 'Ce rapport' = this report. Work deadlines.",
+      "grammar_points": ["modal_verbs", "work_documents", "time_pressure"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_007",
+      "english": "She works part-time in a restaurant.",
+      "correctFrench": ["Elle", "travaille", "à", "temps", "partiel", "dans", "un", "restaurant"],
+      "wordOptions": ["Elle", "travaille", "à", "temps", "partiel", "dans", "un", "restaurant", "plein", "café", "mi-temps"],
+      "explanation": "'À temps partiel' = part-time. 'Dans un restaurant' = in a restaurant.",
+      "grammar_points": ["work_schedules", "workplace_types", "employment_terms"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_008",
+      "english": "The boss called an emergency meeting.",
+      "correctFrench": ["Le", "patron", "a", "convoqué", "une", "réunion", "d'urgence"],
+      "wordOptions": ["Le", "patron", "a", "convoqué", "une", "réunion", "d'urgence", "chef", "organisé", "urgente", "importante"],
+      "explanation": "Passé composé: a convoqué. 'Une réunion d'urgence' = emergency meeting.",
+      "grammar_points": ["passe_compose", "workplace_hierarchy", "urgency_expressions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_009",
+      "english": "I commute to work by train.",
+      "correctFrench": ["Je", "vais", "au", "travail", "en", "train"],
+      "wordOptions": ["Je", "vais", "au", "travail", "en", "train", "me", "rends", "par", "le", "voiture", "métro"],
+      "explanation": "'Aller au travail' = to go to work. 'En train' = by train. Commuting.",
+      "grammar_points": ["commuting_vocabulary", "transportation_prepositions", "daily_routine"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_010",
+      "english": "The engineer designs new buildings.",
+      "correctFrench": ["L'ingénieur", "conçoit", "de", "nouveaux", "bâtiments"],
+      "wordOptions": ["L'ingénieur", "conçoit", "de", "nouveaux", "bâtiments", "dessine", "construit", "immeubles", "maisons"],
+      "explanation": "'Concevoir' = to design. 'De nouveaux bâtiments' = new buildings.",
+      "grammar_points": ["engineering_vocabulary", "design_verbs", "construction"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_011",
+      "english": "She got promoted last month.",
+      "correctFrench": ["Elle", "a", "été", "promue", "le", "mois", "dernier"],
+      "wordOptions": ["Elle", "a", "été", "promue", "le", "mois", "dernier", "promu", "avancement", "passé", "précédent"],
+      "explanation": "Passé composé passif: a été promue. 'Le mois dernier' = last month.",
+      "grammar_points": ["passe_compose", "career_advancement", "passive_voice"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_work_012",
+      "english": "We work overtime during busy periods.",
+      "correctFrench": ["Nous", "faisons", "des", "heures", "supplémentaires", "pendant", "les", "périodes", "chargées"],
+      "wordOptions": ["Nous", "faisons", "des", "heures", "supplémentaires", "pendant", "les", "périodes", "chargées", "travaillons", "occupées"],
+      "explanation": "'Faire des heures supplémentaires' = to work overtime. Work intensity vocabulary.",
+      "grammar_points": ["work_intensity", "time_expressions", "busy_periods"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_work_013",
+      "english": "The lawyer defends his clients.",
+      "correctFrench": ["L'avocat", "défend", "ses", "clients"],
+      "wordOptions": ["L'avocat", "défend", "ses", "clients", "La", "avocate", "représente", "clientèle", "dossiers"],
+      "explanation": "'Défendre ses clients' = to defend clients. Legal profession vocabulary.",
+      "grammar_points": ["legal_professions", "professional_duties", "possessive_adjectives"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_014",
+      "english": "I have vacation next week.",
+      "correctFrench": ["J'ai", "des", "vacances", "la", "semaine", "prochaine"],
+      "wordOptions": ["J'ai", "des", "vacances", "la", "semaine", "prochaine", "congés", "repos", "semaine", "suivante"],
+      "explanation": "'Avoir des vacances' = to have vacation. 'La semaine prochaine' = next week.",
+      "grammar_points": ["time_off", "time_expressions", "work_benefits"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_015",
+      "english": "The chef cooks in the kitchen.",
+      "correctFrench": ["Le", "chef", "cuisine", "dans", "la", "cuisine"],
+      "wordOptions": ["Le", "chef", "cuisine", "dans", "la", "cuisine", "La", "cuisinier", "prépare", "restaurant"],
+      "explanation": "'Le chef cuisine' = the chef cooks. Note: chef/cuisine can be confusing.",
+      "grammar_points": ["cooking_professions", "workplace_locations", "culinary_vocabulary"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_work_016",
+      "english": "She attends training courses regularly.",
+      "correctFrench": ["Elle", "suit", "des", "formations", "régulièrement"],
+      "wordOptions": ["Elle", "suit", "des", "formations", "régulièrement", "assiste", "cours", "stages", "souvent", "toujours"],
+      "explanation": "'Suivre des formations' = to attend training. Professional development.",
+      "grammar_points": ["professional_development", "frequency_adverbs", "learning_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_017",
+      "english": "The salesperson helps customers.",
+      "correctFrench": ["Le", "vendeur", "aide", "les", "clients"],
+      "wordOptions": ["Le", "vendeur", "aide", "les", "clients", "La", "vendeuse", "conseille", "clientèle", "acheteurs"],
+      "explanation": "'Le vendeur/la vendeuse' = salesperson. Customer service vocabulary.",
+      "grammar_points": ["sales_professions", "customer_service", "helping_verbs"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_work_018",
+      "english": "I work from home twice a week.",
+      "correctFrench": ["Je", "travaille", "de", "la", "maison", "deux", "fois", "par", "semaine"],
+      "wordOptions": ["Je", "travaille", "de", "la", "maison", "deux", "fois", "par", "semaine", "chez", "moi", "télétravail"],
+      "explanation": "'Travailler de la maison' = to work from home. Remote work vocabulary.",
+      "grammar_points": ["remote_work", "frequency_expressions", "modern_work"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_019",
+      "english": "The company hired new employees.",
+      "correctFrench": ["L'entreprise", "a", "embauché", "de", "nouveaux", "employés"],
+      "wordOptions": ["L'entreprise", "a", "embauché", "de", "nouveaux", "employés", "société", "recruté", "personnel", "salariés"],
+      "explanation": "Passé composé: a embauché. 'Embaucher' = to hire. Company actions.",
+      "grammar_points": ["passe_compose", "hiring_vocabulary", "company_operations"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_020",
+      "english": "She earns a good salary.",
+      "correctFrench": ["Elle", "gagne", "un", "bon", "salaire"],
+      "wordOptions": ["Elle", "gagne", "un", "bon", "salaire", "reçoit", "touche", "beau", "gros", "revenu"],
+      "explanation": "'Gagner un salaire' = to earn a salary. Compensation vocabulary.",
+      "grammar_points": ["salary_vocabulary", "income_expressions", "work_benefits"],
+      "difficulty": 2.1
+    }
+  ]
+}

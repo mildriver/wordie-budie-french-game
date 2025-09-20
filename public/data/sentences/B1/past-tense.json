@@ -1,0 +1,188 @@
+{
+  "level": "B1",
+  "topic": "past-tense",
+  "description": "Complex past tenses, narrative, and temporal relationships",
+  "total_sentences": 110,
+  "sentences": [
+    {
+      "id": "b1_past_001",
+      "english": "I had already finished when he arrived.",
+      "correctFrench": ["J'avais", "déjà", "fini", "quand", "il", "est", "arrivé"],
+      "wordOptions": ["J'avais", "déjà", "fini", "quand", "il", "est", "arrivé", "ai", "était", "finit"],
+      "explanation": "Plus-que-parfait (had finished) vs passé composé (arrived). Sequence of past events.",
+      "grammar_points": ["plus_que_parfait", "temporal_sequence", "passe_compose"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_past_002",
+      "english": "She was reading while I was cooking.",
+      "correctFrench": ["Elle", "lisait", "pendant", "que", "je", "cuisinais"],
+      "wordOptions": ["Elle", "lisait", "pendant", "que", "je", "cuisinais", "lit", "cuisine", "lisant", "cuisiner"],
+      "explanation": "Imparfait for simultaneous ongoing actions in the past. 'Pendant que' = while.",
+      "grammar_points": ["imparfait", "simultaneous_actions", "temporal_clauses"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_past_003",
+      "english": "We would often visit our grandparents on Sundays.",
+      "correctFrench": ["Nous", "allions", "souvent", "voir", "nos", "grands-parents", "le", "dimanche"],
+      "wordOptions": ["Nous", "allions", "souvent", "voir", "nos", "grands-parents", "le", "dimanche", "irions", "visiter"],
+      "explanation": "Imparfait for habitual past actions. 'Souvent' = often. Repeated past behavior.",
+      "grammar_points": ["habitual_past", "imparfait", "family_visits"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_past_004",
+      "english": "By the time I got there, the show had started.",
+      "correctFrench": ["Quand", "je", "suis", "arrivé", "le", "spectacle", "avait", "commencé"],
+      "wordOptions": ["Quand", "je", "suis", "arrivé", "le", "spectacle", "avait", "commencé", "ai", "était", "a"],
+      "explanation": "Sequence: passé composé (arrived) after plus-que-parfait (had started).",
+      "grammar_points": ["temporal_sequence", "plus_que_parfait", "event_timing"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_past_005",
+      "english": "I was about to leave when the phone rang.",
+      "correctFrench": ["J'allais", "partir", "quand", "le", "téléphone", "a", "sonné"],
+      "wordOptions": ["J'allais", "partir", "quand", "le", "téléphone", "a", "sonné", "étais", "sur", "point"],
+      "explanation": "'Aller' in imparfait + infinitive = was about to. Interrupted action.",
+      "grammar_points": ["interrupted_action", "immediate_past_future", "imparfait"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_past_006",
+      "english": "She had been living in Paris for five years.",
+      "correctFrench": ["Elle", "habitait", "Paris", "depuis", "cinq", "ans"],
+      "wordOptions": ["Elle", "habitait", "Paris", "depuis", "cinq", "ans", "avait", "habité", "vivait", "demeurait"],
+      "explanation": "Imparfait + depuis = had been doing. Duration in the past.",
+      "grammar_points": ["duration_expressions", "imparfait", "past_continuous_concept"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_past_007",
+      "english": "I remember that it was raining that day.",
+      "correctFrench": ["Je", "me", "rappelle", "qu'il", "pleuvait", "ce", "jour-là"],
+      "wordOptions": ["Je", "me", "rappelle", "qu'il", "pleuvait", "ce", "jour-là", "souviens", "a", "plu"],
+      "explanation": "Memory + imparfait for past circumstances. Weather as background.",
+      "grammar_points": ["memory_expressions", "weather_past", "imparfait"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_past_008",
+      "english": "After we had eaten, we went for a walk.",
+      "correctFrench": ["Après", "avoir", "mangé", "nous", "sommes", "allés", "nous", "promener"],
+      "wordOptions": ["Après", "avoir", "mangé", "nous", "sommes", "allés", "nous", "promener", "que", "avions"],
+      "explanation": "'Après avoir' + past participle = after having done. Sequential actions.",
+      "grammar_points": ["sequential_actions", "infinitive_passe", "movement_verbs"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_past_009",
+      "english": "They used to live in a small village.",
+      "correctFrench": ["Ils", "habitaient", "dans", "un", "petit", "village"],
+      "wordOptions": ["Ils", "habitaient", "dans", "un", "petit", "village", "vivaient", "demeuraient", "ont", "habité"],
+      "explanation": "Imparfait for past states and habits. 'Used to' = imparfait in French.",
+      "grammar_points": ["past_states", "imparfait", "habitual_past"],
+      "difficulty": 3.0
+    },
+    {
+      "id": "b1_past_010",
+      "english": "I had never seen such a beautiful sunset.",
+      "correctFrench": ["Je", "n'avais", "jamais", "vu", "un", "si", "beau", "coucher", "de", "soleil"],
+      "wordOptions": ["Je", "n'avais", "jamais", "vu", "un", "si", "beau", "coucher", "de", "soleil", "ai", "aussi"],
+      "explanation": "Plus-que-parfait with 'jamais' = had never. Past experience up to a point.",
+      "grammar_points": ["plus_que_parfait", "negative_experience", "intensity_expressions"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_past_011",
+      "english": "While she was sleeping, I prepared breakfast.",
+      "correctFrench": ["Pendant", "qu'elle", "dormait", "j'ai", "préparé", "le", "petit-déjeuner"],
+      "wordOptions": ["Pendant", "qu'elle", "dormait", "j'ai", "préparé", "le", "petit-déjeuner", "préparais", "tandis"],
+      "explanation": "Background action (imparfait) vs completed action (passé composé).",
+      "grammar_points": ["background_foreground", "meal_preparation", "temporal_contrast"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_past_012",
+      "english": "I wish I had studied harder at university.",
+      "correctFrench": ["J'aurais", "aimé", "étudier", "davantage", "à", "l'université"],
+      "wordOptions": ["J'aurais", "aimé", "étudier", "davantage", "à", "l'université", "voulu", "plus", "mieux"],
+      "explanation": "'Aurais aimé' = wish I had. Past regret expression.",
+      "grammar_points": ["past_regret", "conditional_past", "study_regrets"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_past_013",
+      "english": "As soon as I heard the news, I called my family.",
+      "correctFrench": ["Dès", "que", "j'ai", "appris", "la", "nouvelle", "j'ai", "appelé", "ma", "famille"],
+      "wordOptions": ["Dès", "que", "j'ai", "appris", "la", "nouvelle", "j'ai", "appelé", "ma", "famille", "aussitôt"],
+      "explanation": "'Dès que' + passé composé = as soon as. Immediate reaction.",
+      "grammar_points": ["immediate_reaction", "news_response", "temporal_connectors"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_past_014",
+      "english": "She kept talking even though no one was listening.",
+      "correctFrench": ["Elle", "continuait", "à", "parler", "même", "si", "personne", "n'écoutait"],
+      "wordOptions": ["Elle", "continuait", "à", "parler", "même", "si", "personne", "n'écoutait", "bien", "que"],
+      "explanation": "Persistence despite circumstances. 'Même si' = even though.",
+      "grammar_points": ["persistence_expressions", "concession", "communication_failure"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_past_015",
+      "english": "I had just finished my homework when friends arrived.",
+      "correctFrench": ["Je", "venais", "de", "finir", "mes", "devoirs", "quand", "des", "amis", "sont", "arrivés"],
+      "wordOptions": ["Je", "venais", "de", "finir", "mes", "devoirs", "quand", "des", "amis", "sont", "arrivés", "avais"],
+      "explanation": "'Venir de' in imparfait = had just done. Recent past completion.",
+      "grammar_points": ["recent_past", "venir_de", "timing_expressions"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_past_016",
+      "english": "Every morning, he would jog for an hour.",
+      "correctFrench": ["Chaque", "matin", "il", "faisait", "du", "jogging", "pendant", "une", "heure"],
+      "wordOptions": ["Chaque", "matin", "il", "faisait", "du", "jogging", "pendant", "une", "heure", "courait", "tous"],
+      "explanation": "Habitual past routine. 'Chaque matin' + imparfait = routine.",
+      "grammar_points": ["daily_routines", "exercise_habits", "time_duration"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_past_017",
+      "english": "I thought you had already left for the airport.",
+      "correctFrench": ["Je", "pensais", "que", "tu", "étais", "déjà", "parti", "pour", "l'aéroport"],
+      "wordOptions": ["Je", "pensais", "que", "tu", "étais", "déjà", "parti", "pour", "l'aéroport", "avais", "parti"],
+      "explanation": "Past belief about completed action. Plus-que-parfait in reported thought.",
+      "grammar_points": ["reported_thoughts", "plus_que_parfait", "travel_assumptions"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_past_018",
+      "english": "The more I practiced, the better I became.",
+      "correctFrench": ["Plus", "je", "m'entraînais", "mieux", "je", "devenais"],
+      "wordOptions": ["Plus", "je", "m'entraînais", "mieux", "je", "devenais", "pratiquais", "meilleur", "progressive"],
+      "explanation": "'Plus...plus' construction with imparfait. Progressive improvement.",
+      "grammar_points": ["progressive_comparison", "skill_improvement", "practice_benefits"],
+      "difficulty": 3.8
+    },
+    {
+      "id": "b1_past_019",
+      "english": "She acted as if nothing had happened.",
+      "correctFrench": ["Elle", "agissait", "comme", "si", "rien", "ne", "s'était", "passé"],
+      "wordOptions": ["Elle", "agissait", "comme", "si", "rien", "ne", "s'était", "passé", "arrivé", "fait"],
+      "explanation": "'Comme si' + plus-que-parfait = as if + past perfect. Hypothetical past.",
+      "grammar_points": ["hypothetical_behavior", "comme_si", "denial_expressions"],
+      "difficulty": 3.9
+    },
+    {
+      "id": "b1_past_020",
+      "english": "It had been years since I last saw him.",
+      "correctFrench": ["Cela", "faisait", "des", "années", "que", "je", "ne", "l'avais", "pas", "vu"],
+      "wordOptions": ["Cela", "faisait", "des", "années", "que", "je", "ne", "l'avais", "pas", "vu", "depuis"],
+      "explanation": "'Cela faisait...que' + plus-que-parfait = it had been...since.",
+      "grammar_points": ["time_elapsed", "long_separation", "temporal_distance"],
+      "difficulty": 4.0
+    }
+  ]
+}
