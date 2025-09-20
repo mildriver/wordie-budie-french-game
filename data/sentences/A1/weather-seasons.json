@@ -2,7 +2,7 @@
   "level": "A1",
   "topic": "weather-seasons",
   "description": "Weather conditions, seasons, and climate vocabulary",
-  "total_sentences": 70,
+  "total_sentences": 1000,
   "sentences": [
     {
       "id": "a1_weather_001",
@@ -183,6 +183,906 @@
       "explanation": "'L'arc-en-ciel' = rainbow. 'Après' = after. Weather phenomena sequence.",
       "grammar_points": ["weather_phenomena", "temporal_expressions", "sequence"],
       "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_021",
+      "english": "It is cold outside.",
+      "correctFrench": ["Il", "fait", "froid", "dehors"],
+      "wordOptions": ["Il", "fait", "froid", "dehors", "chaud", "dedans", "ici", "là", "très", "assez"],
+      "explanation": "'Il fait froid' = it's cold. 'Dehors' = outside.",
+      "grammar_points": ["weather_expressions", "temperature_adjectives", "location_adverbs"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_weather_022",
+      "english": "The sun shines brightly.",
+      "correctFrench": ["Le", "soleil", "brille", "fort"],
+      "wordOptions": ["Le", "soleil", "brille", "fort", "La", "lune", "fortement", "faiblement", "beaucoup", "peu"],
+      "explanation": "'Le soleil brille' = the sun shines. 'Fort' = brightly/strongly.",
+      "grammar_points": ["weather_vocabulary", "intensity_adverbs"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_023",
+      "english": "I like rainy days.",
+      "correctFrench": ["J'aime", "les", "jours", "de", "pluie"],
+      "wordOptions": ["J'aime", "les", "jours", "de", "pluie", "jour", "neige", "soleil", "vent", "brouillard"],
+      "explanation": "'Les jours de pluie' = rainy days. Weather + days vocabulary.",
+      "grammar_points": ["weather_preferences", "time_vocabulary", "weather_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_024",
+      "english": "It is hot in summer.",
+      "correctFrench": ["Il", "fait", "chaud", "en", "été"],
+      "wordOptions": ["Il", "fait", "chaud", "en", "été", "froid", "automne", "hiver", "printemps", "au", "à"],
+      "explanation": "'Il fait chaud' = it's hot. 'En été' = in summer.",
+      "grammar_points": ["weather_expressions", "seasons_vocabulary", "time_prepositions"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_weather_025",
+      "english": "The clouds are gray.",
+      "correctFrench": ["Les", "nuages", "sont", "gris"],
+      "wordOptions": ["Les", "nuages", "sont", "gris", "Le", "nuage", "blanc", "noir", "bleu", "roses"],
+      "explanation": "'Les nuages' = clouds. 'Gris' = gray (invariable color).",
+      "grammar_points": ["weather_vocabulary", "colors", "adjective_agreement"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_weather_026",
+      "english": "It will rain tomorrow.",
+      "correctFrench": ["Il", "va", "pleuvoir", "demain"],
+      "wordOptions": ["Il", "va", "pleuvoir", "demain", "pleut", "a", "plu", "hier", "aujourd'hui", "bientôt"],
+      "explanation": "'Il va pleuvoir' = it's going to rain (near future). 'Demain' = tomorrow.",
+      "grammar_points": ["weather_verbs", "future_proche", "time_expressions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_027",
+      "english": "Spring brings flowers.",
+      "correctFrench": ["Le", "printemps", "apporte", "des", "fleurs"],
+      "wordOptions": ["Le", "printemps", "apporte", "des", "fleurs", "amène", "de", "la", "le", "fruits", "feuilles"],
+      "explanation": "'Apporter' = to bring. 'Des fleurs' = flowers (indefinite plural).",
+      "grammar_points": ["seasons_vocabulary", "nature_vocabulary", "indefinite_articles"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_028",
+      "english": "The wind blows hard.",
+      "correctFrench": ["Le", "vent", "souffle", "fort"],
+      "wordOptions": ["Le", "vent", "souffle", "fort", "doucement", "faiblement", "beaucoup", "peu", "très", "assez"],
+      "explanation": "'Souffler' = to blow (wind). 'Fort' = hard/strongly.",
+      "grammar_points": ["weather_verbs", "intensity_adverbs"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_029",
+      "english": "I wear a coat when it's cold.",
+      "correctFrench": ["Je", "porte", "un", "manteau", "quand", "il", "fait", "froid"],
+      "wordOptions": ["Je", "porte", "un", "manteau", "quand", "il", "fait", "froid", "si", "lorsque", "veste", "pull"],
+      "explanation": "'Porter' = to wear. 'Un manteau' = coat. Temporal clause with 'quand'.",
+      "grammar_points": ["clothing_vocabulary", "temporal_clauses", "weather_expressions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_030",
+      "english": "Autumn is my favorite season.",
+      "correctFrench": ["L'automne", "est", "ma", "saison", "préférée"],
+      "wordOptions": ["L'automne", "est", "ma", "saison", "préférée", "mon", "favorite", "préféré", "meilleure", "plus", "belle"],
+      "explanation": "'Ma saison préférée' = my favorite season. Feminine adjective agreement.",
+      "grammar_points": ["seasons_vocabulary", "preferences", "possessive_adjectives", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_031",
+      "english": "Snow covers the ground.",
+      "correctFrench": ["La", "neige", "couvre", "le", "sol"],
+      "wordOptions": ["La", "neige", "couvre", "le", "sol", "terre", "jardin", "toit", "voiture", "recouvre"],
+      "explanation": "'Couvrir' = to cover. 'Le sol' = the ground.",
+      "grammar_points": ["weather_verbs", "ground_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_032",
+      "english": "The weather is nice today.",
+      "correctFrench": ["Il", "fait", "beau", "aujourd'hui"],
+      "wordOptions": ["Il", "fait", "beau", "aujourd'hui", "bon", "mauvais", "hier", "demain", "ce", "matin"],
+      "explanation": "'Il fait beau' = it's nice weather. Basic weather expression.",
+      "grammar_points": ["weather_expressions", "time_expressions"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_weather_033",
+      "english": "I don't like storms.",
+      "correctFrench": ["Je", "n'aime", "pas", "les", "orages"],
+      "wordOptions": ["Je", "n'aime", "pas", "les", "orages", "ne", "aime", "orage", "tempêtes", "tonnerre"],
+      "explanation": "'Je n'aime pas' = I don't like. 'Les orages' = storms.",
+      "grammar_points": ["weather_preferences", "negation", "weather_phenomena"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_034",
+      "english": "The thermometer shows 25 degrees.",
+      "correctFrench": ["Le", "thermomètre", "indique", "25", "degrés"],
+      "wordOptions": ["Le", "thermomètre", "indique", "25", "degrés", "montre", "marque", "vingt-cinq", "degré", "celsius"],
+      "explanation": "'Indiquer' = to show/indicate. Temperature measurement vocabulary.",
+      "grammar_points": ["temperature_vocabulary", "numbers", "measurement_verbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_035",
+      "english": "Flowers bloom in spring.",
+      "correctFrench": ["Les", "fleurs", "fleurissent", "au", "printemps"],
+      "wordOptions": ["Les", "fleurs", "fleurissent", "au", "printemps", "en", "poussent", "grandissent", "été", "automne"],
+      "explanation": "'Fleurir' = to bloom. 'Au printemps' = in spring.",
+      "grammar_points": ["nature_vocabulary", "seasons_vocabulary", "time_prepositions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_036",
+      "english": "It's too hot outside.",
+      "correctFrench": ["Il", "fait", "trop", "chaud", "dehors"],
+      "wordOptions": ["Il", "fait", "trop", "chaud", "dehors", "très", "assez", "un", "peu", "dedans"],
+      "explanation": "'Trop' = too (much). 'Dehors' = outside.",
+      "grammar_points": ["weather_expressions", "quantity_adverbs", "location_adverbs"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_037",
+      "english": "The rain stopped.",
+      "correctFrench": ["La", "pluie", "s'est", "arrêtée"],
+      "wordOptions": ["La", "pluie", "s'est", "arrêtée", "a", "arrêté", "cessé", "fini", "commencé", "continuée"],
+      "explanation": "'S'arrêter' = to stop. Past tense with être (reflexive).",
+      "grammar_points": ["weather_verbs", "passé_composé", "reflexive_verbs"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_038",
+      "english": "Birds fly south in winter.",
+      "correctFrench": ["Les", "oiseaux", "volent", "vers", "le", "sud", "en", "hiver"],
+      "wordOptions": ["Les", "oiseaux", "volent", "vers", "le", "sud", "en", "hiver", "au", "nord", "est", "ouest"],
+      "explanation": "'Voler vers' = to fly towards. 'Le sud' = the south. Directions.",
+      "grammar_points": ["animal_vocabulary", "directions", "seasons_vocabulary", "movement_verbs"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_039",
+      "english": "I take my umbrella.",
+      "correctFrench": ["Je", "prends", "mon", "parapluie"],
+      "wordOptions": ["Je", "prends", "mon", "parapluie", "porte", "apporte", "emporte", "ma", "imperméable", "veste"],
+      "explanation": "'Prendre' = to take. 'Mon parapluie' = my umbrella.",
+      "grammar_points": ["weather_accessories", "possessive_adjectives", "action_verbs"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_040",
+      "english": "The sky is clear.",
+      "correctFrench": ["Le", "ciel", "est", "clair"],
+      "wordOptions": ["Le", "ciel", "est", "clair", "dégagé", "bleu", "sombre", "couvert", "nuageux", "gris"],
+      "explanation": "'Clair' = clear. Sky condition vocabulary.",
+      "grammar_points": ["weather_vocabulary", "sky_conditions", "descriptive_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_weather_041",
+      "english": "Winter nights are long.",
+      "correctFrench": ["Les", "nuits", "d'hiver", "sont", "longues"],
+      "wordOptions": ["Les", "nuits", "d'hiver", "sont", "longues", "nuit", "courtes", "froides", "sombres", "claires"],
+      "explanation": "'Les nuits d'hiver' = winter nights. Adjective agreement (longues).",
+      "grammar_points": ["seasons_vocabulary", "time_vocabulary", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_042",
+      "english": "The sun sets early.",
+      "correctFrench": ["Le", "soleil", "se", "couche", "tôt"],
+      "wordOptions": ["Le", "soleil", "se", "couche", "tôt", "lève", "tard", "bientôt", "déjà", "encore"],
+      "explanation": "'Se coucher' = to set (sun). 'Tôt' = early.",
+      "grammar_points": ["solar_vocabulary", "reflexive_verbs", "time_adverbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_043",
+      "english": "I love sunny weather.",
+      "correctFrench": ["J'adore", "le", "temps", "ensoleillé"],
+      "wordOptions": ["J'adore", "le", "temps", "ensoleillé", "J'aime", "climat", "soleil", "nuageux", "pluvieux", "froid"],
+      "explanation": "'Adorer' = to love. 'Ensoleillé' = sunny (adjective).",
+      "grammar_points": ["weather_preferences", "weather_adjectives", "emotion_verbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_044",
+      "english": "It rains every day.",
+      "correctFrench": ["Il", "pleut", "tous", "les", "jours"],
+      "wordOptions": ["Il", "pleut", "tous", "les", "jours", "chaque", "jour", "souvent", "parfois", "jamais"],
+      "explanation": "'Tous les jours' = every day. Frequency expression.",
+      "grammar_points": ["weather_verbs", "frequency_expressions", "time_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_045",
+      "english": "The leaves fall in autumn.",
+      "correctFrench": ["Les", "feuilles", "tombent", "en", "automne"],
+      "wordOptions": ["Les", "feuilles", "tombent", "en", "automne", "feuille", "poussent", "jaunissent", "été", "hiver"],
+      "explanation": "'Tomber' = to fall. Autumn phenomena vocabulary.",
+      "grammar_points": ["nature_vocabulary", "seasons_vocabulary", "seasonal_changes"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_046",
+      "english": "I feel cold.",
+      "correctFrench": ["J'ai", "froid"],
+      "wordOptions": ["J'ai", "froid", "Je", "suis", "chaud", "faim", "soif", "peur", "mal"],
+      "explanation": "'Avoir froid' = to feel cold. Expression with 'avoir'.",
+      "grammar_points": ["physical_sensations", "avoir_expressions", "temperature_feelings"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_weather_047",
+      "english": "The weather changes quickly.",
+      "correctFrench": ["Le", "temps", "change", "vite"],
+      "wordOptions": ["Le", "temps", "change", "vite", "rapidement", "lentement", "souvent", "parfois", "toujours", "jamais"],
+      "explanation": "'Changer' = to change. 'Vite' = quickly.",
+      "grammar_points": ["weather_verbs", "speed_adverbs", "change_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_048",
+      "english": "We stay inside when it storms.",
+      "correctFrench": ["Nous", "restons", "dedans", "quand", "il", "y", "a", "de", "l'orage"],
+      "wordOptions": ["Nous", "restons", "dedans", "quand", "il", "y", "a", "de", "l'orage", "dehors", "si", "du", "des"],
+      "explanation": "'Rester dedans' = to stay inside. 'Il y a de l'orage' = there's a storm.",
+      "grammar_points": ["location_vocabulary", "temporal_clauses", "weather_phenomena"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_049",
+      "english": "Summer days are hot.",
+      "correctFrench": ["Les", "jours", "d'été", "sont", "chauds"],
+      "wordOptions": ["Les", "jours", "d'été", "sont", "chauds", "jour", "froids", "longs", "courts", "beaux"],
+      "explanation": "'Les jours d'été' = summer days. Adjective agreement (chauds).",
+      "grammar_points": ["seasons_vocabulary", "time_vocabulary", "temperature_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_050",
+      "english": "The wind is gentle.",
+      "correctFrench": ["Le", "vent", "est", "doux"],
+      "wordOptions": ["Le", "vent", "est", "doux", "fort", "faible", "violent", "léger", "agréable", "désagréable"],
+      "explanation": "'Doux' = gentle/mild. Wind intensity vocabulary.",
+      "grammar_points": ["weather_vocabulary", "intensity_adjectives", "gentle_expressions"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_weather_051",
+      "english": "I wear shorts in summer.",
+      "correctFrench": ["Je", "porte", "un", "short", "en", "été"],
+      "wordOptions": ["Je", "porte", "un", "short", "en", "été", "des", "shorts", "pantalon", "jupe", "automne", "hiver"],
+      "explanation": "'Un short' = shorts. Summer clothing vocabulary.",
+      "grammar_points": ["clothing_vocabulary", "seasons_vocabulary", "weather_clothing"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_052",
+      "english": "The snow melts in spring.",
+      "correctFrench": ["La", "neige", "fond", "au", "printemps"],
+      "wordOptions": ["La", "neige", "fond", "au", "printemps", "en", "tombe", "glace", "gèle", "été", "automne"],
+      "explanation": "'Fondre' = to melt. Seasonal change vocabulary.",
+      "grammar_points": ["weather_verbs", "seasons_vocabulary", "seasonal_changes"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_053",
+      "english": "Lightning lights up the sky.",
+      "correctFrench": ["L'éclair", "illumine", "le", "ciel"],
+      "wordOptions": ["L'éclair", "illumine", "le", "ciel", "éclaire", "allume", "foudre", "tonnerre", "nuit", "jour"],
+      "explanation": "'Illuminer' = to light up. Weather phenomena vocabulary.",
+      "grammar_points": ["weather_phenomena", "light_verbs", "sky_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_054",
+      "english": "It's freezing outside.",
+      "correctFrench": ["Il", "gèle", "dehors"],
+      "wordOptions": ["Il", "gèle", "dehors", "fait", "très", "froid", "neige", "pleut", "dedans", "ici"],
+      "explanation": "'Il gèle' = it's freezing. Extreme cold weather.",
+      "grammar_points": ["weather_expressions", "extreme_temperatures", "location_adverbs"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_055",
+      "english": "We need warm clothes.",
+      "correctFrench": ["Nous", "avons", "besoin", "de", "vêtements", "chauds"],
+      "wordOptions": ["Nous", "avons", "besoin", "de", "vêtements", "chauds", "des", "habits", "froids", "légers", "épais"],
+      "explanation": "'Avoir besoin de' = to need. 'Vêtements chauds' = warm clothes.",
+      "grammar_points": ["expressing_need", "clothing_vocabulary", "temperature_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_056",
+      "english": "The moon shines at night.",
+      "correctFrench": ["La", "lune", "brille", "la", "nuit"],
+      "wordOptions": ["La", "lune", "brille", "la", "nuit", "Le", "soleil", "étoiles", "jour", "matin", "soir"],
+      "explanation": "'La lune' = the moon. 'La nuit' = at night.",
+      "grammar_points": ["celestial_vocabulary", "time_expressions", "night_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_057",
+      "english": "Rain makes flowers grow.",
+      "correctFrench": ["La", "pluie", "fait", "pousser", "les", "fleurs"],
+      "wordOptions": ["La", "pluie", "fait", "pousser", "les", "fleurs", "grandir", "croître", "plantes", "arbres", "herbe"],
+      "explanation": "'Faire pousser' = to make grow. Nature cycle vocabulary.",
+      "grammar_points": ["causative_verbs", "nature_vocabulary", "growth_verbs"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_058",
+      "english": "The weather is unpredictable.",
+      "correctFrench": ["Le", "temps", "est", "imprévisible"],
+      "wordOptions": ["Le", "temps", "est", "imprévisible", "prévisible", "changeant", "stable", "constant", "variable", "régulier"],
+      "explanation": "'Imprévisible' = unpredictable. Weather patterns vocabulary.",
+      "grammar_points": ["weather_adjectives", "predictability", "weather_patterns"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a1_weather_059",
+      "english": "I close the windows when it rains.",
+      "correctFrench": ["Je", "ferme", "les", "fenêtres", "quand", "il", "pleut"],
+      "wordOptions": ["Je", "ferme", "les", "fenêtres", "quand", "il", "pleut", "ouvre", "si", "lorsque", "porte", "volets"],
+      "explanation": "'Fermer' = to close. Conditional weather actions.",
+      "grammar_points": ["house_vocabulary", "temporal_clauses", "weather_reactions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_060",
+      "english": "The puddles reflect the sky.",
+      "correctFrench": ["Les", "flaques", "reflètent", "le", "ciel"],
+      "wordOptions": ["Les", "flaques", "reflètent", "le", "ciel", "flaque", "miroir", "eau", "nuages", "soleil", "lune"],
+      "explanation": "'Les flaques' = puddles. 'Refléter' = to reflect.",
+      "grammar_points": ["water_vocabulary", "reflection_verbs", "weather_effects"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_061",
+      "english": "Hail damages cars.",
+      "correctFrench": ["La", "grêle", "abîme", "les", "voitures"],
+      "wordOptions": ["La", "grêle", "abîme", "les", "voitures", "endommage", "casse", "pluie", "neige", "maisons", "toits"],
+      "explanation": "'La grêle' = hail. 'Abîmer' = to damage.",
+      "grammar_points": ["weather_phenomena", "damage_verbs", "vehicle_vocabulary"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_weather_062",
+      "english": "I check the weather forecast.",
+      "correctFrench": ["Je", "regarde", "la", "météo"],
+      "wordOptions": ["Je", "regarde", "la", "météo", "consulte", "vérifie", "écoute", "prévisions", "bulletin", "temps"],
+      "explanation": "'Regarder la météo' = to check the weather forecast.",
+      "grammar_points": ["weather_vocabulary", "information_verbs", "daily_routines"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_063",
+      "english": "The grass is wet with dew.",
+      "correctFrench": ["L'herbe", "est", "mouillée", "de", "rosée"],
+      "wordOptions": ["L'herbe", "est", "mouillée", "de", "rosée", "humide", "sèche", "pluie", "eau", "pelouse", "jardin"],
+      "explanation": "'La rosée' = dew. 'Mouillé de' = wet with.",
+      "grammar_points": ["nature_vocabulary", "moisture_vocabulary", "weather_effects"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_064",
+      "english": "Children love playing in snow.",
+      "correctFrench": ["Les", "enfants", "adorent", "jouer", "dans", "la", "neige"],
+      "wordOptions": ["Les", "enfants", "adorent", "jouer", "dans", "la", "neige", "aiment", "avec", "sur", "pluie", "eau"],
+      "explanation": "'Adorer jouer dans' = to love playing in. Activity preferences.",
+      "grammar_points": ["leisure_activities", "weather_activities", "emotion_verbs", "prepositions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_065",
+      "english": "The storm is approaching.",
+      "correctFrench": ["L'orage", "approche"],
+      "wordOptions": ["L'orage", "approche", "arrive", "vient", "s'approche", "part", "passe", "tempête", "pluie", "vent"],
+      "explanation": "'Approcher' = to approach. Weather movement vocabulary.",
+      "grammar_points": ["weather_phenomena", "movement_verbs", "weather_timing"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_066",
+      "english": "I wear sunscreen in summer.",
+      "correctFrench": ["Je", "mets", "de", "la", "crème", "solaire", "en", "été"],
+      "wordOptions": ["Je", "mets", "de", "la", "crème", "solaire", "en", "été", "porte", "du", "protection", "été", "printemps"],
+      "explanation": "'Mettre de la crème solaire' = to wear sunscreen. Sun protection.",
+      "grammar_points": ["health_vocabulary", "sun_protection", "seasons_vocabulary"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_067",
+      "english": "The wind makes noise.",
+      "correctFrench": ["Le", "vent", "fait", "du", "bruit"],
+      "wordOptions": ["Le", "vent", "fait", "du", "bruit", "de", "la", "le", "son", "musique", "silence", "écho"],
+      "explanation": "'Faire du bruit' = to make noise. Sound vocabulary.",
+      "grammar_points": ["weather_effects", "sound_vocabulary", "partitive_articles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_068",
+      "english": "Ice forms on the lake.",
+      "correctFrench": ["La", "glace", "se", "forme", "sur", "le", "lac"],
+      "wordOptions": ["La", "glace", "se", "forme", "sur", "le", "lac", "dans", "rivière", "étang", "mer", "océan", "piscine"],
+      "explanation": "'Se former' = to form. Ice formation vocabulary.",
+      "grammar_points": ["weather_phenomena", "reflexive_verbs", "water_bodies"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_069",
+      "english": "The temperature drops at night.",
+      "correctFrench": ["La", "température", "baisse", "la", "nuit"],
+      "wordOptions": ["La", "température", "baisse", "la", "nuit", "monte", "augmente", "diminue", "jour", "matin", "soir"],
+      "explanation": "'Baisser' = to drop/fall. Temperature changes.",
+      "grammar_points": ["temperature_vocabulary", "change_verbs", "time_expressions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_070",
+      "english": "We build snowmen in winter.",
+      "correctFrench": ["Nous", "faisons", "des", "bonshommes", "de", "neige", "en", "hiver"],
+      "wordOptions": ["Nous", "faisons", "des", "bonshommes", "de", "neige", "en", "hiver", "un", "bonhomme", "au", "printemps"],
+      "explanation": "'Faire des bonshommes de neige' = to build snowmen. Winter activities.",
+      "grammar_points": ["winter_activities", "seasons_vocabulary", "leisure_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_071",
+      "english": "It's humid today.",
+      "correctFrench": ["Il", "fait", "humide", "aujourd'hui"],
+      "wordOptions": ["Il", "fait", "humide", "aujourd'hui", "sec", "moite", "hier", "demain", "très", "assez"],
+      "explanation": "'Il fait humide' = it's humid. Weather conditions.",
+      "grammar_points": ["weather_expressions", "humidity_vocabulary", "time_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_072",
+      "english": "The fog is thick.",
+      "correctFrench": ["Le", "brouillard", "est", "épais"],
+      "wordOptions": ["Le", "brouillard", "est", "épais", "dense", "léger", "fin", "blanc", "gris", "opaque"],
+      "explanation": "'Épais' = thick. Fog description vocabulary.",
+      "grammar_points": ["weather_phenomena", "density_adjectives", "weather_descriptions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_073",
+      "english": "Clouds move across the sky.",
+      "correctFrench": ["Les", "nuages", "traversent", "le", "ciel"],
+      "wordOptions": ["Les", "nuages", "traversent", "le", "ciel", "passent", "bougent", "volent", "flottent", "dérivent", "avancent"],
+      "explanation": "'Traverser' = to cross/move across. Cloud movement.",
+      "grammar_points": ["weather_vocabulary", "movement_verbs", "sky_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_074",
+      "english": "I like mild weather.",
+      "correctFrench": ["J'aime", "le", "temps", "doux"],
+      "wordOptions": ["J'aime", "le", "temps", "doux", "climat", "température", "chaud", "froid", "sec", "humide"],
+      "explanation": "'Le temps doux' = mild weather. Weather preferences.",
+      "grammar_points": ["weather_preferences", "temperature_adjectives", "weather_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_075",
+      "english": "The weatherman predicts rain.",
+      "correctFrench": ["Le", "météorologue", "prédit", "de", "la", "pluie"],
+      "wordOptions": ["Le", "météorologue", "prédit", "de", "la", "pluie", "annonce", "dit", "du", "soleil", "neige"],
+      "explanation": "'Le météorologue' = weatherman. 'Prédire' = to predict.",
+      "grammar_points": ["weather_professions", "prediction_verbs", "partitive_articles"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_076",
+      "english": "Frost covers the grass.",
+      "correctFrench": ["Le", "givre", "recouvre", "l'herbe"],
+      "wordOptions": ["Le", "givre", "recouvre", "l'herbe", "gel", "couvre", "pelouse", "jardin", "fleurs", "feuilles"],
+      "explanation": "'Le givre' = frost. 'Recouvrir' = to cover.",
+      "grammar_points": ["weather_phenomena", "covering_verbs", "nature_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_077",
+      "english": "The sun rises early in summer.",
+      "correctFrench": ["Le", "soleil", "se", "lève", "tôt", "en", "été"],
+      "wordOptions": ["Le", "soleil", "se", "lève", "tôt", "en", "été", "couche", "tard", "au", "printemps", "hiver"],
+      "explanation": "'Se lever' = to rise (sun). 'Tôt' = early.",
+      "grammar_points": ["solar_vocabulary", "reflexive_verbs", "time_adverbs", "seasons_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_078",
+      "english": "We hear thunder rumbling.",
+      "correctFrench": ["Nous", "entendons", "le", "tonnerre", "gronder"],
+      "wordOptions": ["Nous", "entendons", "le", "tonnerre", "gronder", "écoutons", "bruit", "rouler", "éclater", "résonner"],
+      "explanation": "'Entendre' = to hear. 'Gronder' = to rumble (thunder).",
+      "grammar_points": ["weather_phenomena", "sound_verbs", "weather_sounds"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_079",
+      "english": "It drizzles lightly.",
+      "correctFrench": ["Il", "bruine", "légèrement"],
+      "wordOptions": ["Il", "bruine", "légèrement", "pleut", "crachin", "doucement", "fort", "beaucoup", "peu", "finement"],
+      "explanation": "'Bruiner' = to drizzle. 'Légèrement' = lightly.",
+      "grammar_points": ["weather_verbs", "rain_intensity", "manner_adverbs"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_weather_080",
+      "english": "The barometer shows low pressure.",
+      "correctFrench": ["Le", "baromètre", "indique", "basse", "pression"],
+      "wordOptions": ["Le", "baromètre", "indique", "basse", "pression", "haute", "montre", "marque", "température", "humidité"],
+      "explanation": "'Le baromètre' = barometer. 'Basse pression' = low pressure.",
+      "grammar_points": ["weather_instruments", "pressure_vocabulary", "measurement_vocabulary"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a1_weather_081",
+      "english": "Trees sway in the wind.",
+      "correctFrench": ["Les", "arbres", "se", "balancent", "dans", "le", "vent"],
+      "wordOptions": ["Les", "arbres", "se", "balancent", "dans", "le", "vent", "bougent", "penchent", "avec", "sous", "par"],
+      "explanation": "'Se balancer' = to sway. Tree movement in wind.",
+      "grammar_points": ["nature_vocabulary", "reflexive_verbs", "movement_verbs", "prepositions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_082",
+      "english": "I feel the breeze.",
+      "correctFrench": ["Je", "sens", "la", "brise"],
+      "wordOptions": ["Je", "sens", "la", "brise", "ressens", "vent", "air", "fraîcheur", "chaleur", "humidité"],
+      "explanation": "'Sentir' = to feel. 'La brise' = breeze.",
+      "grammar_points": ["physical_sensations", "wind_vocabulary", "sensation_verbs"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_083",
+      "english": "Icicles hang from the roof.",
+      "correctFrench": ["Les", "glaçons", "pendent", "du", "toit"],
+      "wordOptions": ["Les", "glaçons", "pendent", "du", "toit", "stalactites", "tombent", "de", "la", "gouttière", "balcon"],
+      "explanation": "'Les glaçons' = icicles. 'Pendre de' = to hang from.",
+      "grammar_points": ["winter_vocabulary", "house_vocabulary", "position_verbs"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_084",
+      "english": "The air smells fresh after rain.",
+      "correctFrench": ["L'air", "sent", "bon", "après", "la", "pluie"],
+      "wordOptions": ["L'air", "sent", "bon", "après", "la", "pluie", "mauvais", "frais", "avant", "pendant", "avec"],
+      "explanation": "'Sentir bon' = to smell good/fresh. Post-rain freshness.",
+      "grammar_points": ["sensory_vocabulary", "smell_verbs", "temporal_expressions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_085",
+      "english": "We watch the sunset.",
+      "correctFrench": ["Nous", "regardons", "le", "coucher", "de", "soleil"],
+      "wordOptions": ["Nous", "regardons", "le", "coucher", "de", "soleil", "lever", "observons", "admirons", "du", "lune"],
+      "explanation": "'Le coucher de soleil' = sunset. Solar vocabulary.",
+      "grammar_points": ["solar_vocabulary", "observation_verbs", "time_of_day"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_086",
+      "english": "It's windy at the beach.",
+      "correctFrench": ["Il", "y", "a", "du", "vent", "à", "la", "plage"],
+      "wordOptions": ["Il", "y", "a", "du", "vent", "à", "la", "plage", "fait", "venteux", "sur", "dans", "mer", "océan"],
+      "explanation": "'Il y a du vent' = it's windy. Location-specific weather.",
+      "grammar_points": ["weather_expressions", "location_vocabulary", "prepositions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_087",
+      "english": "Raindrops fall on my face.",
+      "correctFrench": ["Les", "gouttes", "de", "pluie", "tombent", "sur", "mon", "visage"],
+      "wordOptions": ["Les", "gouttes", "de", "pluie", "tombent", "sur", "mon", "visage", "goutte", "dans", "ma", "tête"],
+      "explanation": "'Les gouttes de pluie' = raindrops. Physical contact with weather.",
+      "grammar_points": ["rain_vocabulary", "body_vocabulary", "prepositions", "possessive_adjectives"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_088",
+      "english": "The weather affects my mood.",
+      "correctFrench": ["Le", "temps", "influence", "mon", "humeur"],
+      "wordOptions": ["Le", "temps", "influence", "mon", "humeur", "affecte", "change", "ma", "émotions", "sentiments", "état"],
+      "explanation": "'Influencer' = to influence/affect. Weather and emotions.",
+      "grammar_points": ["weather_effects", "emotion_vocabulary", "influence_verbs"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_weather_089",
+      "english": "Spring cleaning begins.",
+      "correctFrench": ["Le", "ménage", "de", "printemps", "commence"],
+      "wordOptions": ["Le", "ménage", "de", "printemps", "commence", "nettoyage", "finit", "continue", "été", "automne", "hiver"],
+      "explanation": "'Le ménage de printemps' = spring cleaning. Seasonal activities.",
+      "grammar_points": ["seasons_vocabulary", "household_vocabulary", "seasonal_activities"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_090",
+      "english": "I love rainy afternoons.",
+      "correctFrench": ["J'adore", "les", "après-midi", "pluvieux"],
+      "wordOptions": ["J'adore", "les", "après-midi", "pluvieux", "J'aime", "matins", "soirs", "ensoleillés", "nuageux", "orageux"],
+      "explanation": "'Les après-midi pluvieux' = rainy afternoons. Time and weather.",
+      "grammar_points": ["weather_preferences", "time_vocabulary", "weather_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_091",
+      "english": "The weather is perfect.",
+      "correctFrench": ["Il", "fait", "un", "temps", "parfait"],
+      "wordOptions": ["Il", "fait", "un", "temps", "parfait", "beau", "mauvais", "excellent", "magnifique", "horrible", "superbe"],
+      "explanation": "'Un temps parfait' = perfect weather. Weather evaluation.",
+      "grammar_points": ["weather_expressions", "evaluation_adjectives", "weather_quality"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_092",
+      "english": "Snow falls quietly.",
+      "correctFrench": ["La", "neige", "tombe", "silencieusement"],
+      "wordOptions": ["La", "neige", "tombe", "silencieusement", "doucement", "fort", "bruyamment", "légèrement", "lourdement", "finement"],
+      "explanation": "'Silencieusement' = quietly. Snow falling manner.",
+      "grammar_points": ["weather_verbs", "manner_adverbs", "snow_vocabulary"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_093",
+      "english": "I feel warm in the sun.",
+      "correctFrench": ["Je", "me", "sens", "au", "chaud", "au", "soleil"],
+      "wordOptions": ["Je", "me", "sens", "au", "chaud", "au", "soleil", "froid", "dans", "le", "sous", "avec"],
+      "explanation": "'Se sentir au chaud' = to feel warm. Physical sensations.",
+      "grammar_points": ["physical_sensations", "reflexive_verbs", "temperature_feelings", "prepositions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_094",
+      "english": "The storm passes quickly.",
+      "correctFrench": ["L'orage", "passe", "rapidement"],
+      "wordOptions": ["L'orage", "passe", "rapidement", "lentement", "vite", "doucement", "arrive", "part", "continue"],
+      "explanation": "'Passer' = to pass. 'Rapidement' = quickly.",
+      "grammar_points": ["weather_phenomena", "movement_verbs", "speed_adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_095",
+      "english": "Flowers open in spring sunshine.",
+      "correctFrench": ["Les", "fleurs", "s'ouvrent", "au", "soleil", "printanier"],
+      "wordOptions": ["Les", "fleurs", "s'ouvrent", "au", "soleil", "printanier", "ferment", "dans", "le", "estival", "automnal"],
+      "explanation": "'S'ouvrir' = to open. 'Printanier' = spring (adjective).",
+      "grammar_points": ["nature_vocabulary", "reflexive_verbs", "seasonal_adjectives"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_weather_096",
+      "english": "Rain washes the streets.",
+      "correctFrench": ["La", "pluie", "lave", "les", "rues"],
+      "wordOptions": ["La", "pluie", "lave", "les", "rues", "nettoie", "mouille", "inonde", "rue", "routes", "chemins"],
+      "explanation": "'Laver' = to wash. Rain cleaning effect.",
+      "grammar_points": ["weather_effects", "cleaning_verbs", "urban_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_097",
+      "english": "The wind is refreshing.",
+      "correctFrench": ["Le", "vent", "est", "rafraîchissant"],
+      "wordOptions": ["Le", "vent", "est", "rafraîchissant", "agréable", "frais", "chaud", "désagréable", "fort", "doux"],
+      "explanation": "'Rafraîchissant' = refreshing. Wind qualities.",
+      "grammar_points": ["weather_vocabulary", "descriptive_adjectives", "comfort_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_098",
+      "english": "We stay dry under the umbrella.",
+      "correctFrench": ["Nous", "restons", "au", "sec", "sous", "le", "parapluie"],
+      "wordOptions": ["Nous", "restons", "au", "sec", "sous", "le", "parapluie", "mouillés", "dans", "avec", "sans", "près"],
+      "explanation": "'Rester au sec' = to stay dry. Protection from rain.",
+      "grammar_points": ["weather_protection", "moisture_vocabulary", "prepositions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_099",
+      "english": "The sun dries the laundry.",
+      "correctFrench": ["Le", "soleil", "sèche", "le", "linge"],
+      "wordOptions": ["Le", "soleil", "sèche", "le", "linge", "mouille", "lave", "vent", "vêtements", "habits", "tissu"],
+      "explanation": "'Sécher' = to dry. Sun's drying effect.",
+      "grammar_points": ["weather_effects", "household_vocabulary", "drying_verbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_100",
+      "english": "Mist rises from the lake.",
+      "correctFrench": ["La", "brume", "monte", "du", "lac"],
+      "wordOptions": ["La", "brume", "monte", "du", "lac", "vapeur", "descend", "de", "la", "rivière", "mer", "étang"],
+      "explanation": "'La brume' = mist. 'Monter de' = to rise from.",
+      "grammar_points": ["weather_phenomena", "movement_verbs", "water_bodies"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_101",
+      "english": "The sky is overcast.",
+      "correctFrench": ["Le", "ciel", "est", "couvert"],
+      "wordOptions": ["Le", "ciel", "est", "couvert", "dégagé", "bleu", "noir", "gris", "blanc", "sombre"],
+      "explanation": "'Couvert' = overcast/cloudy. Sky conditions.",
+      "grammar_points": ["weather_vocabulary", "sky_conditions", "descriptive_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_102",
+      "english": "I wear boots in the rain.",
+      "correctFrench": ["Je", "porte", "des", "bottes", "sous", "la", "pluie"],
+      "wordOptions": ["Je", "porte", "des", "bottes", "sous", "la", "pluie", "dans", "avec", "par", "chaussures", "sandales"],
+      "explanation": "'Des bottes' = boots. 'Sous la pluie' = in the rain.",
+      "grammar_points": ["clothing_vocabulary", "weather_clothing", "prepositions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_103",
+      "english": "Thunder frightens my dog.",
+      "correctFrench": ["Le", "tonnerre", "fait", "peur", "à", "mon", "chien"],
+      "wordOptions": ["Le", "tonnerre", "fait", "peur", "à", "mon", "chien", "effraie", "ma", "chat", "oiseau", "animal"],
+      "explanation": "'Faire peur à' = to frighten. Weather and animals.",
+      "grammar_points": ["weather_phenomena", "emotion_expressions", "animal_vocabulary"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_104",
+      "english": "The morning is misty.",
+      "correctFrench": ["Le", "matin", "est", "brumeux"],
+      "wordOptions": ["Le", "matin", "est", "brumeux", "soir", "après-midi", "clair", "ensoleillé", "nuageux", "froid"],
+      "explanation": "'Brumeux' = misty/foggy. Morning weather conditions.",
+      "grammar_points": ["time_vocabulary", "weather_adjectives", "morning_conditions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_105",
+      "english": "Heat waves are dangerous.",
+      "correctFrench": ["Les", "canicules", "sont", "dangereuses"],
+      "wordOptions": ["Les", "canicules", "sont", "dangereuses", "vagues", "chaleur", "dangereuse", "sûres", "agréables", "difficiles"],
+      "explanation": "'Les canicules' = heat waves. Weather safety.",
+      "grammar_points": ["weather_phenomena", "safety_vocabulary", "extreme_weather"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a1_weather_106",
+      "english": "We picnic when it's sunny.",
+      "correctFrench": ["Nous", "pique-niquons", "quand", "il", "fait", "beau"],
+      "wordOptions": ["Nous", "pique-niquons", "quand", "il", "fait", "beau", "si", "lorsque", "soleil", "chaud", "froid"],
+      "explanation": "'Pique-niquer' = to picnic. Weather-dependent activities.",
+      "grammar_points": ["leisure_activities", "temporal_clauses", "weather_expressions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_107",
+      "english": "The wind howls loudly.",
+      "correctFrench": ["Le", "vent", "hurle", "fort"],
+      "wordOptions": ["Le", "vent", "hurle", "fort", "siffle", "souffle", "murmure", "chante", "crie", "doucement"],
+      "explanation": "'Hurler' = to howl. Wind sounds.",
+      "grammar_points": ["weather_sounds", "sound_verbs", "intensity_adverbs"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_108",
+      "english": "Snowflakes are unique.",
+      "correctFrench": ["Les", "flocons", "sont", "uniques"],
+      "wordOptions": ["Les", "flocons", "sont", "uniques", "identiques", "différents", "beaux", "petits", "grands", "blancs"],
+      "explanation": "'Les flocons' = snowflakes. Snow characteristics.",
+      "grammar_points": ["snow_vocabulary", "descriptive_adjectives", "uniqueness"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_109",
+      "english": "I drink hot chocolate in winter.",
+      "correctFrench": ["Je", "bois", "du", "chocolat", "chaud", "en", "hiver"],
+      "wordOptions": ["Je", "bois", "du", "chocolat", "chaud", "en", "hiver", "mange", "café", "thé", "froid", "été"],
+      "explanation": "'Du chocolat chaud' = hot chocolate. Winter comfort.",
+      "grammar_points": ["food_vocabulary", "seasons_vocabulary", "comfort_activities"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_110",
+      "english": "The weather ruins our plans.",
+      "correctFrench": ["Le", "temps", "gâche", "nos", "projets"],
+      "wordOptions": ["Le", "temps", "gâche", "nos", "projets", "ruine", "améliore", "aide", "plans", "vacances", "sorties"],
+      "explanation": "'Gâcher' = to ruin/spoil. Weather impact on plans.",
+      "grammar_points": ["weather_effects", "planning_vocabulary", "impact_verbs"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_111",
+      "english": "The sun sets at 6 PM.",
+      "correctFrench": ["Le", "soleil", "se", "couche", "à", "18", "heures"],
+      "wordOptions": ["Le", "soleil", "se", "couche", "à", "18", "heures", "lève", "dix-huit", "six", "19", "17"],
+      "explanation": "'Se coucher à' = to set at. Time expressions with 24-hour format.",
+      "grammar_points": ["solar_vocabulary", "time_expressions", "reflexive_verbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_112",
+      "english": "Puddles freeze overnight.",
+      "correctFrench": ["Les", "flaques", "gèlent", "pendant", "la", "nuit"],
+      "wordOptions": ["Les", "flaques", "gèlent", "pendant", "la", "nuit", "flaque", "fondent", "dans", "le", "jour", "soir"],
+      "explanation": "'Geler' = to freeze. 'Pendant la nuit' = overnight.",
+      "grammar_points": ["freezing_vocabulary", "time_expressions", "water_states"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_113",
+      "english": "We need air conditioning.",
+      "correctFrench": ["Nous", "avons", "besoin", "de", "climatisation"],
+      "wordOptions": ["Nous", "avons", "besoin", "de", "climatisation", "la", "chauffage", "ventilation", "air", "conditionné"],
+      "explanation": "'La climatisation' = air conditioning. Modern comfort needs.",
+      "grammar_points": ["expressing_need", "modern_appliances", "comfort_vocabulary"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_weather_114",
+      "english": "Rain drops patter on the roof.",
+      "correctFrench": ["Les", "gouttes", "crépitent", "sur", "le", "toit"],
+      "wordOptions": ["Les", "gouttes", "crépitent", "sur", "le", "toit", "tambourinent", "tombent", "dans", "fenêtre", "sol"],
+      "explanation": "'Crépiter' = to patter. Rain sounds on surfaces.",
+      "grammar_points": ["rain_sounds", "sound_verbs", "house_vocabulary"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_weather_115",
+      "english": "The breeze feels nice.",
+      "correctFrench": ["La", "brise", "fait", "du", "bien"],
+      "wordOptions": ["La", "brise", "fait", "du", "bien", "mal", "est", "agréable", "fraîche", "douce", "légère"],
+      "explanation": "'Faire du bien' = to feel good/nice. Pleasant sensations.",
+      "grammar_points": ["wind_vocabulary", "comfort_expressions", "pleasant_feelings"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_116",
+      "english": "Storms bring heavy rain.",
+      "correctFrench": ["Les", "orages", "apportent", "de", "fortes", "pluies"],
+      "wordOptions": ["Les", "orages", "apportent", "de", "fortes", "pluies", "amènent", "légères", "fine", "forte", "pluie"],
+      "explanation": "'De fortes pluies' = heavy rain. Weather intensity.",
+      "grammar_points": ["weather_phenomena", "intensity_adjectives", "rain_vocabulary"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_117",
+      "english": "I shiver when it's cold.",
+      "correctFrench": ["Je", "frissonne", "quand", "il", "fait", "froid"],
+      "wordOptions": ["Je", "frissonne", "quand", "il", "fait", "froid", "tremble", "si", "lorsque", "chaud", "doux"],
+      "explanation": "'Frissonner' = to shiver. Physical reactions to cold.",
+      "grammar_points": ["physical_reactions", "temporal_clauses", "cold_responses"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_118",
+      "english": "The desert is very dry.",
+      "correctFrench": ["Le", "désert", "est", "très", "sec"],
+      "wordOptions": ["Le", "désert", "est", "très", "sec", "humide", "chaud", "froid", "aride", "mouillé", "assez"],
+      "explanation": "'Sec' = dry. Desert climate vocabulary.",
+      "grammar_points": ["geography_vocabulary", "climate_adjectives", "extreme_conditions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_119",
+      "english": "Windows fog up in winter.",
+      "correctFrench": ["Les", "fenêtres", "s'embuent", "en", "hiver"],
+      "wordOptions": ["Les", "fenêtres", "s'embuent", "en", "hiver", "fenêtre", "se", "nettoient", "cassent", "été", "automne"],
+      "explanation": "'S'embuer' = to fog up. Winter condensation.",
+      "grammar_points": ["house_vocabulary", "reflexive_verbs", "weather_effects"],
+      "difficulty": 1.9
+    },
+    {
+      "id": "a1_weather_120",
+      "english": "I love autumn colors.",
+      "correctFrench": ["J'adore", "les", "couleurs", "d'automne"],
+      "wordOptions": ["J'adore", "les", "couleurs", "d'automne", "J'aime", "couleur", "de", "printemps", "été", "hiver", "feuilles"],
+      "explanation": "'Les couleurs d'automne' = autumn colors. Seasonal appreciation.",
+      "grammar_points": ["seasons_vocabulary", "color_vocabulary", "aesthetic_preferences"],
+      "difficulty": 1.4
     }
   ]
 }

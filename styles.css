@@ -466,23 +466,39 @@ main {
 }
 
 @media (max-width: 768px) {
+    body {
+        font-family: Arial, sans-serif !important;
+    }
+
+    header h1 {
+        font-family: Arial, sans-serif !important;
+    }
+
+    .word-option {
+        font-family: Arial, sans-serif !important;
+    }
+
+    .btn {
+        font-family: Arial, sans-serif !important;
+    }
+
     main {
         grid-template-columns: 1fr;
     }
-    
+
     .level-selector, .topic-selector {
         display: block;
         margin: 10px 0;
     }
-    
+
     header h1 {
         font-size: 2em;
     }
-    
+
     .game-controls {
         flex-wrap: wrap;
     }
-    
+
     .btn {
         padding: 10px 20px;
         font-size: 14px;

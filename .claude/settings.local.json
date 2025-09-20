@@ -19,7 +19,8 @@
       "Read(//c/Users/Minsoo/Desktop/**)",
       "Bash(del:*)",
       "Bash(cp:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(git pull:*)"
     ],
     "deny": [],
     "ask": []

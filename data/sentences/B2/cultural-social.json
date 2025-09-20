@@ -2,7 +2,7 @@
   "level": "B2",
   "topic": "cultural-social",
   "description": "Cultural analysis, social phenomena, and sophisticated societal discourse",
-  "total_sentences": 170,
+  "total_sentences": 60,
   "sentences": [
     {
       "id": "b2_cultural_001",
@@ -48,6 +48,501 @@
       "explanation": "'Transmission intergénérationnelle' = intergenerational transmission. Family and social continuity challenges.",
       "grammar_points": ["intergenerational_relations", "value_transmission", "social_challenges"],
       "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_006",
+      "english": "The gentrification process displaces communities while transforming neighborhoods.",
+      "correctFrench": ["Le", "processus", "d'embourgeoisement", "déplace", "les", "communautés", "tout", "en", "transformant", "les", "quartiers"],
+      "wordOptions": ["Le", "processus", "d'embourgeoisement", "déplace", "les", "communautés", "tout", "en", "transformant", "les", "quartiers", "gentrification"],
+      "explanation": "'Embourgeoisement' = gentrification. Urban development and social displacement.",
+      "grammar_points": ["urban_development", "social_displacement", "neighborhood_transformation"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_007",
+      "english": "Social media algorithms reinforce echo chambers and confirmation bias.",
+      "correctFrench": ["Les", "algorithmes", "des", "réseaux", "sociaux", "renforcent", "les", "chambres", "d'écho", "et", "les", "biais", "de", "confirmation"],
+      "wordOptions": ["Les", "algorithmes", "des", "réseaux", "sociaux", "renforcent", "les", "chambres", "d'écho", "et", "les", "biais", "de", "confirmation", "médias"],
+      "explanation": "'Chambres d'écho' = echo chambers. Digital influence on thinking patterns.",
+      "grammar_points": ["digital_influence", "cognitive_bias", "algorithm_effects"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_008",
+      "english": "The cancel culture phenomenon reflects changing social accountability standards.",
+      "correctFrench": ["Le", "phénomène", "de", "cancel", "culture", "reflète", "l'évolution", "des", "normes", "de", "responsabilité", "sociale"],
+      "wordOptions": ["Le", "phénomène", "de", "cancel", "culture", "reflète", "l'évolution", "des", "normes", "de", "responsabilité", "sociale", "annulation"],
+      "explanation": "'Cancel culture' retained in French. Contemporary social accountability discourse.",
+      "grammar_points": ["contemporary_social_issues", "accountability_standards", "cultural_phenomena"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_009",
+      "english": "Intersectionality theory reveals overlapping forms of discrimination and privilege.",
+      "correctFrench": ["La", "théorie", "de", "l'intersectionnalité", "révèle", "des", "formes", "croisées", "de", "discrimination", "et", "de", "privilège"],
+      "wordOptions": ["La", "théorie", "de", "l'intersectionnalité", "révèle", "des", "formes", "croisées", "de", "discrimination", "et", "de", "privilège", "entrecroisées"],
+      "explanation": "'Intersectionnalité' = intersectionality. Social theory about multiple identities.",
+      "grammar_points": ["social_theory", "identity_intersections", "privilege_analysis"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_010",
+      "english": "The democratization of information has paradoxically increased misinformation.",
+      "correctFrench": ["La", "démocratisation", "de", "l'information", "a", "paradoxalement", "augmenté", "la", "désinformation"],
+      "wordOptions": ["La", "démocratisation", "de", "l'information", "a", "paradoxalement", "augmenté", "la", "désinformation", "accru"],
+      "explanation": "'Démocratisation' = democratization. Information access paradox.",
+      "grammar_points": ["information_paradox", "democratization_effects", "misinformation_spread"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_011",
+      "english": "Cultural relativism challenges universal concepts of human rights.",
+      "correctFrench": ["Le", "relativisme", "culturel", "remet", "en", "question", "les", "concepts", "universels", "des", "droits", "de", "l'homme"],
+      "wordOptions": ["Le", "relativisme", "culturel", "remet", "en", "question", "les", "concepts", "universels", "des", "droits", "de", "l'homme", "conteste"],
+      "explanation": "'Relativisme culturel' = cultural relativism. Philosophy of human rights.",
+      "grammar_points": ["cultural_philosophy", "human_rights_theory", "universalism_vs_relativism"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_012",
+      "english": "The influencer economy has commodified personal relationships and authenticity.",
+      "correctFrench": ["L'économie", "des", "influenceurs", "a", "marchandisé", "les", "relations", "personnelles", "et", "l'authenticité"],
+      "wordOptions": ["L'économie", "des", "influenceurs", "a", "marchandisé", "les", "relations", "personnelles", "et", "l'authenticité", "commercialisé"],
+      "explanation": "'Marchandiser' = to commodify. Digital economy's impact on relationships.",
+      "grammar_points": ["digital_economy", "relationship_commodification", "authenticity_commerce"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_013",
+      "english": "Microaggressions accumulate to create hostile environments for marginalized groups.",
+      "correctFrench": ["Les", "micro-agressions", "s'accumulent", "pour", "créer", "des", "environnements", "hostiles", "aux", "groupes", "marginalisés"],
+      "wordOptions": ["Les", "micro-agressions", "s'accumulent", "pour", "créer", "des", "environnements", "hostiles", "aux", "groupes", "marginalisés", "envers"],
+      "explanation": "'Micro-agressions' = microaggressions. Subtle discrimination analysis.",
+      "grammar_points": ["subtle_discrimination", "marginalized_groups", "cumulative_effects"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_014",
+      "english": "The wellness industry has appropriated traditional spiritual practices.",
+      "correctFrench": ["L'industrie", "du", "bien-être", "s'est", "approprié", "les", "pratiques", "spirituelles", "traditionnelles"],
+      "wordOptions": ["L'industrie", "du", "bien-être", "s'est", "approprié", "les", "pratiques", "spirituelles", "traditionnelles", "a"],
+      "explanation": "'S'approprier' = to appropriate. Commercial exploitation of spiritual traditions.",
+      "grammar_points": ["cultural_appropriation", "commercialization_spirituality", "traditional_practices"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_cultural_015",
+      "english": "Digital natives exhibit fundamentally different information processing patterns.",
+      "correctFrench": ["Les", "natifs", "du", "numérique", "présentent", "des", "modèles", "de", "traitement", "de", "l'information", "fondamentalement", "différents"],
+      "wordOptions": ["Les", "natifs", "du", "numérique", "présentent", "des", "modèles", "de", "traitement", "de", "l'information", "fondamentalement", "différents", "affichent"],
+      "explanation": "'Natifs du numérique' = digital natives. Generational cognitive differences.",
+      "grammar_points": ["generational_differences", "cognitive_processing", "digital_influence"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_016",
+      "english": "The concept of cultural capital explains educational and social stratification.",
+      "correctFrench": ["Le", "concept", "de", "capital", "culturel", "explique", "la", "stratification", "éducative", "et", "sociale"],
+      "wordOptions": ["Le", "concept", "de", "capital", "culturel", "explique", "la", "stratification", "éducative", "et", "sociale", "scolaire"],
+      "explanation": "'Capital culturel' = cultural capital. Bourdieu's sociological theory.",
+      "grammar_points": ["sociological_theory", "educational_inequality", "social_stratification"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_017",
+      "english": "Performative activism often substitutes for substantive social change.",
+      "correctFrench": ["L'activisme", "performatif", "se", "substitue", "souvent", "au", "changement", "social", "substantiel"],
+      "wordOptions": ["L'activisme", "performatif", "se", "substitue", "souvent", "au", "changement", "social", "substantiel", "remplace"],
+      "explanation": "'Activisme performatif' = performative activism. Critique of superficial engagement.",
+      "grammar_points": ["social_activism", "performativity_critique", "authentic_change"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_018",
+      "english": "The neoliberalization of higher education prioritizes market outcomes over knowledge.",
+      "correctFrench": ["La", "néolibéralisation", "de", "l'enseignement", "supérieur", "privilégie", "les", "résultats", "marchands", "plutôt", "que", "la", "connaissance"],
+      "wordOptions": ["La", "néolibéralisation", "de", "l'enseignement", "supérieur", "privilégie", "les", "résultats", "marchands", "plutôt", "que", "la", "connaissance", "favorise"],
+      "explanation": "'Néolibéralisation' = neoliberalization. Educational philosophy critique.",
+      "grammar_points": ["educational_critique", "market_ideology", "knowledge_value"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_019",
+      "english": "Code-switching reflects adaptive strategies in multicultural environments.",
+      "correctFrench": ["L'alternance", "codique", "reflète", "des", "stratégies", "adaptatives", "dans", "les", "environnements", "multiculturels"],
+      "wordOptions": ["L'alternance", "codique", "reflète", "des", "stratégies", "adaptatives", "dans", "les", "environnements", "multiculturels", "code-switching"],
+      "explanation": "'Alternance codique' = code-switching. Linguistic adaptation strategies.",
+      "grammar_points": ["linguistic_adaptation", "multicultural_strategies", "code_switching"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_020",
+      "english": "The commodification of nostalgia drives retromania in contemporary culture.",
+      "correctFrench": ["La", "marchandisation", "de", "la", "nostalgie", "alimente", "la", "rétromanie", "dans", "la", "culture", "contemporaine"],
+      "wordOptions": ["La", "marchandisation", "de", "la", "nostalgie", "alimente", "la", "rétromanie", "dans", "la", "culture", "contemporaine", "nourrit"],
+      "explanation": "'Rétromanie' = retromania. Commercial exploitation of nostalgia.",
+      "grammar_points": ["cultural_commodification", "nostalgia_commerce", "contemporary_trends"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_021",
+      "english": "Virtue signaling represents the performative dimension of moral discourse.",
+      "correctFrench": ["La", "signalisation", "de", "vertu", "représente", "la", "dimension", "performative", "du", "discours", "moral"],
+      "wordOptions": ["La", "signalisation", "de", "vertu", "représente", "la", "dimension", "performative", "du", "discours", "moral", "virtue", "signaling"],
+      "explanation": "'Signalisation de vertu' = virtue signaling. Performative morality analysis.",
+      "grammar_points": ["performative_morality", "moral_discourse", "social_performance"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_022",
+      "english": "The gamification of daily life transforms mundane activities into competitive experiences.",
+      "correctFrench": ["La", "gamification", "de", "la", "vie", "quotidienne", "transforme", "les", "activités", "banales", "en", "expériences", "compétitives"],
+      "wordOptions": ["La", "gamification", "de", "la", "vie", "quotidienne", "transforme", "les", "activités", "banales", "en", "expériences", "compétitives", "ludification"],
+      "explanation": "'Gamification' often used in French. Transformation of ordinary activities.",
+      "grammar_points": ["digital_transformation", "competitive_culture", "daily_life_changes"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_cultural_023",
+      "english": "Cultural hegemony operates through consent rather than coercion.",
+      "correctFrench": ["L'hégémonie", "culturelle", "opère", "par", "le", "consentement", "plutôt", "que", "par", "la", "coercition"],
+      "wordOptions": ["L'hégémonie", "culturelle", "opère", "par", "le", "consentement", "plutôt", "que", "par", "la", "coercition", "fonctionne"],
+      "explanation": "'Hégémonie culturelle' = cultural hegemony. Gramsci's concept of ideological control.",
+      "grammar_points": ["political_theory", "ideological_control", "consent_mechanisms"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_024",
+      "english": "The attention economy monetizes human cognitive resources.",
+      "correctFrench": ["L'économie", "de", "l'attention", "monétise", "les", "ressources", "cognitives", "humaines"],
+      "wordOptions": ["L'économie", "de", "l'attention", "monétise", "les", "ressources", "cognitives", "humaines", "commercialise"],
+      "explanation": "'Économie de l'attention' = attention economy. Cognitive capitalism critique.",
+      "grammar_points": ["digital_capitalism", "cognitive_resources", "attention_monetization"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_025",
+      "english": "Parasocial relationships with media figures simulate authentic interpersonal connections.",
+      "correctFrench": ["Les", "relations", "parasociales", "avec", "les", "figures", "médiatiques", "simulent", "des", "connexions", "interpersonnelles", "authentiques"],
+      "wordOptions": ["Les", "relations", "parasociales", "avec", "les", "figures", "médiatiques", "simulent", "des", "connexions", "interpersonnelles", "authentiques", "imitent"],
+      "explanation": "'Relations parasociales' = parasocial relationships. Media psychology concept.",
+      "grammar_points": ["media_psychology", "simulated_relationships", "authenticity_questions"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_026",
+      "english": "The surveillance capitalism model extracts value from behavioral data.",
+      "correctFrench": ["Le", "modèle", "du", "capitalisme", "de", "surveillance", "extrait", "de", "la", "valeur", "des", "données", "comportementales"],
+      "wordOptions": ["Le", "modèle", "du", "capitalisme", "de", "surveillance", "extrait", "de", "la", "valeur", "des", "données", "comportementales", "tire"],
+      "explanation": "'Capitalisme de surveillance' = surveillance capitalism. Data extraction economics.",
+      "grammar_points": ["surveillance_capitalism", "data_extraction", "behavioral_economics"],
+      "difficulty": 4.8
+    },
+    {
+      "id": "b2_cultural_027",
+      "english": "Algorithmic bias perpetuates systemic discrimination in automated decision-making.",
+      "correctFrench": ["Les", "biais", "algorithmiques", "perpétuent", "la", "discrimination", "systémique", "dans", "la", "prise", "de", "décision", "automatisée"],
+      "wordOptions": ["Les", "biais", "algorithmiques", "perpétuent", "la", "discrimination", "systémique", "dans", "la", "prise", "de", "décision", "automatisée", "maintiennent"],
+      "explanation": "'Biais algorithmiques' = algorithmic bias. Technology and discrimination intersection.",
+      "grammar_points": ["algorithmic_bias", "systemic_discrimination", "automated_systems"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_028",
+      "english": "The platform economy precariates traditional employment relationships.",
+      "correctFrench": ["L'économie", "de", "plateforme", "précarise", "les", "relations", "d'emploi", "traditionnelles"],
+      "wordOptions": ["L'économie", "de", "plateforme", "précarise", "les", "relations", "d'emploi", "traditionnelles", "fragilise"],
+      "explanation": "'Précariser' = to make precarious. Platform labor implications.",
+      "grammar_points": ["platform_economy", "employment_precarity", "labor_relations"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_029",
+      "english": "Affect theory examines how emotions circulate through social networks.",
+      "correctFrench": ["La", "théorie", "de", "l'affect", "examine", "comment", "les", "émotions", "circulent", "dans", "les", "réseaux", "sociaux"],
+      "wordOptions": ["La", "théorie", "de", "l'affect", "examine", "comment", "les", "émotions", "circulent", "dans", "les", "réseaux", "sociaux", "étudie"],
+      "explanation": "'Théorie de l'affect' = affect theory. Emotional circulation in society.",
+      "grammar_points": ["affect_theory", "emotional_circulation", "social_networks"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_030",
+      "english": "The anthropocene concept reframes humanity's relationship with nature.",
+      "correctFrench": ["Le", "concept", "d'anthropocène", "recadre", "la", "relation", "de", "l'humanité", "avec", "la", "nature"],
+      "wordOptions": ["Le", "concept", "d'anthropocène", "recadre", "la", "relation", "de", "l'humanité", "avec", "la", "nature", "redéfinit"],
+      "explanation": "'Anthropocène' = anthropocene. Geological and cultural concept.",
+      "grammar_points": ["environmental_concepts", "human_nature_relations", "geological_time"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_031",
+      "english": "Post-truth politics exploits emotional responses over factual evidence.",
+      "correctFrench": ["La", "politique", "post-vérité", "exploite", "les", "réponses", "émotionnelles", "plutôt", "que", "les", "preuves", "factuelles"],
+      "wordOptions": ["La", "politique", "post-vérité", "exploite", "les", "réponses", "émotionnelles", "plutôt", "que", "les", "preuves", "factuelles", "utilise"],
+      "explanation": "'Post-vérité' = post-truth. Contemporary political discourse analysis.",
+      "grammar_points": ["post_truth_politics", "emotional_manipulation", "factual_evidence"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_032",
+      "english": "The gig economy atomizes workers and undermines collective bargaining.",
+      "correctFrench": ["L'économie", "des", "petits", "boulots", "atomise", "les", "travailleurs", "et", "sape", "la", "négociation", "collective"],
+      "wordOptions": ["L'économie", "des", "petits", "boulots", "atomise", "les", "travailleurs", "et", "sape", "la", "négociation", "collective", "fragmente"],
+      "explanation": "'Économie des petits boulots' = gig economy. 'Atomiser' = to atomize.",
+      "grammar_points": ["gig_economy", "worker_fragmentation", "collective_bargaining"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_033",
+      "english": "Urban planning policies often reflect implicit racial and class biases.",
+      "correctFrench": ["Les", "politiques", "d'urbanisme", "reflètent", "souvent", "des", "biais", "raciaux", "et", "de", "classe", "implicites"],
+      "wordOptions": ["Les", "politiques", "d'urbanisme", "reflètent", "souvent", "des", "biais", "raciaux", "et", "de", "classe", "implicites", "cachés"],
+      "explanation": "'Politiques d'urbanisme' = urban planning policies. Systemic bias analysis.",
+      "grammar_points": ["urban_planning", "implicit_bias", "racial_class_discrimination"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_034",
+      "english": "The fetishization of technology obscures its social and environmental costs.",
+      "correctFrench": ["La", "fétichisation", "de", "la", "technologie", "occulte", "ses", "coûts", "sociaux", "et", "environnementaux"],
+      "wordOptions": ["La", "fétichisation", "de", "la", "technologie", "occulte", "ses", "coûts", "sociaux", "et", "environnementaux", "cache"],
+      "explanation": "'Fétichisation' = fetishization. Critical technology analysis.",
+      "grammar_points": ["technology_critique", "social_costs", "environmental_impact"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_035",
+      "english": "Helicopter parenting reflects contemporary anxieties about childhood and success.",
+      "correctFrench": ["L'éducation", "surprotectrice", "reflète", "les", "anxiétés", "contemporaines", "concernant", "l'enfance", "et", "le", "succès"],
+      "wordOptions": ["L'éducation", "surprotectrice", "reflète", "les", "anxiétés", "contemporaines", "concernant", "l'enfance", "et", "le", "succès", "parentage"],
+      "explanation": "'Éducation surprotectrice' = helicopter parenting. Parenting anxiety analysis.",
+      "grammar_points": ["parenting_styles", "childhood_anxiety", "success_pressure"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_cultural_036",
+      "english": "The concept of emotional labor reveals gendered expectations in relationships.",
+      "correctFrench": ["Le", "concept", "de", "travail", "émotionnel", "révèle", "les", "attentes", "genrées", "dans", "les", "relations"],
+      "wordOptions": ["Le", "concept", "de", "travail", "émotionnel", "révèle", "les", "attentes", "genrées", "dans", "les", "relations", "dévoile"],
+      "explanation": "'Travail émotionnel' = emotional labor. Gender role analysis.",
+      "grammar_points": ["emotional_labor", "gender_expectations", "relationship_dynamics"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_037",
+      "english": "The aestheticization of poverty in social media perpetuates harmful stereotypes.",
+      "correctFrench": ["L'esthétisation", "de", "la", "pauvreté", "dans", "les", "médias", "sociaux", "perpétue", "des", "stéréotypes", "nuisibles"],
+      "wordOptions": ["L'esthétisation", "de", "la", "pauvreté", "dans", "les", "médias", "sociaux", "perpétue", "des", "stéréotypes", "nuisibles", "maintient"],
+      "explanation": "'Esthétisation' = aestheticization. Poverty representation critique.",
+      "grammar_points": ["poverty_representation", "social_media_critique", "harmful_stereotypes"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_038",
+      "english": "Neocolonialism persists through cultural imperialism and economic dependency.",
+      "correctFrench": ["Le", "néocolonialisme", "persiste", "par", "l'impérialisme", "culturel", "et", "la", "dépendance", "économique"],
+      "wordOptions": ["Le", "néocolonialisme", "persiste", "par", "l'impérialisme", "culturel", "et", "la", "dépendance", "économique", "continue"],
+      "explanation": "'Néocolonialisme' = neocolonialism. Contemporary colonial relations.",
+      "grammar_points": ["neocolonialism", "cultural_imperialism", "economic_dependency"],
+      "difficulty": 4.8
+    },
+    {
+      "id": "b2_cultural_039",
+      "english": "The quantified self movement transforms personal experience into data.",
+      "correctFrench": ["Le", "mouvement", "du", "soi", "quantifié", "transforme", "l'expérience", "personnelle", "en", "données"],
+      "wordOptions": ["Le", "mouvement", "du", "soi", "quantifié", "transforme", "l'expérience", "personnelle", "en", "données", "convertit"],
+      "explanation": "'Soi quantifié' = quantified self. Personal data quantification trend.",
+      "grammar_points": ["self_quantification", "personal_data", "experience_transformation"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_040",
+      "english": "The wellness-industrial complex commodifies mental health and self-care.",
+      "correctFrench": ["Le", "complexe", "industriel", "du", "bien-être", "marchandise", "la", "santé", "mentale", "et", "l'auto-soin"],
+      "wordOptions": ["Le", "complexe", "industriel", "du", "bien-être", "marchandise", "la", "santé", "mentale", "et", "l'auto-soin", "commercialise"],
+      "explanation": "'Complexe industriel du bien-être' = wellness-industrial complex. Mental health commodification.",
+      "grammar_points": ["wellness_industry", "mental_health_commerce", "self_care_commodification"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_041",
+      "english": "Digital detox movements challenge constant connectivity demands.",
+      "correctFrench": ["Les", "mouvements", "de", "détox", "numérique", "remettent", "en", "question", "les", "exigences", "de", "connectivité", "constante"],
+      "wordOptions": ["Les", "mouvements", "de", "détox", "numérique", "remettent", "en", "question", "les", "exigences", "de", "connectivité", "constante", "contestent"],
+      "explanation": "'Détox numérique' = digital detox. Resistance to constant connectivity.",
+      "grammar_points": ["digital_resistance", "connectivity_critique", "technology_fatigue"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_cultural_042",
+      "english": "The sharing economy disrupts traditional ownership models.",
+      "correctFrench": ["L'économie", "du", "partage", "perturbe", "les", "modèles", "de", "propriété", "traditionnels"],
+      "wordOptions": ["L'économie", "du", "partage", "perturbe", "les", "modèles", "de", "propriété", "traditionnels", "bouleverse"],
+      "explanation": "'Économie du partage' = sharing economy. Economic model transformation.",
+      "grammar_points": ["sharing_economy", "ownership_models", "economic_disruption"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_043",
+      "english": "Algorithmic curation shapes cultural consumption patterns.",
+      "correctFrench": ["La", "curation", "algorithmique", "façonne", "les", "modèles", "de", "consommation", "culturelle"],
+      "wordOptions": ["La", "curation", "algorithmique", "façonne", "les", "modèles", "de", "consommation", "culturelle", "forme"],
+      "explanation": "'Curation algorithmique' = algorithmic curation. Cultural consumption control.",
+      "grammar_points": ["algorithmic_curation", "cultural_consumption", "pattern_shaping"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_044",
+      "english": "Digital nomadism challenges traditional work-life boundaries.",
+      "correctFrench": ["Le", "nomadisme", "numérique", "remet", "en", "question", "les", "frontières", "travail-vie", "traditionnelles"],
+      "wordOptions": ["Le", "nomadisme", "numérique", "remet", "en", "question", "les", "frontières", "travail-vie", "traditionnelles", "défie"],
+      "explanation": "'Nomadisme numérique' = digital nomadism. Work-life boundary evolution.",
+      "grammar_points": ["digital_nomadism", "work_life_balance", "boundary_disruption"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_cultural_045",
+      "english": "The creator economy monetizes personal brand development.",
+      "correctFrench": ["L'économie", "des", "créateurs", "monétise", "le", "développement", "de", "marque", "personnelle"],
+      "wordOptions": ["L'économie", "des", "créateurs", "monétise", "le", "développement", "de", "marque", "personnelle", "commercialise"],
+      "explanation": "'Économie des créateurs' = creator economy. Personal branding monetization.",
+      "grammar_points": ["creator_economy", "personal_branding", "monetization_strategies"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_046",
+      "english": "Artificial intelligence raises questions about human creativity and authenticity.",
+      "correctFrench": ["L'intelligence", "artificielle", "soulève", "des", "questions", "sur", "la", "créativité", "et", "l'authenticité", "humaines"],
+      "wordOptions": ["L'intelligence", "artificielle", "soulève", "des", "questions", "sur", "la", "créativité", "et", "l'authenticité", "humaines", "pose"],
+      "explanation": "'Intelligence artificielle' = artificial intelligence. AI and human creativity debate.",
+      "grammar_points": ["artificial_intelligence", "human_creativity", "authenticity_questions"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_047",
+      "english": "Deep fake technology threatens the concept of objective truth.",
+      "correctFrench": ["La", "technologie", "deepfake", "menace", "le", "concept", "de", "vérité", "objective"],
+      "wordOptions": ["La", "technologie", "deepfake", "menace", "le", "concept", "de", "vérité", "objective", "met", "en", "danger"],
+      "explanation": "'Deepfake' often retained in French. Technology and truth relationship.",
+      "grammar_points": ["deepfake_technology", "objective_truth", "reality_manipulation"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_048",
+      "english": "Social credit systems merge surveillance with behavioral modification.",
+      "correctFrench": ["Les", "systèmes", "de", "crédit", "social", "fusionnent", "surveillance", "et", "modification", "comportementale"],
+      "wordOptions": ["Les", "systèmes", "de", "crédit", "social", "fusionnent", "surveillance", "et", "modification", "comportementale", "combinent"],
+      "explanation": "'Crédit social' = social credit. Surveillance and behavior control systems.",
+      "grammar_points": ["social_credit", "surveillance_systems", "behavioral_modification"],
+      "difficulty": 4.8
+    },
+    {
+      "id": "b2_cultural_049",
+      "english": "The metaverse promises new forms of social interaction and identity.",
+      "correctFrench": ["Le", "métavers", "promet", "de", "nouvelles", "formes", "d'interaction", "sociale", "et", "d'identité"],
+      "wordOptions": ["Le", "métavers", "promet", "de", "nouvelles", "formes", "d'interaction", "sociale", "et", "d'identité", "offre"],
+      "explanation": "'Métavers' = metaverse. Virtual reality social evolution.",
+      "grammar_points": ["metaverse_concept", "virtual_interaction", "digital_identity"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_050",
+      "english": "Grassroots movements leverage social media for political mobilization.",
+      "correctFrench": ["Les", "mouvements", "de", "base", "exploitent", "les", "médias", "sociaux", "pour", "la", "mobilisation", "politique"],
+      "wordOptions": ["Les", "mouvements", "de", "base", "exploitent", "les", "médias", "sociaux", "pour", "la", "mobilisation", "politique", "utilisent"],
+      "explanation": "'Mouvements de base' = grassroots movements. Digital political organization.",
+      "grammar_points": ["grassroots_movements", "political_mobilization", "social_media_activism"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_051",
+      "english": "Slacktivism represents the limitations of digital activism.",
+      "correctFrench": ["Le", "slacktivisme", "représente", "les", "limites", "de", "l'activisme", "numérique"],
+      "wordOptions": ["Le", "slacktivisme", "représente", "les", "limites", "de", "l'activisme", "numérique", "illustre"],
+      "explanation": "'Slacktivisme' = slacktivism. Critique of superficial digital engagement.",
+      "grammar_points": ["digital_activism", "engagement_critique", "social_media_limitations"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_cultural_052",
+      "english": "Identity politics emphasizes group membership over individual agency.",
+      "correctFrench": ["La", "politique", "identitaire", "privilégie", "l'appartenance", "de", "groupe", "sur", "l'autonomie", "individuelle"],
+      "wordOptions": ["La", "politique", "identitaire", "privilégie", "l'appartenance", "de", "groupe", "sur", "l'autonomie", "individuelle", "favorise"],
+      "explanation": "'Politique identitaire' = identity politics. Group vs individual focus debate.",
+      "grammar_points": ["identity_politics", "group_membership", "individual_autonomy"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_053",
+      "english": "Intersectional feminism addresses multiple systems of oppression.",
+      "correctFrench": ["Le", "féminisme", "intersectionnel", "aborde", "les", "systèmes", "multiples", "d'oppression"],
+      "wordOptions": ["Le", "féminisme", "intersectionnel", "aborde", "les", "systèmes", "multiples", "d'oppression", "traite"],
+      "explanation": "'Féminisme intersectionnel' = intersectional feminism. Multiple oppression analysis.",
+      "grammar_points": ["intersectional_feminism", "oppression_systems", "social_justice"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_054",
+      "english": "Environmental justice connects ecological degradation with social inequality.",
+      "correctFrench": ["La", "justice", "environnementale", "relie", "la", "dégradation", "écologique", "à", "l'inégalité", "sociale"],
+      "wordOptions": ["La", "justice", "environnementale", "relie", "la", "dégradation", "écologique", "à", "l'inégalité", "sociale", "connecte"],
+      "explanation": "'Justice environnementale' = environmental justice. Ecology and social equality connection.",
+      "grammar_points": ["environmental_justice", "ecological_degradation", "social_inequality"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_055",
+      "english": "Decolonization movements challenge Western epistemological dominance.",
+      "correctFrench": ["Les", "mouvements", "de", "décolonisation", "remettent", "en", "question", "la", "dominance", "épistémologique", "occidentale"],
+      "wordOptions": ["Les", "mouvements", "de", "décolonisation", "remettent", "en", "question", "la", "dominance", "épistémologique", "occidentale", "contestent"],
+      "explanation": "'Décolonisation' = decolonization. Western knowledge system critique.",
+      "grammar_points": ["decolonization", "epistemological_critique", "western_dominance"],
+      "difficulty": 4.8
+    },
+    {
+      "id": "b2_cultural_056",
+      "english": "Restorative justice prioritizes healing over punishment.",
+      "correctFrench": ["La", "justice", "réparatrice", "privilégie", "la", "guérison", "plutôt", "que", "la", "punition"],
+      "wordOptions": ["La", "justice", "réparatrice", "privilégie", "la", "guérison", "plutôt", "que", "la", "punition", "favorise"],
+      "explanation": "'Justice réparatrice' = restorative justice. Alternative justice approach.",
+      "grammar_points": ["restorative_justice", "healing_approach", "alternative_justice"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_057",
+      "english": "Black Lives Matter globalizes discussions of racial justice.",
+      "correctFrench": ["Black", "Lives", "Matter", "mondialise", "les", "discussions", "sur", "la", "justice", "raciale"],
+      "wordOptions": ["Black", "Lives", "Matter", "mondialise", "les", "discussions", "sur", "la", "justice", "raciale", "universalise"],
+      "explanation": "'Black Lives Matter' retained. Global racial justice movement.",
+      "grammar_points": ["racial_justice", "global_movements", "social_activism"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_058",
+      "english": "Climate activism employs civil disobedience for environmental protection.",
+      "correctFrench": ["L'activisme", "climatique", "emploie", "la", "désobéissance", "civile", "pour", "la", "protection", "environnementale"],
+      "wordOptions": ["L'activisme", "climatique", "emploie", "la", "désobéissance", "civile", "pour", "la", "protection", "environnementale", "utilise"],
+      "explanation": "'Activisme climatique' = climate activism. Environmental civil disobedience.",
+      "grammar_points": ["climate_activism", "civil_disobedience", "environmental_protection"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_059",
+      "english": "Postcolonial theory examines the lasting effects of colonial domination.",
+      "correctFrench": ["La", "théorie", "postcoloniale", "examine", "les", "effets", "durables", "de", "la", "domination", "coloniale"],
+      "wordOptions": ["La", "théorie", "postcoloniale", "examine", "les", "effets", "durables", "de", "la", "domination", "coloniale", "étudie"],
+      "explanation": "'Théorie postcoloniale' = postcolonial theory. Colonial legacy analysis.",
+      "grammar_points": ["postcolonial_theory", "colonial_effects", "academic_discourse"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_cultural_060",
+      "english": "Critical race theory analyzes racism as a structural phenomenon.",
+      "correctFrench": ["La", "théorie", "critique", "de", "la", "race", "analyse", "le", "racisme", "comme", "phénomène", "structurel"],
+      "wordOptions": ["La", "théorie", "critique", "de", "la", "race", "analyse", "le", "racisme", "comme", "phénomène", "structurel", "étudie"],
+      "explanation": "'Théorie critique de la race' = critical race theory. Structural racism analysis.",
+      "grammar_points": ["critical_race_theory", "structural_racism", "academic_analysis"],
+      "difficulty": 4.6
     }
   ]
 }

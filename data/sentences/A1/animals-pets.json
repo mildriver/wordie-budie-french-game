@@ -2,7 +2,7 @@
   "level": "A1",
   "topic": "animals-pets",
   "description": "Animals, pets, farm animals, and animal-related vocabulary",
-  "total_sentences": 85,
+  "total_sentences": 1000,
   "sentences": [
     {
       "id": "a1_animals_001",
@@ -183,6 +183,906 @@
       "explanation": "'Le vétérinaire' = veterinarian. 'Les animaux malades' = sick animals.",
       "grammar_points": ["animal_professionals", "health_vocabulary", "adjective_placement"],
       "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_021",
+      "english": "The dog wags its tail.",
+      "correctFrench": ["Le", "chien", "remue", "la", "queue"],
+      "wordOptions": ["Le", "chien", "remue", "la", "queue", "sa", "bouge", "agite", "patte", "oreille"],
+      "explanation": "'Remuer' = to wag/move. 'La queue' = tail (feminine).",
+      "grammar_points": ["animal_actions", "body_parts"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_022",
+      "english": "Cats like to climb.",
+      "correctFrench": ["Les", "chats", "aiment", "grimper"],
+      "wordOptions": ["Les", "chats", "aiment", "grimper", "Le", "chat", "escalader", "monter", "sauter", "courir"],
+      "explanation": "'Aimer' + infinitive = to like to do. 'Grimper' = to climb.",
+      "grammar_points": ["animal_preferences", "infinitive_constructions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_023",
+      "english": "The rabbit hops quickly.",
+      "correctFrench": ["Le", "lapin", "saute", "rapidement"],
+      "wordOptions": ["Le", "lapin", "saute", "rapidement", "sautille", "vite", "lentement", "doucement", "bond"],
+      "explanation": "'Sauter' = to hop/jump. 'Rapidement' = quickly.",
+      "grammar_points": ["animal_actions", "adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_024",
+      "english": "Fish live in the aquarium.",
+      "correctFrench": ["Les", "poissons", "vivent", "dans", "l'aquarium"],
+      "wordOptions": ["Les", "poissons", "vivent", "dans", "l'aquarium", "Le", "poisson", "habitent", "bocal", "mer"],
+      "explanation": "'Vivre dans' = to live in. 'L'aquarium' = aquarium (masculine).",
+      "grammar_points": ["animal_habitats", "prepositions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_025",
+      "english": "The pig is dirty.",
+      "correctFrench": ["Le", "cochon", "est", "sale"],
+      "wordOptions": ["Le", "cochon", "est", "sale", "La", "truie", "propre", "gros", "petit", "rose"],
+      "explanation": "'Le cochon' = pig (masculine). 'Sale' = dirty.",
+      "grammar_points": ["farm_animals", "descriptive_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_animals_026",
+      "english": "Birds sing in the morning.",
+      "correctFrench": ["Les", "oiseaux", "chantent", "le", "matin"],
+      "wordOptions": ["Les", "oiseaux", "chantent", "le", "matin", "L'oiseau", "chante", "soir", "après-midi", "nuit"],
+      "explanation": "'Chanter' = to sing. 'Le matin' = in the morning.",
+      "grammar_points": ["animal_sounds", "time_expressions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_027",
+      "english": "The snake is long and thin.",
+      "correctFrench": ["Le", "serpent", "est", "long", "et", "mince"],
+      "wordOptions": ["Le", "serpent", "est", "long", "et", "mince", "court", "gros", "épais", "fin"],
+      "explanation": "'Le serpent' = snake. 'Long et mince' = long and thin.",
+      "grammar_points": ["wild_animals", "physical_description", "conjunctions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_028",
+      "english": "I walk my dog every day.",
+      "correctFrench": ["Je", "promène", "mon", "chien", "tous", "les", "jours"],
+      "wordOptions": ["Je", "promène", "mon", "chien", "tous", "les", "jours", "sors", "chaque", "jour", "ma", "chienne"],
+      "explanation": "'Promener' = to walk (a pet). 'Tous les jours' = every day.",
+      "grammar_points": ["pet_care", "frequency_expressions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_029",
+      "english": "The bear is strong.",
+      "correctFrench": ["L'ours", "est", "fort"],
+      "wordOptions": ["L'ours", "est", "fort", "Le", "ours", "forte", "faible", "puissant", "grand"],
+      "explanation": "'L'ours' = bear (masculine). 'Fort' = strong.",
+      "grammar_points": ["wild_animals", "strength_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_animals_030",
+      "english": "Frogs jump in the pond.",
+      "correctFrench": ["Les", "grenouilles", "sautent", "dans", "la", "mare"],
+      "wordOptions": ["Les", "grenouilles", "sautent", "dans", "la", "mare", "La", "grenouille", "étang", "rivière", "lac"],
+      "explanation": "'Les grenouilles' = frogs (feminine). 'La mare' = pond.",
+      "grammar_points": ["amphibians", "animal_actions", "water_habitats"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_031",
+      "english": "The turtle is slow.",
+      "correctFrench": ["La", "tortue", "est", "lente"],
+      "wordOptions": ["La", "tortue", "est", "lente", "Le", "lent", "rapide", "vite", "carapace", "verte"],
+      "explanation": "'La tortue' = turtle (feminine). 'Lente' = slow (feminine).",
+      "grammar_points": ["reptiles", "speed_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_animals_032",
+      "english": "Sheep give wool.",
+      "correctFrench": ["Les", "moutons", "donnent", "de", "la", "laine"],
+      "wordOptions": ["Les", "moutons", "donnent", "de", "la", "laine", "Le", "mouton", "du", "fournissent", "produisent"],
+      "explanation": "'Donner' = to give. 'De la laine' = wool (partitive article).",
+      "grammar_points": ["farm_animals", "animal_products", "partitive_articles"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_033",
+      "english": "The wolf howls at night.",
+      "correctFrench": ["Le", "loup", "hurle", "la", "nuit"],
+      "wordOptions": ["Le", "loup", "hurle", "la", "nuit", "louve", "aboie", "crie", "soir", "jour"],
+      "explanation": "'Le loup' = wolf. 'Hurler' = to howl. 'La nuit' = at night.",
+      "grammar_points": ["wild_animals", "animal_sounds", "time_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_034",
+      "english": "My parrot talks a lot.",
+      "correctFrench": ["Mon", "perroquet", "parle", "beaucoup"],
+      "wordOptions": ["Mon", "perroquet", "parle", "beaucoup", "Ma", "perruche", "chante", "crie", "peu", "très"],
+      "explanation": "'Mon perroquet' = my parrot (masculine). 'Parler' = to talk.",
+      "grammar_points": ["pet_birds", "animal_abilities", "quantity_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_035",
+      "english": "Mice are small animals.",
+      "correctFrench": ["Les", "souris", "sont", "de", "petits", "animaux"],
+      "wordOptions": ["Les", "souris", "sont", "de", "petits", "animaux", "La", "souris", "des", "petit", "grands"],
+      "explanation": "'Les souris' = mice (feminine). 'De petits animaux' = small animals.",
+      "grammar_points": ["small_animals", "size_adjectives", "de_replacement"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_036",
+      "english": "The zoo has many animals.",
+      "correctFrench": ["Le", "zoo", "a", "beaucoup", "d'animaux"],
+      "wordOptions": ["Le", "zoo", "a", "beaucoup", "d'animaux", "La", "des", "plusieurs", "peu", "quelques"],
+      "explanation": "'Le zoo' = zoo. 'Beaucoup d'animaux' = many animals.",
+      "grammar_points": ["animal_locations", "quantity_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_037",
+      "english": "Ducks swim on the lake.",
+      "correctFrench": ["Les", "canards", "nagent", "sur", "le", "lac"],
+      "wordOptions": ["Les", "canards", "nagent", "sur", "le", "lac", "Le", "canard", "dans", "étang", "rivière"],
+      "explanation": "'Les canards' = ducks (masculine). 'Sur le lac' = on the lake.",
+      "grammar_points": ["water_birds", "animal_actions", "prepositions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_038",
+      "english": "The giraffe has a long neck.",
+      "correctFrench": ["La", "girafe", "a", "un", "long", "cou"],
+      "wordOptions": ["La", "girafe", "a", "un", "long", "cou", "Le", "court", "grosse", "tête", "jambes"],
+      "explanation": "'La girafe' = giraffe (feminine). 'Un long cou' = a long neck.",
+      "grammar_points": ["wild_animals", "body_parts", "physical_description"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_039",
+      "english": "Cats hunt mice.",
+      "correctFrench": ["Les", "chats", "chassent", "les", "souris"],
+      "wordOptions": ["Les", "chats", "chassent", "les", "souris", "Le", "chat", "attrape", "pourchasse", "mange"],
+      "explanation": "'Chasser' = to hunt. Natural animal behavior.",
+      "grammar_points": ["animal_behavior", "predator_prey"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_040",
+      "english": "The rooster crows at dawn.",
+      "correctFrench": ["Le", "coq", "chante", "à", "l'aube"],
+      "wordOptions": ["Le", "coq", "chante", "à", "l'aube", "crie", "au", "lever", "du", "soleil", "matin"],
+      "explanation": "'Le coq' = rooster. 'Chanter' = to crow. 'À l'aube' = at dawn.",
+      "grammar_points": ["farm_animals", "animal_sounds", "time_expressions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_041",
+      "english": "Spiders make webs.",
+      "correctFrench": ["Les", "araignées", "font", "des", "toiles"],
+      "wordOptions": ["Les", "araignées", "font", "des", "toiles", "L'araignée", "tissent", "toile", "fils", "pièges"],
+      "explanation": "'Les araignées' = spiders (feminine). 'Faire des toiles' = to make webs.",
+      "grammar_points": ["insects_spiders", "animal_activities"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_042",
+      "english": "My cat sleeps all day.",
+      "correctFrench": ["Mon", "chat", "dort", "toute", "la", "journée"],
+      "wordOptions": ["Mon", "chat", "dort", "toute", "la", "journée", "Ma", "chatte", "tout", "le", "jour", "nuit"],
+      "explanation": "'Toute la journée' = all day. 'Dormir' = to sleep (irregular).",
+      "grammar_points": ["pet_behavior", "time_expressions", "irregular_verbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_043",
+      "english": "Dogs are loyal animals.",
+      "correctFrench": ["Les", "chiens", "sont", "des", "animaux", "fidèles"],
+      "wordOptions": ["Les", "chiens", "sont", "des", "animaux", "fidèles", "Le", "chien", "loyaux", "gentils", "intelligents"],
+      "explanation": "'Fidèles' = loyal (plural). Describing animal personality traits.",
+      "grammar_points": ["animal_characteristics", "personality_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_044",
+      "english": "The kangaroo jumps high.",
+      "correctFrench": ["Le", "kangourou", "saute", "haut"],
+      "wordOptions": ["Le", "kangourou", "saute", "haut", "La", "bond", "bas", "loin", "fort", "vite"],
+      "explanation": "'Le kangourou' = kangaroo. 'Sauter haut' = to jump high.",
+      "grammar_points": ["exotic_animals", "animal_actions", "height_adverbs"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_045",
+      "english": "Ants work together.",
+      "correctFrench": ["Les", "fourmis", "travaillent", "ensemble"],
+      "wordOptions": ["Les", "fourmis", "travaillent", "ensemble", "La", "fourmi", "coopèrent", "collectivement", "seules", "dur"],
+      "explanation": "'Les fourmis' = ants (feminine). 'Ensemble' = together.",
+      "grammar_points": ["insects", "teamwork_vocabulary", "social_behavior"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_046",
+      "english": "The owl flies at night.",
+      "correctFrench": ["Le", "hibou", "vole", "la", "nuit"],
+      "wordOptions": ["Le", "hibou", "vole", "la", "nuit", "La", "chouette", "chasse", "jour", "soir", "matin"],
+      "explanation": "'Le hibou' = owl. 'Voler la nuit' = to fly at night.",
+      "grammar_points": ["nocturnal_animals", "time_expressions", "animal_behavior"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_047",
+      "english": "Penguins live in Antarctica.",
+      "correctFrench": ["Les", "manchots", "vivent", "en", "Antarctique"],
+      "wordOptions": ["Les", "manchots", "vivent", "en", "Antarctique", "Le", "manchot", "habitent", "Arctique", "pôle", "glace"],
+      "explanation": "'Les manchots' = penguins. 'En Antarctique' = in Antarctica.",
+      "grammar_points": ["polar_animals", "geographical_locations", "animal_habitats"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_048",
+      "english": "The dog chases the ball.",
+      "correctFrench": ["Le", "chien", "poursuit", "la", "balle"],
+      "wordOptions": ["Le", "chien", "poursuit", "la", "balle", "court", "après", "chasse", "attrape", "joue"],
+      "explanation": "'Poursuivre' = to chase. 'La balle' = ball (feminine).",
+      "grammar_points": ["pet_activities", "toys_vocabulary", "play_verbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_049",
+      "english": "Butterflies are colorful.",
+      "correctFrench": ["Les", "papillons", "sont", "colorés"],
+      "wordOptions": ["Les", "papillons", "sont", "colorés", "Le", "papillon", "colorées", "beaux", "jolis", "brillants"],
+      "explanation": "'Colorés' = colorful (masculine plural). Butterfly description.",
+      "grammar_points": ["insects", "color_adjectives", "beauty_description"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_050",
+      "english": "My dog knows tricks.",
+      "correctFrench": ["Mon", "chien", "connaît", "des", "tours"],
+      "wordOptions": ["Mon", "chien", "connaît", "des", "tours", "Ma", "chienne", "sait", "faire", "trucs", "astuces"],
+      "explanation": "'Connaître' = to know. 'Des tours' = tricks (masculine).",
+      "grammar_points": ["pet_training", "animal_abilities", "knowledge_verbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_051",
+      "english": "Cows eat grass.",
+      "correctFrench": ["Les", "vaches", "mangent", "de", "l'herbe"],
+      "wordOptions": ["Les", "vaches", "mangent", "de", "l'herbe", "La", "vache", "du", "foin", "paille", "avoine"],
+      "explanation": "'Manger de l'herbe' = to eat grass. Farm animal diet.",
+      "grammar_points": ["farm_animals", "animal_diet", "partitive_articles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_052",
+      "english": "The cat licks its fur.",
+      "correctFrench": ["Le", "chat", "lèche", "ses", "poils"],
+      "wordOptions": ["Le", "chat", "lèche", "ses", "poils", "La", "chatte", "sa", "fourrure", "nettoie", "lave"],
+      "explanation": "'Lécher' = to lick. 'Ses poils' = its fur (plural).",
+      "grammar_points": ["pet_grooming", "possessive_adjectives", "hygiene_behavior"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_053",
+      "english": "Foxes are clever.",
+      "correctFrench": ["Les", "renards", "sont", "rusés"],
+      "wordOptions": ["Les", "renards", "sont", "rusés", "Le", "renard", "malins", "intelligents", "astucieux", "roux"],
+      "explanation": "'Rusés' = clever/cunning (masculine plural). Fox characteristics.",
+      "grammar_points": ["wild_animals", "intelligence_adjectives", "animal_traits"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_054",
+      "english": "The peacock has beautiful feathers.",
+      "correctFrench": ["Le", "paon", "a", "de", "belles", "plumes"],
+      "wordOptions": ["Le", "paon", "a", "de", "belles", "plumes", "des", "belle", "magnifiques", "colorées", "queue"],
+      "explanation": "'Le paon' = peacock. 'De belles plumes' = beautiful feathers.",
+      "grammar_points": ["exotic_birds", "beauty_adjectives", "de_replacement"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_055",
+      "english": "Rabbits have long ears.",
+      "correctFrench": ["Les", "lapins", "ont", "de", "longues", "oreilles"],
+      "wordOptions": ["Les", "lapins", "ont", "de", "longues", "oreilles", "Le", "lapin", "des", "courtes", "grandes"],
+      "explanation": "'De longues oreilles' = long ears. Physical characteristics.",
+      "grammar_points": ["small_animals", "body_parts", "physical_description"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_056",
+      "english": "The hamster runs in circles.",
+      "correctFrench": ["Le", "hamster", "court", "en", "rond"],
+      "wordOptions": ["Le", "hamster", "court", "en", "rond", "cercles", "tourne", "roue", "cage", "vite"],
+      "explanation": "'Courir en rond' = to run in circles. Pet behavior.",
+      "grammar_points": ["small_pets", "movement_patterns", "prepositions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_057",
+      "english": "Wild animals live in the forest.",
+      "correctFrench": ["Les", "animaux", "sauvages", "vivent", "dans", "la", "forêt"],
+      "wordOptions": ["Les", "animaux", "sauvages", "vivent", "dans", "la", "forêt", "domestiques", "jungle", "bois", "nature"],
+      "explanation": "'Les animaux sauvages' = wild animals. 'Dans la forêt' = in the forest.",
+      "grammar_points": ["animal_classification", "natural_habitats", "adjective_placement"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_058",
+      "english": "The cat purrs when happy.",
+      "correctFrench": ["Le", "chat", "ronronne", "quand", "il", "est", "content"],
+      "wordOptions": ["Le", "chat", "ronronne", "quand", "il", "est", "content", "heureux", "triste", "calme", "satisfait"],
+      "explanation": "'Ronronner' = to purr. 'Quand il est content' = when (he is) happy.",
+      "grammar_points": ["animal_sounds", "emotions", "temporal_clauses"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_animals_059",
+      "english": "Horses gallop in the field.",
+      "correctFrench": ["Les", "chevaux", "galopent", "dans", "le", "champ"],
+      "wordOptions": ["Les", "chevaux", "galopent", "dans", "le", "champ", "Le", "cheval", "courent", "pré", "prairie"],
+      "explanation": "'Galoper' = to gallop. 'Dans le champ' = in the field.",
+      "grammar_points": ["large_animals", "animal_gaits", "rural_locations"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_060",
+      "english": "I give water to my bird.",
+      "correctFrench": ["Je", "donne", "de", "l'eau", "à", "mon", "oiseau"],
+      "wordOptions": ["Je", "donne", "de", "l'eau", "à", "mon", "oiseau", "du", "la", "ma", "graines", "nourriture"],
+      "explanation": "'Donner à' = to give to. 'De l'eau' = water (partitive).",
+      "grammar_points": ["pet_care", "feeding_pets", "indirect_objects"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_061",
+      "english": "The whale is enormous.",
+      "correctFrench": ["La", "baleine", "est", "énorme"],
+      "wordOptions": ["La", "baleine", "est", "énorme", "Le", "immense", "gigantesque", "grosse", "grande", "massive"],
+      "explanation": "'La baleine' = whale (feminine). 'Énorme' = enormous.",
+      "grammar_points": ["marine_animals", "size_adjectives", "superlatives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_062",
+      "english": "Squirrels collect nuts.",
+      "correctFrench": ["Les", "écureuils", "ramassent", "des", "noix"],
+      "wordOptions": ["Les", "écureuils", "ramassent", "des", "noix", "L'écureuil", "collecte", "noisettes", "glands", "graines"],
+      "explanation": "'Ramasser' = to collect/gather. 'Des noix' = nuts.",
+      "grammar_points": ["small_animals", "animal_behavior", "food_storage"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_063",
+      "english": "The dog barks at strangers.",
+      "correctFrench": ["Le", "chien", "aboie", "sur", "les", "étrangers"],
+      "wordOptions": ["Le", "chien", "aboie", "sur", "les", "étrangers", "après", "contre", "aux", "inconnus", "visiteurs"],
+      "explanation": "'Aboyer sur' = to bark at. Protection behavior.",
+      "grammar_points": ["pet_behavior", "prepositions", "security_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_064",
+      "english": "Fish need clean water.",
+      "correctFrench": ["Les", "poissons", "ont", "besoin", "d'eau", "propre"],
+      "wordOptions": ["Les", "poissons", "ont", "besoin", "d'eau", "propre", "Le", "poisson", "fraîche", "claire", "sale"],
+      "explanation": "'Avoir besoin de' = to need. 'Eau propre' = clean water.",
+      "grammar_points": ["aquatic_pets", "expressing_need", "water_quality"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_065",
+      "english": "The lion roars loudly.",
+      "correctFrench": ["Le", "lion", "rugit", "fort"],
+      "wordOptions": ["Le", "lion", "rugit", "fort", "La", "lionne", "crie", "hurle", "doucement", "bruyamment"],
+      "explanation": "'Rugir' = to roar. 'Fort' = loudly/strongly.",
+      "grammar_points": ["wild_animals", "animal_sounds", "volume_adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_066",
+      "english": "Cats see well in the dark.",
+      "correctFrench": ["Les", "chats", "voient", "bien", "dans", "le", "noir"],
+      "wordOptions": ["Les", "chats", "voient", "bien", "dans", "le", "noir", "Le", "chat", "mal", "obscurité", "nuit"],
+      "explanation": "'Voir bien' = to see well. 'Dans le noir' = in the dark.",
+      "grammar_points": ["animal_abilities", "vision_vocabulary", "darkness_expressions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_067",
+      "english": "The goat climbs the mountain.",
+      "correctFrench": ["La", "chèvre", "escalade", "la", "montagne"],
+      "wordOptions": ["La", "chèvre", "escalade", "la", "montagne", "Le", "bouc", "grimpe", "colline", "rocher", "falaise"],
+      "explanation": "'La chèvre' = goat (feminine). 'Escalader' = to climb.",
+      "grammar_points": ["farm_animals", "climbing_verbs", "geographical_features"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_068",
+      "english": "Bees fly from flower to flower.",
+      "correctFrench": ["Les", "abeilles", "volent", "de", "fleur", "en", "fleur"],
+      "wordOptions": ["Les", "abeilles", "volent", "de", "fleur", "en", "fleur", "L'abeille", "d'une", "à", "l'autre", "butinent"],
+      "explanation": "'De fleur en fleur' = from flower to flower. Bee behavior.",
+      "grammar_points": ["insects", "movement_patterns", "repetitive_expressions"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_animals_069",
+      "english": "The cat hides under the bed.",
+      "correctFrench": ["Le", "chat", "se", "cache", "sous", "le", "lit"],
+      "wordOptions": ["Le", "chat", "se", "cache", "sous", "le", "lit", "La", "chatte", "derrière", "table", "canapé"],
+      "explanation": "'Se cacher' = to hide (reflexive). 'Sous le lit' = under the bed.",
+      "grammar_points": ["pet_behavior", "reflexive_verbs", "location_prepositions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_070",
+      "english": "Wolves hunt in packs.",
+      "correctFrench": ["Les", "loups", "chassent", "en", "meute"],
+      "wordOptions": ["Les", "loups", "chassent", "en", "meute", "Le", "loup", "bande", "groupe", "équipe", "seuls"],
+      "explanation": "'Chasser en meute' = to hunt in packs. Wolf behavior.",
+      "grammar_points": ["wild_animals", "group_behavior", "hunting_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_071",
+      "english": "My rabbit eats lettuce.",
+      "correctFrench": ["Mon", "lapin", "mange", "de", "la", "salade"],
+      "wordOptions": ["Mon", "lapin", "mange", "de", "la", "salade", "Ma", "lapine", "du", "laitue", "légumes", "herbe"],
+      "explanation": "'Manger de la salade' = to eat lettuce/salad. Rabbit diet.",
+      "grammar_points": ["pet_diet", "vegetables", "partitive_articles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_072",
+      "english": "The spider catches flies.",
+      "correctFrench": ["L'araignée", "attrape", "des", "mouches"],
+      "wordOptions": ["L'araignée", "attrape", "des", "mouches", "capture", "piège", "la", "mouche", "insectes", "moustiques"],
+      "explanation": "'Attraper' = to catch. 'Des mouches' = flies.",
+      "grammar_points": ["arachnids", "predator_behavior", "prey_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_073",
+      "english": "The dog follows its owner.",
+      "correctFrench": ["Le", "chien", "suit", "son", "maître"],
+      "wordOptions": ["Le", "chien", "suit", "son", "maître", "La", "chienne", "sa", "maîtresse", "propriétaire", "accompagne"],
+      "explanation": "'Suivre' = to follow. 'Son maître' = its owner (masculine).",
+      "grammar_points": ["pet_loyalty", "possessive_adjectives", "owner_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_074",
+      "english": "Camels live in the desert.",
+      "correctFrench": ["Les", "chameaux", "vivent", "dans", "le", "désert"],
+      "wordOptions": ["Les", "chameaux", "vivent", "dans", "le", "désert", "Le", "chameau", "habitent", "sable", "oasis"],
+      "explanation": "'Les chameaux' = camels. 'Dans le désert' = in the desert.",
+      "grammar_points": ["desert_animals", "extreme_habitats", "geographical_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_075",
+      "english": "The cat stretches after sleeping.",
+      "correctFrench": ["Le", "chat", "s'étire", "après", "avoir", "dormi"],
+      "wordOptions": ["Le", "chat", "s'étire", "après", "avoir", "dormi", "La", "chatte", "se", "réveille", "avant"],
+      "explanation": "'S'étirer' = to stretch. 'Après avoir dormi' = after sleeping.",
+      "grammar_points": ["pet_behavior", "reflexive_verbs", "compound_infinitives"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_animals_076",
+      "english": "Birds build nests in trees.",
+      "correctFrench": ["Les", "oiseaux", "construisent", "des", "nids", "dans", "les", "arbres"],
+      "wordOptions": ["Les", "oiseaux", "construisent", "des", "nids", "dans", "les", "arbres", "font", "le", "nid", "branches"],
+      "explanation": "'Construire' = to build. 'Des nids' = nests.",
+      "grammar_points": ["bird_behavior", "building_verbs", "nesting_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_077",
+      "english": "The dog wears a collar.",
+      "correctFrench": ["Le", "chien", "porte", "un", "collier"],
+      "wordOptions": ["Le", "chien", "porte", "un", "collier", "La", "chienne", "une", "laisse", "médaille", "harnais"],
+      "explanation": "'Porter un collier' = to wear a collar. Pet accessories.",
+      "grammar_points": ["pet_accessories", "wearing_verbs", "safety_equipment"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_078",
+      "english": "Seals swim in the ocean.",
+      "correctFrench": ["Les", "phoques", "nagent", "dans", "l'océan"],
+      "wordOptions": ["Les", "phoques", "nagent", "dans", "l'océan", "Le", "phoque", "mer", "eau", "plongent", "jouent"],
+      "explanation": "'Les phoques' = seals. 'Dans l'océan' = in the ocean.",
+      "grammar_points": ["marine_animals", "swimming_verbs", "ocean_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_079",
+      "english": "The cat plays with a ball of yarn.",
+      "correctFrench": ["Le", "chat", "joue", "avec", "une", "pelote", "de", "laine"],
+      "wordOptions": ["Le", "chat", "joue", "avec", "une", "pelote", "de", "laine", "balle", "ficelle", "corde", "jouet"],
+      "explanation": "'Jouer avec' = to play with. 'Une pelote de laine' = ball of yarn.",
+      "grammar_points": ["pet_toys", "play_activities", "material_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_080",
+      "english": "Owls are nocturnal birds.",
+      "correctFrench": ["Les", "hiboux", "sont", "des", "oiseaux", "nocturnes"],
+      "wordOptions": ["Les", "hiboux", "sont", "des", "oiseaux", "nocturnes", "Le", "hibou", "diurnes", "de", "nuit", "jour"],
+      "explanation": "'Nocturnes' = nocturnal. 'Des oiseaux nocturnes' = nocturnal birds.",
+      "grammar_points": ["bird_classification", "time_adjectives", "behavior_patterns"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_081",
+      "english": "The horse neighs in the stable.",
+      "correctFrench": ["Le", "cheval", "hennit", "dans", "l'écurie"],
+      "wordOptions": ["Le", "cheval", "hennit", "dans", "l'écurie", "La", "jument", "crie", "étable", "pré", "box"],
+      "explanation": "'Hennir' = to neigh. 'L'écurie' = stable (feminine).",
+      "grammar_points": ["farm_animals", "animal_sounds", "farm_buildings"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_082",
+      "english": "Lizards sunbathe on rocks.",
+      "correctFrench": ["Les", "lézards", "se", "chauffent", "au", "soleil", "sur", "les", "rochers"],
+      "wordOptions": ["Les", "lézards", "se", "chauffent", "au", "soleil", "sur", "les", "rochers", "bronzent", "pierres"],
+      "explanation": "'Se chauffer au soleil' = to sunbathe. Reptile behavior.",
+      "grammar_points": ["reptiles", "reflexive_verbs", "sun_expressions"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_animals_083",
+      "english": "My dog is obedient.",
+      "correctFrench": ["Mon", "chien", "est", "obéissant"],
+      "wordOptions": ["Mon", "chien", "est", "obéissant", "Ma", "chienne", "obéissante", "désobéissant", "sage", "méchant"],
+      "explanation": "'Obéissant' = obedient (masculine). Pet personality trait.",
+      "grammar_points": ["pet_characteristics", "behavior_adjectives", "training_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_084",
+      "english": "Snails move very slowly.",
+      "correctFrench": ["Les", "escargots", "bougent", "très", "lentement"],
+      "wordOptions": ["Les", "escargots", "bougent", "très", "lentement", "L'escargot", "se", "déplacent", "rapidement", "vite"],
+      "explanation": "'Bouger' = to move. 'Très lentement' = very slowly.",
+      "grammar_points": ["mollusks", "movement_verbs", "speed_adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_085",
+      "english": "The parrot repeats words.",
+      "correctFrench": ["Le", "perroquet", "répète", "des", "mots"],
+      "wordOptions": ["Le", "perroquet", "répète", "des", "mots", "La", "perruche", "imite", "paroles", "phrases", "sons"],
+      "explanation": "'Répéter' = to repeat. 'Des mots' = words.",
+      "grammar_points": ["pet_birds", "language_abilities", "imitation_verbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_086",
+      "english": "Deer run through the forest.",
+      "correctFrench": ["Les", "cerfs", "courent", "à", "travers", "la", "forêt"],
+      "wordOptions": ["Les", "cerfs", "courent", "à", "travers", "la", "forêt", "Le", "cerf", "dans", "bois", "galope"],
+      "explanation": "'À travers' = through. 'Les cerfs' = deer (masculine plural).",
+      "grammar_points": ["wild_animals", "movement_prepositions", "forest_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_087",
+      "english": "The cat meows for food.",
+      "correctFrench": ["Le", "chat", "miaule", "pour", "avoir", "à", "manger"],
+      "wordOptions": ["Le", "chat", "miaule", "pour", "avoir", "à", "manger", "La", "chatte", "demander", "nourriture", "croquettes"],
+      "explanation": "'Miauler' = to meow. 'Pour avoir à manger' = for food.",
+      "grammar_points": ["pet_communication", "purpose_expressions", "food_requests"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_animals_088",
+      "english": "Elephants have excellent memory.",
+      "correctFrench": ["Les", "éléphants", "ont", "une", "excellente", "mémoire"],
+      "wordOptions": ["Les", "éléphants", "ont", "une", "excellente", "mémoire", "L'éléphant", "bonne", "mauvaise", "intelligence"],
+      "explanation": "'Une excellente mémoire' = excellent memory. Elephant trait.",
+      "grammar_points": ["wild_animals", "cognitive_abilities", "quality_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_089",
+      "english": "The guinea pig squeaks.",
+      "correctFrench": ["Le", "cochon", "d'Inde", "couine"],
+      "wordOptions": ["Le", "cochon", "d'Inde", "couine", "La", "crie", "siffle", "gémit", "hamster", "lapin"],
+      "explanation": "'Le cochon d'Inde' = guinea pig. 'Couiner' = to squeak.",
+      "grammar_points": ["small_pets", "animal_sounds", "compound_nouns"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_090",
+      "english": "Bears hibernate in winter.",
+      "correctFrench": ["Les", "ours", "hibernent", "en", "hiver"],
+      "wordOptions": ["Les", "ours", "hibernent", "en", "hiver", "L'ours", "dorment", "automne", "été", "printemps"],
+      "explanation": "'Hiberner' = to hibernate. 'En hiver' = in winter.",
+      "grammar_points": ["wild_animals", "seasonal_behavior", "survival_strategies"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_091",
+      "english": "The cat sits by the window.",
+      "correctFrench": ["Le", "chat", "s'assoit", "près", "de", "la", "fenêtre"],
+      "wordOptions": ["Le", "chat", "s'assoit", "près", "de", "la", "fenêtre", "La", "chatte", "à", "côté", "porte"],
+      "explanation": "'S'asseoir' = to sit down. 'Près de' = near/by.",
+      "grammar_points": ["pet_behavior", "reflexive_verbs", "location_expressions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_092",
+      "english": "Dolphins are intelligent mammals.",
+      "correctFrench": ["Les", "dauphins", "sont", "des", "mammifères", "intelligents"],
+      "wordOptions": ["Les", "dauphins", "sont", "des", "mammifères", "intelligents", "Le", "dauphin", "poissons", "intelligent"],
+      "explanation": "'Des mammifères intelligents' = intelligent mammals. Animal classification.",
+      "grammar_points": ["marine_animals", "scientific_classification", "intelligence_vocabulary"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_animals_093",
+      "english": "The dog digs holes in the garden.",
+      "correctFrench": ["Le", "chien", "creuse", "des", "trous", "dans", "le", "jardin"],
+      "wordOptions": ["Le", "chien", "creuse", "des", "trous", "dans", "le", "jardin", "La", "chienne", "trou", "terre"],
+      "explanation": "'Creuser' = to dig. 'Des trous' = holes.",
+      "grammar_points": ["pet_behavior", "digging_verbs", "garden_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_094",
+      "english": "Cats are independent animals.",
+      "correctFrench": ["Les", "chats", "sont", "des", "animaux", "indépendants"],
+      "wordOptions": ["Les", "chats", "sont", "des", "animaux", "indépendants", "Le", "chat", "dépendants", "autonomes", "libres"],
+      "explanation": "'Indépendants' = independent (masculine plural). Cat personality.",
+      "grammar_points": ["pet_characteristics", "personality_traits", "independence_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_095",
+      "english": "The butterfly lands on the flower.",
+      "correctFrench": ["Le", "papillon", "se", "pose", "sur", "la", "fleur"],
+      "wordOptions": ["Le", "papillon", "se", "pose", "sur", "la", "fleur", "La", "atterrit", "vole", "vers", "près"],
+      "explanation": "'Se poser sur' = to land on. Butterfly behavior.",
+      "grammar_points": ["insects", "reflexive_verbs", "landing_verbs"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_096",
+      "english": "My pet needs exercise.",
+      "correctFrench": ["Mon", "animal", "de", "compagnie", "a", "besoin", "d'exercice"],
+      "wordOptions": ["Mon", "animal", "de", "compagnie", "a", "besoin", "d'exercice", "Ma", "domestique", "repos", "jeu"],
+      "explanation": "'Animal de compagnie' = pet. 'Avoir besoin d'exercice' = to need exercise.",
+      "grammar_points": ["pet_care", "compound_nouns", "health_needs"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_animals_097",
+      "english": "The shark swims in deep water.",
+      "correctFrench": ["Le", "requin", "nage", "dans", "l'eau", "profonde"],
+      "wordOptions": ["Le", "requin", "nage", "dans", "l'eau", "profonde", "La", "mer", "océan", "peu", "claire"],
+      "explanation": "'Le requin' = shark. 'L'eau profonde' = deep water.",
+      "grammar_points": ["marine_predators", "depth_adjectives", "ocean_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_098",
+      "english": "Horses eat hay and oats.",
+      "correctFrench": ["Les", "chevaux", "mangent", "du", "foin", "et", "de", "l'avoine"],
+      "wordOptions": ["Les", "chevaux", "mangent", "du", "foin", "et", "de", "l'avoine", "Le", "cheval", "des", "la"],
+      "explanation": "'Du foin et de l'avoine' = hay and oats. Horse diet.",
+      "grammar_points": ["farm_animals", "animal_diet", "partitive_articles"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_099",
+      "english": "The cat sharpens its claws.",
+      "correctFrench": ["Le", "chat", "fait", "ses", "griffes"],
+      "wordOptions": ["Le", "chat", "fait", "ses", "griffes", "La", "chatte", "aiguise", "use", "sa", "griffe"],
+      "explanation": "'Faire ses griffes' = to sharpen claws (idiomatic). Cat behavior.",
+      "grammar_points": ["pet_grooming", "idiomatic_expressions", "claw_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_100",
+      "english": "Wild birds migrate in autumn.",
+      "correctFrench": ["Les", "oiseaux", "sauvages", "migrent", "en", "automne"],
+      "wordOptions": ["Les", "oiseaux", "sauvages", "migrent", "en", "automne", "L'oiseau", "domestiques", "hiver", "été", "printemps"],
+      "explanation": "'Migrer' = to migrate. 'En automne' = in autumn.",
+      "grammar_points": ["wild_birds", "seasonal_migration", "nature_cycles"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_101",
+      "english": "The kitten is very cute.",
+      "correctFrench": ["Le", "chaton", "est", "très", "mignon"],
+      "wordOptions": ["Le", "chaton", "est", "très", "mignon", "La", "petite", "chat", "adorable", "joli"],
+      "explanation": "'Le chaton' = kitten (masculine). 'Très mignon' = very cute.",
+      "grammar_points": ["baby_animals", "appearance_adjectives", "intensifiers"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_animals_102",
+      "english": "Puppies love to play.",
+      "correctFrench": ["Les", "chiots", "adorent", "jouer"],
+      "wordOptions": ["Les", "chiots", "adorent", "jouer", "Le", "chiot", "aiment", "de", "s'amuser", "courir"],
+      "explanation": "'Les chiots' = puppies. 'Adorer' = to love/adore.",
+      "grammar_points": ["baby_animals", "preference_verbs", "infinitive_constructions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_103",
+      "english": "The lizard changes colors.",
+      "correctFrench": ["Le", "lézard", "change", "de", "couleur"],
+      "wordOptions": ["Le", "lézard", "change", "de", "couleur", "La", "couleurs", "caméléon", "vert", "brun"],
+      "explanation": "'Changer de couleur' = to change colors. 'Le lézard' = lizard.",
+      "grammar_points": ["reptiles", "color_changes", "preposition_de"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_104",
+      "english": "The duck quacks loudly.",
+      "correctFrench": ["Le", "canard", "cancane", "bruyamment"],
+      "wordOptions": ["Le", "canard", "cancane", "bruyamment", "La", "cane", "crie", "fort", "doucement", "chante"],
+      "explanation": "'Cancaner' = to quack. 'Bruyamment' = loudly/noisily.",
+      "grammar_points": ["water_birds", "animal_sounds", "volume_adverbs"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_105",
+      "english": "Flamingos are pink birds.",
+      "correctFrench": ["Les", "flamants", "sont", "des", "oiseaux", "roses"],
+      "wordOptions": ["Les", "flamants", "sont", "des", "oiseaux", "roses", "Le", "flamant", "rouge", "blanc", "coloré"],
+      "explanation": "'Les flamants' = flamingos. 'Des oiseaux roses' = pink birds.",
+      "grammar_points": ["exotic_birds", "color_adjectives", "bird_classification"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_106",
+      "english": "The cat drinks milk.",
+      "correctFrench": ["Le", "chat", "boit", "du", "lait"],
+      "wordOptions": ["Le", "chat", "boit", "du", "lait", "La", "chatte", "de", "la", "eau", "crème"],
+      "explanation": "'Boire' = to drink (irregular). 'Du lait' = milk (partitive).",
+      "grammar_points": ["pet_diet", "drinking_verbs", "partitive_articles"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_107",
+      "english": "Horses have four legs.",
+      "correctFrench": ["Les", "chevaux", "ont", "quatre", "pattes"],
+      "wordOptions": ["Les", "chevaux", "ont", "quatre", "pattes", "Le", "cheval", "jambes", "pieds", "trois", "deux"],
+      "explanation": "'Quatre pattes' = four legs/paws. 'Les pattes' = animal legs.",
+      "grammar_points": ["large_animals", "numbers", "body_parts"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_108",
+      "english": "The bird has colorful feathers.",
+      "correctFrench": ["L'oiseau", "a", "des", "plumes", "colorées"],
+      "wordOptions": ["L'oiseau", "a", "des", "plumes", "colorées", "Les", "oiseaux", "plume", "belle", "belles"],
+      "explanation": "'Des plumes colorées' = colorful feathers. 'Colorées' (feminine plural).",
+      "grammar_points": ["bird_features", "color_adjectives", "adjective_agreement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_109",
+      "english": "The dog protects the house.",
+      "correctFrench": ["Le", "chien", "protège", "la", "maison"],
+      "wordOptions": ["Le", "chien", "protège", "la", "maison", "La", "chienne", "garde", "défend", "surveille", "famille"],
+      "explanation": "'Protéger' = to protect. Guard dog behavior.",
+      "grammar_points": ["pet_roles", "protection_verbs", "security_vocabulary"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_110",
+      "english": "Zebras have black and white stripes.",
+      "correctFrench": ["Les", "zèbres", "ont", "des", "rayures", "noires", "et", "blanches"],
+      "wordOptions": ["Les", "zèbres", "ont", "des", "rayures", "noires", "et", "blanches", "Le", "zèbre", "rayure", "noir"],
+      "explanation": "'Des rayures noires et blanches' = black and white stripes.",
+      "grammar_points": ["wild_animals", "color_patterns", "physical_description"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_111",
+      "english": "The goldfish swims in circles.",
+      "correctFrench": ["Le", "poisson", "rouge", "nage", "en", "rond"],
+      "wordOptions": ["Le", "poisson", "rouge", "nage", "en", "rond", "La", "cercles", "tourne", "aquarium", "bocal"],
+      "explanation": "'Le poisson rouge' = goldfish. 'Nager en rond' = to swim in circles.",
+      "grammar_points": ["aquatic_pets", "movement_patterns", "circular_motion"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_112",
+      "english": "The cow moos in the field.",
+      "correctFrench": ["La", "vache", "meugle", "dans", "le", "pré"],
+      "wordOptions": ["La", "vache", "meugle", "dans", "le", "pré", "Le", "taureau", "crie", "champ", "prairie"],
+      "explanation": "'Meugler' = to moo. 'Dans le pré' = in the meadow/field.",
+      "grammar_points": ["farm_animals", "animal_sounds", "rural_locations"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_113",
+      "english": "My dog is very friendly.",
+      "correctFrench": ["Mon", "chien", "est", "très", "amical"],
+      "wordOptions": ["Mon", "chien", "est", "très", "amical", "Ma", "chienne", "gentil", "sympathique", "méchant", "agressif"],
+      "explanation": "'Amical' = friendly (masculine). Dog personality trait.",
+      "grammar_points": ["pet_characteristics", "personality_adjectives", "social_behavior"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_animals_114",
+      "english": "The hen sits on her eggs.",
+      "correctFrench": ["La", "poule", "couve", "ses", "œufs"],
+      "wordOptions": ["La", "poule", "couve", "ses", "œufs", "Le", "coq", "sur", "pond", "protège", "garde"],
+      "explanation": "'Couver' = to brood/sit on eggs. 'Ses œufs' = her eggs.",
+      "grammar_points": ["farm_animals", "nesting_behavior", "possessive_adjectives"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_115",
+      "english": "Crocodiles live in rivers.",
+      "correctFrench": ["Les", "crocodiles", "vivent", "dans", "les", "rivières"],
+      "wordOptions": ["Les", "crocodiles", "vivent", "dans", "les", "rivières", "Le", "crocodile", "marais", "lac", "eau"],
+      "explanation": "'Les crocodiles' = crocodiles. 'Dans les rivières' = in rivers.",
+      "grammar_points": ["reptiles", "water_habitats", "dangerous_animals"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_116",
+      "english": "The cat climbs the tree.",
+      "correctFrench": ["Le", "chat", "grimpe", "à", "l'arbre"],
+      "wordOptions": ["Le", "chat", "grimpe", "à", "l'arbre", "La", "chatte", "dans", "sur", "monte", "descend"],
+      "explanation": "'Grimper à' = to climb (up). 'L'arbre' = tree (masculine).",
+      "grammar_points": ["pet_behavior", "climbing_verbs", "preposition_à"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_animals_117",
+      "english": "Ferrets are playful pets.",
+      "correctFrench": ["Les", "furets", "sont", "des", "animaux", "joueurs"],
+      "wordOptions": ["Les", "furets", "sont", "des", "animaux", "joueurs", "Le", "furet", "amusants", "actifs", "curieux"],
+      "explanation": "'Les furets' = ferrets. 'Joueurs' = playful (masculine plural).",
+      "grammar_points": ["unusual_pets", "personality_traits", "play_behavior"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_animals_118",
+      "english": "The fish needs fresh water.",
+      "correctFrench": ["Le", "poisson", "a", "besoin", "d'eau", "fraîche"],
+      "wordOptions": ["Le", "poisson", "a", "besoin", "d'eau", "fraîche", "Les", "poissons", "propre", "claire", "chaude"],
+      "explanation": "'Avoir besoin d'eau fraîche' = to need fresh water.",
+      "grammar_points": ["aquatic_pets", "expressing_need", "water_quality"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_119",
+      "english": "Butterflies drink flower nectar.",
+      "correctFrench": ["Les", "papillons", "boivent", "le", "nectar", "des", "fleurs"],
+      "wordOptions": ["Les", "papillons", "boivent", "le", "nectar", "des", "fleurs", "Le", "papillon", "sucent", "miel"],
+      "explanation": "'Le nectar des fleurs' = flower nectar. Butterfly feeding.",
+      "grammar_points": ["insects", "feeding_behavior", "flower_vocabulary"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_animals_120",
+      "english": "The dog sits when I say 'sit'.",
+      "correctFrench": ["Le", "chien", "s'assoit", "quand", "je", "dis", "'assis'"],
+      "wordOptions": ["Le", "chien", "s'assoit", "quand", "je", "dis", "'assis'", "La", "chienne", "lorsque", "commande"],
+      "explanation": "'S'asseoir' = to sit down. 'Quand je dis' = when I say.",
+      "grammar_points": ["pet_training", "commands", "temporal_clauses"],
+      "difficulty": 1.7
     }
   ]
 }

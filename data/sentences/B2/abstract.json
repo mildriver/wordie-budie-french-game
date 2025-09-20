@@ -2,7 +2,7 @@
   "level": "B2",
   "topic": "abstract",
   "description": "Abstract concepts, philosophical ideas, and complex intellectual discourse",
-  "total_sentences": 160,
+  "total_sentences": 15,
   "sentences": [
     {
       "id": "b2_abstract_001",
@@ -48,6 +48,51 @@
       "explanation": "'Éphémère' = ephemeral. 'Poignance' = poignancy. Aesthetic philosophy.",
       "grammar_points": ["aesthetic_philosophy", "temporal_qualities", "emotional_intensity"],
       "difficulty": 4.7
+    },
+    {
+      "id": "b2_abstract_006",
+      "english": "Phenomenology examines consciousness and lived experience.",
+      "correctFrench": ["La", "phénoménologie", "examine", "la", "conscience", "et", "l'expérience", "vécue"],
+      "wordOptions": ["La", "phénoménologie", "examine", "la", "conscience", "et", "l'expérience", "vécue", "étudie"],
+      "explanation": "'Phénoménologie' = phenomenology. Philosophical method of experience study.",
+      "grammar_points": ["phenomenology", "consciousness_study", "lived_experience"],
+      "difficulty": 4.8
+    },
+    {
+      "id": "b2_abstract_007",
+      "english": "Existentialism emphasizes individual existence and freedom of choice.",
+      "correctFrench": ["L'existentialisme", "met", "l'accent", "sur", "l'existence", "individuelle", "et", "la", "liberté", "de", "choix"],
+      "wordOptions": ["L'existentialisme", "met", "l'accent", "sur", "l'existence", "individuelle", "et", "la", "liberté", "de", "choix", "souligne"],
+      "explanation": "'Existentialisme' = existentialism. Philosophy of individual existence.",
+      "grammar_points": ["existentialism", "individual_existence", "freedom_choice"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_abstract_008",
+      "english": "Dialectical thinking reconciles opposing viewpoints through synthesis.",
+      "correctFrench": ["La", "pensée", "dialectique", "concilie", "les", "points", "de", "vue", "opposés", "par", "la", "synthèse"],
+      "wordOptions": ["La", "pensée", "dialectique", "concilie", "les", "points", "de", "vue", "opposés", "par", "la", "synthèse", "réconcilie"],
+      "explanation": "'Pensée dialectique' = dialectical thinking. Philosophical synthesis method.",
+      "grammar_points": ["dialectical_thinking", "opposing_viewpoints", "synthesis"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_abstract_009",
+      "english": "Nihilism rejects traditional values and moral principles.",
+      "correctFrench": ["Le", "nihilisme", "rejette", "les", "valeurs", "traditionnelles", "et", "les", "principes", "moraux"],
+      "wordOptions": ["Le", "nihilisme", "rejette", "les", "valeurs", "traditionnelles", "et", "les", "principes", "moraux", "répudie"],
+      "explanation": "'Nihilisme' = nihilism. Philosophy rejecting traditional moral values.",
+      "grammar_points": ["nihilism", "value_rejection", "moral_principles"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_abstract_010",
+      "english": "Metaphysical questions transcend empirical investigation.",
+      "correctFrench": ["Les", "questions", "métaphysiques", "transcendent", "l'investigation", "empirique"],
+      "wordOptions": ["Les", "questions", "métaphysiques", "transcendent", "l'investigation", "empirique", "dépassent"],
+      "explanation": "'Métaphysiques' = metaphysical. Questions beyond empirical reach.",
+      "grammar_points": ["metaphysical_questions", "transcendence", "empirical_limits"],
+      "difficulty": 4.6
     }
   ]
 }

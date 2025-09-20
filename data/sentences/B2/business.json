@@ -2,7 +2,7 @@
   "level": "B2",
   "topic": "business",
   "description": "Advanced business language, corporate communication, and professional discourse",
-  "total_sentences": 150,
+  "total_sentences": 15,
   "sentences": [
     {
       "id": "b2_business_001",
@@ -48,6 +48,51 @@
       "explanation": "'Mise en œuvre' = implementation. 'Rationaliser' = to streamline. Technology integration.",
       "grammar_points": ["technology_implementation", "operational_efficiency", "business_transformation"],
       "difficulty": 4.4
+    },
+    {
+      "id": "b2_business_006",
+      "english": "Due diligence ensures thorough evaluation of investment opportunities.",
+      "correctFrench": ["La", "diligence", "raisonnable", "assure", "une", "évaluation", "approfondie", "des", "opportunités", "d'investissement"],
+      "wordOptions": ["La", "diligence", "raisonnable", "assure", "une", "évaluation", "approfondie", "des", "opportunités", "d'investissement", "garantit"],
+      "explanation": "'Diligence raisonnable' = due diligence. Investment evaluation process.",
+      "grammar_points": ["due_diligence", "investment_evaluation", "business_assessment"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_business_007",
+      "english": "Corporate governance frameworks ensure accountability and transparency.",
+      "correctFrench": ["Les", "cadres", "de", "gouvernance", "d'entreprise", "assurent", "la", "responsabilité", "et", "la", "transparence"],
+      "wordOptions": ["Les", "cadres", "de", "gouvernance", "d'entreprise", "assurent", "la", "responsabilité", "et", "la", "transparence", "garantissent"],
+      "explanation": "'Gouvernance d'entreprise' = corporate governance. Business accountability structures.",
+      "grammar_points": ["corporate_governance", "accountability", "transparency"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_business_008",
+      "english": "Stakeholder capitalism balances shareholder interests with broader social impact.",
+      "correctFrench": ["Le", "capitalisme", "des", "parties", "prenantes", "équilibre", "les", "intérêts", "des", "actionnaires", "avec", "l'impact", "social", "plus", "large"],
+      "wordOptions": ["Le", "capitalisme", "des", "parties", "prenantes", "équilibre", "les", "intérêts", "des", "actionnaires", "avec", "l'impact", "social", "plus", "large", "concilie"],
+      "explanation": "'Capitalisme des parties prenantes' = stakeholder capitalism. Balanced business approach.",
+      "grammar_points": ["stakeholder_capitalism", "interest_balancing", "social_impact"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_business_009",
+      "english": "Digital transformation requires comprehensive organizational change management.",
+      "correctFrench": ["La", "transformation", "numérique", "exige", "une", "gestion", "globale", "du", "changement", "organisationnel"],
+      "wordOptions": ["La", "transformation", "numérique", "exige", "une", "gestion", "globale", "du", "changement", "organisationnel", "nécessite"],
+      "explanation": "'Transformation numérique' = digital transformation. Organizational change process.",
+      "grammar_points": ["digital_transformation", "change_management", "organizational_change"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_business_010",
+      "english": "Supply chain resilience mitigates disruption risks in global commerce.",
+      "correctFrench": ["La", "résilience", "de", "la", "chaîne", "d'approvisionnement", "atténue", "les", "risques", "de", "perturbation", "dans", "le", "commerce", "mondial"],
+      "wordOptions": ["La", "résilience", "de", "la", "chaîne", "d'approvisionnement", "atténue", "les", "risques", "de", "perturbation", "dans", "le", "commerce", "mondial", "réduit"],
+      "explanation": "'Chaîne d'approvisionnement' = supply chain. Global commerce risk management.",
+      "grammar_points": ["supply_chain", "resilience", "risk_mitigation"],
+      "difficulty": 4.5
     }
   ]
 }

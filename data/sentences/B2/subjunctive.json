@@ -2,7 +2,7 @@
   "level": "B2",
   "topic": "subjunctive",
   "description": "Advanced subjunctive constructions, complex mood usage, and sophisticated expressions",
-  "total_sentences": 140,
+  "total_sentences": 15,
   "sentences": [
     {
       "id": "b2_subj_001",
@@ -48,6 +48,51 @@
       "explanation": "'Non pas que' + subjunctive = not that. Diplomatic disagreement.",
       "grammar_points": ["diplomatic_language", "subjunctive_disclaimer", "alternative_approaches"],
       "difficulty": 4.8
+    },
+    {
+      "id": "b2_subj_006",
+      "english": "It is imperative that confidentiality be maintained throughout the process.",
+      "correctFrench": ["Il", "est", "impératif", "que", "la", "confidentialité", "soit", "maintenue", "tout", "au", "long", "du", "processus"],
+      "wordOptions": ["Il", "est", "impératif", "que", "la", "confidentialité", "soit", "maintenue", "tout", "au", "long", "du", "processus", "est"],
+      "explanation": "'Il est impératif que' + subjunctive. Strong necessity with passive subjunctive.",
+      "grammar_points": ["imperative_subjunctive", "passive_subjunctive", "confidentiality"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_subj_007",
+      "english": "However talented he may be, success requires dedication.",
+      "correctFrench": ["Si", "talentueux", "qu'il", "soit", "le", "succès", "exige", "du", "dévouement"],
+      "wordOptions": ["Si", "talentueux", "qu'il", "soit", "le", "succès", "exige", "du", "dévouement", "est"],
+      "explanation": "'Si...que' + subjunctive = however. Concessive construction with talent.",
+      "grammar_points": ["concessive_subjunctive", "talent_limitation", "success_requirements"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_subj_008",
+      "english": "I doubt that the proposal will receive unanimous approval.",
+      "correctFrench": ["Je", "doute", "que", "la", "proposition", "reçoive", "une", "approbation", "unanime"],
+      "wordOptions": ["Je", "doute", "que", "la", "proposition", "reçoive", "une", "approbation", "unanime", "reçoit"],
+      "explanation": "'Douter que' + subjunctive. Doubt expression with approval context.",
+      "grammar_points": ["doubt_subjunctive", "proposal_approval", "uncertainty_expression"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_subj_009",
+      "english": "Provided that all conditions are met, the agreement will be finalized.",
+      "correctFrench": ["Pourvu", "que", "toutes", "les", "conditions", "soient", "remplies", "l'accord", "sera", "finalisé"],
+      "wordOptions": ["Pourvu", "que", "toutes", "les", "conditions", "soient", "remplies", "l'accord", "sera", "finalisé", "sont"],
+      "explanation": "'Pourvu que' + subjunctive = provided that. Conditional agreement structure.",
+      "grammar_points": ["conditional_subjunctive", "agreement_finalization", "condition_fulfillment"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_subj_010",
+      "english": "Before the meeting ends, ensure that all points are addressed.",
+      "correctFrench": ["Avant", "que", "la", "réunion", "ne", "se", "termine", "assurez-vous", "que", "tous", "les", "points", "soient", "abordés"],
+      "wordOptions": ["Avant", "que", "la", "réunion", "ne", "se", "termine", "assurez-vous", "que", "tous", "les", "points", "soient", "abordés", "se", "terminent"],
+      "explanation": "'Avant que' + subjunctive with ne explétif. Temporal subjunctive construction.",
+      "grammar_points": ["temporal_subjunctive", "ne_expletif", "meeting_completion"],
+      "difficulty": 4.6
     }
   ]
 }

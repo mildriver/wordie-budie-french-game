@@ -2,7 +2,7 @@
   "level": "B2",
   "topic": "political-economic",
   "description": "Political analysis, economic theory, and governmental discourse",
-  "total_sentences": 160,
+  "total_sentences": 15,
   "sentences": [
     {
       "id": "b2_pol_001",
@@ -48,6 +48,96 @@
       "explanation": "'Processus législatif' = legislative process. Parliamentary procedures and negotiations.",
       "grammar_points": ["legislative_process", "political_negotiation", "governmental_procedures"],
       "difficulty": 4.2
+    },
+    {
+      "id": "b2_pol_006",
+      "english": "Central bank independence prevents political interference in monetary policy.",
+      "correctFrench": ["L'indépendance", "de", "la", "banque", "centrale", "empêche", "l'ingérence", "politique", "dans", "la", "politique", "monétaire"],
+      "wordOptions": ["L'indépendance", "de", "la", "banque", "centrale", "empêche", "l'ingérence", "politique", "dans", "la", "politique", "monétaire", "évite"],
+      "explanation": "'Ingérence politique' = political interference. Central banking autonomy.",
+      "grammar_points": ["central_banking", "political_independence", "monetary_policy"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_pol_007",
+      "english": "Supply-side economics advocates tax cuts to stimulate economic growth.",
+      "correctFrench": ["L'économie", "de", "l'offre", "prône", "les", "réductions", "d'impôts", "pour", "stimuler", "la", "croissance", "économique"],
+      "wordOptions": ["L'économie", "de", "l'offre", "prône", "les", "réductions", "d'impôts", "pour", "stimuler", "la", "croissance", "économique", "recommande"],
+      "explanation": "'Économie de l'offre' = supply-side economics. Economic theory and policy.",
+      "grammar_points": ["economic_theory", "tax_policy", "growth_stimulation"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_pol_008",
+      "english": "Regulatory capture occurs when industries influence their own oversight agencies.",
+      "correctFrench": ["La", "capture", "réglementaire", "survient", "quand", "les", "industries", "influencent", "leurs", "propres", "agences", "de", "surveillance"],
+      "wordOptions": ["La", "capture", "réglementaire", "survient", "quand", "les", "industries", "influencent", "leurs", "propres", "agences", "de", "surveillance", "se", "produit"],
+      "explanation": "'Capture réglementaire' = regulatory capture. Industry-regulator relationship corruption.",
+      "grammar_points": ["regulatory_capture", "industry_influence", "oversight_corruption"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_pol_009",
+      "english": "The diplomatic corps facilitates international communication and negotiation.",
+      "correctFrench": ["Le", "corps", "diplomatique", "facilite", "la", "communication", "et", "la", "négociation", "internationales"],
+      "wordOptions": ["Le", "corps", "diplomatique", "facilite", "la", "communication", "et", "la", "négociation", "internationales", "permet"],
+      "explanation": "'Corps diplomatique' = diplomatic corps. International relations infrastructure.",
+      "grammar_points": ["diplomacy", "international_communication", "negotiation_facilitation"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_pol_010",
+      "english": "Quantitative easing injects liquidity into financial markets during crises.",
+      "correctFrench": ["L'assouplissement", "quantitatif", "injecte", "de", "la", "liquidité", "dans", "les", "marchés", "financiers", "pendant", "les", "crises"],
+      "wordOptions": ["L'assouplissement", "quantitatif", "injecte", "de", "la", "liquidité", "dans", "les", "marchés", "financiers", "pendant", "les", "crises", "fournit"],
+      "explanation": "'Assouplissement quantitatif' = quantitative easing. Crisis monetary policy.",
+      "grammar_points": ["monetary_policy", "crisis_management", "market_liquidity"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_pol_011",
+      "english": "Gerrymandering manipulates electoral district boundaries for partisan advantage.",
+      "correctFrench": ["Le", "gerrymandering", "manipule", "les", "frontières", "des", "circonscriptions", "électorales", "pour", "un", "avantage", "partisan"],
+      "wordOptions": ["Le", "gerrymandering", "manipule", "les", "frontières", "des", "circonscriptions", "électorales", "pour", "un", "avantage", "partisan", "charcutage"],
+      "explanation": "'Gerrymandering' often retained in French. Electoral manipulation practice.",
+      "grammar_points": ["electoral_manipulation", "district_boundaries", "partisan_advantage"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_pol_012",
+      "english": "Fiscal federalism distributes taxation and spending powers across government levels.",
+      "correctFrench": ["Le", "fédéralisme", "fiscal", "distribue", "les", "pouvoirs", "de", "taxation", "et", "de", "dépense", "à", "travers", "les", "niveaux", "gouvernementaux"],
+      "wordOptions": ["Le", "fédéralisme", "fiscal", "distribue", "les", "pouvoirs", "de", "taxation", "et", "de", "dépense", "à", "travers", "les", "niveaux", "gouvernementaux", "répartit"],
+      "explanation": "'Fédéralisme fiscal' = fiscal federalism. Multi-level government finance.",
+      "grammar_points": ["fiscal_federalism", "government_levels", "power_distribution"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_pol_013",
+      "english": "Trade wars escalate when countries impose retaliatory tariffs.",
+      "correctFrench": ["Les", "guerres", "commerciales", "s'intensifient", "quand", "les", "pays", "imposent", "des", "tarifs", "de", "rétorsion"],
+      "wordOptions": ["Les", "guerres", "commerciales", "s'intensifient", "quand", "les", "pays", "imposent", "des", "tarifs", "de", "rétorsion", "escaladent"],
+      "explanation": "'Guerres commerciales' = trade wars. 'Tarifs de rétorsion' = retaliatory tariffs.",
+      "grammar_points": ["trade_wars", "retaliatory_measures", "economic_escalation"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_pol_014",
+      "english": "Populist movements exploit economic anxiety and cultural grievances.",
+      "correctFrench": ["Les", "mouvements", "populistes", "exploitent", "l'anxiété", "économique", "et", "les", "griefs", "culturels"],
+      "wordOptions": ["Les", "mouvements", "populistes", "exploitent", "l'anxiété", "économique", "et", "les", "griefs", "culturels", "utilisent"],
+      "explanation": "'Mouvements populistes' = populist movements. Political exploitation tactics.",
+      "grammar_points": ["populist_movements", "economic_anxiety", "cultural_grievances"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_pol_015",
+      "english": "The shadow banking system operates outside traditional regulatory frameworks.",
+      "correctFrench": ["Le", "système", "bancaire", "parallèle", "opère", "en", "dehors", "des", "cadres", "réglementaires", "traditionnels"],
+      "wordOptions": ["Le", "système", "bancaire", "parallèle", "opère", "en", "dehors", "des", "cadres", "réglementaires", "traditionnels", "fonctionne"],
+      "explanation": "'Système bancaire parallèle' = shadow banking system. Unregulated finance.",
+      "grammar_points": ["shadow_banking", "regulatory_frameworks", "financial_systems"],
+      "difficulty": 4.7
     }
   ]
 }

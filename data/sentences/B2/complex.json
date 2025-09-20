@@ -2,7 +2,7 @@
   "level": "B2",
   "topic": "complex",
   "description": "Complex grammatical structures, advanced syntax, and sophisticated language use",
-  "total_sentences": 200,
+  "total_sentences": 15,
   "sentences": [
     {
       "id": "b2_complex_001",
@@ -93,6 +93,51 @@
       "explanation": "'La mesure dans laquelle' = the extent to which. Degree expression with relative.",
       "grammar_points": ["degree_expressions", "technology_impact", "complex_relatives"],
       "difficulty": 4.4
+    },
+    {
+      "id": "b2_complex_011",
+      "english": "Should the negotiations fail, alternative strategies must be considered.",
+      "correctFrench": ["Si", "les", "négociations", "échouent", "des", "stratégies", "alternatives", "doivent", "être", "considérées"],
+      "wordOptions": ["Si", "les", "négociations", "échouent", "des", "stratégies", "alternatives", "doivent", "être", "considérées", "Au", "cas", "où"],
+      "explanation": "Conditional with subjunctive. Complex contingency planning.",
+      "grammar_points": ["conditional_subjunctive", "contingency_planning", "formal_register"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_complex_012",
+      "english": "The more sophisticated the analysis, the more reliable the conclusions become.",
+      "correctFrench": ["Plus", "l'analyse", "est", "sophistiquée", "plus", "les", "conclusions", "deviennent", "fiables"],
+      "wordOptions": ["Plus", "l'analyse", "est", "sophistiquée", "plus", "les", "conclusions", "deviennent", "fiables", "sont"],
+      "explanation": "Correlative comparison structure. Sophisticated analysis relationships.",
+      "grammar_points": ["correlative_comparison", "analysis_reliability", "progressive_relationship"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_complex_013",
+      "english": "What matters is not the quantity but the quality of the research.",
+      "correctFrench": ["Ce", "qui", "importe", "c'est", "non", "pas", "la", "quantité", "mais", "la", "qualité", "de", "la", "recherche"],
+      "wordOptions": ["Ce", "qui", "importe", "c'est", "non", "pas", "la", "quantité", "mais", "la", "qualité", "de", "la", "recherche", "compte"],
+      "explanation": "Cleft sentence with emphasis. Quality vs quantity distinction.",
+      "grammar_points": ["cleft_sentences", "emphasis_structures", "quality_distinction"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_complex_014",
+      "english": "Lest we forget the lessons of history, we must remain vigilant.",
+      "correctFrench": ["De", "peur", "que", "nous", "n'oubliions", "les", "leçons", "de", "l'histoire", "nous", "devons", "rester", "vigilants"],
+      "wordOptions": ["De", "peur", "que", "nous", "n'oubliions", "les", "leçons", "de", "l'histoire", "nous", "devons", "rester", "vigilants", "oublions"],
+      "explanation": "'De peur que' + subjunctive with ne explétif. Formal warning construction.",
+      "grammar_points": ["subjunctive_fear", "ne_expletif", "formal_warning"],
+      "difficulty": 4.8
+    },
+    {
+      "id": "b2_complex_015",
+      "english": "So compelling was the evidence that even skeptics were convinced.",
+      "correctFrench": ["Si", "convaincante", "était", "la", "preuve", "que", "même", "les", "sceptiques", "ont", "été", "convaincus"],
+      "wordOptions": ["Si", "convaincante", "était", "la", "preuve", "que", "même", "les", "sceptiques", "ont", "été", "convaincus", "Tellement"],
+      "explanation": "Inversion for emphasis with consecutive result. Dramatic effect construction.",
+      "grammar_points": ["emphatic_inversion", "consecutive_result", "dramatic_emphasis"],
+      "difficulty": 4.7
     }
   ]
 }

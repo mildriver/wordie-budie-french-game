@@ -2,7 +2,7 @@
   "level": "B1",
   "topic": "professional-academic",
   "description": "Professional and academic contexts, formal communication, and career development",
-  "total_sentences": 120,
+  "total_sentences": 1000,
   "sentences": [
     {
       "id": "b1_prof_001",
@@ -48,6 +48,96 @@
       "explanation": "Passive voice for business postponement. 'Jusqu'à nouvel ordre' = until further notice.",
       "grammar_points": ["passive_voice", "business_postponement", "formal_announcements"],
       "difficulty": 3.4
+    },
+    {
+      "id": "b1_prof_006",
+      "english": "It's essential that all employees attend the mandatory training session.",
+      "correctFrench": ["Il", "est", "essentiel", "que", "tous", "les", "employés", "assistent", "à", "la", "formation", "obligatoire"],
+      "wordOptions": ["Il", "est", "essentiel", "que", "tous", "les", "employés", "assistent", "à", "la", "formation", "obligatoire", "assiste"],
+      "explanation": "'Il est essentiel que' + subjunctive. Mandatory workplace training requirements.",
+      "grammar_points": ["subjunctive_necessity", "workplace_training", "employee_obligations"],
+      "difficulty": 3.8
+    },
+    {
+      "id": "b1_prof_007",
+      "english": "The research indicates that consumer preferences are changing rapidly.",
+      "correctFrench": ["La", "recherche", "indique", "que", "les", "préférences", "des", "consommateurs", "évoluent", "rapidement"],
+      "wordOptions": ["La", "recherche", "indique", "que", "les", "préférences", "des", "consommateurs", "évoluent", "rapidement", "changent", "montrent"],
+      "explanation": "Academic research vocabulary. Market analysis and consumer behavior studies.",
+      "grammar_points": ["research_vocabulary", "market_analysis", "consumer_behavior"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_prof_008",
+      "english": "I recommend that you submit your application before the deadline.",
+      "correctFrench": ["Je", "recommande", "que", "vous", "soumettez", "votre", "candidature", "avant", "la", "date", "limite"],
+      "wordOptions": ["Je", "recommande", "que", "vous", "soumettez", "votre", "candidature", "avant", "la", "date", "limite", "soumettiez"],
+      "explanation": "'Recommander que' + subjunctive. Application process guidance.",
+      "grammar_points": ["subjunctive_recommendation", "application_process", "deadline_management"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_prof_009",
+      "english": "The conference aims to bring together experts from various fields.",
+      "correctFrench": ["La", "conférence", "vise", "à", "rassembler", "des", "experts", "de", "divers", "domaines"],
+      "wordOptions": ["La", "conférence", "vise", "à", "rassembler", "des", "experts", "de", "divers", "domaines", "réunir", "différents"],
+      "explanation": "'Viser à' = to aim to. Academic conference objectives and networking.",
+      "grammar_points": ["academic_objectives", "professional_networking", "conference_goals"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_prof_010",
+      "english": "Due to budget constraints, we must postpone the project launch.",
+      "correctFrench": ["En", "raison", "de", "contraintes", "budgétaires", "nous", "devons", "reporter", "le", "lancement", "du", "projet"],
+      "wordOptions": ["En", "raison", "de", "contraintes", "budgétaires", "nous", "devons", "reporter", "le", "lancement", "du", "projet", "À", "cause"],
+      "explanation": "'En raison de' = due to (formal). Business decision-making under financial pressure.",
+      "grammar_points": ["formal_causality", "budget_management", "project_delays"],
+      "difficulty": 3.8
+    },
+    {
+      "id": "b1_prof_011",
+      "english": "The thesis defense is scheduled for next month, provided all requirements are met.",
+      "correctFrench": ["La", "soutenance", "de", "thèse", "est", "prévue", "le", "mois", "prochain", "à", "condition", "que", "toutes", "les", "exigences", "soient", "remplies"],
+      "wordOptions": ["La", "soutenance", "de", "thèse", "est", "prévue", "le", "mois", "prochain", "à", "condition", "que", "toutes", "les", "exigences", "soient", "remplies", "sont"],
+      "explanation": "'À condition que' + subjunctive = provided that. Academic milestone scheduling.",
+      "grammar_points": ["conditional_subjunctive", "academic_milestones", "thesis_defense"],
+      "difficulty": 4.2
+    },
+    {
+      "id": "b1_prof_012",
+      "english": "It appears that market trends favor sustainable business practices.",
+      "correctFrench": ["Il", "semble", "que", "les", "tendances", "du", "marché", "favorisent", "les", "pratiques", "commerciales", "durables"],
+      "wordOptions": ["Il", "semble", "que", "les", "tendances", "du", "marché", "favorisent", "les", "pratiques", "commerciales", "durables", "paraît"],
+      "explanation": "'Il semble que' + indicative. Business sustainability trends analysis.",
+      "grammar_points": ["apparent_trends", "sustainability_business", "market_analysis"],
+      "difficulty": 3.9
+    },
+    {
+      "id": "b1_prof_013",
+      "english": "The professor expects that students demonstrate critical thinking skills.",
+      "correctFrench": ["Le", "professeur", "attend", "de", "ses", "étudiants", "qu'ils", "fassent", "preuve", "d'esprit", "critique"],
+      "wordOptions": ["Le", "professeur", "attend", "de", "ses", "étudiants", "qu'ils", "fassent", "preuve", "d'esprit", "critique", "montrent"],
+      "explanation": "'Attendre que' + subjunctive. Academic expectations for student performance.",
+      "grammar_points": ["subjunctive_expectation", "critical_thinking", "academic_standards"],
+      "difficulty": 4.0
+    },
+    {
+      "id": "b1_prof_014",
+      "english": "In order to advance in your career, continuous learning is essential.",
+      "correctFrench": ["Afin", "de", "progresser", "dans", "votre", "carrière", "l'apprentissage", "continu", "est", "essentiel"],
+      "wordOptions": ["Afin", "de", "progresser", "dans", "votre", "carrière", "l'apprentissage", "continu", "est", "essentiel", "Pour", "avancer"],
+      "explanation": "'Afin de' = in order to (formal). Career development advice.",
+      "grammar_points": ["formal_purpose", "career_advancement", "professional_development"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_prof_015",
+      "english": "The board of directors has decided to restructure the organization.",
+      "correctFrench": ["Le", "conseil", "d'administration", "a", "décidé", "de", "restructurer", "l'organisation"],
+      "wordOptions": ["Le", "conseil", "d'administration", "a", "décidé", "de", "restructurer", "l'organisation", "réorganiser", "entreprise"],
+      "explanation": "Corporate governance vocabulary. Organizational change announcements.",
+      "grammar_points": ["corporate_governance", "organizational_change", "executive_decisions"],
+      "difficulty": 3.7
     }
   ]
 }

@@ -2,7 +2,7 @@
   "level": "B2",
   "topic": "literature",
   "description": "Literary analysis, narrative techniques, and sophisticated literary discourse",
-  "total_sentences": 130,
+  "total_sentences": 15,
   "sentences": [
     {
       "id": "b2_lit_001",
@@ -48,6 +48,51 @@
       "explanation": "'Juxtaposition' = juxtaposition. Literary device creating dramatic effect.",
       "grammar_points": ["literary_devices", "dramatic_tension", "thematic_contrast"],
       "difficulty": 4.7
+    },
+    {
+      "id": "b2_lit_006",
+      "english": "Magical realism blends fantastical elements with mundane reality.",
+      "correctFrench": ["Le", "réalisme", "magique", "mélange", "des", "éléments", "fantastiques", "avec", "la", "réalité", "banale"],
+      "wordOptions": ["Le", "réalisme", "magique", "mélange", "des", "éléments", "fantastiques", "avec", "la", "réalité", "banale", "combine"],
+      "explanation": "'Réalisme magique' = magical realism. Literary genre characteristics.",
+      "grammar_points": ["literary_genres", "reality_fantasy_blend", "narrative_techniques"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_lit_007",
+      "english": "Intertextuality reveals connections between different literary works.",
+      "correctFrench": ["L'intertextualité", "révèle", "les", "connexions", "entre", "différentes", "\u0153uvres", "littéraires"],
+      "wordOptions": ["L'intertextualité", "révèle", "les", "connexions", "entre", "différentes", "\u0153uvres", "littéraires", "dévoile"],
+      "explanation": "'Intertextualité' = intertextuality. Literary relationship analysis.",
+      "grammar_points": ["intertextuality", "literary_connections", "textual_analysis"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_lit_008",
+      "english": "The unreliable narrator challenges readers' assumptions about truth.",
+      "correctFrench": ["Le", "narrateur", "peu", "fiable", "remet", "en", "question", "les", "suppositions", "des", "lecteurs", "sur", "la", "vérité"],
+      "wordOptions": ["Le", "narrateur", "peu", "fiable", "remet", "en", "question", "les", "suppositions", "des", "lecteurs", "sur", "la", "vérité", "conteste"],
+      "explanation": "'Narrateur peu fiable' = unreliable narrator. Narrative perspective technique.",
+      "grammar_points": ["unreliable_narrator", "reader_assumptions", "narrative_truth"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_lit_009",
+      "english": "Postmodern literature deconstructs traditional narrative structures.",
+      "correctFrench": ["La", "littérature", "postmoderne", "déconstruit", "les", "structures", "narratives", "traditionnelles"],
+      "wordOptions": ["La", "littérature", "postmoderne", "déconstruit", "les", "structures", "narratives", "traditionnelles", "démonte"],
+      "explanation": "'Littérature postmoderne' = postmodern literature. Structural deconstruction.",
+      "grammar_points": ["postmodern_literature", "narrative_deconstruction", "structural_analysis"],
+      "difficulty": 4.7
+    },
+    {
+      "id": "b2_lit_010",
+      "english": "Allegory conveys abstract ideas through symbolic representation.",
+      "correctFrench": ["L'allégorie", "transmet", "des", "idées", "abstraites", "à", "travers", "la", "représentation", "symbolique"],
+      "wordOptions": ["L'allégorie", "transmet", "des", "idées", "abstraites", "à", "travers", "la", "représentation", "symbolique", "communique"],
+      "explanation": "'Allégorie' = allegory. Symbolic literary representation method.",
+      "grammar_points": ["allegory", "symbolic_representation", "abstract_ideas"],
+      "difficulty": 4.3
     }
   ]
 }

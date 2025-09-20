@@ -1,0 +1,92 @@
+[
+  {
+    "id": "a2_tech_051",
+    "english": "She updates her social media status.",
+    "correctFrench": ["Elle", "met", "à", "jour", "son", "statut", "sur", "les", "réseaux", "sociaux"],
+    "wordOptions": ["Elle", "met", "à", "jour", "son", "statut", "sur", "les", "réseaux", "sociaux", "modifie", "profil"],
+    "explanation": "'Mettre à jour son statut' = update status. Social media activity.",
+    "grammar_points": ["social_media", "status_updates", "online_presence"],
+    "difficulty": 2.5
+  },
+  {
+    "id": "a2_tech_052",
+    "english": "The memory card is corrupted.",
+    "correctFrench": ["La", "carte", "mémoire", "est", "corrompue"],
+    "wordOptions": ["La", "carte", "mémoire", "est", "corrompue", "SD", "endommagée", "défectueuse", "abîmée"],
+    "explanation": "'La carte mémoire corrompue' = corrupted memory card. Storage problems.",
+    "grammar_points": ["memory_storage", "data_corruption", "adjective_agreement"],
+    "difficulty": 2.4
+  },
+  {
+    "id": "a2_tech_053",
+    "english": "I configure my email account.",
+    "correctFrench": ["Je", "configure", "mon", "compte", "email"],
+    "wordOptions": ["Je", "configure", "mon", "compte", "email", "paramètre", "courrier", "électronique", "mail"],
+    "explanation": "'Configurer un compte email' = configure email account. Email setup.",
+    "grammar_points": ["email_setup", "account_configuration", "technical_setup"],
+    "difficulty": 2.3
+  },
+  {
+    "id": "a2_tech_054",
+    "english": "The software license expires next month.",
+    "correctFrench": ["La", "licence", "du", "logiciel", "expire", "le", "mois", "prochain"],
+    "wordOptions": ["La", "licence", "du", "logiciel", "expire", "le", "mois", "prochain", "se", "termine", "suivant"],
+    "explanation": "'La licence expire' = license expires. Software licensing.",
+    "grammar_points": ["software_licensing", "expiration_dates", "subscription_management"],
+    "difficulty": 2.5
+  },
+  {
+    "id": "a2_tech_055",
+    "english": "We troubleshoot network problems together.",
+    "correctFrench": ["Nous", "dépannons", "les", "problèmes", "de", "réseau", "ensemble"],
+    "wordOptions": ["Nous", "dépannons", "les", "problèmes", "de", "réseau", "ensemble", "résolvons", "réparons"],
+    "explanation": "'Dépanner les problèmes' = troubleshoot problems. Network support.",
+    "grammar_points": ["network_troubleshooting", "problem_solving", "technical_support"],
+    "difficulty": 2.6
+  },
+  {
+    "id": "a2_tech_056",
+    "english": "The charging cable is damaged.",
+    "correctFrench": ["Le", "câble", "de", "charge", "est", "endommagé"],
+    "wordOptions": ["Le", "câble", "de", "charge", "est", "endommagé", "chargeur", "cassé", "abîmé", "défectueux"],
+    "explanation": "'Le câble endommagé' = damaged cable. Charging equipment problems.",
+    "grammar_points": ["charging_equipment", "damage_descriptions", "adjective_agreement"],
+    "difficulty": 2.2
+  },
+  {
+    "id": "a2_tech_057",
+    "english": "I bookmark interesting websites.",
+    "correctFrench": ["Je", "mets", "en", "favoris", "des", "sites", "intéressants"],
+    "wordOptions": ["Je", "mets", "en", "favoris", "des", "sites", "intéressants", "sauvegarde", "marque-pages", "utiles"],
+    "explanation": "'Mettre en favoris' = bookmark. Web browsing habits.",
+    "grammar_points": ["web_browsing", "bookmarking", "website_organization"],
+    "difficulty": 2.4
+  },
+  {
+    "id": "a2_tech_058",
+    "english": "The smartwatch tracks my fitness.",
+    "correctFrench": ["La", "montre", "connectée", "suit", "ma", "forme", "physique"],
+    "wordOptions": ["La", "montre", "connectée", "suit", "ma", "forme", "physique", "intelligente", "surveille", "santé"],
+    "explanation": "'La montre connectée suit' = smartwatch tracks. Wearable technology.",
+    "grammar_points": ["wearable_technology", "fitness_tracking", "health_monitoring"],
+    "difficulty": 2.5
+  },
+  {
+    "id": "a2_tech_059",
+    "english": "She formats the USB drive.",
+    "correctFrench": ["Elle", "formate", "la", "clé", "USB"],
+    "wordOptions": ["Elle", "formate", "la", "clé", "USB", "formatte", "clef", "disque", "externe"],
+    "explanation": "'Formater la clé USB' = format USB drive. Storage maintenance.",
+    "grammar_points": ["usb_storage", "formatting_processes", "data_management"],
+    "difficulty": 2.3
+  },
+  {
+    "id": "a2_tech_060",
+    "english": "The internet speed is very slow.",
+    "correctFrench": ["La", "vitesse", "internet", "est", "très", "lente"],
+    "wordOptions": ["La", "vitesse", "internet", "est", "très", "lente", "connexion", "rapide", "débit", "faible"],
+    "explanation": "'La vitesse lente' = slow speed. Internet performance.",
+    "grammar_points": ["internet_speed", "speed_adjectives", "network_performance"],
+    "difficulty": 2.2
+  }
+]

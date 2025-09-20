@@ -2,7 +2,7 @@
   "level": "B1",
   "topic": "complex-grammar",
   "description": "Complex grammatical structures, relative pronouns, and advanced constructions",
-  "total_sentences": 140,
+  "total_sentences": 1000,
   "sentences": [
     {
       "id": "b1_complex_001",
@@ -48,6 +48,139 @@
       "explanation": "Participe présent composé: 'ayant fini' = having finished. Literary style.",
       "grammar_points": ["participe_present", "project_completion", "celebration"],
       "difficulty": 3.8
+    },
+    {
+      "id": "b1_complex_006",
+      "english": "What I need is someone who understands my situation.",
+      "correctFrench": ["Ce", "qu'il", "me", "faut", "c'est", "quelqu'un", "qui", "comprenne", "ma", "situation"],
+      "wordOptions": ["Ce", "qu'il", "me", "faut", "c'est", "quelqu'un", "qui", "comprenne", "ma", "situation", "comprend", "que"],
+      "explanation": "'Ce qu'il me faut' = what I need. Subjunctive after indefinite antecedent.",
+      "grammar_points": ["ce_que_constructions", "subjunctive_indefinite", "need_expressions"],
+      "difficulty": 4.1
+    },
+    {
+      "id": "b1_complex_007",
+      "english": "The reason why he left remains unclear.",
+      "correctFrench": ["La", "raison", "pour", "laquelle", "il", "est", "parti", "reste", "floue"],
+      "wordOptions": ["La", "raison", "pour", "laquelle", "il", "est", "parti", "reste", "floue", "pourquoi", "dont"],
+      "explanation": "'Pour laquelle' = for which/why. Complex relative construction.",
+      "grammar_points": ["complex_relatives", "reason_expressions", "unclear_situations"],
+      "difficulty": 3.9
+    },
+    {
+      "id": "b1_complex_008",
+      "english": "Although he is young, he shows great maturity.",
+      "correctFrench": ["Bien", "qu'il", "soit", "jeune", "il", "fait", "preuve", "de", "beaucoup", "de", "maturité"],
+      "wordOptions": ["Bien", "qu'il", "soit", "jeune", "il", "fait", "preuve", "de", "beaucoup", "de", "maturité", "est"],
+      "explanation": "'Bien que' + subjunctive. 'Faire preuve de' = to show/demonstrate.",
+      "grammar_points": ["subjunctive_concession", "maturity_expressions", "personal_qualities"],
+      "difficulty": 4.0
+    },
+    {
+      "id": "b1_complex_009",
+      "english": "Whatever decision you make, I will support you.",
+      "correctFrench": ["Quelle", "que", "soit", "la", "décision", "que", "tu", "prennes", "je", "te", "soutiendrai"],
+      "wordOptions": ["Quelle", "que", "soit", "la", "décision", "que", "tu", "prennes", "je", "te", "soutiendrai", "prends"],
+      "explanation": "'Quel que soit' + subjunctive = whatever. Double subjunctive construction.",
+      "grammar_points": ["concessive_subjunctive", "unconditional_support", "complex_relatives"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b1_complex_010",
+      "english": "It's the most beautiful city I have ever visited.",
+      "correctFrench": ["C'est", "la", "plus", "belle", "ville", "que", "j'aie", "jamais", "visitée"],
+      "wordOptions": ["C'est", "la", "plus", "belle", "ville", "que", "j'aie", "jamais", "visitée", "ai", "visité"],
+      "explanation": "Subjunctive after superlative + que. 'Que j'aie jamais visitée' = I have ever visited.",
+      "grammar_points": ["subjunctive_superlative", "travel_descriptions", "past_experiences"],
+      "difficulty": 4.2
+    },
+    {
+      "id": "b1_complex_011",
+      "english": "Before going to bed, she always reads for an hour.",
+      "correctFrench": ["Avant", "de", "se", "coucher", "elle", "lit", "toujours", "pendant", "une", "heure"],
+      "wordOptions": ["Avant", "de", "se", "coucher", "elle", "lit", "toujours", "pendant", "une", "heure", "aller", "au"],
+      "explanation": "'Avant de' + infinitive = before doing. Habitual action description.",
+      "grammar_points": ["avant_de", "bedtime_routines", "duration_expressions"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_complex_012",
+      "english": "The company where my father works is expanding internationally.",
+      "correctFrench": ["L'entreprise", "où", "travaille", "mon", "père", "se", "développe", "à", "l'international"],
+      "wordOptions": ["L'entreprise", "où", "travaille", "mon", "père", "se", "développe", "à", "l'international", "dans", "laquelle"],
+      "explanation": "'Où' = where (relative pronoun for places). International expansion vocabulary.",
+      "grammar_points": ["relative_pronouns_place", "business_expansion", "family_work"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_complex_013",
+      "english": "Should you need any help, please don't hesitate to call me.",
+      "correctFrench": ["Si", "vous", "avez", "besoin", "d'aide", "n'hésitez", "pas", "à", "m'appeler"],
+      "wordOptions": ["Si", "vous", "avez", "besoin", "d'aide", "n'hésitez", "pas", "à", "m'appeler", "Au", "cas", "où"],
+      "explanation": "Conditional offer of help. 'N'hésitez pas à' = don't hesitate to.",
+      "grammar_points": ["conditional_offers", "help_expressions", "polite_requests"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_complex_014",
+      "english": "It's important that everyone arrives on time for the meeting.",
+      "correctFrench": ["Il", "est", "important", "que", "tout", "le", "monde", "arrive", "à", "l'heure", "pour", "la", "réunion"],
+      "wordOptions": ["Il", "est", "important", "que", "tout", "le", "monde", "arrive", "à", "l'heure", "pour", "la", "réunion", "arrives"],
+      "explanation": "'Il est important que' + subjunctive. Professional punctuality requirement.",
+      "grammar_points": ["subjunctive_necessity", "punctuality", "business_meetings"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_complex_015",
+      "english": "The more I think about it, the more confused I become.",
+      "correctFrench": ["Plus", "j'y", "réfléchis", "plus", "je", "me", "sens", "confus"],
+      "wordOptions": ["Plus", "j'y", "réfléchis", "plus", "je", "me", "sens", "confus", "pense", "troublé"],
+      "explanation": "'Plus...plus' correlation. 'Y réfléchir' = to think about it.",
+      "grammar_points": ["correlation_structures", "reflection_vocabulary", "emotional_states"],
+      "difficulty": 3.8
+    },
+    {
+      "id": "b1_complex_016",
+      "english": "The woman whose daughter is my classmate lives next door.",
+      "correctFrench": ["La", "femme", "dont", "la", "fille", "est", "ma", "camarade", "de", "classe", "habite", "à", "côté"],
+      "wordOptions": ["La", "femme", "dont", "la", "fille", "est", "ma", "camarade", "de", "classe", "habite", "à", "côté", "que", "qui"],
+      "explanation": "'Dont' for possession. Complex family and neighbor relationships.",
+      "grammar_points": ["possessive_relatives", "family_relationships", "neighborhood"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_complex_017",
+      "english": "What bothers me most is his lack of respect.",
+      "correctFrench": ["Ce", "qui", "me", "dérange", "le", "plus", "c'est", "son", "manque", "de", "respect"],
+      "wordOptions": ["Ce", "qui", "me", "dérange", "le", "plus", "c'est", "son", "manque", "de", "respect", "que", "ennuie"],
+      "explanation": "'Ce qui' for emphasis. Expressing annoyance about behavior.",
+      "grammar_points": ["ce_qui_constructions", "annoyance_expressions", "respect_issues"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_complex_018",
+      "english": "The day when we met was the beginning of our friendship.",
+      "correctFrench": ["Le", "jour", "où", "nous", "nous", "sommes", "rencontrés", "a", "été", "le", "début", "de", "notre", "amitié"],
+      "wordOptions": ["Le", "jour", "où", "nous", "nous", "sommes", "rencontrés", "a", "été", "le", "début", "de", "notre", "amitié", "que"],
+      "explanation": "'Où' for time expressions. Reflexive verbs in complex sentences.",
+      "grammar_points": ["temporal_relatives", "friendship_beginnings", "reflexive_verbs"],
+      "difficulty": 3.8
+    },
+    {
+      "id": "b1_complex_019",
+      "english": "However intelligent he may be, he lacks experience.",
+      "correctFrench": ["Si", "intelligent", "qu'il", "soit", "il", "manque", "d'expérience"],
+      "wordOptions": ["Si", "intelligent", "qu'il", "soit", "il", "manque", "d'expérience", "est", "Aussi", "puisse"],
+      "explanation": "'Si + adjective + que' + subjunctive = however + adjective.",
+      "grammar_points": ["concessive_subjunctive", "intelligence_vs_experience", "professional_qualities"],
+      "difficulty": 4.2
+    },
+    {
+      "id": "b1_complex_020",
+      "english": "The problem is not as simple as it appears.",
+      "correctFrench": ["Le", "problème", "n'est", "pas", "aussi", "simple", "qu'il", "paraît"],
+      "wordOptions": ["Le", "problème", "n'est", "pas", "aussi", "simple", "qu'il", "paraît", "semble", "apparaît"],
+      "explanation": "'Aussi...que' comparison. Appearance vs reality expressions.",
+      "grammar_points": ["comparative_structures", "appearance_expressions", "complexity_assessment"],
+      "difficulty": 3.5
     }
-  ]
-}

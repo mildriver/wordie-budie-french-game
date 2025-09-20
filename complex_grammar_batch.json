@@ -1,0 +1,92 @@
+[
+  {
+    "id": "b1_complex_021",
+    "english": "I'm looking for someone who speaks both French and Spanish.",
+    "correctFrench": ["Je", "cherche", "quelqu'un", "qui", "parle", "français", "et", "espagnol"],
+    "wordOptions": ["Je", "cherche", "quelqu'un", "qui", "parle", "français", "et", "espagnol", "parlant", "que"],
+    "explanation": "Subjunctive after indefinite antecedent 'quelqu'un qui'.",
+    "grammar_points": ["subjunctive_indefinite", "language_skills", "job_requirements"],
+    "difficulty": 3.7
+  },
+  {
+    "id": "b1_complex_022",
+    "english": "Instead of complaining, he decided to take action.",
+    "correctFrench": ["Au", "lieu", "de", "se", "plaindre", "il", "a", "décidé", "d'agir"],
+    "wordOptions": ["Au", "lieu", "de", "se", "plaindre", "il", "a", "décidé", "d'agir", "plutôt", "que"],
+    "explanation": "'Au lieu de' + infinitive = instead of doing. Choice between actions.",
+    "grammar_points": ["substitution_expressions", "action_vs_complaint", "decision_making"],
+    "difficulty": 3.6
+  },
+  {
+    "id": "b1_complex_023",
+    "english": "The fact that he didn't call worries me.",
+    "correctFrench": ["Le", "fait", "qu'il", "n'ait", "pas", "appelé", "m'inquiète"],
+    "wordOptions": ["Le", "fait", "qu'il", "n'ait", "pas", "appelé", "m'inquiète", "n'a", "pas", "inquiète"],
+    "explanation": "Subjunctive after 'le fait que' when expressing emotion or doubt.",
+    "grammar_points": ["subjunctive_fact", "worry_expressions", "communication_absence"],
+    "difficulty": 4.0
+  },
+  {
+    "id": "b1_complex_024",
+    "english": "Unless you study harder, you won't pass the exam.",
+    "correctFrench": ["À", "moins", "que", "tu", "n'études", "plus", "sérieusement", "tu", "ne", "réussiras", "pas", "l'examen"],
+    "wordOptions": ["À", "moins", "que", "tu", "n'études", "plus", "sérieusement", "tu", "ne", "réussiras", "pas", "l'examen", "étudie"],
+    "explanation": "'À moins que' + subjunctive = unless. Expletive 'ne' used.",
+    "grammar_points": ["conditional_negative", "subjunctive_condition", "academic_consequences"],
+    "difficulty": 4.1
+  },
+  {
+    "id": "b1_complex_025",
+    "english": "The faster you drive, the more dangerous it becomes.",
+    "correctFrench": ["Plus", "vous", "conduisez", "vite", "plus", "cela", "devient", "dangereux"],
+    "wordOptions": ["Plus", "vous", "conduisez", "vite", "plus", "cela", "devient", "dangereux", "roulez", "risqué"],
+    "explanation": "'Plus...plus' correlation structure. Driving safety relationship.",
+    "grammar_points": ["correlation_structures", "driving_safety", "risk_assessment"],
+    "difficulty": 3.5
+  },
+  {
+    "id": "b1_complex_026",
+    "english": "I suggest that we meet at the café around the corner.",
+    "correctFrench": ["Je", "suggère", "que", "nous", "nous", "retrouvions", "au", "café", "du", "coin"],
+    "wordOptions": ["Je", "suggère", "que", "nous", "nous", "retrouvions", "au", "café", "du", "coin", "retrouvons"],
+    "explanation": "'Suggérer que' + subjunctive. Reflexive verb in subjunctive form.",
+    "grammar_points": ["subjunctive_suggestion", "meeting_arrangements", "reflexive_verbs"],
+    "difficulty": 3.8
+  },
+  {
+    "id": "b1_complex_027",
+    "english": "The house in which my grandmother lived has been sold.",
+    "correctFrench": ["La", "maison", "dans", "laquelle", "habitait", "ma", "grand-mère", "a", "été", "vendue"],
+    "wordOptions": ["La", "maison", "dans", "laquelle", "habitait", "ma", "grand-mère", "a", "été", "vendue", "où", "que"],
+    "explanation": "'Dans laquelle' = in which. Complex relative with preposition.",
+    "grammar_points": ["complex_relatives", "family_property", "passive_voice"],
+    "difficulty": 3.9
+  },
+  {
+    "id": "b1_complex_028",
+    "english": "So that everyone understands, I'll repeat the instructions.",
+    "correctFrench": ["Pour", "que", "tout", "le", "monde", "comprenne", "je", "vais", "répéter", "les", "instructions"],
+    "wordOptions": ["Pour", "que", "tout", "le", "monde", "comprenne", "je", "vais", "répéter", "les", "instructions", "comprend"],
+    "explanation": "'Pour que' + subjunctive = so that. Purpose expression.",
+    "grammar_points": ["subjunctive_purpose", "instruction_giving", "comprehension_ensuring"],
+    "difficulty": 3.7
+  },
+  {
+    "id": "b1_complex_029",
+    "english": "Having been warned about the traffic, we left early.",
+    "correctFrench": ["Ayant", "été", "prévenus", "de", "la", "circulation", "nous", "sommes", "partis", "tôt"],
+    "wordOptions": ["Ayant", "été", "prévenus", "de", "la", "circulation", "nous", "sommes", "partis", "tôt", "Étant"],
+    "explanation": "Passive participle construction. 'Ayant été prévenus' = having been warned.",
+    "grammar_points": ["passive_participle", "traffic_warnings", "precautionary_actions"],
+    "difficulty": 4.0
+  },
+  {
+    "id": "b1_complex_030",
+    "english": "The more experience you gain, the more confident you'll become.",
+    "correctFrench": ["Plus", "vous", "acquérez", "de", "l'expérience", "plus", "vous", "deviendrez", "confiant"],
+    "wordOptions": ["Plus", "vous", "acquérez", "de", "l'expérience", "plus", "vous", "deviendrez", "confiant", "gagnez", "sûr"],
+    "explanation": "'Plus...plus' with different tenses. Professional development context.",
+    "grammar_points": ["correlation_structures", "professional_growth", "confidence_building"],
+    "difficulty": 3.6
+  }
+]

@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "technology-media",
   "description": "Technology, computers, internet, phones, and media",
-  "total_sentences": 130,
+  "total_sentences": 1000,
   "sentences": [
     {
       "id": "a2_tech_001",
@@ -183,6 +183,274 @@
       "explanation": "'L'écran fissuré' = cracked screen. Device damage vocabulary.",
       "grammar_points": ["device_problems", "laptop_vocabulary", "damage_descriptions"],
       "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_021",
+      "english": "I share files through cloud storage.",
+      "correctFrench": ["Je", "partage", "des", "fichiers", "via", "le", "stockage", "cloud"],
+      "wordOptions": ["Je", "partage", "des", "fichiers", "via", "le", "stockage", "cloud", "par", "nuage", "documents"],
+      "explanation": "'Partager via' = to share through. Cloud storage vocabulary.",
+      "grammar_points": ["file_sharing", "cloud_technology", "modern_storage"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_tech_022",
+      "english": "The app crashed during the update.",
+      "correctFrench": ["L'application", "a", "planté", "pendant", "la", "mise", "à", "jour"],
+      "wordOptions": ["L'application", "a", "planté", "pendant", "la", "mise", "à", "jour", "durant", "installation", "s'est"],
+      "explanation": "Passé composé: a planté. 'Pendant la mise à jour' = during the update.",
+      "grammar_points": ["passe_compose", "app_problems", "software_updates"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_tech_023",
+      "english": "She follows tech news online.",
+      "correctFrench": ["Elle", "suit", "l'actualité", "technologique", "en", "ligne"],
+      "wordOptions": ["Elle", "suit", "l'actualité", "technologique", "en", "ligne", "nouvelles", "informations", "sur", "internet"],
+      "explanation": "'Suivre l'actualité' = to follow news. Technology news vocabulary.",
+      "grammar_points": ["news_vocabulary", "technology_trends", "online_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_024",
+      "english": "The battery indicator shows twenty percent.",
+      "correctFrench": ["L'indicateur", "de", "batterie", "indique", "vingt", "pour", "cent"],
+      "wordOptions": ["L'indicateur", "de", "batterie", "indique", "vingt", "pour", "cent", "affiche", "montre", "pourcentage"],
+      "explanation": "'L'indicateur indique' = indicator shows. Percentage expressions.",
+      "grammar_points": ["battery_vocabulary", "percentage_expressions", "device_indicators"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_025",
+      "english": "I create presentations with PowerPoint.",
+      "correctFrench": ["Je", "crée", "des", "présentations", "avec", "PowerPoint"],
+      "wordOptions": ["Je", "crée", "des", "présentations", "avec", "PowerPoint", "fais", "diaporamas", "slides", "Keynote"],
+      "explanation": "'Créer des présentations' = to create presentations. Office software.",
+      "grammar_points": ["office_software", "presentation_vocabulary", "creative_technology"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_026",
+      "english": "The screen resolution is very high.",
+      "correctFrench": ["La", "résolution", "de", "l'écran", "est", "très", "haute"],
+      "wordOptions": ["La", "résolution", "de", "l'écran", "est", "très", "haute", "qualité", "basse", "élevée", "faible"],
+      "explanation": "'La résolution haute' = high resolution. Display quality vocabulary.",
+      "grammar_points": ["display_technology", "quality_adjectives", "technical_specifications"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_027",
+      "english": "We attend online conferences regularly.",
+      "correctFrench": ["Nous", "assistons", "à", "des", "conférences", "en", "ligne", "régulièrement"],
+      "wordOptions": ["Nous", "assistons", "à", "des", "conférences", "en", "ligne", "régulièrement", "participons", "webinaires"],
+      "explanation": "'Assister à des conférences' = to attend conferences. Online events.",
+      "grammar_points": ["online_events", "virtual_meetings", "frequency_adverbs"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_tech_028",
+      "english": "The keyboard keys are sticky.",
+      "correctFrench": ["Les", "touches", "du", "clavier", "collent"],
+      "wordOptions": ["Les", "touches", "du", "clavier", "collent", "sont", "collantes", "bloquées", "défectueuses"],
+      "explanation": "'Les touches collent' = keys are sticky. Keyboard problems.",
+      "grammar_points": ["keyboard_vocabulary", "device_problems", "adjective_descriptions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_029",
+      "english": "I sync my data across devices.",
+      "correctFrench": ["Je", "synchronise", "mes", "données", "entre", "appareils"],
+      "wordOptions": ["Je", "synchronise", "mes", "données", "entre", "appareils", "sur", "tous", "les", "dispositifs"],
+      "explanation": "'Synchroniser entre appareils' = to sync across devices. Data management.",
+      "grammar_points": ["data_synchronization", "multi_device", "modern_computing"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_tech_030",
+      "english": "She edits photos on her tablet.",
+      "correctFrench": ["Elle", "modifie", "des", "photos", "sur", "sa", "tablette"],
+      "wordOptions": ["Elle", "modifie", "des", "photos", "sur", "sa", "tablette", "retouche", "édite", "iPad"],
+      "explanation": "'Modifier des photos' = to edit photos. Digital photography.",
+      "grammar_points": ["photo_editing", "tablet_usage", "creative_apps"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_031",
+      "english": "The router needs to be reset.",
+      "correctFrench": ["Le", "routeur", "doit", "être", "redémarré"],
+      "wordOptions": ["Le", "routeur", "doit", "être", "redémarré", "box", "internet", "réinitialisé", "remis", "zéro"],
+      "explanation": "'Devoir être redémarré' = needs to be reset. Network equipment.",
+      "grammar_points": ["network_equipment", "passive_voice", "troubleshooting"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_tech_032",
+      "english": "I subscribe to digital magazines.",
+      "correctFrench": ["Je", "m'abonne", "à", "des", "magazines", "numériques"],
+      "wordOptions": ["Je", "m'abonne", "à", "des", "magazines", "numériques", "suis", "abonné", "journaux", "digitaux"],
+      "explanation": "'S'abonner à' = to subscribe to. Digital publications.",
+      "grammar_points": ["digital_media", "subscription_services", "reflexive_verbs"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_033",
+      "english": "The hard drive is almost full.",
+      "correctFrench": ["Le", "disque", "dur", "est", "presque", "plein"],
+      "wordOptions": ["Le", "disque", "dur", "est", "presque", "plein", "saturé", "vide", "stockage"],
+      "explanation": "'Le disque dur plein' = hard drive full. Storage capacity.",
+      "grammar_points": ["storage_vocabulary", "capacity_expressions", "computer_hardware"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_034",
+      "english": "We use video editing software.",
+      "correctFrench": ["Nous", "utilisons", "un", "logiciel", "de", "montage", "vidéo"],
+      "wordOptions": ["Nous", "utilisons", "un", "logiciel", "de", "montage", "vidéo", "programme", "édition", "film"],
+      "explanation": "'Un logiciel de montage vidéo' = video editing software. Creative tools.",
+      "grammar_points": ["video_editing", "software_vocabulary", "creative_technology"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_tech_035",
+      "english": "The mouse cursor disappears sometimes.",
+      "correctFrench": ["Le", "curseur", "de", "la", "souris", "disparaît", "parfois"],
+      "wordOptions": ["Le", "curseur", "de", "la", "souris", "disparaît", "parfois", "pointeur", "quelquefois", "souvent"],
+      "explanation": "'Le curseur disparaît' = cursor disappears. Mouse problems.",
+      "grammar_points": ["mouse_vocabulary", "computer_problems", "frequency_adverbs"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_036",
+      "english": "I delete old files to free space.",
+      "correctFrench": ["Je", "supprime", "de", "vieux", "fichiers", "pour", "libérer", "de", "l'espace"],
+      "wordOptions": ["Je", "supprime", "de", "vieux", "fichiers", "pour", "libérer", "de", "l'espace", "anciens", "place"],
+      "explanation": "'Supprimer pour libérer' = delete to free. File management.",
+      "grammar_points": ["file_management", "purpose_expressions", "storage_optimization"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_tech_037",
+      "english": "She installs security updates automatically.",
+      "correctFrench": ["Elle", "installe", "les", "mises", "à", "jour", "de", "sécurité", "automatiquement"],
+      "wordOptions": ["Elle", "installe", "les", "mises", "à", "jour", "de", "sécurité", "automatiquement", "manuellement"],
+      "explanation": "'Les mises à jour de sécurité' = security updates. Automatic processes.",
+      "grammar_points": ["security_updates", "automatic_processes", "adverb_formation"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_tech_038",
+      "english": "The webcam quality is poor.",
+      "correctFrench": ["La", "qualité", "de", "la", "webcam", "est", "mauvaise"],
+      "wordOptions": ["La", "qualité", "de", "la", "webcam", "est", "mauvaise", "caméra", "bonne", "excellente", "médiocre"],
+      "explanation": "'La qualité mauvaise' = poor quality. Webcam assessment.",
+      "grammar_points": ["webcam_vocabulary", "quality_assessment", "adjective_agreement"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_039",
+      "english": "I connect my headphones via Bluetooth.",
+      "correctFrench": ["Je", "connecte", "mes", "écouteurs", "via", "Bluetooth"],
+      "wordOptions": ["Je", "connecte", "mes", "écouteurs", "via", "Bluetooth", "par", "casque", "sans", "fil"],
+      "explanation": "'Connecter via Bluetooth' = connect via Bluetooth. Wireless connections.",
+      "grammar_points": ["wireless_technology", "audio_devices", "connection_methods"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_040",
+      "english": "The server is down for maintenance.",
+      "correctFrench": ["Le", "serveur", "est", "en", "panne", "pour", "maintenance"],
+      "wordOptions": ["Le", "serveur", "est", "en", "panne", "pour", "maintenance", "arrêté", "réparation", "entretien"],
+      "explanation": "'En panne pour maintenance' = down for maintenance. Server status.",
+      "grammar_points": ["server_vocabulary", "maintenance_expressions", "technical_downtime"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_tech_041",
+      "english": "We compress files before sending them.",
+      "correctFrench": ["Nous", "compressons", "les", "fichiers", "avant", "de", "les", "envoyer"],
+      "wordOptions": ["Nous", "compressons", "les", "fichiers", "avant", "de", "les", "envoyer", "compactons", "après"],
+      "explanation": "'Compresser avant de' = compress before. File preparation.",
+      "grammar_points": ["file_compression", "temporal_expressions", "file_transfer"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_tech_042",
+      "english": "The smartphone overheats quickly.",
+      "correctFrench": ["Le", "smartphone", "surchauffe", "rapidement"],
+      "wordOptions": ["Le", "smartphone", "surchauffe", "rapidement", "téléphone", "chauffe", "lentement", "vite"],
+      "explanation": "'Surchauffer rapidement' = overheat quickly. Device problems.",
+      "grammar_points": ["device_problems", "overheating_vocabulary", "adverb_usage"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_043",
+      "english": "I customize my desktop background.",
+      "correctFrench": ["Je", "personnalise", "mon", "fond", "d'écran"],
+      "wordOptions": ["Je", "personnalise", "mon", "fond", "d'écran", "change", "modifie", "bureau", "wallpaper"],
+      "explanation": "'Personnaliser le fond d'écran' = customize desktop background.",
+      "grammar_points": ["desktop_customization", "personalization_vocabulary", "computer_interface"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_044",
+      "english": "She backs up important documents daily.",
+      "correctFrench": ["Elle", "sauvegarde", "les", "documents", "importants", "quotidiennement"],
+      "wordOptions": ["Elle", "sauvegarde", "les", "documents", "importants", "quotidiennement", "tous", "les", "jours"],
+      "explanation": "'Sauvegarder quotidiennement' = back up daily. Data protection habits.",
+      "grammar_points": ["data_backup", "frequency_adverbs", "important_documents"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_045",
+      "english": "The touchscreen responds poorly.",
+      "correctFrench": ["L'écran", "tactile", "répond", "mal"],
+      "wordOptions": ["L'écran", "tactile", "répond", "mal", "bien", "lentement", "parfaitement", "touch"],
+      "explanation": "'L'écran tactile répond mal' = touchscreen responds poorly.",
+      "grammar_points": ["touchscreen_vocabulary", "response_quality", "adverb_usage"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_046",
+      "english": "I learn programming through online tutorials.",
+      "correctFrench": ["J'apprends", "la", "programmation", "grâce", "aux", "tutoriels", "en", "ligne"],
+      "wordOptions": ["J'apprends", "la", "programmation", "grâce", "aux", "tutoriels", "en", "ligne", "via", "cours"],
+      "explanation": "'Apprendre grâce aux tutoriels' = learn through tutorials. Online learning.",
+      "grammar_points": ["programming_vocabulary", "online_learning", "tutorial_resources"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_tech_047",
+      "english": "The notification sound is annoying.",
+      "correctFrench": ["Le", "son", "de", "notification", "est", "agaçant"],
+      "wordOptions": ["Le", "son", "de", "notification", "est", "agaçant", "bruit", "alerte", "plaisant", "énervant"],
+      "explanation": "'Le son agaçant' = annoying sound. Notification settings.",
+      "grammar_points": ["notification_vocabulary", "sound_descriptions", "adjective_agreement"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_048",
+      "english": "We scan documents with our printer.",
+      "correctFrench": ["Nous", "scannons", "des", "documents", "avec", "notre", "imprimante"],
+      "wordOptions": ["Nous", "scannons", "des", "documents", "avec", "notre", "imprimante", "scanner", "numérisons"],
+      "explanation": "'Scanner avec l'imprimante' = scan with printer. Document digitization.",
+      "grammar_points": ["scanning_vocabulary", "office_equipment", "document_processing"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_049",
+      "english": "The GPS gives wrong directions.",
+      "correctFrench": ["Le", "GPS", "donne", "de", "mauvaises", "indications"],
+      "wordOptions": ["Le", "GPS", "donne", "de", "mauvaises", "indications", "fausses", "bonnes", "directions", "correctes"],
+      "explanation": "'Donner de mauvaises indications' = give wrong directions. GPS problems.",
+      "grammar_points": ["gps_vocabulary", "navigation_problems", "adjective_agreement"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_050",
+      "english": "I protect my computer with antivirus.",
+      "correctFrench": ["Je", "protège", "mon", "ordinateur", "avec", "un", "antivirus"],
+      "wordOptions": ["Je", "protège", "mon", "ordinateur", "avec", "un", "antivirus", "sécurise", "logiciel", "programme"],
+      "explanation": "'Protéger avec un antivirus' = protect with antivirus. Computer security.",
+      "grammar_points": ["computer_security", "protection_vocabulary", "antivirus_software"],
+      "difficulty": 2.3
     }
-  ]
-}

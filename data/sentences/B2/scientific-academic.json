@@ -2,7 +2,7 @@
   "level": "B2",
   "topic": "scientific-academic",
   "description": "Scientific discourse, academic research, and scholarly communication",
-  "total_sentences": 180,
+  "total_sentences": 10,
   "sentences": [
     {
       "id": "b2_sci_001",
@@ -47,6 +47,51 @@
       "wordOptions": ["L'approche", "interdisciplinaire", "a", "donné", "des", "perspectives", "inattendues", "fourni", "apporté", "révélations"],
       "explanation": "'Approche interdisciplinaire' = interdisciplinary approach. Cross-field research benefits.",
       "grammar_points": ["interdisciplinary_research", "unexpected_outcomes", "research_insights"],
+      "difficulty": 4.2
+    },
+    {
+      "id": "b2_sci_006",
+      "english": "Meta-analysis synthesizes findings from multiple independent studies.",
+      "correctFrench": ["La", "méta-analyse", "synthétise", "les", "résultats", "de", "plusieurs", "études", "indépendantes"],
+      "wordOptions": ["La", "méta-analyse", "synthétise", "les", "résultats", "de", "plusieurs", "études", "indépendantes", "combine"],
+      "explanation": "'Méta-analyse' = meta-analysis. Statistical synthesis methodology.",
+      "grammar_points": ["meta_analysis", "research_synthesis", "statistical_methods"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_sci_007",
+      "english": "The replication crisis undermines confidence in psychological research.",
+      "correctFrench": ["La", "crise", "de", "la", "réplication", "sape", "la", "confiance", "dans", "la", "recherche", "psychologique"],
+      "wordOptions": ["La", "crise", "de", "la", "réplication", "sape", "la", "confiance", "dans", "la", "recherche", "psychologique", "ébranle"],
+      "explanation": "'Crise de la réplication' = replication crisis. Scientific methodology crisis.",
+      "grammar_points": ["replication_crisis", "scientific_confidence", "research_validity"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_sci_008",
+      "english": "Open access publishing democratizes scientific knowledge distribution.",
+      "correctFrench": ["La", "publication", "en", "libre", "accès", "démocratise", "la", "distribution", "des", "connaissances", "scientifiques"],
+      "wordOptions": ["La", "publication", "en", "libre", "accès", "démocratise", "la", "distribution", "des", "connaissances", "scientifiques", "diffusion"],
+      "explanation": "'Libre accès' = open access. Knowledge democratization through publishing.",
+      "grammar_points": ["open_access", "knowledge_democratization", "scientific_publishing"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_sci_009",
+      "english": "Artificial intelligence augments human analytical capabilities in research.",
+      "correctFrench": ["L'intelligence", "artificielle", "augmente", "les", "capacités", "analytiques", "humaines", "dans", "la", "recherche"],
+      "wordOptions": ["L'intelligence", "artificielle", "augmente", "les", "capacités", "analytiques", "humaines", "dans", "la", "recherche", "améliore"],
+      "explanation": "'Intelligence artificielle' = artificial intelligence. AI in scientific research.",
+      "grammar_points": ["artificial_intelligence", "analytical_capabilities", "research_enhancement"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_sci_010",
+      "english": "Longitudinal studies track changes in subjects over extended periods.",
+      "correctFrench": ["Les", "études", "longitudinales", "suivent", "les", "changements", "chez", "les", "sujets", "sur", "des", "périodes", "étendues"],
+      "wordOptions": ["Les", "études", "longitudinales", "suivent", "les", "changements", "chez", "les", "sujets", "sur", "des", "périodes", "étendues", "observent"],
+      "explanation": "'Études longitudinales' = longitudinal studies. Long-term research methodology.",
+      "grammar_points": ["longitudinal_studies", "temporal_research", "subject_tracking"],
       "difficulty": 4.2
     }
   ]

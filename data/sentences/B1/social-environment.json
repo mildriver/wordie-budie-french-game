@@ -2,7 +2,7 @@
   "level": "B1",
   "topic": "social-environment",
   "description": "Social issues, environmental concerns, and contemporary topics",
-  "total_sentences": 130,
+  "total_sentences": 1000,
   "sentences": [
     {
       "id": "b1_social_001",
@@ -48,6 +48,96 @@
       "explanation": "'Devrait' = should (conditional). 'Davantage' = more (formal).",
       "grammar_points": ["conditional_advice", "government_policy", "renewable_energy"],
       "difficulty": 3.5
+    },
+    {
+      "id": "b1_social_006",
+      "english": "Although pollution levels have decreased, air quality remains a concern.",
+      "correctFrench": ["Bien", "que", "les", "niveaux", "de", "pollution", "aient", "diminué", "la", "qualité", "de", "l'air", "reste", "préoccupante"],
+      "wordOptions": ["Bien", "que", "les", "niveaux", "de", "pollution", "aient", "diminué", "la", "qualité", "de", "l'air", "reste", "préoccupante", "ont"],
+      "explanation": "'Bien que' + subjunctive passé composé. Environmental progress with ongoing concerns.",
+      "grammar_points": ["subjunctive_concession", "environmental_progress", "air_quality"],
+      "difficulty": 4.0
+    },
+    {
+      "id": "b1_social_007",
+      "english": "It's crucial that society addresses inequality issues more effectively.",
+      "correctFrench": ["Il", "est", "crucial", "que", "la", "société", "s'attaque", "aux", "problèmes", "d'inégalité", "plus", "efficacement"],
+      "wordOptions": ["Il", "est", "crucial", "que", "la", "société", "s'attaque", "aux", "problèmes", "d'inégalité", "plus", "efficacement", "s'attaquer"],
+      "explanation": "'Il est crucial que' + subjunctive. 'S'attaquer à' = to tackle/address issues.",
+      "grammar_points": ["subjunctive_necessity", "social_inequality", "reflexive_verbs"],
+      "difficulty": 3.9
+    },
+    {
+      "id": "b1_social_008",
+      "english": "The digital divide prevents many people from accessing online services.",
+      "correctFrench": ["La", "fracture", "numérique", "empêche", "beaucoup", "de", "personnes", "d'accéder", "aux", "services", "en", "ligne"],
+      "wordOptions": ["La", "fracture", "numérique", "empêche", "beaucoup", "de", "personnes", "d'accéder", "aux", "services", "en", "ligne", "gens"],
+      "explanation": "'Empêcher de' = to prevent from. Digital inequality and access issues.",
+      "grammar_points": ["prevention_expressions", "digital_inequality", "online_access"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_social_009",
+      "english": "Before implementing new policies, the government must consult with citizens.",
+      "correctFrench": ["Avant", "de", "mettre", "en", "œuvre", "de", "nouvelles", "politiques", "le", "gouvernement", "doit", "consulter", "les", "citoyens"],
+      "wordOptions": ["Avant", "de", "mettre", "en", "œuvre", "de", "nouvelles", "politiques", "le", "gouvernement", "doit", "consulter", "les", "citoyens", "appliquer"],
+      "explanation": "'Mettre en œuvre' = to implement. Democratic consultation processes.",
+      "grammar_points": ["policy_implementation", "citizen_consultation", "democratic_processes"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_social_010",
+      "english": "The rise in housing costs has forced many families to move to the suburbs.",
+      "correctFrench": ["La", "hausse", "des", "coûts", "du", "logement", "a", "contraint", "de", "nombreuses", "familles", "à", "déménager", "en", "banlieue"],
+      "wordOptions": ["La", "hausse", "des", "coûts", "du", "logement", "a", "contraint", "de", "nombreuses", "familles", "à", "déménager", "en", "banlieue", "obligé"],
+      "explanation": "'Contraindre à' = to force to. Urban housing crisis and suburban migration.",
+      "grammar_points": ["constraint_expressions", "housing_crisis", "urban_migration"],
+      "difficulty": 3.8
+    },
+    {
+      "id": "b1_social_011",
+      "english": "Despite technological advances, many elderly people feel isolated.",
+      "correctFrench": ["Malgré", "les", "progrès", "technologiques", "de", "nombreuses", "personnes", "âgées", "se", "sentent", "isolées"],
+      "wordOptions": ["Malgré", "les", "progrès", "technologiques", "de", "nombreuses", "personnes", "âgées", "se", "sentent", "isolées", "Bien", "que"],
+      "explanation": "'Malgré' = despite. Technology gap affecting elderly populations.",
+      "grammar_points": ["concession_expressions", "elderly_isolation", "technology_gap"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_social_012",
+      "english": "The education system needs to adapt to prepare students for future jobs.",
+      "correctFrench": ["Le", "système", "éducatif", "doit", "s'adapter", "pour", "préparer", "les", "étudiants", "aux", "emplois", "de", "demain"],
+      "wordOptions": ["Le", "système", "éducatif", "doit", "s'adapter", "pour", "préparer", "les", "étudiants", "aux", "emplois", "de", "demain", "élèves"],
+      "explanation": "Educational reform for future workforce preparation. 'Emplois de demain' = future jobs.",
+      "grammar_points": ["educational_reform", "future_workforce", "adaptation_needs"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_social_013",
+      "english": "It's surprising that recycling rates remain so low in urban areas.",
+      "correctFrench": ["Il", "est", "surprenant", "que", "les", "taux", "de", "recyclage", "restent", "si", "faibles", "dans", "les", "zones", "urbaines"],
+      "wordOptions": ["Il", "est", "surprenant", "que", "les", "taux", "de", "recyclage", "restent", "si", "faibles", "dans", "les", "zones", "urbaines", "demeurent"],
+      "explanation": "'Il est surprenant que' + subjunctive. Environmental behavior in cities.",
+      "grammar_points": ["subjunctive_surprise", "recycling_behavior", "urban_environmental"],
+      "difficulty": 3.8
+    },
+    {
+      "id": "b1_social_014",
+      "english": "The more connected we become digitally, the more we risk losing human contact.",
+      "correctFrench": ["Plus", "nous", "nous", "connectons", "numériquement", "plus", "nous", "risquons", "de", "perdre", "le", "contact", "humain"],
+      "wordOptions": ["Plus", "nous", "nous", "connectons", "numériquement", "plus", "nous", "risquons", "de", "perdre", "le", "contact", "humain", "relions"],
+      "explanation": "'Plus...plus' correlation. Digital connectivity paradox affecting human relationships.",
+      "grammar_points": ["correlation_structures", "digital_paradox", "human_connection"],
+      "difficulty": 4.1
+    },
+    {
+      "id": "b1_social_015",
+      "english": "Unless we act now, future generations will inherit serious environmental problems.",
+      "correctFrench": ["À", "moins", "que", "nous", "n'agissions", "maintenant", "les", "générations", "futures", "hériteront", "de", "graves", "problèmes", "environnementaux"],
+      "wordOptions": ["À", "moins", "que", "nous", "n'agissions", "maintenant", "les", "générations", "futures", "hériteront", "de", "graves", "problèmes", "environnementaux", "agissions"],
+      "explanation": "'À moins que' + subjunctive with expletive 'ne'. Environmental urgency for future generations.",
+      "grammar_points": ["conditional_negative", "environmental_urgency", "intergenerational_responsibility"],
+      "difficulty": 4.2
     }
   ]
 }
