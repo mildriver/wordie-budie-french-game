@@ -1,1 +1,188 @@
-{"level":"B1","topic":"opinions","sentences":[]} 
+{
+  "level": "B1",
+  "topic": "opinions",
+  "description": "Expressing opinions, agreeing, disagreeing, and giving personal views",
+  "total_sentences": 130,
+  "sentences": [
+    {
+      "id": "b1_opinions_001",
+      "english": "In my opinion, this movie is overrated.",
+      "correctFrench": ["À", "mon", "avis", "ce", "film", "est", "surévalué"],
+      "wordOptions": ["À", "mon", "avis", "ce", "film", "est", "surévalué", "selon", "moi", "sous-évalué"],
+      "explanation": "'À mon avis' = in my opinion. 'Surévalué' = overrated. Opinion expressions.",
+      "grammar_points": ["opinion_expressions", "film_criticism", "evaluation_vocabulary"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_opinions_002",
+      "english": "I believe that education should be free for everyone.",
+      "correctFrench": ["Je", "crois", "que", "l'éducation", "devrait", "être", "gratuite", "pour", "tous"],
+      "wordOptions": ["Je", "crois", "que", "l'éducation", "devrait", "être", "gratuite", "pour", "tous", "pense", "doit"],
+      "explanation": "'Je crois que' = I believe that. 'Devrait être' = should be (conditional).",
+      "grammar_points": ["belief_expressions", "conditional_mood", "education_policy"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_opinions_003",
+      "english": "I completely agree with your point of view.",
+      "correctFrench": ["Je", "suis", "tout", "à", "fait", "d'accord", "avec", "votre", "point", "de", "vue"],
+      "wordOptions": ["Je", "suis", "tout", "à", "fait", "d'accord", "avec", "votre", "point", "de", "vue", "ton", "opinion"],
+      "explanation": "'Tout à fait d'accord avec' = completely agree with. Strong agreement expression.",
+      "grammar_points": ["agreement_expressions", "intensity_adverbs", "formal_register"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_opinions_004",
+      "english": "On the contrary, I think it's a great idea.",
+      "correctFrench": ["Au", "contraire", "je", "pense", "que", "c'est", "une", "excellente", "idée"],
+      "wordOptions": ["Au", "contraire", "je", "pense", "que", "c'est", "une", "excellente", "idée", "bonne", "mauvaise"],
+      "explanation": "'Au contraire' = on the contrary. Expressing disagreement and counter-opinion.",
+      "grammar_points": ["disagreement_expressions", "contrast_connectors", "opinion_reversal"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_opinions_005",
+      "english": "From my perspective, social media has both advantages and disadvantages.",
+      "correctFrench": ["De", "mon", "point", "de", "vue", "les", "réseaux", "sociaux", "ont", "des", "avantages", "et", "des", "inconvénients"],
+      "wordOptions": ["De", "mon", "point", "de", "vue", "les", "réseaux", "sociaux", "ont", "des", "avantages", "et", "des", "inconvénients", "bénéfices"],
+      "explanation": "'De mon point de vue' = from my perspective. Balanced opinion expression.",
+      "grammar_points": ["perspective_expressions", "social_media", "balanced_opinions"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_opinions_006",
+      "english": "I'm not convinced that this solution will work.",
+      "correctFrench": ["Je", "ne", "suis", "pas", "convaincu", "que", "cette", "solution", "marchera"],
+      "wordOptions": ["Je", "ne", "suis", "pas", "convaincu", "que", "cette", "solution", "marchera", "convaincue", "fonctionnera"],
+      "explanation": "'Ne pas être convaincu que' = not convinced that. Doubt expression.",
+      "grammar_points": ["doubt_expressions", "skepticism", "problem_solving"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_opinions_007",
+      "english": "It seems to me that people are becoming more isolated.",
+      "correctFrench": ["Il", "me", "semble", "que", "les", "gens", "deviennent", "plus", "isolés"],
+      "wordOptions": ["Il", "me", "semble", "que", "les", "gens", "deviennent", "plus", "isolés", "personnes", "solitaires"],
+      "explanation": "'Il me semble que' = it seems to me that. Tentative opinion expression.",
+      "grammar_points": ["tentative_opinions", "social_observations", "gradual_change"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_opinions_008",
+      "english": "I have mixed feelings about this proposal.",
+      "correctFrench": ["J'ai", "des", "sentiments", "mitigés", "concernant", "cette", "proposition"],
+      "wordOptions": ["J'ai", "des", "sentiments", "mitigés", "concernant", "cette", "proposition", "à", "propos", "de", "sur"],
+      "explanation": "'Avoir des sentiments mitigés' = to have mixed feelings. Ambivalent opinions.",
+      "grammar_points": ["ambivalent_opinions", "emotional_expressions", "formal_vocabulary"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_opinions_009",
+      "english": "As far as I'm concerned, quality is more important than quantity.",
+      "correctFrench": ["En", "ce", "qui", "me", "concerne", "la", "qualité", "est", "plus", "importante", "que", "la", "quantité"],
+      "wordOptions": ["En", "ce", "qui", "me", "concerne", "la", "qualité", "est", "plus", "importante", "que", "la", "quantité", "Pour", "moi"],
+      "explanation": "'En ce qui me concerne' = as far as I'm concerned. Personal stance expression.",
+      "grammar_points": ["personal_stance", "comparative_expressions", "value_judgments"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_opinions_010",
+      "english": "I strongly disagree with this decision.",
+      "correctFrench": ["Je", "ne", "suis", "absolument", "pas", "d'accord", "avec", "cette", "décision"],
+      "wordOptions": ["Je", "ne", "suis", "absolument", "pas", "d'accord", "avec", "cette", "décision", "totalement", "complètement"],
+      "explanation": "'Absolument pas d'accord' = strongly disagree. Emphatic disagreement.",
+      "grammar_points": ["strong_disagreement", "emphatic_expressions", "decision_criticism"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_opinions_011",
+      "english": "To be honest, I don't see the point of this meeting.",
+      "correctFrench": ["Pour", "être", "honnête", "je", "ne", "vois", "pas", "l'intérêt", "de", "cette", "réunion"],
+      "wordOptions": ["Pour", "être", "honnête", "je", "ne", "vois", "pas", "l'intérêt", "de", "cette", "réunion", "utilité"],
+      "explanation": "'Pour être honnête' = to be honest. Introducing candid opinion.",
+      "grammar_points": ["honesty_expressions", "business_criticism", "meeting_evaluation"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_opinions_012",
+      "english": "I'm torn between these two options.",
+      "correctFrench": ["Je", "suis", "partagé", "entre", "ces", "deux", "options"],
+      "wordOptions": ["Je", "suis", "partagé", "entre", "ces", "deux", "options", "partagée", "choix", "possibilités"],
+      "explanation": "'Être partagé entre' = to be torn between. Difficulty choosing.",
+      "grammar_points": ["indecision_expressions", "choice_difficulty", "emotional_conflict"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_opinions_013",
+      "english": "That's a fair point, but I still have my doubts.",
+      "correctFrench": ["C'est", "un", "argument", "valable", "mais", "j'ai", "encore", "des", "doutes"],
+      "wordOptions": ["C'est", "un", "argument", "valable", "mais", "j'ai", "encore", "des", "doutes", "point", "toujours"],
+      "explanation": "'Argument valable' = fair point. Acknowledging validity while maintaining doubt.",
+      "grammar_points": ["partial_agreement", "doubt_maintenance", "argument_evaluation"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_opinions_014",
+      "english": "I would argue that technology makes life easier.",
+      "correctFrench": ["Je", "soutiendrais", "que", "la", "technologie", "facilite", "la", "vie"],
+      "wordOptions": ["Je", "soutiendrais", "que", "la", "technologie", "facilite", "la", "vie", "dirais", "rend", "plus", "simple"],
+      "explanation": "'Soutenir que' = to argue that. Making a reasoned argument.",
+      "grammar_points": ["argumentation", "conditional_politeness", "technology_benefits"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_opinions_015",
+      "english": "Personally, I find this approach too complicated.",
+      "correctFrench": ["Personnellement", "je", "trouve", "cette", "approche", "trop", "compliquée"],
+      "wordOptions": ["Personnellement", "je", "trouve", "cette", "approche", "trop", "compliquée", "méthode", "difficile", "complexe"],
+      "explanation": "'Personnellement' = personally. 'Trouver + adjective' = to find + adjective.",
+      "grammar_points": ["personal_opinions", "evaluation_verbs", "complexity_judgment"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_opinions_016",
+      "english": "I'm inclined to think that he's right.",
+      "correctFrench": ["J'ai", "tendance", "à", "penser", "qu'il", "a", "raison"],
+      "wordOptions": ["J'ai", "tendance", "à", "penser", "qu'il", "a", "raison", "croire", "tort", "penche"],
+      "explanation": "'Avoir tendance à penser' = to be inclined to think. Tentative agreement.",
+      "grammar_points": ["tentative_agreement", "inclination_expressions", "reasonableness"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_opinions_017",
+      "english": "Without a doubt, this is the best solution.",
+      "correctFrench": ["Sans", "aucun", "doute", "c'est", "la", "meilleure", "solution"],
+      "wordOptions": ["Sans", "aucun", "doute", "c'est", "la", "meilleure", "solution", "nul", "doute", "optimal"],
+      "explanation": "'Sans aucun doute' = without a doubt. Strong conviction expression.",
+      "grammar_points": ["strong_conviction", "certainty_expressions", "solution_evaluation"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_opinions_018",
+      "english": "I have reservations about this plan.",
+      "correctFrench": ["J'ai", "des", "réserves", "sur", "ce", "plan"],
+      "wordOptions": ["J'ai", "des", "réserves", "sur", "ce", "plan", "concernant", "à", "propos", "de", "projet"],
+      "explanation": "'Avoir des réserves sur' = to have reservations about. Cautious opposition.",
+      "grammar_points": ["cautious_opposition", "business_vocabulary", "plan_evaluation"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_opinions_019",
+      "english": "It's my understanding that this won't work.",
+      "correctFrench": ["D'après", "ce", "que", "je", "comprends", "cela", "ne", "marchera", "pas"],
+      "wordOptions": ["D'après", "ce", "que", "je", "comprends", "cela", "ne", "marchera", "pas", "fonctionnera", "réussira"],
+      "explanation": "'D'après ce que je comprends' = it's my understanding that. Informed opinion.",
+      "grammar_points": ["informed_opinions", "understanding_expressions", "prediction_failure"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_opinions_020",
+      "english": "I'm absolutely certain that this is correct.",
+      "correctFrench": ["Je", "suis", "absolument", "certain", "que", "c'est", "correct"],
+      "wordOptions": ["Je", "suis", "absolument", "certain", "que", "c'est", "correct", "certaine", "sûr", "sûre", "exact"],
+      "explanation": "'Absolument certain que' = absolutely certain that. Maximum confidence.",
+      "grammar_points": ["maximum_confidence", "certainty_degrees", "accuracy_judgment"],
+      "difficulty": 3.1
+    }
+  ]
+}

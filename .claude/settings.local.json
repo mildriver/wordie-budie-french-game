@@ -18,7 +18,8 @@
       "Read(//c/Users/Minsoo/Desktop/Invest Bot/**)",
       "Read(//c/Users/Minsoo/Desktop/**)",
       "Bash(del:*)",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []

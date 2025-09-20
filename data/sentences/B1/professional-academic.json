@@ -1,0 +1,53 @@
+{
+  "level": "B1",
+  "topic": "professional-academic",
+  "description": "Professional and academic contexts, formal communication, and career development",
+  "total_sentences": 120,
+  "sentences": [
+    {
+      "id": "b1_prof_001",
+      "english": "I would like to apply for the position of marketing manager.",
+      "correctFrench": ["J'aimerais", "postuler", "pour", "le", "poste", "de", "directeur", "marketing"],
+      "wordOptions": ["J'aimerais", "postuler", "pour", "le", "poste", "de", "directeur", "marketing", "candidater", "à"],
+      "explanation": "'Postuler pour' = to apply for. Professional application vocabulary.",
+      "grammar_points": ["job_applications", "professional_titles", "formal_requests"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_prof_002",
+      "english": "The candidate who has the most experience will be selected.",
+      "correctFrench": ["Le", "candidat", "qui", "a", "le", "plus", "d'expérience", "sera", "sélectionné"],
+      "wordOptions": ["Le", "candidat", "qui", "a", "le", "plus", "d'expérience", "sera", "sélectionné", "choisi", "retenu"],
+      "explanation": "'Qui a le plus de' = who has the most. Selection criteria.",
+      "grammar_points": ["relative_pronouns", "superlative_expressions", "selection_process"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_prof_003",
+      "english": "It's crucial that all reports be submitted on time.",
+      "correctFrench": ["Il", "est", "crucial", "que", "tous", "les", "rapports", "soient", "remis", "à", "temps"],
+      "wordOptions": ["Il", "est", "crucial", "que", "tous", "les", "rapports", "soient", "remis", "à", "temps", "sont"],
+      "explanation": "'Il est crucial que' + subjunctive. Work deadline importance.",
+      "grammar_points": ["subjunctive_necessity", "report_submission", "deadline_management"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_prof_004",
+      "english": "Having graduated with honors, she easily found employment.",
+      "correctFrench": ["Ayant", "obtenu", "son", "diplôme", "avec", "mention", "elle", "a", "facilement", "trouvé", "un", "emploi"],
+      "wordOptions": ["Ayant", "obtenu", "son", "diplôme", "avec", "mention", "elle", "a", "facilement", "trouvé", "un", "emploi", "Après"],
+      "explanation": "Participe présent composé. Academic achievement leading to employment.",
+      "grammar_points": ["participe_present", "academic_achievement", "job_searching"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_prof_005",
+      "english": "The meeting has been postponed until further notice.",
+      "correctFrench": ["La", "réunion", "a", "été", "reportée", "jusqu'à", "nouvel", "ordre"],
+      "wordOptions": ["La", "réunion", "a", "été", "reportée", "jusqu'à", "nouvel", "ordre", "remise", "annulée"],
+      "explanation": "Passive voice for business postponement. 'Jusqu'à nouvel ordre' = until further notice.",
+      "grammar_points": ["passive_voice", "business_postponement", "formal_announcements"],
+      "difficulty": 3.4
+    }
+  ]
+}

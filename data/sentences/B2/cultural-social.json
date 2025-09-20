@@ -1,0 +1,53 @@
+{
+  "level": "B2",
+  "topic": "cultural-social",
+  "description": "Cultural analysis, social phenomena, and sophisticated societal discourse",
+  "total_sentences": 170,
+  "sentences": [
+    {
+      "id": "b2_cultural_001",
+      "english": "The phenomenon of cultural appropriation has sparked widespread debate.",
+      "correctFrench": ["Le", "phénomène", "d'appropriation", "culturelle", "a", "déclenché", "un", "débat", "généralisé"],
+      "wordOptions": ["Le", "phénomène", "d'appropriation", "culturelle", "a", "déclenché", "un", "débat", "généralisé", "suscité", "provoqué"],
+      "explanation": "'Appropriation culturelle' = cultural appropriation. Contemporary social debate.",
+      "grammar_points": ["cultural_phenomena", "social_debate", "contemporary_issues"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_cultural_002",
+      "english": "Globalization has both homogenized and fragmented cultural identities.",
+      "correctFrench": ["La", "mondialisation", "a", "à", "la", "fois", "homogénéisé", "et", "fragmenté", "les", "identités", "culturelles"],
+      "wordOptions": ["La", "mondialisation", "a", "à", "la", "fois", "homogénéisé", "et", "fragmenté", "les", "identités", "culturelles", "unifié"],
+      "explanation": "'À la fois...et' = both...and. Dual effects of globalization on culture.",
+      "grammar_points": ["globalization_effects", "cultural_identity", "paradoxical_outcomes"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_cultural_003",
+      "english": "The digital divide perpetuates existing social inequalities.",
+      "correctFrench": ["La", "fracture", "numérique", "perpétue", "les", "inégalités", "sociales", "existantes"],
+      "wordOptions": ["La", "fracture", "numérique", "perpétue", "les", "inégalités", "sociales", "existantes", "maintient", "renforce"],
+      "explanation": "'Fracture numérique' = digital divide. Technology's role in social stratification.",
+      "grammar_points": ["digital_inequality", "social_stratification", "technology_impact"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_cultural_004",
+      "english": "The commodification of culture raises ethical concerns about authenticity.",
+      "correctFrench": ["La", "marchandisation", "de", "la", "culture", "soulève", "des", "préoccupations", "éthiques", "concernant", "l'authenticité"],
+      "wordOptions": ["La", "marchandisation", "de", "la", "culture", "soulève", "des", "préoccupations", "éthiques", "concernant", "l'authenticité", "commercialisation"],
+      "explanation": "'Marchandisation' = commodification. Ethical implications of cultural commercialization.",
+      "grammar_points": ["cultural_commodification", "ethical_concerns", "authenticity_questions"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_cultural_005",
+      "english": "Intergenerational transmission of values faces unprecedented challenges.",
+      "correctFrench": ["La", "transmission", "intergénérationnelle", "des", "valeurs", "fait", "face", "à", "des", "défis", "sans", "précédent"],
+      "wordOptions": ["La", "transmission", "intergénérationnelle", "des", "valeurs", "fait", "face", "à", "des", "défis", "sans", "précédent", "rencontre"],
+      "explanation": "'Transmission intergénérationnelle' = intergenerational transmission. Family and social continuity challenges.",
+      "grammar_points": ["intergenerational_relations", "value_transmission", "social_challenges"],
+      "difficulty": 4.5
+    }
+  ]
+}

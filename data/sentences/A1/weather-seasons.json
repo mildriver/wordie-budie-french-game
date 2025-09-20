@@ -1,0 +1,188 @@
+{
+  "level": "A1",
+  "topic": "weather-seasons",
+  "description": "Weather conditions, seasons, and climate vocabulary",
+  "total_sentences": 70,
+  "sentences": [
+    {
+      "id": "a1_weather_001",
+      "english": "It is sunny today.",
+      "correctFrench": ["Il", "fait", "beau", "aujourd'hui"],
+      "wordOptions": ["Il", "fait", "beau", "aujourd'hui", "Il", "y", "a", "soleil", "chaud", "du", "hier", "demain"],
+      "explanation": "'Il fait beau' = it's nice weather. 'Aujourd'hui' = today.",
+      "grammar_points": ["weather_expressions", "time_expressions"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_weather_002",
+      "english": "It is raining a lot.",
+      "correctFrench": ["Il", "pleut", "beaucoup"],
+      "wordOptions": ["Il", "pleut", "beaucoup", "pleuvoir", "pluit", "très", "peu", "un", "peu", "fort"],
+      "explanation": "'Il pleut' = it's raining (impersonal verb). 'Beaucoup' = a lot.",
+      "grammar_points": ["weather_verbs", "quantity_expressions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_003",
+      "english": "Winter is cold.",
+      "correctFrench": ["L'hiver", "est", "froid"],
+      "wordOptions": ["L'hiver", "est", "froid", "Le", "hiver", "froide", "chaud", "printemps", "été", "automne"],
+      "explanation": "'L'hiver' = winter (masculine). 'Froid' = cold (masculine adjective).",
+      "grammar_points": ["seasons_vocabulary", "temperature_adjectives"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_weather_004",
+      "english": "The wind is strong.",
+      "correctFrench": ["Le", "vent", "est", "fort"],
+      "wordOptions": ["Le", "vent", "est", "fort", "La", "venteux", "forte", "faible", "léger", "violent"],
+      "explanation": "'Le vent' = wind (masculine). 'Fort' = strong (masculine adjective).",
+      "grammar_points": ["weather_vocabulary", "intensity_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_weather_005",
+      "english": "I like spring flowers.",
+      "correctFrench": ["J'aime", "les", "fleurs", "du", "printemps"],
+      "wordOptions": ["J'aime", "les", "fleurs", "du", "printemps", "de", "la", "le", "été", "automne", "hiver"],
+      "explanation": "'Les fleurs du printemps' = spring flowers. 'Du' = de + le (contraction).",
+      "grammar_points": ["seasons_vocabulary", "nature_vocabulary", "contracted_articles"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_006",
+      "english": "It snows in December.",
+      "correctFrench": ["Il", "neige", "en", "décembre"],
+      "wordOptions": ["Il", "neige", "en", "décembre", "au", "janvier", "février", "novembre", "mars", "avril"],
+      "explanation": "'Il neige' = it snows. 'En décembre' = in December (months use 'en').",
+      "grammar_points": ["weather_verbs", "months", "time_prepositions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_007",
+      "english": "Summer is very hot.",
+      "correctFrench": ["L'été", "est", "très", "chaud"],
+      "wordOptions": ["L'été", "est", "très", "chaud", "Le", "été", "chaude", "froid", "assez", "plutôt"],
+      "explanation": "'L'été' = summer (masculine). 'Très chaud' = very hot. Intensifier + adjective.",
+      "grammar_points": ["seasons_vocabulary", "intensifiers", "temperature_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_weather_008",
+      "english": "The sky is cloudy.",
+      "correctFrench": ["Le", "ciel", "est", "nuageux"],
+      "wordOptions": ["Le", "ciel", "est", "nuageux", "La", "nuageuse", "bleu", "gris", "clair", "sombre"],
+      "explanation": "'Le ciel' = sky (masculine). 'Nuageux' = cloudy (masculine adjective).",
+      "grammar_points": ["weather_vocabulary", "sky_conditions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_009",
+      "english": "I need an umbrella.",
+      "correctFrench": ["J'ai", "besoin", "d'un", "parapluie"],
+      "wordOptions": ["J'ai", "besoin", "d'un", "parapluie", "une", "de", "imperméable", "veste", "manteau"],
+      "explanation": "'Avoir besoin de' = to need. 'Un parapluie' = umbrella (masculine).",
+      "grammar_points": ["expressing_need", "weather_accessories"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_010",
+      "english": "Autumn leaves are beautiful.",
+      "correctFrench": ["Les", "feuilles", "d'automne", "sont", "belles"],
+      "wordOptions": ["Les", "feuilles", "d'automne", "sont", "belles", "La", "feuille", "belle", "jaunes", "rouges"],
+      "explanation": "'Les feuilles d'automne' = autumn leaves. 'Belles' (feminine plural adjective).",
+      "grammar_points": ["seasons_vocabulary", "nature_vocabulary", "beauty_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_011",
+      "english": "It is foggy this morning.",
+      "correctFrench": ["Il", "y", "a", "du", "brouillard", "ce", "matin"],
+      "wordOptions": ["Il", "y", "a", "du", "brouillard", "ce", "matin", "de", "la", "le", "soir", "après-midi"],
+      "explanation": "'Il y a du brouillard' = it's foggy. 'Ce matin' = this morning.",
+      "grammar_points": ["weather_expressions", "time_expressions", "partitive_articles"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_012",
+      "english": "The temperature is 20 degrees.",
+      "correctFrench": ["La", "température", "est", "de", "20", "degrés"],
+      "wordOptions": ["La", "température", "est", "de", "20", "degrés", "à", "degré", "chaud", "froid", "celsius"],
+      "explanation": "'La température est de' = the temperature is. Numbers with temperature.",
+      "grammar_points": ["temperature_vocabulary", "numbers", "measurement"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_013",
+      "english": "I wear sunglasses when it's sunny.",
+      "correctFrench": ["Je", "porte", "des", "lunettes", "de", "soleil", "quand", "il", "fait", "beau"],
+      "wordOptions": ["Je", "porte", "des", "lunettes", "de", "soleil", "quand", "il", "fait", "beau", "si", "lorsque"],
+      "explanation": "'Des lunettes de soleil' = sunglasses. 'Quand' = when (temporal clause).",
+      "grammar_points": ["weather_accessories", "temporal_clauses", "weather_expressions"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_014",
+      "english": "Lightning is dangerous.",
+      "correctFrench": ["L'éclair", "est", "dangereux"],
+      "wordOptions": ["L'éclair", "est", "dangereux", "La", "foudre", "dangereuse", "effrayant", "bright", "loud"],
+      "explanation": "'L'éclair' = lightning (masculine). 'Dangereux' = dangerous (masculine).",
+      "grammar_points": ["weather_phenomena", "safety_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_015",
+      "english": "Plants need water and sun.",
+      "correctFrench": ["Les", "plantes", "ont", "besoin", "d'eau", "et", "de", "soleil"],
+      "wordOptions": ["Les", "plantes", "ont", "besoin", "d'eau", "et", "de", "soleil", "du", "la", "le", "lumière"],
+      "explanation": "'Avoir besoin de' = to need. 'D'eau et de soleil' = water and sun.",
+      "grammar_points": ["expressing_need", "nature_vocabulary", "conjunctions"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_weather_016",
+      "english": "The weather forecast says rain.",
+      "correctFrench": ["La", "météo", "annonce", "de", "la", "pluie"],
+      "wordOptions": ["La", "météo", "annonce", "de", "la", "pluie", "prévoit", "du", "soleil", "vent", "neige"],
+      "explanation": "'La météo' = weather forecast. 'Annoncer' = to announce/predict.",
+      "grammar_points": ["weather_vocabulary", "prediction_verbs", "partitive_articles"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_weather_017",
+      "english": "Ice makes roads slippery.",
+      "correctFrench": ["La", "glace", "rend", "les", "routes", "glissantes"],
+      "wordOptions": ["La", "glace", "rend", "les", "routes", "glissantes", "Le", "verglas", "route", "glissante"],
+      "explanation": "'Rendre' + adjective = to make + adjective. 'Glissantes' (feminine plural).",
+      "grammar_points": ["weather_effects", "causative_verbs", "adjective_agreement"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_weather_018",
+      "english": "I prefer warm weather.",
+      "correctFrench": ["Je", "préfère", "le", "temps", "chaud"],
+      "wordOptions": ["Je", "préfère", "le", "temps", "chaud", "climat", "froid", "doux", "humide", "sec"],
+      "explanation": "'Préférer' = to prefer. 'Le temps chaud' = warm weather.",
+      "grammar_points": ["weather_preferences", "temperature_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_weather_019",
+      "english": "Children play in the snow.",
+      "correctFrench": ["Les", "enfants", "jouent", "dans", "la", "neige"],
+      "wordOptions": ["Les", "enfants", "jouent", "dans", "la", "neige", "Le", "enfant", "avec", "sur", "pluie"],
+      "explanation": "'Jouer dans' = to play in. 'La neige' = snow (feminine).",
+      "grammar_points": ["leisure_activities", "weather_vocabulary", "prepositions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_weather_020",
+      "english": "The rainbow appears after rain.",
+      "correctFrench": ["L'arc-en-ciel", "apparaît", "après", "la", "pluie"],
+      "wordOptions": ["L'arc-en-ciel", "apparaît", "après", "la", "pluie", "avant", "avec", "pendant", "orage"],
+      "explanation": "'L'arc-en-ciel' = rainbow. 'Après' = after. Weather phenomena sequence.",
+      "grammar_points": ["weather_phenomena", "temporal_expressions", "sequence"],
+      "difficulty": 1.6
+    }
+  ]
+}

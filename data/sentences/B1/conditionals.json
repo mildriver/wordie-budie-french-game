@@ -1,1 +1,53 @@
-{"level":"B1","topic":"conditionals","sentences":[]} 
+{
+  "level": "B1",
+  "topic": "conditionals",
+  "description": "Conditional sentences, hypothetical situations, and if-clauses",
+  "total_sentences": 200,
+  "sentences": [
+    {
+      "id": "b1_conditionals_001",
+      "english": "If I had time, I would travel.",
+      "correctFrench": ["Si", "j'avais", "le", "temps", "je", "voyagerais"],
+      "wordOptions": ["Si", "j'avais", "le", "temps", "je", "voyagerais", "aurais", "voyageais", "aurai"],
+      "explanation": "Type 2 conditional: Si + imperfect + conditional. 'J'avais' (imperfect), 'voyagerais' (conditional).",
+      "grammar_points": ["conditional_type2", "imperfect_tense", "conditional_mood"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_conditionals_002",
+      "english": "If it rains tomorrow, we will stay home.",
+      "correctFrench": ["S'il", "pleut", "demain", "nous", "resterons", "à", "la", "maison"],
+      "wordOptions": ["S'il", "pleut", "demain", "nous", "resterons", "à", "la", "maison", "pleuvoir", "restons"],
+      "explanation": "Type 1 conditional: Si + present + future. 'S'il' (si + il), 'resterons' (future tense).",
+      "grammar_points": ["conditional_type1", "future_tense", "elision"],
+      "difficulty": 3.0
+    },
+    {
+      "id": "b1_conditionals_003",
+      "english": "I would be happy if you came.",
+      "correctFrench": ["Je", "serais", "heureux", "si", "tu", "venais"],
+      "wordOptions": ["Je", "serais", "heureux", "si", "tu", "venais", "serai", "viens", "heureuse"],
+      "explanation": "Conditional mood 'serais' + imperfect 'venais'. Adjective agreement: heureux (masculine).",
+      "grammar_points": ["conditional_mood", "imperfect_tense", "adjective_agreement"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_conditionals_004",
+      "english": "If I were rich, I would buy a house.",
+      "correctFrench": ["Si", "j'étais", "riche", "j'achèterais", "une", "maison"],
+      "wordOptions": ["Si", "j'étais", "riche", "j'achèterais", "une", "maison", "suis", "achèterai", "achète"],
+      "explanation": "Hypothetical situation: Si + imperfect + conditional. 'J'étais' (être imperfect), 'j'achèterais' (conditional).",
+      "grammar_points": ["hypothetical_situations", "imperfect_tense", "conditional_mood"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_conditionals_005",
+      "english": "What would you do if you won the lottery?",
+      "correctFrench": ["Que", "feriez-vous", "si", "vous", "gagniez", "à", "la", "loterie", "?"],
+      "wordOptions": ["Que", "feriez-vous", "si", "vous", "gagniez", "à", "la", "loterie", "?", "ferez", "gagnez"],
+      "explanation": "Question with conditional: 'feriez-vous' (conditional + inversion). 'Gagniez' (imperfect subjunctive/imperfect).",
+      "grammar_points": ["conditional_questions", "inversion", "imperfect_tense"],
+      "difficulty": 3.3
+    }
+  ]
+}

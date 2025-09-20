@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "topic": "technology-media",
+  "description": "Technology, computers, internet, phones, and media",
+  "total_sentences": 130,
+  "sentences": [
+    {
+      "id": "a2_tech_001",
+      "english": "I use my computer for work.",
+      "correctFrench": ["J'utilise", "mon", "ordinateur", "pour", "le", "travail"],
+      "wordOptions": ["J'utilise", "mon", "ordinateur", "pour", "le", "travail", "me", "sers", "de", "portable", "bureau"],
+      "explanation": "'Utiliser' = to use. 'Pour le travail' = for work. Technology in daily life.",
+      "grammar_points": ["technology_vocabulary", "purpose_expressions", "possessive_adjectives"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_tech_002",
+      "english": "She sends emails every day.",
+      "correctFrench": ["Elle", "envoie", "des", "emails", "tous", "les", "jours"],
+      "wordOptions": ["Elle", "envoie", "des", "emails", "tous", "les", "jours", "mails", "courriels", "messages", "chaque"],
+      "explanation": "'Envoyer des emails' = to send emails. Daily technology use.",
+      "grammar_points": ["internet_communication", "frequency_expressions", "digital_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_003",
+      "english": "My phone battery is dead.",
+      "correctFrench": ["La", "batterie", "de", "mon", "téléphone", "est", "morte"],
+      "wordOptions": ["La", "batterie", "de", "mon", "téléphone", "est", "morte", "portable", "vide", "déchargée", "faible"],
+      "explanation": "'La batterie est morte' = battery is dead. Phone problems vocabulary.",
+      "grammar_points": ["phone_vocabulary", "technical_problems", "possessive_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_004",
+      "english": "We watch Netflix in the evening.",
+      "correctFrench": ["Nous", "regardons", "Netflix", "le", "soir"],
+      "wordOptions": ["Nous", "regardons", "Netflix", "le", "soir", "films", "séries", "télévision", "matin", "après-midi"],
+      "explanation": "'Regarder Netflix' = to watch Netflix. Streaming entertainment.",
+      "grammar_points": ["streaming_vocabulary", "time_expressions", "entertainment_activities"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_tech_005",
+      "english": "I need to charge my tablet.",
+      "correctFrench": ["Je", "dois", "recharger", "ma", "tablette"],
+      "wordOptions": ["Je", "dois", "recharger", "ma", "tablette", "charger", "iPad", "ordinateur", "portable", "téléphone"],
+      "explanation": "'Recharger' = to charge/recharge. Device maintenance vocabulary.",
+      "grammar_points": ["device_maintenance", "modal_verbs", "technology_care"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_006",
+      "english": "The internet connection is slow.",
+      "correctFrench": ["La", "connexion", "internet", "est", "lente"],
+      "wordOptions": ["La", "connexion", "internet", "est", "lente", "Le", "WiFi", "rapide", "coupée", "stable"],
+      "explanation": "'La connexion internet' = internet connection. Network quality descriptions.",
+      "grammar_points": ["internet_vocabulary", "speed_adjectives", "connection_quality"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_007",
+      "english": "She takes photos with her smartphone.",
+      "correctFrench": ["Elle", "prend", "des", "photos", "avec", "son", "smartphone"],
+      "wordOptions": ["Elle", "prend", "des", "photos", "avec", "son", "smartphone", "fait", "portable", "appareil", "selfies"],
+      "explanation": "'Prendre des photos avec' = to take photos with. Mobile photography.",
+      "grammar_points": ["photography_vocabulary", "device_usage", "possessive_adjectives"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_008",
+      "english": "I download music from the internet.",
+      "correctFrench": ["Je", "télécharge", "de", "la", "musique", "sur", "internet"],
+      "wordOptions": ["Je", "télécharge", "de", "la", "musique", "sur", "internet", "depuis", "le", "net", "web"],
+      "explanation": "'Télécharger' = to download. 'Sur internet' = from the internet.",
+      "grammar_points": ["downloading_vocabulary", "music_consumption", "internet_prepositions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_009",
+      "english": "The computer crashed this morning.",
+      "correctFrench": ["L'ordinateur", "a", "planté", "ce", "matin"],
+      "wordOptions": ["L'ordinateur", "a", "planté", "ce", "matin", "s'est", "crashé", "tombé", "en", "panne"],
+      "explanation": "Passé composé: a planté. 'Planter' = to crash (computer). Technical problems.",
+      "grammar_points": ["passe_compose", "computer_problems", "technical_failures"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_010",
+      "english": "We video call our family abroad.",
+      "correctFrench": ["Nous", "appelons", "notre", "famille", "en", "vidéo", "à", "l'étranger"],
+      "wordOptions": ["Nous", "appelons", "notre", "famille", "en", "vidéo", "à", "l'étranger", "Skype", "WhatsApp", "loin"],
+      "explanation": "'Appeler en vidéo' = to video call. 'À l'étranger' = abroad.",
+      "grammar_points": ["video_communication", "family_contact", "geographical_expressions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_tech_011",
+      "english": "I forgot my password again.",
+      "correctFrench": ["J'ai", "encore", "oublié", "mon", "mot", "de", "passe"],
+      "wordOptions": ["J'ai", "encore", "oublié", "mon", "mot", "de", "passe", "de", "nouveau", "password", "code"],
+      "explanation": "Passé composé: j'ai oublié. 'Encore' = again. Digital security vocabulary.",
+      "grammar_points": ["passe_compose", "digital_security", "frequency_adverbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_012",
+      "english": "She posts photos on social media.",
+      "correctFrench": ["Elle", "poste", "des", "photos", "sur", "les", "réseaux", "sociaux"],
+      "wordOptions": ["Elle", "poste", "des", "photos", "sur", "les", "réseaux", "sociaux", "publie", "partage", "Facebook", "Instagram"],
+      "explanation": "'Poster sur les réseaux sociaux' = to post on social media. Social networking.",
+      "grammar_points": ["social_media", "sharing_content", "digital_communication"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_013",
+      "english": "The TV remote control is broken.",
+      "correctFrench": ["La", "télécommande", "de", "la", "télé", "est", "cassée"],
+      "wordOptions": ["La", "télécommande", "de", "la", "télé", "est", "cassée", "télévision", "abîmée", "en", "panne"],
+      "explanation": "'La télécommande' = remote control. 'Cassée' = broken (feminine).",
+      "grammar_points": ["entertainment_devices", "device_problems", "adjective_agreement"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_014",
+      "english": "I backup my files regularly.",
+      "correctFrench": ["Je", "sauvegarde", "mes", "fichiers", "régulièrement"],
+      "wordOptions": ["Je", "sauvegarde", "mes", "fichiers", "régulièrement", "fais", "une", "sauvegarde", "souvent", "toujours"],
+      "explanation": "'Sauvegarder' = to backup. Data protection vocabulary.",
+      "grammar_points": ["data_management", "file_vocabulary", "frequency_adverbs"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_tech_015",
+      "english": "The website loads very slowly.",
+      "correctFrench": ["Le", "site", "web", "charge", "très", "lentement"],
+      "wordOptions": ["Le", "site", "web", "charge", "très", "lentement", "site", "internet", "rapidement", "vite"],
+      "explanation": "'Le site web charge' = website loads. Website performance vocabulary.",
+      "grammar_points": ["website_vocabulary", "loading_speed", "adverb_formation"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_016",
+      "english": "She streams music while working.",
+      "correctFrench": ["Elle", "écoute", "de", "la", "musique", "en", "streaming", "en", "travaillant"],
+      "wordOptions": ["Elle", "écoute", "de", "la", "musique", "en", "streaming", "en", "travaillant", "Spotify", "pendant", "qu'elle"],
+      "explanation": "'En streaming' = streaming. 'En travaillant' = while working (gerund).",
+      "grammar_points": ["music_streaming", "gerund_constructions", "multitasking"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_tech_017",
+      "english": "I need to update my software.",
+      "correctFrench": ["Je", "dois", "mettre", "à", "jour", "mon", "logiciel"],
+      "wordOptions": ["Je", "dois", "mettre", "à", "jour", "mon", "logiciel", "programme", "application", "système"],
+      "explanation": "'Mettre à jour' = to update. Software maintenance vocabulary.",
+      "grammar_points": ["software_vocabulary", "update_expressions", "modal_verbs"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_018",
+      "english": "The printer ran out of ink.",
+      "correctFrench": ["L'imprimante", "n'a", "plus", "d'encre"],
+      "wordOptions": ["L'imprimante", "n'a", "plus", "d'encre", "manque", "cartouches", "toner", "papier"],
+      "explanation": "'N'avoir plus de' = to run out of. Office equipment vocabulary.",
+      "grammar_points": ["office_equipment", "negation_plus", "supplies_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_tech_019",
+      "english": "We play video games on weekends.",
+      "correctFrench": ["Nous", "jouons", "aux", "jeux", "vidéo", "le", "week-end"],
+      "wordOptions": ["Nous", "jouons", "aux", "jeux", "vidéo", "le", "week-end", "consoles", "PlayStation", "Xbox"],
+      "explanation": "'Jouer aux jeux vidéo' = to play video games. Gaming vocabulary.",
+      "grammar_points": ["gaming_vocabulary", "leisure_activities", "time_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_tech_020",
+      "english": "My laptop screen is cracked.",
+      "correctFrench": ["L'écran", "de", "mon", "portable", "est", "fissuré"],
+      "wordOptions": ["L'écran", "de", "mon", "portable", "est", "fissuré", "laptop", "cassé", "abîmé", "rayé"],
+      "explanation": "'L'écran fissuré' = cracked screen. Device damage vocabulary.",
+      "grammar_points": ["device_problems", "laptop_vocabulary", "damage_descriptions"],
+      "difficulty": 2.3
+    }
+  ]
+}

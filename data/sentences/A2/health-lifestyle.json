@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "topic": "health-lifestyle",
+  "description": "Health, fitness, medical situations, and lifestyle choices",
+  "total_sentences": 110,
+  "sentences": [
+    {
+      "id": "a2_health_001",
+      "english": "I exercise three times a week.",
+      "correctFrench": ["Je", "fais", "du", "sport", "trois", "fois", "par", "semaine"],
+      "wordOptions": ["Je", "fais", "du", "sport", "trois", "fois", "par", "semaine", "exercice", "deux", "quatre", "jour"],
+      "explanation": "'Faire du sport' = to exercise. 'Trois fois par semaine' = three times a week.",
+      "grammar_points": ["sports_activities", "frequency_expressions", "health_habits"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_health_002",
+      "english": "She has an appointment with the doctor.",
+      "correctFrench": ["Elle", "a", "rendez-vous", "chez", "le", "médecin"],
+      "wordOptions": ["Elle", "a", "rendez-vous", "chez", "le", "médecin", "avec", "docteur", "dentiste", "spécialiste"],
+      "explanation": "'Avoir rendez-vous chez' = to have appointment with. Medical appointments.",
+      "grammar_points": ["medical_appointments", "preposition_chez", "health_services"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_003",
+      "english": "I feel sick today.",
+      "correctFrench": ["Je", "me", "sens", "malade", "aujourd'hui"],
+      "wordOptions": ["Je", "me", "sens", "malade", "aujourd'hui", "suis", "mal", "fatigué", "bien", "mieux"],
+      "explanation": "'Se sentir malade' = to feel sick. Reflexive verb for feelings.",
+      "grammar_points": ["reflexive_verbs", "health_feelings", "illness_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_health_004",
+      "english": "He broke his arm in an accident.",
+      "correctFrench": ["Il", "s'est", "cassé", "le", "bras", "dans", "un", "accident"],
+      "wordOptions": ["Il", "s'est", "cassé", "le", "bras", "dans", "un", "accident", "jambe", "pied", "main", "par"],
+      "explanation": "'Se casser le bras' = to break one's arm. Reflexive with body parts.",
+      "grammar_points": ["reflexive_verbs", "body_parts", "accidents"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_005",
+      "english": "We eat healthy food every day.",
+      "correctFrench": ["Nous", "mangeons", "sainement", "tous", "les", "jours"],
+      "wordOptions": ["Nous", "mangeons", "sainement", "tous", "les", "jours", "bien", "équilibré", "chaque", "jour"],
+      "explanation": "'Manger sainement' = to eat healthily. Adverb formation from adjective.",
+      "grammar_points": ["healthy_eating", "adverb_formation", "frequency_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_006",
+      "english": "The pharmacy is open until midnight.",
+      "correctFrench": ["La", "pharmacie", "est", "ouverte", "jusqu'à", "minuit"],
+      "wordOptions": ["La", "pharmacie", "est", "ouverte", "jusqu'à", "minuit", "fermée", "tard", "soir", "nuit"],
+      "explanation": "'Jusqu'à minuit' = until midnight. Pharmacy hours vocabulary.",
+      "grammar_points": ["medical_services", "time_expressions", "opening_hours"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_health_007",
+      "english": "I need to take medicine for my headache.",
+      "correctFrench": ["Je", "dois", "prendre", "un", "médicament", "pour", "mon", "mal", "de", "tête"],
+      "wordOptions": ["Je", "dois", "prendre", "un", "médicament", "pour", "mon", "mal", "de", "tête", "comprimé", "contre"],
+      "explanation": "'Prendre un médicament pour' = to take medicine for. Pain expressions.",
+      "grammar_points": ["medication_vocabulary", "pain_expressions", "purpose_prepositions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_008",
+      "english": "She goes jogging in the park.",
+      "correctFrench": ["Elle", "fait", "du", "jogging", "dans", "le", "parc"],
+      "wordOptions": ["Elle", "fait", "du", "jogging", "dans", "le", "parc", "va", "courir", "au", "jardin"],
+      "explanation": "'Faire du jogging' = to go jogging. Exercise locations.",
+      "grammar_points": ["exercise_vocabulary", "location_prepositions", "outdoor_activities"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_health_009",
+      "english": "I sleep eight hours every night.",
+      "correctFrench": ["Je", "dors", "huit", "heures", "chaque", "nuit"],
+      "wordOptions": ["Je", "dors", "huit", "heures", "chaque", "nuit", "sept", "neuf", "tous", "les", "soirs"],
+      "explanation": "'Dormir huit heures' = to sleep eight hours. Sleep duration.",
+      "grammar_points": ["sleep_vocabulary", "duration_expressions", "health_habits"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_health_010",
+      "english": "He quit smoking last year.",
+      "correctFrench": ["Il", "a", "arrêté", "de", "fumer", "l'année", "dernière"],
+      "wordOptions": ["Il", "a", "arrêté", "de", "fumer", "l'année", "dernière", "cessé", "passée", "mois", "dernier"],
+      "explanation": "Passé composé: a arrêté. 'Arrêter de' + infinitive. Health decisions.",
+      "grammar_points": ["passe_compose", "health_decisions", "infinitive_constructions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_011",
+      "english": "The nurse checks my blood pressure.",
+      "correctFrench": ["L'infirmière", "vérifie", "ma", "tension", "artérielle"],
+      "wordOptions": ["L'infirmière", "vérifie", "ma", "tension", "artérielle", "prend", "mesure", "pression", "sanguine"],
+      "explanation": "'Vérifier la tension artérielle' = to check blood pressure. Medical procedures.",
+      "grammar_points": ["medical_procedures", "healthcare_vocabulary", "vital_signs"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_012",
+      "english": "I drink a lot of water daily.",
+      "correctFrench": ["Je", "bois", "beaucoup", "d'eau", "quotidiennement"],
+      "wordOptions": ["Je", "bois", "beaucoup", "d'eau", "quotidiennement", "tous", "les", "jours", "journellement"],
+      "explanation": "'Boire beaucoup d'eau' = to drink lots of water. Hydration habits.",
+      "grammar_points": ["hydration_vocabulary", "quantity_expressions", "frequency_adverbs"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_health_013",
+      "english": "She practices meditation for stress relief.",
+      "correctFrench": ["Elle", "pratique", "la", "méditation", "pour", "réduire", "le", "stress"],
+      "wordOptions": ["Elle", "pratique", "la", "méditation", "pour", "réduire", "le", "stress", "contre", "diminuer", "relaxation"],
+      "explanation": "'Pratiquer la méditation pour' = to practice meditation for. Stress management.",
+      "grammar_points": ["wellness_activities", "stress_management", "purpose_expressions"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_014",
+      "english": "I have a fever and feel weak.",
+      "correctFrench": ["J'ai", "de", "la", "fièvre", "et", "me", "sens", "faible"],
+      "wordOptions": ["J'ai", "de", "la", "fièvre", "et", "me", "sens", "faible", "suis", "fort", "énergique", "mal"],
+      "explanation": "'Avoir de la fièvre' = to have fever. 'Se sentir faible' = to feel weak.",
+      "grammar_points": ["illness_symptoms", "partitive_articles", "feeling_adjectives"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_015",
+      "english": "We visit the dentist twice a year.",
+      "correctFrench": ["Nous", "allons", "chez", "le", "dentiste", "deux", "fois", "par", "an"],
+      "wordOptions": ["Nous", "allons", "chez", "le", "dentiste", "deux", "fois", "par", "an", "visitons", "année"],
+      "explanation": "'Aller chez le dentiste' = to go to dentist. 'Deux fois par an' = twice a year.",
+      "grammar_points": ["dental_care", "frequency_expressions", "annual_checkups"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_016",
+      "english": "He stretches before exercising.",
+      "correctFrench": ["Il", "s'étire", "avant", "de", "faire", "du", "sport"],
+      "wordOptions": ["Il", "s'étire", "avant", "de", "faire", "du", "sport", "s'échauffe", "après", "exercice"],
+      "explanation": "'S'étirer avant de' = to stretch before. Reflexive verb + infinitive.",
+      "grammar_points": ["reflexive_verbs", "exercise_preparation", "temporal_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_017",
+      "english": "My back hurts from sitting too long.",
+      "correctFrench": ["J'ai", "mal", "au", "dos", "à", "force", "de", "rester", "assis"],
+      "wordOptions": ["J'ai", "mal", "au", "dos", "à", "force", "de", "rester", "assis", "cause", "trop", "longtemps"],
+      "explanation": "'Avoir mal au dos' = back hurts. 'À force de' = from/due to (doing).",
+      "grammar_points": ["pain_expressions", "causation_expressions", "posture_problems"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_health_018",
+      "english": "She eats five fruits and vegetables daily.",
+      "correctFrench": ["Elle", "mange", "cinq", "fruits", "et", "légumes", "par", "jour"],
+      "wordOptions": ["Elle", "mange", "cinq", "fruits", "et", "légumes", "par", "jour", "portions", "quotidiennement"],
+      "explanation": "'Cinq fruits et légumes par jour' = five fruits and vegetables daily. Nutrition.",
+      "grammar_points": ["nutrition_vocabulary", "healthy_eating", "daily_recommendations"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_health_019",
+      "english": "I need glasses to read.",
+      "correctFrench": ["J'ai", "besoin", "de", "lunettes", "pour", "lire"],
+      "wordOptions": ["J'ai", "besoin", "de", "lunettes", "pour", "lire", "voir", "regarder", "lentilles", "verres"],
+      "explanation": "'Avoir besoin de lunettes pour' = to need glasses to. Vision needs.",
+      "grammar_points": ["vision_vocabulary", "expressing_need", "purpose_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_health_020",
+      "english": "The doctor prescribed antibiotics.",
+      "correctFrench": ["Le", "médecin", "a", "prescrit", "des", "antibiotiques"],
+      "wordOptions": ["Le", "médecin", "a", "prescrit", "des", "antibiotiques", "docteur", "ordonnance", "médicaments", "comprimés"],
+      "explanation": "Passé composé: a prescrit. 'Prescrire' = to prescribe. Medical treatment.",
+      "grammar_points": ["passe_compose", "medical_treatment", "prescription_vocabulary"],
+      "difficulty": 2.4
+    }
+  ]
+}

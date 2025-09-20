@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "topic": "education-learning",
+  "description": "Education, school, studying, learning, and academic activities",
+  "total_sentences": 100,
+  "sentences": [
+    {
+      "id": "a2_education_001",
+      "english": "I study French at the university.",
+      "correctFrench": ["J'étudie", "le", "français", "à", "l'université"],
+      "wordOptions": ["J'étudie", "le", "français", "à", "l'université", "apprends", "dans", "faculté", "école", "cours"],
+      "explanation": "'Étudier le français à' = to study French at. Academic subjects.",
+      "grammar_points": ["academic_subjects", "education_institutions", "language_learning"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_education_002",
+      "english": "She takes notes during the lecture.",
+      "correctFrench": ["Elle", "prend", "des", "notes", "pendant", "le", "cours"],
+      "wordOptions": ["Elle", "prend", "des", "notes", "pendant", "le", "cours", "fait", "durant", "leçon", "conférence"],
+      "explanation": "'Prendre des notes pendant' = to take notes during. Study habits.",
+      "grammar_points": ["study_activities", "classroom_vocabulary", "note_taking"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_003",
+      "english": "We have an exam next Monday.",
+      "correctFrench": ["Nous", "avons", "un", "examen", "lundi", "prochain"],
+      "wordOptions": ["Nous", "avons", "un", "examen", "lundi", "prochain", "contrôle", "test", "mardi", "semaine"],
+      "explanation": "'Avoir un examen' = to have an exam. 'Lundi prochain' = next Monday.",
+      "grammar_points": ["assessment_vocabulary", "days_of_week", "future_scheduling"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_education_004",
+      "english": "The teacher explains the lesson clearly.",
+      "correctFrench": ["Le", "professeur", "explique", "la", "leçon", "clairement"],
+      "wordOptions": ["Le", "professeur", "explique", "la", "leçon", "clairement", "La", "professeure", "cours", "bien"],
+      "explanation": "'Expliquer clairement' = to explain clearly. Teaching methods.",
+      "grammar_points": ["teaching_vocabulary", "adverb_formation", "classroom_interactions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_005",
+      "english": "I need to do my homework tonight.",
+      "correctFrench": ["Je", "dois", "faire", "mes", "devoirs", "ce", "soir"],
+      "wordOptions": ["Je", "dois", "faire", "mes", "devoirs", "ce", "soir", "travaux", "exercices", "aujourd'hui", "demain"],
+      "explanation": "'Faire ses devoirs' = to do homework. 'Ce soir' = tonight.",
+      "grammar_points": ["homework_vocabulary", "modal_verbs", "time_expressions"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_education_006",
+      "english": "She graduated from high school last year.",
+      "correctFrench": ["Elle", "a", "obtenu", "son", "bac", "l'année", "dernière"],
+      "wordOptions": ["Elle", "a", "obtenu", "son", "bac", "l'année", "dernière", "diplômé", "lycée", "passée", "fini"],
+      "explanation": "Passé composé: a obtenu. 'Obtenir son bac' = to graduate high school.",
+      "grammar_points": ["passe_compose", "graduation_vocabulary", "educational_milestones"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_007",
+      "english": "We work in groups for this project.",
+      "correctFrench": ["Nous", "travaillons", "en", "groupe", "pour", "ce", "projet"],
+      "wordOptions": ["Nous", "travaillons", "en", "groupe", "pour", "ce", "projet", "équipe", "sur", "devoir", "travail"],
+      "explanation": "'Travailler en groupe pour' = to work in groups for. Collaborative learning.",
+      "grammar_points": ["group_work", "project_vocabulary", "collaborative_learning"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_008",
+      "english": "The library is open until 10 PM.",
+      "correctFrench": ["La", "bibliothèque", "est", "ouverte", "jusqu'à", "22", "heures"],
+      "wordOptions": ["La", "bibliothèque", "est", "ouverte", "jusqu'à", "22", "heures", "fermée", "dix", "soir"],
+      "explanation": "'Jusqu'à 22 heures' = until 10 PM. Library hours in 24-hour format.",
+      "grammar_points": ["library_vocabulary", "opening_hours", "time_format"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_009",
+      "english": "I forgot to bring my textbook today.",
+      "correctFrench": ["J'ai", "oublié", "d'apporter", "mon", "manuel", "aujourd'hui"],
+      "wordOptions": ["J'ai", "oublié", "d'apporter", "mon", "manuel", "aujourd'hui", "livre", "cahier", "amener", "hier"],
+      "explanation": "Passé composé: j'ai oublié. 'Oublier de' + infinitive. School supplies.",
+      "grammar_points": ["passe_compose", "school_supplies", "infinitive_constructions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_010",
+      "english": "She raises her hand to ask a question.",
+      "correctFrench": ["Elle", "lève", "la", "main", "pour", "poser", "une", "question"],
+      "wordOptions": ["Elle", "lève", "la", "main", "pour", "poser", "une", "question", "demander", "faire", "répondre"],
+      "explanation": "'Lever la main pour poser une question' = raise hand to ask question. Classroom behavior.",
+      "grammar_points": ["classroom_behavior", "question_vocabulary", "purpose_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_011",
+      "english": "The students submit their essays on Friday.",
+      "correctFrench": ["Les", "étudiants", "rendent", "leurs", "dissertations", "vendredi"],
+      "wordOptions": ["Les", "étudiants", "rendent", "leurs", "dissertations", "vendredi", "élèves", "devoirs", "essais", "mardi"],
+      "explanation": "'Rendre ses dissertations' = to submit essays. Academic assignments.",
+      "grammar_points": ["assignment_submission", "academic_writing", "days_of_week"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_012",
+      "english": "I learn better with visual aids.",
+      "correctFrench": ["J'apprends", "mieux", "avec", "des", "supports", "visuels"],
+      "wordOptions": ["J'apprends", "mieux", "avec", "des", "supports", "visuels", "aides", "images", "graphiques", "schémas"],
+      "explanation": "'Apprendre mieux avec' = to learn better with. Learning preferences.",
+      "grammar_points": ["learning_styles", "comparative_adverbs", "visual_learning"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_013",
+      "english": "The chemistry lab is on the third floor.",
+      "correctFrench": ["Le", "laboratoire", "de", "chimie", "est", "au", "troisième", "étage"],
+      "wordOptions": ["Le", "laboratoire", "de", "chimie", "est", "au", "troisième", "étage", "labo", "physique", "deuxième"],
+      "explanation": "'Le laboratoire de chimie' = chemistry lab. 'Au troisième étage' = on third floor.",
+      "grammar_points": ["school_facilities", "ordinal_numbers", "floor_locations"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_014",
+      "english": "We discuss the book in literature class.",
+      "correctFrench": ["Nous", "discutons", "du", "livre", "en", "cours", "de", "littérature"],
+      "wordOptions": ["Nous", "discutons", "du", "livre", "en", "cours", "de", "littérature", "parlons", "roman", "français"],
+      "explanation": "'Discuter du livre en cours de' = to discuss book in class. Subject areas.",
+      "grammar_points": ["academic_discussion", "subject_vocabulary", "classroom_activities"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_015",
+      "english": "She plans to study abroad next semester.",
+      "correctFrench": ["Elle", "prévoit", "d'étudier", "à", "l'étranger", "le", "semestre", "prochain"],
+      "wordOptions": ["Elle", "prévoit", "d'étudier", "à", "l'étranger", "le", "semestre", "prochain", "compte", "trimestre", "suivant"],
+      "explanation": "'Prévoir d'étudier à l'étranger' = to plan to study abroad. Academic planning.",
+      "grammar_points": ["study_abroad", "future_planning", "academic_calendar"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_016",
+      "english": "I attend evening classes twice a week.",
+      "correctFrench": ["Je", "suis", "des", "cours", "du", "soir", "deux", "fois", "par", "semaine"],
+      "wordOptions": ["Je", "suis", "des", "cours", "du", "soir", "deux", "fois", "par", "semaine", "assiste", "trois", "fois"],
+      "explanation": "'Suivre des cours du soir' = to attend evening classes. Class schedules.",
+      "grammar_points": ["class_schedules", "frequency_expressions", "adult_education"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_017",
+      "english": "The principal announces the new rules.",
+      "correctFrench": ["Le", "directeur", "annonce", "les", "nouvelles", "règles"],
+      "wordOptions": ["Le", "directeur", "annonce", "les", "nouvelles", "règles", "La", "directrice", "proviseur", "règlements"],
+      "explanation": "'Le directeur annonce' = principal announces. School administration.",
+      "grammar_points": ["school_administration", "rule_vocabulary", "school_announcements"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_018",
+      "english": "We calculate math problems step by step.",
+      "correctFrench": ["Nous", "calculons", "les", "problèmes", "de", "maths", "étape", "par", "étape"],
+      "wordOptions": ["Nous", "calculons", "les", "problèmes", "de", "maths", "étape", "par", "étape", "résolvons", "exercices"],
+      "explanation": "'Calculer étape par étape' = to calculate step by step. Math methodology.",
+      "grammar_points": ["mathematics_vocabulary", "problem_solving", "methodical_approach"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_019",
+      "english": "She receives a scholarship for good grades.",
+      "correctFrench": ["Elle", "reçoit", "une", "bourse", "pour", "ses", "bonnes", "notes"],
+      "wordOptions": ["Elle", "reçoit", "une", "bourse", "pour", "ses", "bonnes", "notes", "obtient", "excellentes", "résultats"],
+      "explanation": "'Recevoir une bourse pour' = to receive scholarship for. Academic rewards.",
+      "grammar_points": ["scholarships_vocabulary", "academic_achievement", "reward_systems"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_020",
+      "english": "I review my notes before the test.",
+      "correctFrench": ["Je", "révise", "mes", "notes", "avant", "le", "contrôle"],
+      "wordOptions": ["Je", "révise", "mes", "notes", "avant", "le", "contrôle", "relis", "examen", "test", "après"],
+      "explanation": "'Réviser ses notes avant' = to review notes before. Exam preparation.",
+      "grammar_points": ["exam_preparation", "study_strategies", "temporal_expressions"],
+      "difficulty": 2.2
+    }
+  ]
+}

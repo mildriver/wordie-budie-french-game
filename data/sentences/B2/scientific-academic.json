@@ -1,0 +1,53 @@
+{
+  "level": "B2",
+  "topic": "scientific-academic",
+  "description": "Scientific discourse, academic research, and scholarly communication",
+  "total_sentences": 180,
+  "sentences": [
+    {
+      "id": "b2_sci_001",
+      "english": "The hypothesis was corroborated by empirical evidence from multiple studies.",
+      "correctFrench": ["L'hypothèse", "a", "été", "corroborée", "par", "des", "preuves", "empiriques", "provenant", "de", "plusieurs", "études"],
+      "wordOptions": ["L'hypothèse", "a", "été", "corroborée", "par", "des", "preuves", "empiriques", "provenant", "de", "plusieurs", "études", "confirmée"],
+      "explanation": "'Corroborer' = to corroborate. Academic validation through empirical evidence.",
+      "grammar_points": ["scientific_validation", "academic_vocabulary", "research_methodology"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_sci_002",
+      "english": "The research methodology employed rigorous statistical analysis.",
+      "correctFrench": ["La", "méthodologie", "de", "recherche", "a", "employé", "une", "analyse", "statistique", "rigoureuse"],
+      "wordOptions": ["La", "méthodologie", "de", "recherche", "a", "employé", "une", "analyse", "statistique", "rigoureuse", "utilisé"],
+      "explanation": "'Méthodologie de recherche' = research methodology. Academic rigor in analysis.",
+      "grammar_points": ["research_methods", "statistical_analysis", "academic_rigor"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_sci_003",
+      "english": "The findings challenge prevailing theories in the field.",
+      "correctFrench": ["Les", "résultats", "remettent", "en", "question", "les", "théories", "dominantes", "du", "domaine"],
+      "wordOptions": ["Les", "résultats", "remettent", "en", "question", "les", "théories", "dominantes", "du", "domaine", "contestent"],
+      "explanation": "'Remettre en question' = to challenge. Scientific paradigm questioning.",
+      "grammar_points": ["scientific_challenge", "paradigm_shift", "theoretical_critique"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_sci_004",
+      "english": "Peer review ensures the validity and reliability of published research.",
+      "correctFrench": ["L'évaluation", "par", "les", "pairs", "garantit", "la", "validité", "et", "la", "fiabilité", "de", "la", "recherche", "publiée"],
+      "wordOptions": ["L'évaluation", "par", "les", "pairs", "garantit", "la", "validité", "et", "la", "fiabilité", "de", "la", "recherche", "publiée", "assure"],
+      "explanation": "'Évaluation par les pairs' = peer review. Academic quality assurance.",
+      "grammar_points": ["academic_process", "quality_assurance", "publishing_standards"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_sci_005",
+      "english": "The interdisciplinary approach yielded unexpected insights.",
+      "correctFrench": ["L'approche", "interdisciplinaire", "a", "donné", "des", "perspectives", "inattendues"],
+      "wordOptions": ["L'approche", "interdisciplinaire", "a", "donné", "des", "perspectives", "inattendues", "fourni", "apporté", "révélations"],
+      "explanation": "'Approche interdisciplinaire' = interdisciplinary approach. Cross-field research benefits.",
+      "grammar_points": ["interdisciplinary_research", "unexpected_outcomes", "research_insights"],
+      "difficulty": 4.2
+    }
+  ]
+}

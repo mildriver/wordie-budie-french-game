@@ -1,0 +1,53 @@
+{
+  "level": "B1",
+  "topic": "subjunctive-mood",
+  "description": "Subjunctive mood for emotions, doubt, necessity, and subjective expressions",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "id": "b1_subj_001",
+      "english": "I'm happy that you're here.",
+      "correctFrench": ["Je", "suis", "content", "que", "tu", "sois", "là"],
+      "wordOptions": ["Je", "suis", "content", "que", "tu", "sois", "là", "es", "soit", "heureux"],
+      "explanation": "'Content que' + subjunctive. Emotions trigger subjunctive mood.",
+      "grammar_points": ["subjunctive_emotions", "emotional_expressions", "presence"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_subj_002",
+      "english": "It's important that everyone understands the rules.",
+      "correctFrench": ["Il", "est", "important", "que", "tout", "le", "monde", "comprenne", "les", "règles"],
+      "wordOptions": ["Il", "est", "important", "que", "tout", "le", "monde", "comprenne", "les", "règles", "comprend"],
+      "explanation": "'Il est important que' + subjunctive. Necessity expressions.",
+      "grammar_points": ["subjunctive_necessity", "impersonal_expressions", "understanding"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_subj_003",
+      "english": "I doubt that he will come on time.",
+      "correctFrench": ["Je", "doute", "qu'il", "vienne", "à", "l'heure"],
+      "wordOptions": ["Je", "doute", "qu'il", "vienne", "à", "l'heure", "viendra", "viennes", "arrive"],
+      "explanation": "'Douter que' + subjunctive. Doubt triggers subjunctive.",
+      "grammar_points": ["subjunctive_doubt", "punctuality", "uncertainty"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_subj_004",
+      "english": "Although it's raining, we'll go out.",
+      "correctFrench": ["Bien", "qu'il", "pleuve", "nous", "sortirons"],
+      "wordOptions": ["Bien", "qu'il", "pleuve", "nous", "sortirons", "pleut", "Même", "si", "sortions"],
+      "explanation": "'Bien que' + subjunctive = although. Concession with subjunctive.",
+      "grammar_points": ["subjunctive_concession", "weather_conditions", "determination"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_subj_005",
+      "english": "I want you to be careful.",
+      "correctFrench": ["Je", "veux", "que", "tu", "sois", "prudent"],
+      "wordOptions": ["Je", "veux", "que", "tu", "sois", "prudent", "es", "prudente", "attentif"],
+      "explanation": "'Vouloir que' + subjunctive. Will/desire triggers subjunctive.",
+      "grammar_points": ["subjunctive_will", "safety_concerns", "care_expressions"],
+      "difficulty": 3.2
+    }
+  ]
+}

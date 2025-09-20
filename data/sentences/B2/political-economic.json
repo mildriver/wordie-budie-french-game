@@ -1,0 +1,53 @@
+{
+  "level": "B2",
+  "topic": "political-economic",
+  "description": "Political analysis, economic theory, and governmental discourse",
+  "total_sentences": 160,
+  "sentences": [
+    {
+      "id": "b2_pol_001",
+      "english": "The implementation of fiscal policies requires bipartisan consensus.",
+      "correctFrench": ["La", "mise", "en", "œuvre", "des", "politiques", "fiscales", "nécessite", "un", "consensus", "bipartite"],
+      "wordOptions": ["La", "mise", "en", "œuvre", "des", "politiques", "fiscales", "nécessite", "un", "consensus", "bipartite", "bipartisan"],
+      "explanation": "'Mise en œuvre' = implementation. 'Consensus bipartite' = bipartisan consensus.",
+      "grammar_points": ["policy_implementation", "political_cooperation", "fiscal_policy"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_pol_002",
+      "english": "Economic inequality undermines democratic institutions.",
+      "correctFrench": ["L'inégalité", "économique", "sape", "les", "institutions", "démocratiques"],
+      "wordOptions": ["L'inégalité", "économique", "sape", "les", "institutions", "démocratiques", "affaiblit", "mine", "érode"],
+      "explanation": "'Saper' = to undermine. Economic disparity's effect on democratic governance.",
+      "grammar_points": ["economic_inequality", "democratic_institutions", "systemic_effects"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_pol_003",
+      "english": "The monetary policy aims to stabilize inflation while promoting growth.",
+      "correctFrench": ["La", "politique", "monétaire", "vise", "à", "stabiliser", "l'inflation", "tout", "en", "favorisant", "la", "croissance"],
+      "wordOptions": ["La", "politique", "monétaire", "vise", "à", "stabiliser", "l'inflation", "tout", "en", "favorisant", "la", "croissance", "promouvant"],
+      "explanation": "'Tout en favorisant' = while promoting. Dual objectives in monetary policy.",
+      "grammar_points": ["monetary_policy", "economic_objectives", "simultaneous_actions"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_pol_004",
+      "english": "Sovereignty remains a contentious issue in international relations.",
+      "correctFrench": ["La", "souveraineté", "demeure", "une", "question", "controversée", "dans", "les", "relations", "internationales"],
+      "wordOptions": ["La", "souveraineté", "demeure", "une", "question", "controversée", "dans", "les", "relations", "internationales", "reste"],
+      "explanation": "'Demeurer' = to remain (formal). Ongoing debates about national sovereignty.",
+      "grammar_points": ["international_relations", "sovereignty_concepts", "diplomatic_discourse"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_pol_005",
+      "english": "The legislative process involves extensive deliberation and compromise.",
+      "correctFrench": ["Le", "processus", "législatif", "implique", "de", "longues", "délibérations", "et", "des", "compromis"],
+      "wordOptions": ["Le", "processus", "législatif", "implique", "de", "longues", "délibérations", "et", "des", "compromis", "suppose"],
+      "explanation": "'Processus législatif' = legislative process. Parliamentary procedures and negotiations.",
+      "grammar_points": ["legislative_process", "political_negotiation", "governmental_procedures"],
+      "difficulty": 4.2
+    }
+  ]
+}

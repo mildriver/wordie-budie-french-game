@@ -1,1 +1,188 @@
-{"level":"A2","topic":"hobbies","sentences":[]} 
+{
+  "level": "A2",
+  "topic": "hobbies",
+  "description": "Hobbies, leisure activities, sports, and entertainment",
+  "total_sentences": 120,
+  "sentences": [
+    {
+      "id": "a2_hobbies_001",
+      "english": "I play guitar in my free time.",
+      "correctFrench": ["Je", "joue", "de", "la", "guitare", "pendant", "mon", "temps", "libre"],
+      "wordOptions": ["Je", "joue", "de", "la", "guitare", "pendant", "mon", "temps", "libre", "piano", "violon", "dans"],
+      "explanation": "'Jouer de' + instrument. 'Pendant mon temps libre' = in my free time.",
+      "grammar_points": ["musical_instruments", "preposition_de", "time_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_hobbies_002",
+      "english": "She loves reading novels.",
+      "correctFrench": ["Elle", "adore", "lire", "des", "romans"],
+      "wordOptions": ["Elle", "adore", "lire", "des", "romans", "aime", "livres", "magazines", "journaux", "BD"],
+      "explanation": "'Adorer' = to love. 'Lire des romans' = to read novels. Hobby expressions.",
+      "grammar_points": ["hobby_verbs", "reading_vocabulary", "expressing_preferences"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_hobbies_003",
+      "english": "We go hiking every weekend.",
+      "correctFrench": ["Nous", "faisons", "de", "la", "randonnée", "chaque", "week-end"],
+      "wordOptions": ["Nous", "faisons", "de", "la", "randonnée", "chaque", "week-end", "tous", "les", "week-ends"],
+      "explanation": "'Faire de la randonnée' = to go hiking. 'Chaque week-end' = every weekend.",
+      "grammar_points": ["outdoor_activities", "frequency_expressions", "faire_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_004",
+      "english": "He collects stamps from different countries.",
+      "correctFrench": ["Il", "collectionne", "les", "timbres", "de", "différents", "pays"],
+      "wordOptions": ["Il", "collectionne", "les", "timbres", "de", "différents", "pays", "pièces", "cartes", "diverses"],
+      "explanation": "'Collectionner' = to collect. 'De différents pays' = from different countries.",
+      "grammar_points": ["collecting_hobbies", "geographical_expressions", "adjective_placement"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_005",
+      "english": "I'm learning to dance salsa.",
+      "correctFrench": ["J'apprends", "à", "danser", "la", "salsa"],
+      "wordOptions": ["J'apprends", "à", "danser", "la", "salsa", "le", "tango", "valse", "rock", "disco"],
+      "explanation": "'Apprendre à' + infinitive = to learn to. Dance types with definite articles.",
+      "grammar_points": ["learning_expressions", "dance_vocabulary", "infinitive_constructions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_hobbies_006",
+      "english": "She practices yoga twice a week.",
+      "correctFrench": ["Elle", "fait", "du", "yoga", "deux", "fois", "par", "semaine"],
+      "wordOptions": ["Elle", "fait", "du", "yoga", "deux", "fois", "par", "semaine", "une", "trois", "jour", "mois"],
+      "explanation": "'Faire du yoga' = to do yoga. 'Deux fois par semaine' = twice a week.",
+      "grammar_points": ["sports_activities", "frequency_expressions", "numbers"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_007",
+      "english": "We watch movies at the cinema.",
+      "correctFrench": ["Nous", "regardons", "des", "films", "au", "cinéma"],
+      "wordOptions": ["Nous", "regardons", "des", "films", "au", "cinéma", "film", "télé", "maison", "théâtre"],
+      "explanation": "'Regarder des films' = to watch movies. 'Au cinéma' = at the cinema.",
+      "grammar_points": ["entertainment_activities", "location_expressions", "contracted_articles"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_hobbies_008",
+      "english": "I enjoy cooking Italian food.",
+      "correctFrench": ["J'aime", "cuisiner", "la", "nourriture", "italienne"],
+      "wordOptions": ["J'aime", "cuisiner", "la", "nourriture", "italienne", "cuisine", "française", "chinoise", "mexicaine"],
+      "explanation": "'Aimer cuisiner' = to enjoy cooking. Nationality adjectives agree with nouns.",
+      "grammar_points": ["cooking_hobbies", "nationality_adjectives", "food_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_hobbies_009",
+      "english": "He plays tennis with his friends.",
+      "correctFrench": ["Il", "joue", "au", "tennis", "avec", "ses", "amis"],
+      "wordOptions": ["Il", "joue", "au", "tennis", "avec", "ses", "amis", "football", "basket", "golf", "copains"],
+      "explanation": "'Jouer au' + sport. 'Avec ses amis' = with his friends. Possessive adjectives.",
+      "grammar_points": ["sports_vocabulary", "preposition_au", "possessive_adjectives"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_hobbies_010",
+      "english": "She takes photos of landscapes.",
+      "correctFrench": ["Elle", "prend", "des", "photos", "de", "paysages"],
+      "wordOptions": ["Elle", "prend", "des", "photos", "de", "paysages", "fait", "portraits", "animaux", "fleurs"],
+      "explanation": "'Prendre des photos de' = to take photos of. Photography vocabulary.",
+      "grammar_points": ["photography_vocabulary", "preposition_de", "hobby_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_hobbies_011",
+      "english": "I started painting last year.",
+      "correctFrench": ["J'ai", "commencé", "à", "peindre", "l'année", "dernière"],
+      "wordOptions": ["J'ai", "commencé", "à", "peindre", "l'année", "dernière", "commencer", "dessiner", "an", "passée"],
+      "explanation": "Passé composé: j'ai commencé. 'Commencer à' + infinitive. 'L'année dernière' = last year.",
+      "grammar_points": ["passe_compose", "infinitive_constructions", "time_expressions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_012",
+      "english": "We go swimming in summer.",
+      "correctFrench": ["Nous", "allons", "nager", "en", "été"],
+      "wordOptions": ["Nous", "allons", "nager", "en", "été", "à", "la", "piscine", "mer", "printemps", "hiver"],
+      "explanation": "'Aller nager' = to go swimming. 'En été' = in summer. Seasonal activities.",
+      "grammar_points": ["swimming_activities", "seasons", "movement_verbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_hobbies_013",
+      "english": "He is passionate about astronomy.",
+      "correctFrench": ["Il", "est", "passionné", "d'astronomie"],
+      "wordOptions": ["Il", "est", "passionné", "d'astronomie", "par", "pour", "histoire", "géographie", "sciences"],
+      "explanation": "'Être passionné de/par' = to be passionate about. Academic interests.",
+      "grammar_points": ["expressing_passion", "academic_subjects", "preposition_de"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_014",
+      "english": "I spend time gardening.",
+      "correctFrench": ["Je", "passe", "du", "temps", "à", "jardiner"],
+      "wordOptions": ["Je", "passe", "du", "temps", "à", "jardiner", "jardinage", "faire", "le", "jardin"],
+      "explanation": "'Passer du temps à' + infinitive = to spend time doing. Gardening vocabulary.",
+      "grammar_points": ["time_expressions", "gardening_vocabulary", "infinitive_constructions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_015",
+      "english": "She writes in her diary every night.",
+      "correctFrench": ["Elle", "écrit", "dans", "son", "journal", "chaque", "soir"],
+      "wordOptions": ["Elle", "écrit", "dans", "son", "journal", "chaque", "soir", "tous", "les", "soirs", "matin"],
+      "explanation": "'Écrire dans son journal' = to write in diary. 'Chaque soir' = every night.",
+      "grammar_points": ["writing_activities", "frequency_expressions", "time_of_day"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_hobbies_016",
+      "english": "We build model airplanes together.",
+      "correctFrench": ["Nous", "construisons", "des", "maquettes", "d'avions", "ensemble"],
+      "wordOptions": ["Nous", "construisons", "des", "maquettes", "d'avions", "ensemble", "trains", "bateaux", "voitures"],
+      "explanation": "'Construire des maquettes' = to build models. 'Ensemble' = together.",
+      "grammar_points": ["craft_hobbies", "model_vocabulary", "group_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_017",
+      "english": "He listens to classical music.",
+      "correctFrench": ["Il", "écoute", "de", "la", "musique", "classique"],
+      "wordOptions": ["Il", "écoute", "de", "la", "musique", "classique", "rock", "jazz", "pop", "électronique"],
+      "explanation": "'Écouter de la musique' = to listen to music. Music genre adjectives.",
+      "grammar_points": ["music_vocabulary", "music_genres", "partitive_articles"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_hobbies_018",
+      "english": "I'm interested in learning languages.",
+      "correctFrench": ["Je", "m'intéresse", "à", "apprendre", "les", "langues"],
+      "wordOptions": ["Je", "m'intéresse", "à", "apprendre", "les", "langues", "suis", "intéressé", "par", "langue"],
+      "explanation": "'S'intéresser à' = to be interested in. Reflexive verb with preposition.",
+      "grammar_points": ["expressing_interest", "reflexive_verbs", "language_learning"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_019",
+      "english": "She knits sweaters for winter.",
+      "correctFrench": ["Elle", "tricote", "des", "pulls", "pour", "l'hiver"],
+      "wordOptions": ["Elle", "tricote", "des", "pulls", "pour", "l'hiver", "écharpes", "bonnets", "gants", "en"],
+      "explanation": "'Tricoter' = to knit. 'Pour l'hiver' = for winter. Craft activities.",
+      "grammar_points": ["craft_activities", "clothing_vocabulary", "seasonal_preparation"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_020",
+      "english": "We play board games on rainy days.",
+      "correctFrench": ["Nous", "jouons", "aux", "jeux", "de", "société", "les", "jours", "de", "pluie"],
+      "wordOptions": ["Nous", "jouons", "aux", "jeux", "de", "société", "les", "jours", "de", "pluie", "cartes", "échecs"],
+      "explanation": "'Jouer aux jeux de société' = to play board games. 'Les jours de pluie' = rainy days.",
+      "grammar_points": ["indoor_activities", "weather_expressions", "game_vocabulary"],
+      "difficulty": 2.6
+    }
+  ]
+}

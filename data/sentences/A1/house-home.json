@@ -1,0 +1,188 @@
+{
+  "level": "A1",
+  "topic": "house-home",
+  "description": "House, rooms, furniture, and home-related vocabulary",
+  "total_sentences": 100,
+  "sentences": [
+    {
+      "id": "a1_house_001",
+      "english": "I live in a house.",
+      "correctFrench": ["Je", "habite", "dans", "une", "maison"],
+      "wordOptions": ["Je", "habite", "dans", "une", "maison", "vis", "appartement", "le", "la", "chez"],
+      "explanation": "'Habiter' = to live. 'Dans une maison' = in a house.",
+      "grammar_points": ["housing_vocabulary", "preposition_dans"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_house_002",
+      "english": "The kitchen is big.",
+      "correctFrench": ["La", "cuisine", "est", "grande"],
+      "wordOptions": ["La", "cuisine", "est", "grande", "Le", "salon", "grand", "petite", "petit", "chambre"],
+      "explanation": "'La cuisine' (feminine). 'Grande' (feminine form of grand).",
+      "grammar_points": ["room_vocabulary", "adjective_agreement"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_house_003",
+      "english": "My bedroom is upstairs.",
+      "correctFrench": ["Ma", "chambre", "est", "en", "haut"],
+      "wordOptions": ["Ma", "chambre", "est", "en", "haut", "Mon", "bas", "à", "l'étage", "rez-de-chaussée"],
+      "explanation": "'Ma chambre' (feminine). 'En haut' = upstairs.",
+      "grammar_points": ["possessive_adjectives", "location_expressions"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_house_004",
+      "english": "There is a table in the dining room.",
+      "correctFrench": ["Il", "y", "a", "une", "table", "dans", "la", "salle", "à", "manger"],
+      "wordOptions": ["Il", "y", "a", "une", "table", "dans", "la", "salle", "à", "manger", "chaise", "cuisine", "salon"],
+      "explanation": "'Il y a' = there is/are. 'La salle à manger' = dining room.",
+      "grammar_points": ["il_y_a", "room_vocabulary"],
+      "difficulty": 1.8
+    },
+    {
+      "id": "a1_house_005",
+      "english": "The bathroom is clean.",
+      "correctFrench": ["La", "salle", "de", "bain", "est", "propre"],
+      "wordOptions": ["La", "salle", "de", "bain", "est", "propre", "toilettes", "sale", "grande", "petite"],
+      "explanation": "'La salle de bain' = bathroom. 'Propre' = clean.",
+      "grammar_points": ["room_vocabulary", "descriptive_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_house_006",
+      "english": "We watch TV in the living room.",
+      "correctFrench": ["Nous", "regardons", "la", "télé", "dans", "le", "salon"],
+      "wordOptions": ["Nous", "regardons", "la", "télé", "dans", "le", "salon", "télévision", "chambre", "cuisine"],
+      "explanation": "'Regarder' = to watch. 'La télé' = TV. 'Le salon' = living room.",
+      "grammar_points": ["leisure_activities", "room_vocabulary"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_house_007",
+      "english": "The sofa is comfortable.",
+      "correctFrench": ["Le", "canapé", "est", "confortable"],
+      "wordOptions": ["Le", "canapé", "est", "confortable", "La", "chaise", "fauteuil", "inconfortable", "dur", "mou"],
+      "explanation": "'Le canapé' = sofa. 'Confortable' (same for masculine/feminine).",
+      "grammar_points": ["furniture_vocabulary", "comfort_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_house_008",
+      "english": "I sleep in my bed.",
+      "correctFrench": ["Je", "dors", "dans", "mon", "lit"],
+      "wordOptions": ["Je", "dors", "dans", "mon", "lit", "dort", "ma", "chambre", "sur", "le"],
+      "explanation": "'Dormir' = to sleep (irregular). 'Mon lit' = my bed (masculine).",
+      "grammar_points": ["irregular_verbs", "possessive_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_house_009",
+      "english": "The garden is beautiful.",
+      "correctFrench": ["Le", "jardin", "est", "beau"],
+      "wordOptions": ["Le", "jardin", "est", "beau", "La", "cour", "belle", "joli", "jolie", "laid"],
+      "explanation": "'Le jardin' (masculine). 'Beau' (masculine) / 'belle' (feminine).",
+      "grammar_points": ["outdoor_vocabulary", "beauty_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_house_010",
+      "english": "The window is open.",
+      "correctFrench": ["La", "fenêtre", "est", "ouverte"],
+      "wordOptions": ["La", "fenêtre", "est", "ouverte", "Le", "porte", "ouvert", "fermée", "fermé", "grande"],
+      "explanation": "'La fenêtre' (feminine). 'Ouverte' (feminine form of ouvert).",
+      "grammar_points": ["house_features", "adjective_agreement"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_house_011",
+      "english": "I cook in the kitchen.",
+      "correctFrench": ["Je", "cuisine", "dans", "la", "cuisine"],
+      "wordOptions": ["Je", "cuisine", "dans", "la", "cuisine", "cuisiner", "prépare", "salle", "mange"],
+      "explanation": "'Cuisiner' = to cook. Note: 'cuisine' is both verb and noun.",
+      "grammar_points": ["cooking_activities", "room_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_house_012",
+      "english": "The stairs are narrow.",
+      "correctFrench": ["L'escalier", "est", "étroit"],
+      "wordOptions": ["L'escalier", "est", "étroit", "Les", "escaliers", "large", "marches", "haut", "bas"],
+      "explanation": "'L'escalier' (masculine singular). 'Étroit' = narrow.",
+      "grammar_points": ["house_features", "size_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_house_013",
+      "english": "We eat at the table.",
+      "correctFrench": ["Nous", "mangeons", "à", "table"],
+      "wordOptions": ["Nous", "mangeons", "à", "table", "la", "sur", "dans", "cuisine", "déjeuner", "dîner"],
+      "explanation": "'Manger' = to eat. 'À table' = at the table (no article).",
+      "grammar_points": ["eating_activities", "furniture_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_house_014",
+      "english": "The lamp gives light.",
+      "correctFrench": ["La", "lampe", "donne", "de", "la", "lumière"],
+      "wordOptions": ["La", "lampe", "donne", "de", "la", "lumière", "éclaire", "fait", "du", "éclairage"],
+      "explanation": "'Donner' = to give. 'De la lumière' = some light (partitive).",
+      "grammar_points": ["lighting_vocabulary", "partitive_articles"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_house_015",
+      "english": "The door is closed.",
+      "correctFrench": ["La", "porte", "est", "fermée"],
+      "wordOptions": ["La", "porte", "est", "fermée", "Le", "fenêtre", "fermé", "ouverte", "ouvert", "grande"],
+      "explanation": "'La porte' (feminine). 'Fermée' (feminine form of fermé).",
+      "grammar_points": ["house_features", "adjective_agreement"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_house_016",
+      "english": "My room has a desk.",
+      "correctFrench": ["Ma", "chambre", "a", "un", "bureau"],
+      "wordOptions": ["Ma", "chambre", "a", "un", "bureau", "Mon", "une", "table", "chaise", "lit", "armoire"],
+      "explanation": "'Ma chambre' (feminine). 'Un bureau' = a desk (masculine).",
+      "grammar_points": ["possessive_adjectives", "furniture_vocabulary"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_house_017",
+      "english": "The house has two floors.",
+      "correctFrench": ["La", "maison", "a", "deux", "étages"],
+      "wordOptions": ["La", "maison", "a", "deux", "étages", "trois", "un", "étage", "niveaux", "chambres"],
+      "explanation": "'Deux étages' = two floors. 'Étage' (masculine) = floor/story.",
+      "grammar_points": ["numbers", "house_structure"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_house_018",
+      "english": "I wash my hands in the sink.",
+      "correctFrench": ["Je", "me", "lave", "les", "mains", "dans", "l'évier"],
+      "wordOptions": ["Je", "me", "lave", "les", "mains", "dans", "l'évier", "lavabo", "douche", "baignoire"],
+      "explanation": "'Se laver' = to wash (reflexive). 'L'évier' = sink (kitchen).",
+      "grammar_points": ["reflexive_verbs", "hygiene_activities"],
+      "difficulty": 1.7
+    },
+    {
+      "id": "a1_house_019",
+      "english": "The refrigerator is white.",
+      "correctFrench": ["Le", "réfrigérateur", "est", "blanc"],
+      "wordOptions": ["Le", "réfrigérateur", "est", "blanc", "La", "frigo", "blanche", "noir", "noire", "rouge"],
+      "explanation": "'Le réfrigérateur' (or 'le frigo'). 'Blanc' (masculine) / 'blanche' (feminine).",
+      "grammar_points": ["appliance_vocabulary", "color_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_house_020",
+      "english": "We have a garage.",
+      "correctFrench": ["Nous", "avons", "un", "garage"],
+      "wordOptions": ["Nous", "avons", "un", "garage", "une", "cave", "grenier", "jardin", "balcon", "terrasse"],
+      "explanation": "'Avoir' = to have. 'Un garage' = a garage (masculine).",
+      "grammar_points": ["avoir_conjugation", "house_parts"],
+      "difficulty": 1.2
+    }
+  ]
+}

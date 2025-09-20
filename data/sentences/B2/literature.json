@@ -1,1 +1,53 @@
-{"level":"B2","topic":"literature","sentences":[]} 
+{
+  "level": "B2",
+  "topic": "literature",
+  "description": "Literary analysis, narrative techniques, and sophisticated literary discourse",
+  "total_sentences": 130,
+  "sentences": [
+    {
+      "id": "b2_lit_001",
+      "english": "The narrator's unreliability becomes evident through textual contradictions.",
+      "correctFrench": ["La", "non-fiabilité", "du", "narrateur", "devient", "évidente", "à", "travers", "les", "contradictions", "textuelles"],
+      "wordOptions": ["La", "non-fiabilité", "du", "narrateur", "devient", "évidente", "à", "travers", "les", "contradictions", "textuelles", "par"],
+      "explanation": "'Non-fiabilité' = unreliability. Literary analysis vocabulary for narrative technique.",
+      "grammar_points": ["literary_analysis", "narrative_techniques", "textual_evidence"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_lit_002",
+      "english": "The protagonist's metamorphosis symbolizes societal alienation.",
+      "correctFrench": ["La", "métamorphose", "du", "protagoniste", "symbolise", "l'aliénation", "sociale"],
+      "wordOptions": ["La", "métamorphose", "du", "protagoniste", "symbolise", "l'aliénation", "sociale", "représente", "sociétale"],
+      "explanation": "'Métamorphose' = metamorphosis. Symbolic interpretation in literature.",
+      "grammar_points": ["literary_symbolism", "character_analysis", "social_themes"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_lit_003",
+      "english": "The author employs stream-of-consciousness to explore psychological depth.",
+      "correctFrench": ["L'auteur", "emploie", "le", "flux", "de", "conscience", "pour", "explorer", "la", "profondeur", "psychologique"],
+      "wordOptions": ["L'auteur", "emploie", "le", "flux", "de", "conscience", "pour", "explorer", "la", "profondeur", "psychologique", "utilise"],
+      "explanation": "'Flux de conscience' = stream-of-consciousness. Literary technique analysis.",
+      "grammar_points": ["literary_techniques", "psychological_exploration", "authorial_methods"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_lit_004",
+      "english": "The recurring motif of water suggests themes of renewal and purification.",
+      "correctFrench": ["Le", "motif", "récurrent", "de", "l'eau", "suggère", "des", "thèmes", "de", "renouveau", "et", "de", "purification"],
+      "wordOptions": ["Le", "motif", "récurrent", "de", "l'eau", "suggère", "des", "thèmes", "de", "renouveau", "et", "de", "purification", "évoque"],
+      "explanation": "'Motif récurrent' = recurring motif. Thematic analysis in literary works.",
+      "grammar_points": ["literary_motifs", "thematic_analysis", "symbolic_meaning"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_lit_005",
+      "english": "The juxtaposition of innocence and experience creates dramatic tension.",
+      "correctFrench": ["La", "juxtaposition", "de", "l'innocence", "et", "de", "l'expérience", "crée", "une", "tension", "dramatique"],
+      "wordOptions": ["La", "juxtaposition", "de", "l'innocence", "et", "de", "l'expérience", "crée", "une", "tension", "dramatique", "opposition"],
+      "explanation": "'Juxtaposition' = juxtaposition. Literary device creating dramatic effect.",
+      "grammar_points": ["literary_devices", "dramatic_tension", "thematic_contrast"],
+      "difficulty": 4.7
+    }
+  ]
+}

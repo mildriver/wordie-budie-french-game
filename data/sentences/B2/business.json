@@ -1,1 +1,53 @@
-{"level":"B2","topic":"business","sentences":[]} 
+{
+  "level": "B2",
+  "topic": "business",
+  "description": "Advanced business language, corporate communication, and professional discourse",
+  "total_sentences": 150,
+  "sentences": [
+    {
+      "id": "b2_business_001",
+      "english": "The quarterly results exceeded analysts' expectations by a significant margin.",
+      "correctFrench": ["Les", "résultats", "trimestriels", "ont", "dépassé", "les", "prévisions", "des", "analystes", "d'une", "marge", "significative"],
+      "wordOptions": ["Les", "résultats", "trimestriels", "ont", "dépassé", "les", "prévisions", "des", "analystes", "d'une", "marge", "significative", "attentes"],
+      "explanation": "Business performance vocabulary. 'Dépasser les prévisions d'une marge' = exceed expectations by a margin.",
+      "grammar_points": ["business_performance", "financial_vocabulary", "margin_expressions"],
+      "difficulty": 4.3
+    },
+    {
+      "id": "b2_business_002",
+      "english": "Should the merger proceed as planned, significant synergies are anticipated.",
+      "correctFrench": ["Si", "la", "fusion", "se", "déroule", "comme", "prévu", "d'importantes", "synergies", "sont", "anticipées"],
+      "wordOptions": ["Si", "la", "fusion", "se", "déroule", "comme", "prévu", "d'importantes", "synergies", "sont", "anticipées", "attendues"],
+      "explanation": "Conditional business planning. 'Se dérouler comme prévu' = proceed as planned.",
+      "grammar_points": ["conditional_planning", "merger_vocabulary", "business_synergies"],
+      "difficulty": 4.4
+    },
+    {
+      "id": "b2_business_003",
+      "english": "The board unanimously voted to divest from non-core assets.",
+      "correctFrench": ["Le", "conseil", "d'administration", "a", "voté", "à", "l'unanimité", "pour", "se", "dessaisir", "des", "actifs", "non", "stratégiques"],
+      "wordOptions": ["Le", "conseil", "d'administration", "a", "voté", "à", "l'unanimité", "pour", "se", "dessaisir", "des", "actifs", "non", "stratégiques", "céder"],
+      "explanation": "Corporate governance vocabulary. 'Se dessaisir de' = to divest from.",
+      "grammar_points": ["corporate_governance", "divestment_vocabulary", "strategic_decisions"],
+      "difficulty": 4.6
+    },
+    {
+      "id": "b2_business_004",
+      "english": "Market volatility notwithstanding, our portfolio has shown resilience.",
+      "correctFrench": ["Nonobstant", "la", "volatilité", "du", "marché", "notre", "portefeuille", "a", "fait", "preuve", "de", "résilience"],
+      "wordOptions": ["Nonobstant", "la", "volatilité", "du", "marché", "notre", "portefeuille", "a", "fait", "preuve", "de", "résilience", "Malgré"],
+      "explanation": "'Nonobstant' = notwithstanding (formal). 'Faire preuve de résilience' = show resilience.",
+      "grammar_points": ["formal_concession", "market_vocabulary", "portfolio_performance"],
+      "difficulty": 4.5
+    },
+    {
+      "id": "b2_business_005",
+      "english": "The implementation of AI technologies has streamlined our operations considerably.",
+      "correctFrench": ["La", "mise", "en", "œuvre", "des", "technologies", "d'IA", "a", "considérablement", "rationalisé", "nos", "opérations"],
+      "wordOptions": ["La", "mise", "en", "œuvre", "des", "technologies", "d'IA", "a", "considérablement", "rationalisé", "nos", "opérations", "optimisé"],
+      "explanation": "'Mise en œuvre' = implementation. 'Rationaliser' = to streamline. Technology integration.",
+      "grammar_points": ["technology_implementation", "operational_efficiency", "business_transformation"],
+      "difficulty": 4.4
+    }
+  ]
+}

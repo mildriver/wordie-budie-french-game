@@ -1,1 +1,188 @@
-{"level":"B1","topic":"future","sentences":[]} 
+{
+  "level": "B1",
+  "topic": "future",
+  "description": "Future tenses, plans, predictions, and future time expressions",
+  "total_sentences": 120,
+  "sentences": [
+    {
+      "id": "b1_future_001",
+      "english": "I will call you when I arrive.",
+      "correctFrench": ["Je", "t'appellerai", "quand", "j'arriverai"],
+      "wordOptions": ["Je", "t'appellerai", "quand", "j'arriverai", "vais", "appeler", "arriverai", "arrive"],
+      "explanation": "Future tense in both clauses with 'quand'. 'T'appellerai' and 'j'arriverai' both use future simple.",
+      "grammar_points": ["future_simple", "temporal_clauses", "sequence_of_tenses"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_future_002",
+      "english": "She is going to study medicine next year.",
+      "correctFrench": ["Elle", "va", "étudier", "la", "médecine", "l'année", "prochaine"],
+      "wordOptions": ["Elle", "va", "étudier", "la", "médecine", "l'année", "prochaine", "étudiera", "prochaine", "suivante"],
+      "explanation": "Near future with 'aller' + infinitive. 'Va étudier' = is going to study.",
+      "grammar_points": ["near_future", "academic_plans", "time_expressions"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "b1_future_003",
+      "english": "By 2030, technology will have changed everything.",
+      "correctFrench": ["D'ici", "2030", "la", "technologie", "aura", "tout", "changé"],
+      "wordOptions": ["D'ici", "2030", "la", "technologie", "aura", "tout", "changé", "En", "sera", "changée"],
+      "explanation": "Future perfect: 'aura changé'. 'D'ici 2030' = by 2030. Completed future action.",
+      "grammar_points": ["future_perfect", "time_expressions", "technological_change"],
+      "difficulty": 3.5
+    },
+    {
+      "id": "b1_future_004",
+      "english": "We might go to Spain this summer.",
+      "correctFrench": ["Nous", "irons", "peut-être", "en", "Espagne", "cet", "été"],
+      "wordOptions": ["Nous", "irons", "peut-être", "en", "Espagne", "cet", "été", "pourrons", "aller", "possiblement"],
+      "explanation": "'Peut-être' expresses possibility. 'Irons' = will go (future simple of aller).",
+      "grammar_points": ["possibility_expressions", "travel_plans", "future_simple"],
+      "difficulty": 3.0
+    },
+    {
+      "id": "b1_future_005",
+      "english": "I hope the weather will be nice tomorrow.",
+      "correctFrench": ["J'espère", "qu'il", "fera", "beau", "demain"],
+      "wordOptions": ["J'espère", "qu'il", "fera", "beau", "demain", "que", "il", "temps", "sera", "fait"],
+      "explanation": "'Espérer que' + future. 'Il fera beau' = weather will be nice. Hope expressions.",
+      "grammar_points": ["hope_expressions", "weather_predictions", "future_simple"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "b1_future_006",
+      "english": "He will have finished his work by 6 PM.",
+      "correctFrench": ["Il", "aura", "fini", "son", "travail", "avant", "18", "heures"],
+      "wordOptions": ["Il", "aura", "fini", "son", "travail", "avant", "18", "heures", "finira", "d'ici", "à"],
+      "explanation": "Future perfect: 'aura fini'. 'Avant 18 heures' = by 6 PM. Completion deadline.",
+      "grammar_points": ["future_perfect", "work_completion", "time_deadlines"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_future_007",
+      "english": "They will probably buy a new house.",
+      "correctFrench": ["Ils", "achèteront", "probablement", "une", "nouvelle", "maison"],
+      "wordOptions": ["Ils", "achèteront", "probablement", "une", "nouvelle", "maison", "vont", "acheter", "certainement"],
+      "explanation": "'Probablement' = probably. 'Achèteront' = will buy (future simple). Probability.",
+      "grammar_points": ["probability_expressions", "future_plans", "real_estate"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_future_008",
+      "english": "If you study hard, you will succeed.",
+      "correctFrench": ["Si", "tu", "étudies", "bien", "tu", "réussiras"],
+      "wordOptions": ["Si", "tu", "étudies", "bien", "tu", "réussiras", "étudieras", "réussis", "beaucoup"],
+      "explanation": "Type 1 conditional: Si + present + future. Cause and effect relationship.",
+      "grammar_points": ["conditional_type1", "study_success", "cause_effect"],
+      "difficulty": 3.0
+    },
+    {
+      "id": "b1_future_009",
+      "english": "In the future, cars will be electric.",
+      "correctFrench": ["À", "l'avenir", "les", "voitures", "seront", "électriques"],
+      "wordOptions": ["À", "l'avenir", "les", "voitures", "seront", "électriques", "Dans", "le", "futur", "deviendront"],
+      "explanation": "'À l'avenir' = in the future. 'Seront' = will be. Future predictions.",
+      "grammar_points": ["future_predictions", "environmental_change", "technology_evolution"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "b1_future_010",
+      "english": "We are about to leave for the airport.",
+      "correctFrench": ["Nous", "sommes", "sur", "le", "point", "de", "partir", "pour", "l'aéroport"],
+      "wordOptions": ["Nous", "sommes", "sur", "le", "point", "de", "partir", "pour", "l'aéroport", "allons", "bientôt"],
+      "explanation": "'Être sur le point de' = to be about to. Immediate future action.",
+      "grammar_points": ["immediate_future", "travel_departure", "temporal_proximity"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_future_011",
+      "english": "I think robots will replace many jobs.",
+      "correctFrench": ["Je", "pense", "que", "les", "robots", "remplaceront", "beaucoup", "d'emplois"],
+      "wordOptions": ["Je", "pense", "que", "les", "robots", "remplaceront", "beaucoup", "d'emplois", "vont", "remplacer"],
+      "explanation": "'Penser que' + future. Opinion about future developments. Technology impact.",
+      "grammar_points": ["opinion_expressions", "future_predictions", "employment_changes"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_future_012",
+      "english": "She will be working while we are on vacation.",
+      "correctFrench": ["Elle", "travaillera", "pendant", "que", "nous", "serons", "en", "vacances"],
+      "wordOptions": ["Elle", "travaillera", "pendant", "que", "nous", "serons", "en", "vacances", "sera", "train", "de"],
+      "explanation": "Future simple expressing simultaneous actions. 'Pendant que' = while.",
+      "grammar_points": ["simultaneous_actions", "future_continuous_concept", "temporal_clauses"],
+      "difficulty": 3.4
+    },
+    {
+      "id": "b1_future_013",
+      "english": "This time next week, I will be in Paris.",
+      "correctFrench": ["La", "semaine", "prochaine", "à", "cette", "heure", "je", "serai", "à", "Paris"],
+      "wordOptions": ["La", "semaine", "prochaine", "à", "cette", "heure", "je", "serai", "à", "Paris", "Dans", "une"],
+      "explanation": "Future time reference. 'À cette heure' = at this time. Specific future moment.",
+      "grammar_points": ["specific_future_time", "location_expressions", "temporal_precision"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "b1_future_014",
+      "english": "Once he graduates, he will look for a job.",
+      "correctFrench": ["Une", "fois", "qu'il", "aura", "obtenu", "son", "diplôme", "il", "cherchera", "du", "travail"],
+      "wordOptions": ["Une", "fois", "qu'il", "aura", "obtenu", "son", "diplôme", "il", "cherchera", "du", "travail", "diplômé"],
+      "explanation": "'Une fois que' + future perfect + future simple. Sequential future actions.",
+      "grammar_points": ["sequential_future", "graduation_plans", "job_searching"],
+      "difficulty": 3.6
+    },
+    {
+      "id": "b1_future_015",
+      "english": "I doubt they will arrive on time.",
+      "correctFrench": ["Je", "doute", "qu'ils", "arrivent", "à", "l'heure"],
+      "wordOptions": ["Je", "doute", "qu'ils", "arrivent", "à", "l'heure", "arriveront", "que", "ils", "viennent"],
+      "explanation": "'Douter que' + subjunctive (arrivent). Doubt expressions require subjunctive.",
+      "grammar_points": ["doubt_expressions", "subjunctive_present", "punctuality"],
+      "difficulty": 3.7
+    },
+    {
+      "id": "b1_future_016",
+      "english": "The meeting is scheduled for next Tuesday.",
+      "correctFrench": ["La", "réunion", "est", "prévue", "pour", "mardi", "prochain"],
+      "wordOptions": ["La", "réunion", "est", "prévue", "pour", "mardi", "prochain", "programmée", "planifiée", "mercredi"],
+      "explanation": "'Être prévu pour' = to be scheduled for. Formal planning expressions.",
+      "grammar_points": ["scheduling_vocabulary", "formal_planning", "business_appointments"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "b1_future_017",
+      "english": "By the time you read this, I will have left.",
+      "correctFrench": ["Quand", "tu", "liras", "ceci", "je", "serai", "déjà", "parti"],
+      "wordOptions": ["Quand", "tu", "liras", "ceci", "je", "serai", "déjà", "parti", "aurai", "quitté", "partira"],
+      "explanation": "'Quand' + future + future perfect. 'Serai parti' = will have left.",
+      "grammar_points": ["temporal_sequence", "future_perfect", "departure_expressions"],
+      "difficulty": 3.8
+    },
+    {
+      "id": "b1_future_018",
+      "english": "I wonder what life will be like in 50 years.",
+      "correctFrench": ["Je", "me", "demande", "comment", "sera", "la", "vie", "dans", "50", "ans"],
+      "wordOptions": ["Je", "me", "demande", "comment", "sera", "la", "vie", "dans", "50", "ans", "que", "ce"],
+      "explanation": "'Se demander comment' = to wonder how. Future speculation about distant time.",
+      "grammar_points": ["wondering_expressions", "long_term_future", "life_speculation"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "b1_future_019",
+      "english": "She promises she will be more careful.",
+      "correctFrench": ["Elle", "promet", "qu'elle", "sera", "plus", "prudente"],
+      "wordOptions": ["Elle", "promet", "qu'elle", "sera", "plus", "prudente", "promettre", "de", "être", "attentive"],
+      "explanation": "'Promettre que' + future. Promise about future behavior change.",
+      "grammar_points": ["promise_expressions", "future_commitment", "behavioral_change"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "b1_future_020",
+      "english": "We will have been married for 10 years next month.",
+      "correctFrench": ["Le", "mois", "prochain", "cela", "fera", "10", "ans", "que", "nous", "sommes", "mariés"],
+      "wordOptions": ["Le", "mois", "prochain", "cela", "fera", "10", "ans", "que", "nous", "sommes", "mariés", "serons"],
+      "explanation": "'Cela fera X temps que' = it will have been X time since. Duration expression.",
+      "grammar_points": ["duration_expressions", "anniversary_vocabulary", "temporal_calculation"],
+      "difficulty": 3.9
+    }
+  ]
+}

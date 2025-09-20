@@ -1,0 +1,188 @@
+{
+  "level": "A1",
+  "topic": "clothing-accessories",
+  "description": "Clothing, accessories, colors, and what people wear",
+  "total_sentences": 80,
+  "sentences": [
+    {
+      "id": "a1_clothing_001",
+      "english": "I wear a red shirt.",
+      "correctFrench": ["Je", "porte", "une", "chemise", "rouge"],
+      "wordOptions": ["Je", "porte", "une", "chemise", "rouge", "mets", "t-shirt", "bleu", "bleue", "verte"],
+      "explanation": "'Porter' = to wear. 'Une chemise' = shirt (feminine). Color adjectives come after nouns.",
+      "grammar_points": ["clothing_vocabulary", "color_adjectives", "adjective_position"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_clothing_002",
+      "english": "She has blue jeans.",
+      "correctFrench": ["Elle", "a", "un", "jean", "bleu"],
+      "wordOptions": ["Elle", "a", "un", "jean", "bleu", "une", "jeans", "bleue", "pantalon", "noir", "blanc"],
+      "explanation": "'Un jean' = jeans (masculine singular in French). 'Bleu' agrees with masculine.",
+      "grammar_points": ["clothing_vocabulary", "color_agreement"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_clothing_003",
+      "english": "The dress is beautiful.",
+      "correctFrench": ["La", "robe", "est", "belle"],
+      "wordOptions": ["La", "robe", "est", "belle", "Le", "jupe", "beau", "jolie", "joli", "magnifique"],
+      "explanation": "'La robe' = dress (feminine). 'Belle' (feminine form of beau).",
+      "grammar_points": ["clothing_vocabulary", "beauty_adjectives"],
+      "difficulty": 1.1
+    },
+    {
+      "id": "a1_clothing_004",
+      "english": "He wears black shoes.",
+      "correctFrench": ["Il", "porte", "des", "chaussures", "noires"],
+      "wordOptions": ["Il", "porte", "des", "chaussures", "noires", "souliers", "noir", "blanches", "marron"],
+      "explanation": "'Des chaussures' = shoes (feminine plural). 'Noires' (feminine plural of noir).",
+      "grammar_points": ["clothing_vocabulary", "color_agreement", "plural_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_clothing_005",
+      "english": "My coat is warm.",
+      "correctFrench": ["Mon", "manteau", "est", "chaud"],
+      "wordOptions": ["Mon", "manteau", "est", "chaud", "Ma", "veste", "chaude", "froid", "froide", "léger"],
+      "explanation": "'Mon manteau' = my coat (masculine). 'Chaud' = warm (masculine).",
+      "grammar_points": ["possessive_adjectives", "temperature_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_clothing_006",
+      "english": "The hat is on the head.",
+      "correctFrench": ["Le", "chapeau", "est", "sur", "la", "tête"],
+      "wordOptions": ["Le", "chapeau", "est", "sur", "la", "tête", "casquette", "dans", "à", "le", "cheveux"],
+      "explanation": "'Le chapeau' = hat. 'Sur la tête' = on the head. Preposition 'sur' = on.",
+      "grammar_points": ["accessories_vocabulary", "body_parts", "prepositions"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_clothing_007",
+      "english": "I need new socks.",
+      "correctFrench": ["J'ai", "besoin", "de", "nouvelles", "chaussettes"],
+      "wordOptions": ["J'ai", "besoin", "de", "nouvelles", "chaussettes", "nouveaux", "nouvelle", "bas", "collants"],
+      "explanation": "'Avoir besoin de' = to need. 'Nouvelles' (feminine plural) agrees with 'chaussettes'.",
+      "grammar_points": ["expressing_need", "clothing_vocabulary", "adjective_agreement"],
+      "difficulty": 1.6
+    },
+    {
+      "id": "a1_clothing_008",
+      "english": "The scarf is long.",
+      "correctFrench": ["L'écharpe", "est", "longue"],
+      "wordOptions": ["L'écharpe", "est", "longue", "Le", "foulard", "long", "courte", "court", "large", "étroite"],
+      "explanation": "'L'écharpe' = scarf (feminine). 'Longue' (feminine form of long).",
+      "grammar_points": ["accessories_vocabulary", "size_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_clothing_009",
+      "english": "She puts on her jacket.",
+      "correctFrench": ["Elle", "met", "sa", "veste"],
+      "wordOptions": ["Elle", "met", "sa", "veste", "mets", "son", "porte", "manteau", "blouson", "enlève"],
+      "explanation": "'Mettre' = to put on (irregular). 'Sa veste' = her jacket (feminine).",
+      "grammar_points": ["irregular_verbs", "possessive_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_clothing_010",
+      "english": "The pants are too big.",
+      "correctFrench": ["Le", "pantalon", "est", "trop", "grand"],
+      "wordOptions": ["Le", "pantalon", "est", "trop", "grand", "Les", "pantalons", "petit", "large", "étroit", "court"],
+      "explanation": "'Le pantalon' = pants (masculine singular). 'Trop' = too (much).",
+      "grammar_points": ["clothing_vocabulary", "size_adjectives", "intensifiers"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_clothing_011",
+      "english": "I like your sweater.",
+      "correctFrench": ["J'aime", "ton", "pull"],
+      "wordOptions": ["J'aime", "ton", "pull", "ta", "votre", "chandail", "pullover", "adore", "déteste"],
+      "explanation": "'Aimer' = to like. 'Ton pull' = your sweater (masculine, informal).",
+      "grammar_points": ["expressing_preferences", "possessive_adjectives"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_clothing_012",
+      "english": "The gloves are leather.",
+      "correctFrench": ["Les", "gants", "sont", "en", "cuir"],
+      "wordOptions": ["Les", "gants", "sont", "en", "cuir", "Le", "est", "de", "laine", "coton", "soie"],
+      "explanation": "'Les gants' = gloves (masculine plural). 'En cuir' = made of leather.",
+      "grammar_points": ["accessories_vocabulary", "materials"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_clothing_013",
+      "english": "This skirt is short.",
+      "correctFrench": ["Cette", "jupe", "est", "courte"],
+      "wordOptions": ["Cette", "jupe", "est", "courte", "Ce", "robe", "court", "longue", "long", "mini"],
+      "explanation": "'Cette jupe' = this skirt (feminine). 'Courte' (feminine form of court).",
+      "grammar_points": ["demonstrative_adjectives", "length_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_clothing_014",
+      "english": "He takes off his tie.",
+      "correctFrench": ["Il", "enlève", "sa", "cravate"],
+      "wordOptions": ["Il", "enlève", "sa", "cravate", "met", "son", "porte", "noeud", "papillon", "chemise"],
+      "explanation": "'Enlever' = to take off. 'Sa cravate' = his tie (feminine).",
+      "grammar_points": ["clothing_actions", "possessive_adjectives"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_clothing_015",
+      "english": "The boots are brown.",
+      "correctFrench": ["Les", "bottes", "sont", "marron"],
+      "wordOptions": ["Les", "bottes", "sont", "marron", "La", "botte", "noires", "brunes", "chaussures", "hautes"],
+      "explanation": "'Les bottes' = boots (feminine plural). 'Marron' = brown (invariable color).",
+      "grammar_points": ["footwear_vocabulary", "invariable_colors"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_clothing_016",
+      "english": "I have a new watch.",
+      "correctFrench": ["J'ai", "une", "nouvelle", "montre"],
+      "wordOptions": ["J'ai", "une", "nouvelle", "montre", "nouveau", "neuve", "vieille", "belle", "bracelet"],
+      "explanation": "'Une nouvelle montre' = a new watch. 'Nouvelle' (feminine of nouveau) before noun.",
+      "grammar_points": ["accessories_vocabulary", "adjective_placement"],
+      "difficulty": 1.4
+    },
+    {
+      "id": "a1_clothing_017",
+      "english": "The shirt has buttons.",
+      "correctFrench": ["La", "chemise", "a", "des", "boutons"],
+      "wordOptions": ["La", "chemise", "a", "des", "boutons", "Le", "chemisier", "bouton", "fermeture", "éclair"],
+      "explanation": "'Des boutons' = buttons (masculine plural). Clothing features vocabulary.",
+      "grammar_points": ["clothing_features", "plural_articles"],
+      "difficulty": 1.3
+    },
+    {
+      "id": "a1_clothing_018",
+      "english": "She wears earrings.",
+      "correctFrench": ["Elle", "porte", "des", "boucles", "d'oreilles"],
+      "wordOptions": ["Elle", "porte", "des", "boucles", "d'oreilles", "boucle", "d'oreille", "collier", "bracelet"],
+      "explanation": "'Des boucles d'oreilles' = earrings. Note the plural form and contraction.",
+      "grammar_points": ["jewelry_vocabulary", "contractions"],
+      "difficulty": 1.5
+    },
+    {
+      "id": "a1_clothing_019",
+      "english": "The pocket is empty.",
+      "correctFrench": ["La", "poche", "est", "vide"],
+      "wordOptions": ["La", "poche", "est", "vide", "Le", "sac", "pleine", "plein", "remplie", "troué"],
+      "explanation": "'La poche' = pocket (feminine). 'Vide' = empty (same for masculine/feminine).",
+      "grammar_points": ["clothing_features", "descriptive_adjectives"],
+      "difficulty": 1.2
+    },
+    {
+      "id": "a1_clothing_020",
+      "english": "I need to buy clothes.",
+      "correctFrench": ["Je", "dois", "acheter", "des", "vêtements"],
+      "wordOptions": ["Je", "dois", "acheter", "des", "vêtements", "devons", "habits", "affaires", "fringues"],
+      "explanation": "'Devoir' = must/need to. 'Des vêtements' = clothes (masculine plural).",
+      "grammar_points": ["modal_verbs", "shopping_vocabulary"],
+      "difficulty": 1.6
+    }
+  ]
+}
