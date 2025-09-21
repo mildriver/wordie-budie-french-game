@@ -165,6 +165,7 @@
         @media (max-width: 768px) {
             body {
                 font-family: Arial, sans-serif !important;
+                padding: 3px;
             }
 
             .header h1 {
@@ -172,25 +173,149 @@
             }
 
             .container {
-                margin: 5px;
+                margin: 2px;
                 border-radius: 8px;
             }
 
-            .game-frame {
-                height: 800px; /* Increased for mobile */
+            .header {
+                padding: 15px;
+            }
+
+            .header h1 {
+                font-size: 1.4rem;
+                margin-bottom: 8px;
+            }
+
+            .header p {
+                font-size: 13px;
+                margin-bottom: 10px;
+            }
+
+            .instructions {
+                padding: 15px;
+            }
+
+            .instructions h2 {
+                font-size: 1.1rem;
+                margin-bottom: 12px;
             }
 
             .instructions ul {
                 grid-template-columns: 1fr;
+                gap: 8px;
             }
 
-            .header h1 {
-                font-size: 1.5rem;
+            .instructions li {
+                padding: 8px 12px;
+                font-size: 13px;
+            }
+
+            .ad-small {
+                margin: 10px;
+                padding: 10px;
+                font-size: 12px;
+            }
+
+            .game-container {
+                margin: 10px;
+            }
+
+            .game-frame {
+                height: calc(100vh - 220px); /* Dynamic height to fit screen */
+                min-height: 600px;
             }
 
             /* Hide sidebar on mobile to give more space to game */
             .sidebar {
                 display: none;
+            }
+
+            .social-share {
+                padding: 20px 15px;
+            }
+
+            .social-share h2 {
+                font-size: 1.2rem;
+                margin-bottom: 12px;
+            }
+
+            .share-button {
+                padding: 8px 15px;
+                font-size: 13px;
+                margin: 3px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 1px;
+            }
+
+            .container {
+                margin: 1px;
+            }
+
+            .header {
+                padding: 12px;
+            }
+
+            .header h1 {
+                font-size: 1.2rem;
+                margin-bottom: 6px;
+            }
+
+            .header p {
+                font-size: 12px;
+            }
+
+            .back-button {
+                padding: 6px 12px;
+                font-size: 12px;
+                margin: 10px;
+            }
+
+            .instructions {
+                padding: 12px;
+            }
+
+            .instructions h2 {
+                font-size: 1rem;
+                margin-bottom: 10px;
+            }
+
+            .instructions li {
+                padding: 6px 10px;
+                font-size: 12px;
+            }
+
+            .game-frame {
+                height: calc(100vh - 180px); /* Even more compact for small screens */
+                min-height: 550px;
+            }
+
+            .ad-small {
+                margin: 8px;
+                padding: 8px;
+                font-size: 11px;
+            }
+
+            .social-share {
+                padding: 15px 10px;
+            }
+
+            .social-share h2 {
+                font-size: 1.1rem;
+                margin-bottom: 10px;
+            }
+
+            .social-share p {
+                font-size: 12px;
+            }
+
+            .share-button {
+                padding: 6px 12px;
+                font-size: 12px;
+                margin: 2px;
             }
         }
 
