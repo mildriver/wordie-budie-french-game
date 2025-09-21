@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "work",
   "description": "Jobs, professions, workplace, and work-related activities",
-  "total_sentences": 100,
+  "total_sentences": 200,
   "sentences": [
     {
       "id": "a2_work_001",
@@ -183,6 +183,726 @@
       "explanation": "'Gagner un salaire' = to earn a salary. Compensation vocabulary.",
       "grammar_points": ["salary_vocabulary", "income_expressions", "work_benefits"],
       "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_021",
+      "english": "The nurse works night shifts.",
+      "correctFrench": ["L'infirmière", "travaille", "de", "nuit"],
+      "wordOptions": ["L'infirmière", "travaille", "de", "nuit", "L'infirmier", "fait", "les", "gardes", "nocturnes"],
+      "explanation": "'Travailler de nuit' = to work night shifts. Healthcare scheduling.",
+      "grammar_points": ["healthcare_professions", "work_schedules", "time_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_022",
+      "english": "I send emails to my colleagues.",
+      "correctFrench": ["J'envoie", "des", "emails", "à", "mes", "collègues"],
+      "wordOptions": ["J'envoie", "des", "emails", "à", "mes", "collègues", "courriels", "messages", "équipe", "collaborateurs"],
+      "explanation": "'Envoyer des emails' = to send emails. 'Mes collègues' = my colleagues.",
+      "grammar_points": ["office_communication", "technology_vocabulary", "possessive_adjectives"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_023",
+      "english": "The accountant prepares financial reports.",
+      "correctFrench": ["Le", "comptable", "prépare", "des", "rapports", "financiers"],
+      "wordOptions": ["Le", "comptable", "prépare", "des", "rapports", "financiers", "La", "comptable", "documents", "budgets"],
+      "explanation": "'Le/la comptable' = accountant. 'Des rapports financiers' = financial reports.",
+      "grammar_points": ["finance_professions", "business_documents", "adjective_agreement"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_024",
+      "english": "She works in human resources.",
+      "correctFrench": ["Elle", "travaille", "dans", "les", "ressources", "humaines"],
+      "wordOptions": ["Elle", "travaille", "dans", "les", "ressources", "humaines", "en", "aux", "RH", "personnel"],
+      "explanation": "'Les ressources humaines' = human resources. Department vocabulary.",
+      "grammar_points": ["company_departments", "prepositions", "business_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_025",
+      "english": "The mechanic repairs cars.",
+      "correctFrench": ["Le", "mécanicien", "répare", "les", "voitures"],
+      "wordOptions": ["Le", "mécanicien", "répare", "les", "voitures", "La", "mécanicienne", "arrange", "automobiles", "véhicules"],
+      "explanation": "'Le/la mécanicien(ne)' = mechanic. 'Réparer' = to repair.",
+      "grammar_points": ["technical_professions", "repair_vocabulary", "vehicle_vocabulary"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_work_026",
+      "english": "I have a job interview tomorrow.",
+      "correctFrench": ["J'ai", "un", "entretien", "d'embauche", "demain"],
+      "wordOptions": ["J'ai", "un", "entretien", "d'embauche", "demain", "entrevue", "interview", "rendez-vous", "aujourd'hui"],
+      "explanation": "'Un entretien d'embauche' = job interview. Job searching vocabulary.",
+      "grammar_points": ["job_searching", "interview_vocabulary", "time_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_027",
+      "english": "The pilot flies international routes.",
+      "correctFrench": ["Le", "pilote", "vole", "sur", "des", "routes", "internationales"],
+      "wordOptions": ["Le", "pilote", "vole", "sur", "des", "routes", "internationales", "La", "pilote", "lignes", "nationales"],
+      "explanation": "'Voler sur des routes' = to fly routes. Aviation vocabulary.",
+      "grammar_points": ["aviation_professions", "international_vocabulary", "route_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_028",
+      "english": "We clock in at 8 AM sharp.",
+      "correctFrench": ["Nous", "pointons", "à", "8", "heures", "précises"],
+      "wordOptions": ["Nous", "pointons", "à", "8", "heures", "précises", "arrivons", "commençons", "pile", "exactement"],
+      "explanation": "'Pointer' = to clock in. 'À 8 heures précises' = at 8 AM sharp.",
+      "grammar_points": ["work_procedures", "time_precision", "workplace_routine"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_029",
+      "english": "The cashier counts the money.",
+      "correctFrench": ["La", "caissière", "compte", "l'argent"],
+      "wordOptions": ["La", "caissière", "compte", "l'argent", "Le", "caissier", "calcule", "monnaie", "espèces"],
+      "explanation": "'La/le caissier/caissière' = cashier. 'Compter l'argent' = to count money.",
+      "grammar_points": ["retail_professions", "money_vocabulary", "counting_verbs"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_work_030",
+      "english": "I take breaks every two hours.",
+      "correctFrench": ["Je", "prends", "des", "pauses", "toutes", "les", "deux", "heures"],
+      "wordOptions": ["Je", "prends", "des", "pauses", "toutes", "les", "deux", "heures", "pause", "repos", "une", "heure"],
+      "explanation": "'Prendre des pauses' = to take breaks. 'Toutes les deux heures' = every two hours.",
+      "grammar_points": ["work_breaks", "frequency_expressions", "time_intervals"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_031",
+      "english": "The firefighter saves lives.",
+      "correctFrench": ["Le", "pompier", "sauve", "des", "vies"],
+      "wordOptions": ["Le", "pompier", "sauve", "des", "vies", "La", "pompier", "sapeur-pompier", "personnes", "gens"],
+      "explanation": "'Le/la pompier' = firefighter. 'Sauver des vies' = to save lives.",
+      "grammar_points": ["emergency_services", "rescue_vocabulary", "life_saving"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_032",
+      "english": "She manages a team of five people.",
+      "correctFrench": ["Elle", "gère", "une", "équipe", "de", "cinq", "personnes"],
+      "wordOptions": ["Elle", "gère", "une", "équipe", "de", "cinq", "personnes", "dirige", "manage", "groupe", "gens"],
+      "explanation": "'Gérer une équipe' = to manage a team. Management vocabulary.",
+      "grammar_points": ["management_vocabulary", "team_leadership", "numbers"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_033",
+      "english": "The plumber fixes the pipes.",
+      "correctFrench": ["Le", "plombier", "répare", "les", "tuyaux"],
+      "wordOptions": ["Le", "plombier", "répare", "les", "tuyaux", "La", "plombière", "arrange", "canalisations", "robinets"],
+      "explanation": "'Le/la plombier/plombière' = plumber. 'Les tuyaux' = pipes.",
+      "grammar_points": ["technical_professions", "plumbing_vocabulary", "repair_verbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_034",
+      "english": "I work flexible hours.",
+      "correctFrench": ["Je", "travaille", "avec", "des", "horaires", "flexibles"],
+      "wordOptions": ["Je", "travaille", "avec", "des", "horaires", "flexibles", "à", "heures", "variables", "souples"],
+      "explanation": "'Des horaires flexibles' = flexible hours. Modern work arrangements.",
+      "grammar_points": ["work_flexibility", "schedule_vocabulary", "modern_work"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_035",
+      "english": "The dentist examines patients' teeth.",
+      "correctFrench": ["Le", "dentiste", "examine", "les", "dents", "des", "patients"],
+      "wordOptions": ["Le", "dentiste", "examine", "les", "dents", "des", "patients", "La", "dentiste", "soigne", "client"],
+      "explanation": "'Le/la dentiste' = dentist. 'Les dents des patients' = patients' teeth.",
+      "grammar_points": ["medical_professions", "dental_vocabulary", "possessive_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_036",
+      "english": "We have deadlines to meet.",
+      "correctFrench": ["Nous", "avons", "des", "échéances", "à", "respecter"],
+      "wordOptions": ["Nous", "avons", "des", "échéances", "à", "respecter", "délais", "dates", "limites", "tenir"],
+      "explanation": "'Des échéances à respecter' = deadlines to meet. Work pressure vocabulary.",
+      "grammar_points": ["work_pressure", "deadline_vocabulary", "infinitive_constructions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_037",
+      "english": "The librarian organizes books.",
+      "correctFrench": ["Le", "bibliothécaire", "organise", "les", "livres"],
+      "wordOptions": ["Le", "bibliothécaire", "organise", "les", "livres", "La", "bibliothécaire", "range", "classe", "ouvrages"],
+      "explanation": "'Le/la bibliothécaire' = librarian. 'Organiser les livres' = to organize books.",
+      "grammar_points": ["education_professions", "library_vocabulary", "organization_verbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_038",
+      "english": "I submit my expenses monthly.",
+      "correctFrench": ["Je", "soumets", "mes", "frais", "mensuellement"],
+      "wordOptions": ["Je", "soumets", "mes", "frais", "mensuellement", "présente", "notes", "de", "tous", "les", "mois"],
+      "explanation": "'Soumettre ses frais' = to submit expenses. Business procedures.",
+      "grammar_points": ["business_procedures", "financial_vocabulary", "frequency_adverbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_039",
+      "english": "The photographer takes wedding photos.",
+      "correctFrench": ["Le", "photographe", "prend", "des", "photos", "de", "mariage"],
+      "wordOptions": ["Le", "photographe", "prend", "des", "photos", "de", "mariage", "La", "photographe", "fait", "portraits"],
+      "explanation": "'Le/la photographe' = photographer. 'Des photos de mariage' = wedding photos.",
+      "grammar_points": ["creative_professions", "photography_vocabulary", "event_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_040",
+      "english": "She negotiates contracts with clients.",
+      "correctFrench": ["Elle", "négocie", "des", "contrats", "avec", "les", "clients"],
+      "wordOptions": ["Elle", "négocie", "des", "contrats", "avec", "les", "clients", "accords", "discusses", "clientèle"],
+      "explanation": "'Négocier des contrats' = to negotiate contracts. Business vocabulary.",
+      "grammar_points": ["business_negotiations", "contract_vocabulary", "client_relations"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_041",
+      "english": "The electrician installs new wiring.",
+      "correctFrench": ["L'électricien", "installe", "de", "nouveaux", "câblages"],
+      "wordOptions": ["L'électricien", "installe", "de", "nouveaux", "câblages", "L'électricienne", "pose", "fils", "électriques"],
+      "explanation": "'L'électricien(ne)' = electrician. 'Installer des câblages' = to install wiring.",
+      "grammar_points": ["technical_professions", "electrical_vocabulary", "installation_verbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_042",
+      "english": "I attend weekly team meetings.",
+      "correctFrench": ["J'assiste", "aux", "réunions", "d'équipe", "hebdomadaires"],
+      "wordOptions": ["J'assiste", "aux", "réunions", "d'équipe", "hebdomadaires", "participe", "meetings", "chaque", "semaine"],
+      "explanation": "'Assister aux réunions' = to attend meetings. 'Hebdomadaires' = weekly.",
+      "grammar_points": ["meeting_vocabulary", "frequency_adjectives", "team_collaboration"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_043",
+      "english": "The farmer grows vegetables.",
+      "correctFrench": ["L'agriculteur", "cultive", "des", "légumes"],
+      "wordOptions": ["L'agriculteur", "cultive", "des", "légumes", "L'agricultrice", "fait", "pousser", "fruits", "céréales"],
+      "explanation": "'L'agriculteur/agricultrice' = farmer. 'Cultiver des légumes' = to grow vegetables.",
+      "grammar_points": ["agricultural_professions", "farming_vocabulary", "food_production"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_044",
+      "english": "We use computers for most tasks.",
+      "correctFrench": ["Nous", "utilisons", "des", "ordinateurs", "pour", "la", "plupart", "des", "tâches"],
+      "wordOptions": ["Nous", "utilisons", "des", "ordinateurs", "pour", "la", "plupart", "des", "tâches", "computers", "travaux"],
+      "explanation": "'Utiliser des ordinateurs' = to use computers. 'La plupart des tâches' = most tasks.",
+      "grammar_points": ["technology_in_work", "computer_vocabulary", "majority_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_045",
+      "english": "The hairdresser cuts hair stylishly.",
+      "correctFrench": ["Le", "coiffeur", "coupe", "les", "cheveux", "avec", "style"],
+      "wordOptions": ["Le", "coiffeur", "coupe", "les", "cheveux", "avec", "style", "La", "coiffeuse", "élégamment"],
+      "explanation": "'Le/la coiffeur/coiffeuse' = hairdresser. 'Avec style' = stylishly.",
+      "grammar_points": ["beauty_professions", "hair_vocabulary", "manner_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_046",
+      "english": "I collaborate with international teams.",
+      "correctFrench": ["Je", "collabore", "avec", "des", "équipes", "internationales"],
+      "wordOptions": ["Je", "collabore", "avec", "des", "équipes", "internationales", "travaille", "groupes", "étrangères"],
+      "explanation": "'Collaborer avec' = to collaborate with. International work vocabulary.",
+      "grammar_points": ["international_work", "collaboration_vocabulary", "adjective_agreement"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_047",
+      "english": "The taxi driver knows the city well.",
+      "correctFrench": ["Le", "chauffeur", "de", "taxi", "connaît", "bien", "la", "ville"],
+      "wordOptions": ["Le", "chauffeur", "de", "taxi", "connaît", "bien", "la", "ville", "La", "conductrice", "sait"],
+      "explanation": "'Le chauffeur de taxi' = taxi driver. 'Connaître bien' = to know well.",
+      "grammar_points": ["transportation_jobs", "knowledge_verbs", "city_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_048",
+      "english": "She gives presentations to clients.",
+      "correctFrench": ["Elle", "fait", "des", "présentations", "aux", "clients"],
+      "wordOptions": ["Elle", "fait", "des", "présentations", "aux", "clients", "donne", "présente", "à", "la", "clientèle"],
+      "explanation": "'Faire des présentations' = to give presentations. Business communication.",
+      "grammar_points": ["business_communication", "presentation_vocabulary", "client_interaction"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_049",
+      "english": "The janitor cleans the office building.",
+      "correctFrench": ["Le", "concierge", "nettoie", "l'immeuble", "de", "bureaux"],
+      "wordOptions": ["Le", "concierge", "nettoie", "l'immeuble", "de", "bureaux", "La", "concierge", "entretient", "bâtiment"],
+      "explanation": "'Le/la concierge' = janitor. 'L'immeuble de bureaux' = office building.",
+      "grammar_points": ["maintenance_jobs", "cleaning_vocabulary", "building_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_050",
+      "english": "I work under pressure sometimes.",
+      "correctFrench": ["Je", "travaille", "sous", "pression", "parfois"],
+      "wordOptions": ["Je", "travaille", "sous", "pression", "parfois", "stress", "quelquefois", "souvent", "toujours"],
+      "explanation": "'Travailler sous pression' = to work under pressure. Work stress vocabulary.",
+      "grammar_points": ["work_stress", "pressure_expressions", "frequency_adverbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_051",
+      "english": "The architect designs beautiful buildings.",
+      "correctFrench": ["L'architecte", "conçoit", "de", "beaux", "bâtiments"],
+      "wordOptions": ["L'architecte", "conçoit", "de", "beaux", "bâtiments", "dessine", "magnifiques", "immeubles", "maisons"],
+      "explanation": "'L'architecte' = architect. 'De beaux bâtiments' = beautiful buildings.",
+      "grammar_points": ["design_professions", "architecture_vocabulary", "beauty_adjectives"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_052",
+      "english": "We conduct market research.",
+      "correctFrench": ["Nous", "menons", "des", "études", "de", "marché"],
+      "wordOptions": ["Nous", "menons", "des", "études", "de", "marché", "conduisons", "faisons", "recherches", "sondages"],
+      "explanation": "'Mener des études de marché' = to conduct market research. Business analysis.",
+      "grammar_points": ["market_research", "business_analysis", "research_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_053",
+      "english": "The veterinarian treats sick animals.",
+      "correctFrench": ["Le", "vétérinaire", "soigne", "les", "animaux", "malades"],
+      "wordOptions": ["Le", "vétérinaire", "soigne", "les", "animaux", "malades", "La", "vétérinaire", "traite", "bêtes"],
+      "explanation": "'Le/la vétérinaire' = veterinarian. 'Les animaux malades' = sick animals.",
+      "grammar_points": ["animal_care_professions", "medical_vocabulary", "adjective_placement"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_054",
+      "english": "I organize files and documents.",
+      "correctFrench": ["J'organise", "les", "fichiers", "et", "les", "documents"],
+      "wordOptions": ["J'organise", "les", "fichiers", "et", "les", "documents", "classe", "range", "dossiers", "papiers"],
+      "explanation": "'Organiser les fichiers' = to organize files. Office administration.",
+      "grammar_points": ["office_administration", "file_management", "organization_verbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_055",
+      "english": "The baker starts work very early.",
+      "correctFrench": ["Le", "boulanger", "commence", "le", "travail", "très", "tôt"],
+      "wordOptions": ["Le", "boulanger", "commence", "le", "travail", "très", "tôt", "La", "boulangère", "tard", "bonne", "heure"],
+      "explanation": "'Le/la boulanger/boulangère' = baker. 'Très tôt' = very early.",
+      "grammar_points": ["food_professions", "early_schedule", "intensity_adverbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_056",
+      "english": "She analyzes financial data.",
+      "correctFrench": ["Elle", "analyse", "les", "données", "financières"],
+      "wordOptions": ["Elle", "analyse", "les", "données", "financières", "étudie", "informations", "chiffres", "économiques"],
+      "explanation": "'Analyser les données' = to analyze data. Financial analysis vocabulary.",
+      "grammar_points": ["data_analysis", "financial_vocabulary", "analytical_work"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_057",
+      "english": "The security guard patrols the building.",
+      "correctFrench": ["Le", "garde", "de", "sécurité", "patrouille", "dans", "le", "bâtiment"],
+      "wordOptions": ["Le", "garde", "de", "sécurité", "patrouille", "dans", "le", "bâtiment", "La", "garde", "surveille"],
+      "explanation": "'Le/la garde de sécurité' = security guard. 'Patrouiller' = to patrol.",
+      "grammar_points": ["security_professions", "surveillance_vocabulary", "building_security"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_058",
+      "english": "I have performance reviews annually.",
+      "correctFrench": ["J'ai", "des", "évaluations", "de", "performance", "annuellement"],
+      "wordOptions": ["J'ai", "des", "évaluations", "de", "performance", "annuellement", "bilans", "chaque", "année", "tous", "les", "ans"],
+      "explanation": "'Des évaluations de performance' = performance reviews. 'Annuellement' = annually.",
+      "grammar_points": ["performance_evaluation", "annual_processes", "frequency_adverbs"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_059",
+      "english": "The journalist writes news articles.",
+      "correctFrench": ["Le", "journaliste", "écrit", "des", "articles", "d'actualité"],
+      "wordOptions": ["Le", "journaliste", "écrit", "des", "articles", "d'actualité", "La", "journaliste", "rédige", "nouvelles"],
+      "explanation": "'Le/la journaliste' = journalist. 'Des articles d'actualité' = news articles.",
+      "grammar_points": ["media_professions", "journalism_vocabulary", "writing_activities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_060",
+      "english": "We implement new policies.",
+      "correctFrench": ["Nous", "mettons", "en", "place", "de", "nouvelles", "politiques"],
+      "wordOptions": ["Nous", "mettons", "en", "place", "de", "nouvelles", "politiques", "appliquons", "règles", "procédures"],
+      "explanation": "'Mettre en place' = to implement. Company policy vocabulary.",
+      "grammar_points": ["policy_implementation", "company_procedures", "change_management"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_061",
+      "english": "The carpenter builds custom furniture.",
+      "correctFrench": ["Le", "menuisier", "fabrique", "des", "meubles", "sur", "mesure"],
+      "wordOptions": ["Le", "menuisier", "fabrique", "des", "meubles", "sur", "mesure", "La", "menuisière", "construit", "personnalisés"],
+      "explanation": "'Le/la menuisier/menuisière' = carpenter. 'Sur mesure' = custom-made.",
+      "grammar_points": ["craft_professions", "furniture_vocabulary", "customization"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_062",
+      "english": "I coordinate between different departments.",
+      "correctFrench": ["Je", "coordonne", "entre", "différents", "services"],
+      "wordOptions": ["Je", "coordonne", "entre", "différents", "services", "départements", "bureaux", "équipes", "diverses"],
+      "explanation": "'Coordonner entre' = to coordinate between. Inter-departmental work.",
+      "grammar_points": ["coordination_work", "department_vocabulary", "organizational_skills"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_063",
+      "english": "The translator works with multiple languages.",
+      "correctFrench": ["Le", "traducteur", "travaille", "avec", "plusieurs", "langues"],
+      "wordOptions": ["Le", "traducteur", "travaille", "avec", "plusieurs", "langues", "La", "traductrice", "diverses", "idiomes"],
+      "explanation": "'Le/la traducteur/traductrice' = translator. 'Plusieurs langues' = multiple languages.",
+      "grammar_points": ["language_professions", "multilingual_work", "quantity_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_064",
+      "english": "She supervises quality control.",
+      "correctFrench": ["Elle", "supervise", "le", "contrôle", "qualité"],
+      "wordOptions": ["Elle", "supervise", "le", "contrôle", "qualité", "surveille", "de", "la", "assurance", "gestion"],
+      "explanation": "'Superviser le contrôle qualité' = to supervise quality control. Manufacturing vocabulary.",
+      "grammar_points": ["quality_management", "supervision_vocabulary", "manufacturing_processes"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_065",
+      "english": "The florist arranges beautiful bouquets.",
+      "correctFrench": ["Le", "fleuriste", "compose", "de", "beaux", "bouquets"],
+      "wordOptions": ["Le", "fleuriste", "compose", "de", "beaux", "bouquets", "La", "fleuriste", "arrange", "magnifiques"],
+      "explanation": "'Le/la fleuriste' = florist. 'Composer des bouquets' = to arrange bouquets.",
+      "grammar_points": ["artistic_professions", "flower_vocabulary", "beauty_adjectives"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_066",
+      "english": "I participate in brainstorming sessions.",
+      "correctFrench": ["Je", "participe", "à", "des", "séances", "de", "brainstorming"],
+      "wordOptions": ["Je", "participe", "à", "des", "séances", "de", "brainstorming", "sessions", "réflexion", "créativité"],
+      "explanation": "'Participer à des séances de brainstorming' = to participate in brainstorming sessions.",
+      "grammar_points": ["creative_work", "teamwork_vocabulary", "idea_generation"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_067",
+      "english": "The mailman delivers packages daily.",
+      "correctFrench": ["Le", "facteur", "livre", "des", "colis", "quotidiennement"],
+      "wordOptions": ["Le", "facteur", "livre", "des", "colis", "quotidiennement", "La", "factrice", "distribue", "paquets", "chaque", "jour"],
+      "explanation": "'Le/la facteur/factrice' = mailman. 'Quotidiennement' = daily.",
+      "grammar_points": ["postal_services", "delivery_vocabulary", "frequency_adverbs"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_068",
+      "english": "We develop software applications.",
+      "correctFrench": ["Nous", "développons", "des", "applications", "logicielles"],
+      "wordOptions": ["Nous", "développons", "des", "applications", "logicielles", "créons", "programmes", "informatiques", "apps"],
+      "explanation": "'Développer des applications' = to develop applications. IT vocabulary.",
+      "grammar_points": ["software_development", "technology_vocabulary", "programming_work"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_069",
+      "english": "The waiter serves customers politely.",
+      "correctFrench": ["Le", "serveur", "sert", "les", "clients", "poliment"],
+      "wordOptions": ["Le", "serveur", "sert", "les", "clients", "poliment", "La", "serveuse", "gentiment", "aimablement"],
+      "explanation": "'Le/la serveur/serveuse' = waiter. 'Poliment' = politely.",
+      "grammar_points": ["restaurant_jobs", "customer_service", "manner_adverbs"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_070",
+      "english": "I maintain professional relationships.",
+      "correctFrench": ["Je", "maintiens", "des", "relations", "professionnelles"],
+      "wordOptions": ["Je", "maintiens", "des", "relations", "professionnelles", "entretiens", "contacts", "rapports", "collégiales"],
+      "explanation": "'Maintenir des relations' = to maintain relationships. Professional networking.",
+      "grammar_points": ["professional_networking", "relationship_vocabulary", "workplace_social_skills"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_071",
+      "english": "The social worker helps families.",
+      "correctFrench": ["L'assistant", "social", "aide", "les", "familles"],
+      "wordOptions": ["L'assistant", "social", "aide", "les", "familles", "L'assistante", "sociale", "travailleur", "soutient"],
+      "explanation": "'L'assistant(e) social(e)' = social worker. Community service vocabulary.",
+      "grammar_points": ["social_services", "helping_professions", "family_support"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_072",
+      "english": "She handles customer complaints.",
+      "correctFrench": ["Elle", "gère", "les", "plaintes", "des", "clients"],
+      "wordOptions": ["Elle", "gère", "les", "plaintes", "des", "clients", "traite", "réclamations", "clientèle", "problèmes"],
+      "explanation": "'Gérer les plaintes' = to handle complaints. Customer service challenges.",
+      "grammar_points": ["customer_service", "complaint_handling", "problem_solving"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_073",
+      "english": "The artist creates original paintings.",
+      "correctFrench": ["L'artiste", "crée", "des", "peintures", "originales"],
+      "wordOptions": ["L'artiste", "crée", "des", "peintures", "originales", "réalise", "tableaux", "œuvres", "uniques"],
+      "explanation": "'L'artiste' = artist. 'Des peintures originales' = original paintings.",
+      "grammar_points": ["artistic_professions", "creative_work", "art_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_074",
+      "english": "I track project progress weekly.",
+      "correctFrench": ["Je", "suis", "l'avancement", "du", "projet", "chaque", "semaine"],
+      "wordOptions": ["Je", "suis", "l'avancement", "du", "projet", "chaque", "semaine", "surveille", "progrès", "toutes", "les"],
+      "explanation": "'Suivre l'avancement' = to track progress. Project management vocabulary.",
+      "grammar_points": ["project_management", "progress_tracking", "frequency_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_075",
+      "english": "The psychologist listens to patients.",
+      "correctFrench": ["Le", "psychologue", "écoute", "les", "patients"],
+      "wordOptions": ["Le", "psychologue", "écoute", "les", "patients", "La", "psychologue", "entend", "clients", "malades"],
+      "explanation": "'Le/la psychologue' = psychologist. Mental health profession vocabulary.",
+      "grammar_points": ["mental_health_professions", "listening_skills", "patient_care"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_work_076",
+      "english": "We optimize business processes.",
+      "correctFrench": ["Nous", "optimisons", "les", "processus", "commerciaux"],
+      "wordOptions": ["Nous", "optimisons", "les", "processus", "commerciaux", "améliorons", "procédures", "d'affaires", "business"],
+      "explanation": "'Optimiser les processus' = to optimize processes. Business improvement.",
+      "grammar_points": ["process_improvement", "business_optimization", "efficiency_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_077",
+      "english": "The real estate agent shows houses.",
+      "correctFrench": ["L'agent", "immobilier", "montre", "des", "maisons"],
+      "wordOptions": ["L'agent", "immobilier", "montre", "des", "maisons", "présente", "fait", "visiter", "appartements"],
+      "explanation": "'L'agent immobilier' = real estate agent. Property showing vocabulary.",
+      "grammar_points": ["real_estate_professions", "property_vocabulary", "showing_activities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_078",
+      "english": "I attend professional development workshops.",
+      "correctFrench": ["J'assiste", "à", "des", "ateliers", "de", "développement", "professionnel"],
+      "wordOptions": ["J'assiste", "à", "des", "ateliers", "de", "développement", "professionnel", "participe", "formations", "séminaires"],
+      "explanation": "'Assister à des ateliers' = to attend workshops. Continuous learning.",
+      "grammar_points": ["professional_development", "learning_opportunities", "skill_building"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_work_079",
+      "english": "The pharmacist prepares medications.",
+      "correctFrench": ["Le", "pharmacien", "prépare", "des", "médicaments"],
+      "wordOptions": ["Le", "pharmacien", "prépare", "des", "médicaments", "La", "pharmacienne", "ordonnances", "remèdes"],
+      "explanation": "'Le/la pharmacien(ne)' = pharmacist. Medication preparation vocabulary.",
+      "grammar_points": ["healthcare_professions", "medication_vocabulary", "pharmacy_work"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_080",
+      "english": "She manages inventory levels.",
+      "correctFrench": ["Elle", "gère", "les", "niveaux", "de", "stock"],
+      "wordOptions": ["Elle", "gère", "les", "niveaux", "de", "stock", "contrôle", "inventaire", "stocks", "réserves"],
+      "explanation": "'Gérer les niveaux de stock' = to manage inventory levels. Supply chain vocabulary.",
+      "grammar_points": ["inventory_management", "supply_chain", "stock_control"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_081",
+      "english": "The museum guide explains exhibits.",
+      "correctFrench": ["Le", "guide", "du", "musée", "explique", "les", "expositions"],
+      "wordOptions": ["Le", "guide", "du", "musée", "explique", "les", "expositions", "La", "guide", "présente", "œuvres"],
+      "explanation": "'Le/la guide du musée' = museum guide. Cultural education vocabulary.",
+      "grammar_points": ["cultural_professions", "education_activities", "museum_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_082",
+      "english": "I research market trends.",
+      "correctFrench": ["Je", "recherche", "les", "tendances", "du", "marché"],
+      "wordOptions": ["Je", "recherche", "les", "tendances", "du", "marché", "étudie", "trends", "commercial", "économique"],
+      "explanation": "'Rechercher les tendances' = to research trends. Market analysis vocabulary.",
+      "grammar_points": ["market_analysis", "trend_research", "business_intelligence"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_083",
+      "english": "The lifeguard watches the swimmers.",
+      "correctFrench": ["Le", "maître-nageur", "surveille", "les", "nageurs"],
+      "wordOptions": ["Le", "maître-nageur", "surveille", "les", "nageurs", "La", "maître-nageuse", "observe", "baigneurs"],
+      "explanation": "'Le/la maître-nageur/nageuse' = lifeguard. Pool safety vocabulary.",
+      "grammar_points": ["safety_professions", "swimming_vocabulary", "surveillance_activities"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_work_084",
+      "english": "We schedule appointments efficiently.",
+      "correctFrench": ["Nous", "planifions", "les", "rendez-vous", "efficacement"],
+      "wordOptions": ["Nous", "planifions", "les", "rendez-vous", "efficacement", "organisons", "appointments", "de", "manière", "efficace"],
+      "explanation": "'Planifier les rendez-vous' = to schedule appointments. Administrative efficiency.",
+      "grammar_points": ["appointment_scheduling", "efficiency_vocabulary", "time_management"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_085",
+      "english": "The jeweler designs custom rings.",
+      "correctFrench": ["Le", "bijoutier", "conçoit", "des", "bagues", "personnalisées"],
+      "wordOptions": ["Le", "bijoutier", "conçoit", "des", "bagues", "personnalisées", "La", "bijoutière", "crée", "sur", "mesure"],
+      "explanation": "'Le/la bijoutier/bijoutière' = jeweler. Custom jewelry vocabulary.",
+      "grammar_points": ["jewelry_professions", "custom_design", "luxury_goods"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_086",
+      "english": "I resolve technical issues.",
+      "correctFrench": ["Je", "résous", "les", "problèmes", "techniques"],
+      "wordOptions": ["Je", "résous", "les", "problèmes", "techniques", "règle", "difficultés", "pannes", "informatiques"],
+      "explanation": "'Résoudre les problèmes' = to resolve problems. Technical support vocabulary.",
+      "grammar_points": ["problem_solving", "technical_support", "troubleshooting"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_087",
+      "english": "The tour guide speaks several languages.",
+      "correctFrench": ["Le", "guide", "touristique", "parle", "plusieurs", "langues"],
+      "wordOptions": ["Le", "guide", "touristique", "parle", "plusieurs", "langues", "La", "guide", "diverses", "idiomes"],
+      "explanation": "'Le/la guide touristique' = tour guide. Multilingual skills vocabulary.",
+      "grammar_points": ["tourism_professions", "language_skills", "multilingual_abilities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_088",
+      "english": "She coordinates volunteer activities.",
+      "correctFrench": ["Elle", "coordonne", "les", "activités", "bénévoles"],
+      "wordOptions": ["Elle", "coordonne", "les", "activités", "bénévoles", "organise", "actions", "volontaires", "solidaires"],
+      "explanation": "'Coordonner les activités bénévoles' = to coordinate volunteer activities.",
+      "grammar_points": ["volunteer_work", "community_service", "coordination_skills"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_089",
+      "english": "The watchmaker repairs antique clocks.",
+      "correctFrench": ["L'horloger", "répare", "des", "horloges", "anciennes"],
+      "wordOptions": ["L'horloger", "répare", "des", "horloges", "anciennes", "L'horlogère", "montres", "pendules", "antiques"],
+      "explanation": "'L'horloger/horlogère' = watchmaker. Antique repair vocabulary.",
+      "grammar_points": ["specialized_crafts", "antique_vocabulary", "repair_skills"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_090",
+      "english": "I evaluate employee performance.",
+      "correctFrench": ["J'évalue", "la", "performance", "des", "employés"],
+      "wordOptions": ["J'évalue", "la", "performance", "des", "employés", "note", "rendement", "personnel", "salariés"],
+      "explanation": "'Évaluer la performance' = to evaluate performance. HR management vocabulary.",
+      "grammar_points": ["performance_evaluation", "human_resources", "assessment_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_091",
+      "english": "The sports coach trains athletes.",
+      "correctFrench": ["L'entraîneur", "sportif", "entraîne", "les", "athlètes"],
+      "wordOptions": ["L'entraîneur", "sportif", "entraîne", "les", "athlètes", "L'entraîneuse", "coach", "forme", "sportifs"],
+      "explanation": "'L'entraîneur/entraîneuse sportif(ve)' = sports coach. Athletic training vocabulary.",
+      "grammar_points": ["sports_professions", "athletic_training", "coaching_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_092",
+      "english": "We monitor quality standards.",
+      "correctFrench": ["Nous", "surveillons", "les", "standards", "de", "qualité"],
+      "wordOptions": ["Nous", "surveillons", "les", "standards", "de", "qualité", "contrôlons", "normes", "critères"],
+      "explanation": "'Surveiller les standards' = to monitor standards. Quality assurance vocabulary.",
+      "grammar_points": ["quality_assurance", "standards_monitoring", "manufacturing_quality"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_093",
+      "english": "The wine expert tastes different varieties.",
+      "correctFrench": ["L'expert", "en", "vin", "goûte", "différentes", "variétés"],
+      "wordOptions": ["L'expert", "en", "vin", "goûte", "différentes", "variétés", "déguste", "diverses", "sortes", "cépages"],
+      "explanation": "'L'expert en vin' = wine expert. Wine tasting vocabulary.",
+      "grammar_points": ["specialized_expertise", "wine_vocabulary", "tasting_activities"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_094",
+      "english": "I facilitate team meetings.",
+      "correctFrench": ["Je", "facilite", "les", "réunions", "d'équipe"],
+      "wordOptions": ["Je", "facilite", "les", "réunions", "d'équipe", "anime", "conduis", "dirige", "meetings"],
+      "explanation": "'Faciliter les réunions' = to facilitate meetings. Meeting leadership vocabulary.",
+      "grammar_points": ["meeting_facilitation", "team_leadership", "communication_skills"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_095",
+      "english": "The antique dealer authenticates old items.",
+      "correctFrench": ["L'antiquaire", "authentifie", "les", "objets", "anciens"],
+      "wordOptions": ["L'antiquaire", "authentifie", "les", "objets", "anciens", "expertise", "articles", "pièces", "vieux"],
+      "explanation": "'L'antiquaire' = antique dealer. Authentication vocabulary.",
+      "grammar_points": ["specialized_trades", "authentication_vocabulary", "antique_business"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_096",
+      "english": "She builds client relationships.",
+      "correctFrench": ["Elle", "construit", "des", "relations", "clients"],
+      "wordOptions": ["Elle", "construit", "des", "relations", "clients", "développe", "rapports", "avec", "les", "clientèle"],
+      "explanation": "'Construire des relations clients' = to build client relationships.",
+      "grammar_points": ["client_relations", "relationship_building", "business_development"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_work_097",
+      "english": "The food critic reviews restaurants.",
+      "correctFrench": ["Le", "critique", "gastronomique", "évalue", "les", "restaurants"],
+      "wordOptions": ["Le", "critique", "gastronomique", "évalue", "les", "restaurants", "La", "critique", "juge", "examine"],
+      "explanation": "'Le/la critique gastronomique' = food critic. Restaurant evaluation vocabulary.",
+      "grammar_points": ["food_criticism", "restaurant_industry", "evaluation_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_work_098",
+      "english": "I document processes and procedures.",
+      "correctFrench": ["Je", "documente", "les", "processus", "et", "procédures"],
+      "wordOptions": ["Je", "documente", "les", "processus", "et", "procédures", "enregistre", "méthodes", "protocoles"],
+      "explanation": "'Documenter les processus' = to document processes. Process documentation.",
+      "grammar_points": ["process_documentation", "procedure_writing", "quality_management"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_099",
+      "english": "The event planner organizes weddings.",
+      "correctFrench": ["L'organisateur", "d'événements", "organise", "des", "mariages"],
+      "wordOptions": ["L'organisateur", "d'événements", "organise", "des", "mariages", "L'organisatrice", "planifie", "cérémonies"],
+      "explanation": "'L'organisateur/organisatrice d'événements' = event planner. Wedding planning vocabulary.",
+      "grammar_points": ["event_planning", "wedding_industry", "celebration_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_work_100",
+      "english": "We strive for continuous improvement.",
+      "correctFrench": ["Nous", "visons", "l'amélioration", "continue"],
+      "wordOptions": ["Nous", "visons", "l'amélioration", "continue", "cherchons", "recherchons", "constante", "permanente"],
+      "explanation": "'Viser l'amélioration continue' = to strive for continuous improvement.",
+      "grammar_points": ["continuous_improvement", "goal_setting", "quality_culture"],
+      "difficulty": 2.5
     }
   ]
 }

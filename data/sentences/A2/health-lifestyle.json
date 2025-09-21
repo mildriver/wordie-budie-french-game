@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "health-lifestyle",
   "description": "Health, fitness, medical situations, and lifestyle choices",
-  "total_sentences": 110,
+  "total_sentences": 230,
   "sentences": [
     {
       "id": "a2_health_001",
@@ -183,6 +183,636 @@
       "explanation": "Passé composé: a prescrit. 'Prescrire' = to prescribe. Medical treatment.",
       "grammar_points": ["passe_compose", "medical_treatment", "prescription_vocabulary"],
       "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_021",
+      "english": "I maintain a balanced diet every day.",
+      "correctFrench": ["Je", "maintiens", "une", "alimentation", "équilibrée", "tous", "les", "jours"],
+      "wordOptions": ["Je", "maintiens", "une", "alimentation", "équilibrée", "tous", "les", "jours", "garde", "régime"],
+      "explanation": "'Maintenir une alimentation équilibrée' = maintain balanced diet. Healthy eating habits.",
+      "grammar_points": ["healthy_eating", "daily_habits", "nutrition_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_022",
+      "english": "She schedules regular medical checkups.",
+      "correctFrench": ["Elle", "programme", "des", "bilans", "de", "santé", "réguliers"],
+      "wordOptions": ["Elle", "programme", "des", "bilans", "de", "santé", "réguliers", "planifie", "contrôles", "médicaux"],
+      "explanation": "'Programmer des bilans réguliers' = schedule regular checkups. Preventive healthcare.",
+      "grammar_points": ["preventive_healthcare", "medical_checkups", "health_planning"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_023",
+      "english": "I avoid processed foods for better health.",
+      "correctFrench": ["J'évite", "les", "aliments", "transformés", "pour", "une", "meilleure", "santé"],
+      "wordOptions": ["J'évite", "les", "aliments", "transformés", "pour", "une", "meilleure", "santé", "préparés", "industriels"],
+      "explanation": "'Éviter pour une meilleure santé' = avoid for better health. Dietary choices.",
+      "grammar_points": ["dietary_choices", "food_quality", "health_improvement"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_024",
+      "english": "The yoga class starts at 7 AM.",
+      "correctFrench": ["Le", "cours", "de", "yoga", "commence", "à", "7", "heures"],
+      "wordOptions": ["Le", "cours", "de", "yoga", "commence", "à", "7", "heures", "débute", "sept", "matin"],
+      "explanation": "'Le cours commence à 7 heures' = class starts at 7 AM. Exercise scheduling.",
+      "grammar_points": ["exercise_scheduling", "time_expressions", "fitness_classes"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_health_025",
+      "english": "We discuss symptoms with the doctor.",
+      "correctFrench": ["Nous", "discutons", "des", "symptômes", "avec", "le", "médecin"],
+      "wordOptions": ["Nous", "discutons", "des", "symptômes", "avec", "le", "médecin", "parlons", "docteur", "signes"],
+      "explanation": "'Discuter des symptômes avec' = discuss symptoms with. Medical consultations.",
+      "grammar_points": ["medical_consultations", "symptom_description", "doctor_communication"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_026",
+      "english": "I stretch my muscles after running.",
+      "correctFrench": ["Je", "m'étire", "les", "muscles", "après", "avoir", "couru"],
+      "wordOptions": ["Je", "m'étire", "les", "muscles", "après", "avoir", "couru", "étends", "la", "course"],
+      "explanation": "'S'étirer après avoir couru' = stretch after running. Post-exercise care.",
+      "grammar_points": ["post_exercise_care", "muscle_care", "reflexive_verbs"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_027",
+      "english": "She monitors her heart rate during workouts.",
+      "correctFrench": ["Elle", "surveille", "son", "rythme", "cardiaque", "pendant", "l'entraînement"],
+      "wordOptions": ["Elle", "surveille", "son", "rythme", "cardiaque", "pendant", "l'entraînement", "contrôle", "pouls"],
+      "explanation": "'Surveiller son rythme cardiaque' = monitor heart rate. Fitness monitoring.",
+      "grammar_points": ["fitness_monitoring", "heart_health", "exercise_intensity"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_028",
+      "english": "I take vitamins to boost my immunity.",
+      "correctFrench": ["Je", "prends", "des", "vitamines", "pour", "renforcer", "mon", "immunité"],
+      "wordOptions": ["Je", "prends", "des", "vitamines", "pour", "renforcer", "mon", "immunité", "stimuler", "défenses"],
+      "explanation": "'Prendre des vitamines pour renforcer' = take vitamins to boost. Immune system support.",
+      "grammar_points": ["immune_support", "vitamin_vocabulary", "health_supplements"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_029",
+      "english": "The swimming pool opens at 6 AM.",
+      "correctFrench": ["La", "piscine", "ouvre", "à", "6", "heures"],
+      "wordOptions": ["La", "piscine", "ouvre", "à", "6", "heures", "s'ouvre", "six", "matin", "ferme"],
+      "explanation": "'La piscine ouvre à 6 heures' = pool opens at 6 AM. Facility hours.",
+      "grammar_points": ["facility_hours", "swimming_vocabulary", "opening_times"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_health_030",
+      "english": "I follow a personal trainer's advice.",
+      "correctFrench": ["Je", "suis", "les", "conseils", "d'un", "entraîneur", "personnel"],
+      "wordOptions": ["Je", "suis", "les", "conseils", "d'un", "entraîneur", "personnel", "écoute", "coach", "privé"],
+      "explanation": "'Suivre les conseils d'un entraîneur' = follow trainer's advice. Professional guidance.",
+      "grammar_points": ["professional_guidance", "fitness_advice", "personal_training"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_031",
+      "english": "She practices mindfulness meditation daily.",
+      "correctFrench": ["Elle", "pratique", "la", "méditation", "de", "pleine", "conscience", "quotidiennement"],
+      "wordOptions": ["Elle", "pratique", "la", "méditation", "de", "pleine", "conscience", "quotidiennement", "fait", "tous", "les", "jours"],
+      "explanation": "'Pratiquer la méditation de pleine conscience' = practice mindfulness meditation. Mental wellness.",
+      "grammar_points": ["mental_wellness", "meditation_practices", "mindfulness_vocabulary"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_032",
+      "english": "I wear sunscreen to protect my skin.",
+      "correctFrench": ["Je", "mets", "de", "la", "crème", "solaire", "pour", "protéger", "ma", "peau"],
+      "wordOptions": ["Je", "mets", "de", "la", "crème", "solaire", "pour", "protéger", "ma", "peau", "porte", "écran"],
+      "explanation": "'Mettre de la crème solaire pour protéger' = wear sunscreen to protect. Skin protection.",
+      "grammar_points": ["skin_protection", "sun_safety", "protective_measures"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_033",
+      "english": "The physiotherapist helps with my recovery.",
+      "correctFrench": ["Le", "kinésithérapeute", "aide", "à", "ma", "récupération"],
+      "wordOptions": ["Le", "kinésithérapeute", "aide", "à", "ma", "récupération", "La", "physiothérapeute", "guérison"],
+      "explanation": "'Le kinésithérapeute aide à la récupération' = physiotherapist helps with recovery. Rehabilitation.",
+      "grammar_points": ["rehabilitation_vocabulary", "medical_professionals", "recovery_process"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_034",
+      "english": "I count calories to manage my weight.",
+      "correctFrench": ["Je", "compte", "les", "calories", "pour", "gérer", "mon", "poids"],
+      "wordOptions": ["Je", "compte", "les", "calories", "pour", "gérer", "mon", "poids", "contrôler", "surveiller"],
+      "explanation": "'Compter les calories pour gérer' = count calories to manage. Weight management.",
+      "grammar_points": ["weight_management", "calorie_counting", "nutrition_tracking"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_035",
+      "english": "She feels stressed about work deadlines.",
+      "correctFrench": ["Elle", "se", "sent", "stressée", "à", "cause", "des", "échéances", "de", "travail"],
+      "wordOptions": ["Elle", "se", "sent", "stressée", "à", "cause", "des", "échéances", "de", "travail", "anxieuse", "délais"],
+      "explanation": "'Se sentir stressé à cause de' = feel stressed because of. Work-related stress.",
+      "grammar_points": ["stress_vocabulary", "work_stress", "causation_expressions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_036",
+      "english": "I need new glasses for reading.",
+      "correctFrench": ["J'ai", "besoin", "de", "nouvelles", "lunettes", "pour", "lire"],
+      "wordOptions": ["J'ai", "besoin", "de", "nouvelles", "lunettes", "pour", "lire", "neuves", "voir", "lecture"],
+      "explanation": "'Avoir besoin de nouvelles lunettes pour' = need new glasses for. Vision care.",
+      "grammar_points": ["vision_care", "eyewear_vocabulary", "reading_needs"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_health_037",
+      "english": "The gym equipment requires proper maintenance.",
+      "correctFrench": ["L'équipement", "de", "gym", "nécessite", "un", "entretien", "approprié"],
+      "wordOptions": ["L'équipement", "de", "gym", "nécessite", "un", "entretien", "approprié", "salle", "sport", "correct"],
+      "explanation": "'Nécessiter un entretien approprié' = require proper maintenance. Equipment care.",
+      "grammar_points": ["equipment_maintenance", "gym_vocabulary", "maintenance_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_038",
+      "english": "I warm up before intense exercise.",
+      "correctFrench": ["Je", "m'échauffe", "avant", "l'exercice", "intensif"],
+      "wordOptions": ["Je", "m'échauffe", "avant", "l'exercice", "intensif", "fais", "un", "échauffement", "intense"],
+      "explanation": "'S'échauffer avant l'exercice intensif' = warm up before intense exercise. Exercise preparation.",
+      "grammar_points": ["exercise_preparation", "warm_up_vocabulary", "reflexive_verbs"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_039",
+      "english": "She cuts sugar from her diet.",
+      "correctFrench": ["Elle", "supprime", "le", "sucre", "de", "son", "alimentation"],
+      "wordOptions": ["Elle", "supprime", "le", "sucre", "de", "son", "alimentation", "élimine", "régime", "nourriture"],
+      "explanation": "'Supprimer le sucre de son alimentation' = cut sugar from diet. Dietary restrictions.",
+      "grammar_points": ["dietary_restrictions", "sugar_reduction", "healthy_choices"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_040",
+      "english": "The mental health counselor provides support.",
+      "correctFrench": ["Le", "conseiller", "en", "santé", "mentale", "fournit", "du", "soutien"],
+      "wordOptions": ["Le", "conseiller", "en", "santé", "mentale", "fournit", "du", "soutien", "La", "conseillère", "aide"],
+      "explanation": "'Le conseiller fournit du soutien' = counselor provides support. Mental health support.",
+      "grammar_points": ["mental_health_support", "counseling_vocabulary", "professional_help"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_041",
+      "english": "I track my daily steps with an app.",
+      "correctFrench": ["Je", "compte", "mes", "pas", "quotidiens", "avec", "une", "application"],
+      "wordOptions": ["Je", "compte", "mes", "pas", "quotidiens", "avec", "une", "application", "suis", "app"],
+      "explanation": "'Compter ses pas avec une application' = track steps with app. Fitness tracking.",
+      "grammar_points": ["fitness_tracking", "digital_health", "daily_activity"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_042",
+      "english": "She recovers from surgery gradually.",
+      "correctFrench": ["Elle", "se", "remet", "de", "l'opération", "progressivement"],
+      "wordOptions": ["Elle", "se", "remet", "de", "l'opération", "progressivement", "récupère", "chirurgie", "lentement"],
+      "explanation": "'Se remettre de l'opération progressivement' = recover from surgery gradually. Post-surgical recovery.",
+      "grammar_points": ["surgical_recovery", "gradual_improvement", "reflexive_verbs"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_043",
+      "english": "I choose organic vegetables at the market.",
+      "correctFrench": ["Je", "choisis", "des", "légumes", "bio", "au", "marché"],
+      "wordOptions": ["Je", "choisis", "des", "légumes", "bio", "au", "marché", "biologiques", "organiques", "naturels"],
+      "explanation": "'Choisir des légumes bio' = choose organic vegetables. Healthy food choices.",
+      "grammar_points": ["organic_food", "healthy_shopping", "food_quality"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_044",
+      "english": "The blood test shows normal results.",
+      "correctFrench": ["L'analyse", "de", "sang", "montre", "des", "résultats", "normaux"],
+      "wordOptions": ["L'analyse", "de", "sang", "montre", "des", "résultats", "normaux", "prise", "indique", "bons"],
+      "explanation": "'L'analyse de sang montre des résultats' = blood test shows results. Medical testing.",
+      "grammar_points": ["medical_testing", "blood_work", "test_results"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_045",
+      "english": "I prefer natural remedies over chemicals.",
+      "correctFrench": ["Je", "préfère", "les", "remèdes", "naturels", "aux", "produits", "chimiques"],
+      "wordOptions": ["Je", "préfère", "les", "remèdes", "naturels", "aux", "produits", "chimiques", "médicaments", "substances"],
+      "explanation": "'Préférer les remèdes naturels aux produits chimiques' = prefer natural remedies over chemicals.",
+      "grammar_points": ["natural_remedies", "treatment_preferences", "comparison_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_046",
+      "english": "She monitors her blood pressure regularly.",
+      "correctFrench": ["Elle", "surveille", "sa", "tension", "artérielle", "régulièrement"],
+      "wordOptions": ["Elle", "surveille", "sa", "tension", "artérielle", "régulièrement", "contrôle", "pression", "sanguine"],
+      "explanation": "'Surveiller sa tension régulièrement' = monitor blood pressure regularly. Health monitoring.",
+      "grammar_points": ["health_monitoring", "blood_pressure", "regular_checkups"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_047",
+      "english": "I limit my screen time before bed.",
+      "correctFrench": ["Je", "limite", "mon", "temps", "d'écran", "avant", "de", "me", "coucher"],
+      "wordOptions": ["Je", "limite", "mon", "temps", "d'écran", "avant", "de", "me", "coucher", "réduis", "dormir"],
+      "explanation": "'Limiter son temps d'écran avant de se coucher' = limit screen time before bed. Sleep hygiene.",
+      "grammar_points": ["sleep_hygiene", "digital_wellness", "bedtime_routines"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_048",
+      "english": "The chiropractor adjusts my spine weekly.",
+      "correctFrench": ["Le", "chiropracteur", "ajuste", "ma", "colonne", "vertébrale", "chaque", "semaine"],
+      "wordOptions": ["Le", "chiropracteur", "ajuste", "ma", "colonne", "vertébrale", "chaque", "semaine", "La", "chiropractrice"],
+      "explanation": "'Le chiropracteur ajuste la colonne vertébrale' = chiropractor adjusts spine. Spinal care.",
+      "grammar_points": ["spinal_care", "chiropractic_vocabulary", "weekly_treatments"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_049",
+      "english": "I practice deep breathing for relaxation.",
+      "correctFrench": ["Je", "pratique", "la", "respiration", "profonde", "pour", "me", "détendre"],
+      "wordOptions": ["Je", "pratique", "la", "respiration", "profonde", "pour", "me", "détendre", "relaxer", "calmer"],
+      "explanation": "'Pratiquer la respiration profonde pour se détendre' = practice deep breathing to relax.",
+      "grammar_points": ["relaxation_techniques", "breathing_exercises", "stress_relief"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_050",
+      "english": "She joins a support group for motivation.",
+      "correctFrench": ["Elle", "rejoint", "un", "groupe", "de", "soutien", "pour", "la", "motivation"],
+      "wordOptions": ["Elle", "rejoint", "un", "groupe", "de", "soutien", "pour", "la", "motivation", "s'inscrit", "entraide"],
+      "explanation": "'Rejoindre un groupe de soutien pour la motivation' = join support group for motivation.",
+      "grammar_points": ["support_groups", "motivation_vocabulary", "group_therapy"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_051",
+      "english": "I read nutrition labels carefully before buying.",
+      "correctFrench": ["Je", "lis", "les", "étiquettes", "nutritionnelles", "attentivement", "avant", "d'acheter"],
+      "wordOptions": ["Je", "lis", "les", "étiquettes", "nutritionnelles", "attentivement", "avant", "d'acheter", "labels", "soigneusement"],
+      "explanation": "'Lire les étiquettes attentivement avant d'acheter' = read labels carefully before buying.",
+      "grammar_points": ["nutrition_labels", "informed_shopping", "food_awareness"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_052",
+      "english": "The massage therapist relieves muscle tension.",
+      "correctFrench": ["Le", "masseur", "soulage", "les", "tensions", "musculaires"],
+      "wordOptions": ["Le", "masseur", "soulage", "les", "tensions", "musculaires", "La", "masseuse", "détend"],
+      "explanation": "'Le masseur soulage les tensions musculaires' = massage therapist relieves muscle tension.",
+      "grammar_points": ["massage_therapy", "muscle_care", "tension_relief"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_053",
+      "english": "I maintain good posture while working.",
+      "correctFrench": ["Je", "maintiens", "une", "bonne", "posture", "en", "travaillant"],
+      "wordOptions": ["Je", "maintiens", "une", "bonne", "posture", "en", "travaillant", "garde", "position", "pendant"],
+      "explanation": "'Maintenir une bonne posture en travaillant' = maintain good posture while working.",
+      "grammar_points": ["posture_awareness", "workplace_health", "ergonomics"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_054",
+      "english": "She attends weekly therapy sessions.",
+      "correctFrench": ["Elle", "assiste", "à", "des", "séances", "de", "thérapie", "hebdomadaires"],
+      "wordOptions": ["Elle", "assiste", "à", "des", "séances", "de", "thérapie", "hebdomadaires", "va", "sessions"],
+      "explanation": "'Assister à des séances de thérapie hebdomadaires' = attend weekly therapy sessions.",
+      "grammar_points": ["therapy_sessions", "mental_health_care", "regular_treatment"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_055",
+      "english": "I use essential oils for aromatherapy.",
+      "correctFrench": ["J'utilise", "des", "huiles", "essentielles", "pour", "l'aromathérapie"],
+      "wordOptions": ["J'utilise", "des", "huiles", "essentielles", "pour", "l'aromathérapie", "me", "sers", "de"],
+      "explanation": "'Utiliser des huiles essentielles pour l'aromathérapie' = use essential oils for aromatherapy.",
+      "grammar_points": ["aromatherapy_vocabulary", "essential_oils", "alternative_therapy"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_056",
+      "english": "The health insurance covers preventive care.",
+      "correctFrench": ["L'assurance", "maladie", "couvre", "les", "soins", "préventifs"],
+      "wordOptions": ["L'assurance", "maladie", "couvre", "les", "soins", "préventifs", "santé", "prend", "en", "charge"],
+      "explanation": "'L'assurance maladie couvre les soins préventifs' = health insurance covers preventive care.",
+      "grammar_points": ["health_insurance", "preventive_care", "medical_coverage"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_057",
+      "english": "I prepare healthy meals for the week.",
+      "correctFrench": ["Je", "prépare", "des", "repas", "sains", "pour", "la", "semaine"],
+      "wordOptions": ["Je", "prépare", "des", "repas", "sains", "pour", "la", "semaine", "équilibrés", "nutritifs"],
+      "explanation": "'Préparer des repas sains pour la semaine' = prepare healthy meals for the week.",
+      "grammar_points": ["meal_preparation", "healthy_cooking", "weekly_planning"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_health_058",
+      "english": "She experiences anxiety in crowded places.",
+      "correctFrench": ["Elle", "ressent", "de", "l'anxiété", "dans", "les", "lieux", "bondés"],
+      "wordOptions": ["Elle", "ressent", "de", "l'anxiété", "dans", "les", "lieux", "bondés", "éprouve", "endroits"],
+      "explanation": "'Ressentir de l'anxiété dans les lieux bondés' = experience anxiety in crowded places.",
+      "grammar_points": ["anxiety_vocabulary", "mental_health", "environmental_triggers"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_059",
+      "english": "I schedule rest days between workouts.",
+      "correctFrench": ["Je", "programme", "des", "jours", "de", "repos", "entre", "les", "entraînements"],
+      "wordOptions": ["Je", "programme", "des", "jours", "de", "repos", "entre", "les", "entraînements", "planifie"],
+      "explanation": "'Programmer des jours de repos entre les entraînements' = schedule rest days between workouts.",
+      "grammar_points": ["rest_recovery", "workout_planning", "exercise_balance"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_060",
+      "english": "The nutritionist recommends more protein.",
+      "correctFrench": ["Le", "nutritionniste", "recommande", "plus", "de", "protéines"],
+      "wordOptions": ["Le", "nutritionniste", "recommande", "plus", "de", "protéines", "La", "conseille", "davantage"],
+      "explanation": "'Le nutritionniste recommande plus de protéines' = nutritionist recommends more protein.",
+      "grammar_points": ["nutrition_advice", "protein_intake", "dietary_recommendations"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_061",
+      "english": "I avoid caffeine in the evening.",
+      "correctFrench": ["J'évite", "la", "caféine", "le", "soir"],
+      "wordOptions": ["J'évite", "la", "caféine", "le", "soir", "café", "en", "soirée", "après-midi"],
+      "explanation": "'Éviter la caféine le soir' = avoid caffeine in the evening. Sleep-friendly habits.",
+      "grammar_points": ["sleep_habits", "caffeine_avoidance", "evening_routines"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_health_062",
+      "english": "She keeps a food diary to track eating habits.",
+      "correctFrench": ["Elle", "tient", "un", "journal", "alimentaire", "pour", "suivre", "ses", "habitudes"],
+      "wordOptions": ["Elle", "tient", "un", "journal", "alimentaire", "pour", "suivre", "ses", "habitudes", "carnet"],
+      "explanation": "'Tenir un journal alimentaire pour suivre' = keep food diary to track. Eating awareness.",
+      "grammar_points": ["food_tracking", "eating_awareness", "dietary_habits"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_063",
+      "english": "I practice gratitude for mental wellbeing.",
+      "correctFrench": ["Je", "pratique", "la", "gratitude", "pour", "mon", "bien-être", "mental"],
+      "wordOptions": ["Je", "pratique", "la", "gratitude", "pour", "mon", "bien-être", "mental", "reconnaissance", "psychologique"],
+      "explanation": "'Pratiquer la gratitude pour le bien-être mental' = practice gratitude for mental wellbeing.",
+      "grammar_points": ["gratitude_practice", "mental_wellbeing", "positive_psychology"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_064",
+      "english": "The ergonomic chair supports my back.",
+      "correctFrench": ["La", "chaise", "ergonomique", "soutient", "mon", "dos"],
+      "wordOptions": ["La", "chaise", "ergonomique", "soutient", "mon", "dos", "fauteuil", "supporte", "maintient"],
+      "explanation": "'La chaise ergonomique soutient le dos' = ergonomic chair supports back. Workplace health.",
+      "grammar_points": ["ergonomic_furniture", "back_support", "workplace_wellness"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_065",
+      "english": "I hydrate well before and after exercise.",
+      "correctFrench": ["Je", "m'hydrate", "bien", "avant", "et", "après", "l'exercice"],
+      "wordOptions": ["Je", "m'hydrate", "bien", "avant", "et", "après", "l'exercice", "bois", "pendant", "sport"],
+      "explanation": "'S'hydrater avant et après l'exercice' = hydrate before and after exercise. Exercise hydration.",
+      "grammar_points": ["exercise_hydration", "fluid_intake", "sports_nutrition"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_066",
+      "english": "She checks her skin for unusual changes.",
+      "correctFrench": ["Elle", "examine", "sa", "peau", "pour", "détecter", "des", "changements", "inhabituels"],
+      "wordOptions": ["Elle", "examine", "sa", "peau", "pour", "détecter", "des", "changements", "inhabituels", "vérifie"],
+      "explanation": "'Examiner sa peau pour détecter des changements' = check skin for changes. Skin health monitoring.",
+      "grammar_points": ["skin_monitoring", "health_awareness", "self_examination"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_067",
+      "english": "I set boundaries to reduce work stress.",
+      "correctFrench": ["Je", "fixe", "des", "limites", "pour", "réduire", "le", "stress", "professionnel"],
+      "wordOptions": ["Je", "fixe", "des", "limites", "pour", "réduire", "le", "stress", "professionnel", "établis", "travail"],
+      "explanation": "'Fixer des limites pour réduire le stress' = set boundaries to reduce stress. Stress management.",
+      "grammar_points": ["stress_management", "work_boundaries", "professional_wellness"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_068",
+      "english": "The health app tracks my daily activities.",
+      "correctFrench": ["L'application", "santé", "suit", "mes", "activités", "quotidiennes"],
+      "wordOptions": ["L'application", "santé", "suit", "mes", "activités", "quotidiennes", "app", "surveille", "journalières"],
+      "explanation": "'L'application suit les activités quotidiennes' = app tracks daily activities. Digital health tracking.",
+      "grammar_points": ["digital_health", "activity_tracking", "health_technology"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_069",
+      "english": "I choose stairs instead of elevators.",
+      "correctFrench": ["Je", "choisis", "les", "escaliers", "plutôt", "que", "les", "ascenseurs"],
+      "wordOptions": ["Je", "choisis", "les", "escaliers", "plutôt", "que", "les", "ascenseurs", "au", "lieu", "de"],
+      "explanation": "'Choisir les escaliers plutôt que les ascenseurs' = choose stairs instead of elevators.",
+      "grammar_points": ["daily_exercise", "active_choices", "lifestyle_modifications"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_070",
+      "english": "She participates in community health programs.",
+      "correctFrench": ["Elle", "participe", "à", "des", "programmes", "de", "santé", "communautaire"],
+      "wordOptions": ["Elle", "participe", "à", "des", "programmes", "de", "santé", "communautaire", "publique", "collective"],
+      "explanation": "'Participer à des programmes de santé communautaire' = participate in community health programs.",
+      "grammar_points": ["community_health", "public_health", "health_programs"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_071",
+      "english": "I minimize exposure to environmental toxins.",
+      "correctFrench": ["Je", "minimise", "l'exposition", "aux", "toxines", "environnementales"],
+      "wordOptions": ["Je", "minimise", "l'exposition", "aux", "toxines", "environnementales", "réduis", "pollutants", "substances"],
+      "explanation": "'Minimiser l'exposition aux toxines environnementales' = minimize exposure to environmental toxins.",
+      "grammar_points": ["environmental_health", "toxin_avoidance", "pollution_awareness"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_health_072",
+      "english": "The fitness tracker monitors sleep quality.",
+      "correctFrench": ["Le", "tracker", "de", "fitness", "surveille", "la", "qualité", "du", "sommeil"],
+      "wordOptions": ["Le", "tracker", "de", "fitness", "surveille", "la", "qualité", "du", "sommeil", "bracelet", "montre"],
+      "explanation": "'Le tracker surveille la qualité du sommeil' = fitness tracker monitors sleep quality.",
+      "grammar_points": ["sleep_monitoring", "fitness_technology", "sleep_quality"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_073",
+      "english": "I practice portion control during meals.",
+      "correctFrench": ["Je", "pratique", "le", "contrôle", "des", "portions", "pendant", "les", "repas"],
+      "wordOptions": ["Je", "pratique", "le", "contrôle", "des", "portions", "pendant", "les", "repas", "surveille", "quantités"],
+      "explanation": "'Pratiquer le contrôle des portions' = practice portion control. Mindful eating.",
+      "grammar_points": ["portion_control", "mindful_eating", "dietary_management"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_074",
+      "english": "She seeks second opinions for major treatments.",
+      "correctFrench": ["Elle", "demande", "un", "deuxième", "avis", "pour", "les", "traitements", "majeurs"],
+      "wordOptions": ["Elle", "demande", "un", "deuxième", "avis", "pour", "les", "traitements", "majeurs", "second", "importants"],
+      "explanation": "'Demander un deuxième avis pour les traitements majeurs' = seek second opinions for major treatments.",
+      "grammar_points": ["medical_decisions", "second_opinions", "healthcare_advocacy"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_075",
+      "english": "I avoid processed sugar in my diet.",
+      "correctFrench": ["J'évite", "le", "sucre", "transformé", "dans", "mon", "alimentation"],
+      "wordOptions": ["J'évite", "le", "sucre", "transformé", "dans", "mon", "alimentation", "raffiné", "industriel", "régime"],
+      "explanation": "'Éviter le sucre transformé dans son alimentation' = avoid processed sugar in diet.",
+      "grammar_points": ["sugar_avoidance", "dietary_restrictions", "healthy_eating"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_076",
+      "english": "The wellness retreat focuses on holistic health.",
+      "correctFrench": ["La", "retraite", "bien-être", "se", "concentre", "sur", "la", "santé", "holistique"],
+      "wordOptions": ["La", "retraite", "bien-être", "se", "concentre", "sur", "la", "santé", "holistique", "globale"],
+      "explanation": "'Se concentrer sur la santé holistique' = focus on holistic health. Comprehensive wellness.",
+      "grammar_points": ["holistic_health", "wellness_retreats", "comprehensive_care"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_health_077",
+      "english": "I incorporate movement throughout my workday.",
+      "correctFrench": ["J'intègre", "du", "mouvement", "tout", "au", "long", "de", "ma", "journée", "de", "travail"],
+      "wordOptions": ["J'intègre", "du", "mouvement", "tout", "au", "long", "de", "ma", "journée", "de", "travail", "inclus"],
+      "explanation": "'Intégrer du mouvement tout au long de la journée' = incorporate movement throughout the day.",
+      "grammar_points": ["workplace_wellness", "daily_movement", "active_lifestyle"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_078",
+      "english": "She prioritizes mental health over productivity.",
+      "correctFrench": ["Elle", "privilégie", "la", "santé", "mentale", "plutôt", "que", "la", "productivité"],
+      "wordOptions": ["Elle", "privilégie", "la", "santé", "mentale", "plutôt", "que", "la", "productivité", "au", "lieu"],
+      "explanation": "'Privilégier la santé mentale plutôt que la productivité' = prioritize mental health over productivity.",
+      "grammar_points": ["mental_health_priority", "work_life_balance", "health_choices"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_079",
+      "english": "I educate myself about nutrition science.",
+      "correctFrench": ["Je", "m'éduque", "sur", "la", "science", "de", "la", "nutrition"],
+      "wordOptions": ["Je", "m'éduque", "sur", "la", "science", "de", "la", "nutrition", "informe", "apprends"],
+      "explanation": "'S'éduquer sur la science de la nutrition' = educate oneself about nutrition science.",
+      "grammar_points": ["nutrition_education", "self_learning", "health_literacy"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_080",
+      "english": "The health coach creates personalized plans.",
+      "correctFrench": ["Le", "coach", "santé", "crée", "des", "plans", "personnalisés"],
+      "wordOptions": ["Le", "coach", "santé", "crée", "des", "plans", "personnalisés", "La", "programmes", "individualisés"],
+      "explanation": "'Le coach crée des plans personnalisés' = health coach creates personalized plans.",
+      "grammar_points": ["health_coaching", "personalized_care", "wellness_planning"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_081",
+      "english": "I balance work commitments with self-care.",
+      "correctFrench": ["J'équilibre", "les", "engagements", "professionnels", "avec", "les", "soins", "personnels"],
+      "wordOptions": ["J'équilibre", "les", "engagements", "professionnels", "avec", "les", "soins", "personnels", "obligations", "auto-soins"],
+      "explanation": "'Équilibrer les engagements avec les soins personnels' = balance commitments with self-care.",
+      "grammar_points": ["work_life_balance", "self_care", "life_priorities"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_082",
+      "english": "She follows evidence-based health practices.",
+      "correctFrench": ["Elle", "suit", "des", "pratiques", "de", "santé", "fondées", "sur", "des", "preuves"],
+      "wordOptions": ["Elle", "suit", "des", "pratiques", "de", "santé", "fondées", "sur", "des", "preuves", "basées"],
+      "explanation": "'Suivre des pratiques fondées sur des preuves' = follow evidence-based practices.",
+      "grammar_points": ["evidence_based_health", "scientific_approach", "health_practices"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_health_083",
+      "english": "I listen to my body's signals carefully.",
+      "correctFrench": ["J'écoute", "attentivement", "les", "signaux", "de", "mon", "corps"],
+      "wordOptions": ["J'écoute", "attentivement", "les", "signaux", "de", "mon", "corps", "soigneusement", "messages"],
+      "explanation": "'Écouter attentivement les signaux de son corps' = listen carefully to body's signals.",
+      "grammar_points": ["body_awareness", "health_signals", "self_monitoring"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_health_084",
+      "english": "The preventive screening detects early problems.",
+      "correctFrench": ["Le", "dépistage", "préventif", "détecte", "les", "problèmes", "précoces"],
+      "wordOptions": ["Le", "dépistage", "préventif", "détecte", "les", "problèmes", "précoces", "diagnostic", "identifie"],
+      "explanation": "'Le dépistage préventif détecte les problèmes précoces' = preventive screening detects early problems.",
+      "grammar_points": ["preventive_screening", "early_detection", "health_monitoring"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_085",
+      "english": "I maintain social connections for emotional health.",
+      "correctFrench": ["Je", "maintiens", "des", "connexions", "sociales", "pour", "ma", "santé", "émotionnelle"],
+      "wordOptions": ["Je", "maintiens", "des", "connexions", "sociales", "pour", "ma", "santé", "émotionnelle", "relations"],
+      "explanation": "'Maintenir des connexions sociales pour la santé émotionnelle' = maintain social connections for emotional health.",
+      "grammar_points": ["social_health", "emotional_wellbeing", "relationship_maintenance"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_health_086",
+      "english": "She adapts her routine based on energy levels.",
+      "correctFrench": ["Elle", "adapte", "sa", "routine", "selon", "ses", "niveaux", "d'énergie"],
+      "wordOptions": ["Elle", "adapte", "sa", "routine", "selon", "ses", "niveaux", "d'énergie", "modifie", "ajuste"],
+      "explanation": "'Adapter sa routine selon ses niveaux d'énergie' = adapt routine based on energy levels.",
+      "grammar_points": ["energy_management", "routine_adaptation", "self_awareness"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_087",
+      "english": "I invest in quality sleep equipment.",
+      "correctFrench": ["J'investis", "dans", "un", "équipement", "de", "sommeil", "de", "qualité"],
+      "wordOptions": ["J'investis", "dans", "un", "équipement", "de", "sommeil", "de", "qualité", "achète", "matériel"],
+      "explanation": "'Investir dans un équipement de sommeil de qualité' = invest in quality sleep equipment.",
+      "grammar_points": ["sleep_investment", "quality_equipment", "sleep_hygiene"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_088",
+      "english": "The integrative medicine approach combines treatments.",
+      "correctFrench": ["L'approche", "de", "médecine", "intégrative", "combine", "les", "traitements"],
+      "wordOptions": ["L'approche", "de", "médecine", "intégrative", "combine", "les", "traitements", "méthode", "unit"],
+      "explanation": "'L'approche de médecine intégrative combine les traitements' = integrative medicine combines treatments.",
+      "grammar_points": ["integrative_medicine", "treatment_combinations", "holistic_approach"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_health_089",
+      "english": "I celebrate small health victories regularly.",
+      "correctFrench": ["Je", "célèbre", "régulièrement", "les", "petites", "victoires", "santé"],
+      "wordOptions": ["Je", "célèbre", "régulièrement", "les", "petites", "victoires", "santé", "fête", "réussites"],
+      "explanation": "'Célébrer régulièrement les petites victoires santé' = celebrate small health victories regularly.",
+      "grammar_points": ["health_motivation", "positive_reinforcement", "self_celebration"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_health_090",
+      "english": "She advocates for her healthcare needs confidently.",
+      "correctFrench": ["Elle", "défend", "ses", "besoins", "de", "santé", "avec", "confiance"],
+      "wordOptions": ["Elle", "défend", "ses", "besoins", "de", "santé", "avec", "confiance", "plaide", "pour", "assurance"],
+      "explanation": "'Défendre ses besoins de santé avec confiance' = advocate for healthcare needs confidently.",
+      "grammar_points": ["healthcare_advocacy", "self_advocacy", "confident_communication"],
+      "difficulty": 2.6
     }
   ]
 }

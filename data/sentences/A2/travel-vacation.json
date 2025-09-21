@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "travel-vacation",
   "description": "Travel, vacations, hotels, tourism, and holiday activities",
-  "total_sentences": 120,
+  "total_sentences": 240,
   "sentences": [
     {
       "id": "a2_travel_001",
@@ -183,6 +183,636 @@
       "explanation": "'Le douanier contrôle' = customs officer checks. Airport procedures.",
       "grammar_points": ["airport_vocabulary", "customs_procedures", "official_controls"],
       "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_021",
+      "english": "I compare prices before booking hotels.",
+      "correctFrench": ["Je", "compare", "les", "prix", "avant", "de", "réserver", "des", "hôtels"],
+      "wordOptions": ["Je", "compare", "les", "prix", "avant", "de", "réserver", "des", "hôtels", "tarifs", "après"],
+      "explanation": "'Comparer les prix avant de' = compare prices before. Smart travel planning.",
+      "grammar_points": ["price_comparison", "travel_planning", "infinitive_constructions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_022",
+      "english": "The airline offers direct flights to Paris.",
+      "correctFrench": ["La", "compagnie", "aérienne", "propose", "des", "vols", "directs", "pour", "Paris"],
+      "wordOptions": ["La", "compagnie", "aérienne", "propose", "des", "vols", "directs", "pour", "Paris", "offre", "vers"],
+      "explanation": "'La compagnie aérienne propose' = airline offers. Flight options.",
+      "grammar_points": ["airline_vocabulary", "flight_types", "destination_prepositions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_023",
+      "english": "We discover local cuisine during our travels.",
+      "correctFrench": ["Nous", "découvrons", "la", "cuisine", "locale", "pendant", "nos", "voyages"],
+      "wordOptions": ["Nous", "découvrons", "la", "cuisine", "locale", "pendant", "nos", "voyages", "durant", "régionale"],
+      "explanation": "'Découvrir la cuisine locale' = discover local cuisine. Cultural exploration.",
+      "grammar_points": ["cultural_exploration", "local_cuisine", "travel_experiences"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_024",
+      "english": "I charge my devices before traveling.",
+      "correctFrench": ["Je", "charge", "mes", "appareils", "avant", "de", "voyager"],
+      "wordOptions": ["Je", "charge", "mes", "appareils", "avant", "de", "voyager", "recharge", "partir", "dispositifs"],
+      "explanation": "'Charger ses appareils avant de' = charge devices before. Travel preparation.",
+      "grammar_points": ["travel_preparation", "electronic_devices", "infinitive_constructions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_travel_025",
+      "english": "The vacation package includes transportation.",
+      "correctFrench": ["Le", "forfait", "vacances", "inclut", "le", "transport"],
+      "wordOptions": ["Le", "forfait", "vacances", "inclut", "le", "transport", "comprend", "déplacement", "voyage"],
+      "explanation": "'Le forfait inclut' = package includes. Travel package contents.",
+      "grammar_points": ["vacation_packages", "transportation_vocabulary", "package_inclusions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_026",
+      "english": "She learns basic phrases in the local language.",
+      "correctFrench": ["Elle", "apprend", "des", "phrases", "de", "base", "dans", "la", "langue", "locale"],
+      "wordOptions": ["Elle", "apprend", "des", "phrases", "de", "base", "dans", "la", "langue", "locale", "expressions", "régionale"],
+      "explanation": "'Apprendre des phrases de base' = learn basic phrases. Language preparation.",
+      "grammar_points": ["language_preparation", "basic_communication", "cultural_adaptation"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_027",
+      "english": "We book excursions through the hotel.",
+      "correctFrench": ["Nous", "réservons", "des", "excursions", "par", "l'hôtel"],
+      "wordOptions": ["Nous", "réservons", "des", "excursions", "par", "l'hôtel", "via", "sorties", "visites"],
+      "explanation": "'Réserver des excursions par' = book excursions through. Tourism activities.",
+      "grammar_points": ["tourism_activities", "hotel_services", "booking_methods"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_028",
+      "english": "The travel insurance covers medical expenses.",
+      "correctFrench": ["L'assurance", "voyage", "couvre", "les", "frais", "médicaux"],
+      "wordOptions": ["L'assurance", "voyage", "couvre", "les", "frais", "médicaux", "dépenses", "soins", "santé"],
+      "explanation": "'L'assurance voyage couvre' = travel insurance covers. Travel protection.",
+      "grammar_points": ["travel_insurance", "medical_coverage", "travel_safety"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_029",
+      "english": "I carry identification documents everywhere.",
+      "correctFrench": ["Je", "porte", "mes", "papiers", "d'identité", "partout"],
+      "wordOptions": ["Je", "porte", "mes", "papiers", "d'identité", "partout", "emporte", "documents", "toujours"],
+      "explanation": "'Porter ses papiers d'identité' = carry ID documents. Travel security.",
+      "grammar_points": ["travel_documents", "identification_vocabulary", "travel_security"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_030",
+      "english": "The travel agent recommends popular destinations.",
+      "correctFrench": ["L'agent", "de", "voyage", "recommande", "des", "destinations", "populaires"],
+      "wordOptions": ["L'agent", "de", "voyage", "recommande", "des", "destinations", "populaires", "conseille", "connues"],
+      "explanation": "'L'agent de voyage recommande' = travel agent recommends. Professional advice.",
+      "grammar_points": ["travel_advice", "destination_vocabulary", "professional_services"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_031",
+      "english": "We explore the old town on foot.",
+      "correctFrench": ["Nous", "explorons", "la", "vieille", "ville", "à", "pied"],
+      "wordOptions": ["Nous", "explorons", "la", "vieille", "ville", "à", "pied", "découvrons", "centre", "historique"],
+      "explanation": "'Explorer à pied' = explore on foot. Walking tourism.",
+      "grammar_points": ["walking_tourism", "old_town_vocabulary", "exploration_methods"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_travel_032",
+      "english": "I purchase travel guidebooks before departure.",
+      "correctFrench": ["J'achète", "des", "guides", "de", "voyage", "avant", "le", "départ"],
+      "wordOptions": ["J'achète", "des", "guides", "de", "voyage", "avant", "le", "départ", "livres", "après"],
+      "explanation": "'Acheter des guides avant le départ' = buy guidebooks before departure. Trip preparation.",
+      "grammar_points": ["travel_preparation", "guidebook_vocabulary", "departure_planning"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_033",
+      "english": "The airport shuttle runs every thirty minutes.",
+      "correctFrench": ["La", "navette", "aéroport", "passe", "toutes", "les", "trente", "minutes"],
+      "wordOptions": ["La", "navette", "aéroport", "passe", "toutes", "les", "trente", "minutes", "bus", "quinze"],
+      "explanation": "'La navette passe toutes les' = shuttle runs every. Airport transportation.",
+      "grammar_points": ["airport_transportation", "frequency_expressions", "time_intervals"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_034",
+      "english": "She packs light for weekend trips.",
+      "correctFrench": ["Elle", "voyage", "léger", "pour", "les", "week-ends"],
+      "wordOptions": ["Elle", "voyage", "léger", "pour", "les", "week-ends", "fait", "ses", "bagages", "sorties"],
+      "explanation": "'Voyager léger' = travel light. Packing strategies.",
+      "grammar_points": ["packing_strategies", "weekend_travel", "luggage_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_travel_035",
+      "english": "We attend a cultural festival abroad.",
+      "correctFrench": ["Nous", "assistons", "à", "un", "festival", "culturel", "à", "l'étranger"],
+      "wordOptions": ["Nous", "assistons", "à", "un", "festival", "culturel", "à", "l'étranger", "participons", "événement"],
+      "explanation": "'Assister à un festival à l'étranger' = attend festival abroad. Cultural events.",
+      "grammar_points": ["cultural_events", "festival_vocabulary", "international_travel"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_036",
+      "english": "I check weather forecasts before traveling.",
+      "correctFrench": ["Je", "vérifie", "la", "météo", "avant", "de", "voyager"],
+      "wordOptions": ["Je", "vérifie", "la", "météo", "avant", "de", "voyager", "consulte", "prévisions", "partir"],
+      "explanation": "'Vérifier la météo avant de' = check weather before. Travel planning.",
+      "grammar_points": ["weather_planning", "travel_preparation", "weather_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_travel_037",
+      "english": "The tour group meets at the lobby.",
+      "correctFrench": ["Le", "groupe", "de", "touristes", "se", "retrouve", "dans", "le", "hall"],
+      "wordOptions": ["Le", "groupe", "de", "touristes", "se", "retrouve", "dans", "le", "hall", "réunit", "lobby"],
+      "explanation": "'Se retrouver dans le hall' = meet in the lobby. Tour group coordination.",
+      "grammar_points": ["tour_groups", "hotel_vocabulary", "meeting_places"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_038",
+      "english": "She experiences jet lag after long flights.",
+      "correctFrench": ["Elle", "souffre", "du", "décalage", "horaire", "après", "les", "longs", "vols"],
+      "wordOptions": ["Elle", "souffre", "du", "décalage", "horaire", "après", "les", "longs", "vols", "ressent", "voyages"],
+      "explanation": "'Souffrir du décalage horaire' = experience jet lag. Travel fatigue.",
+      "grammar_points": ["jet_lag_vocabulary", "long_distance_travel", "travel_effects"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_039",
+      "english": "We sample street food in Asian markets.",
+      "correctFrench": ["Nous", "goûtons", "la", "cuisine", "de", "rue", "dans", "les", "marchés", "asiatiques"],
+      "wordOptions": ["Nous", "goûtons", "la", "cuisine", "de", "rue", "dans", "les", "marchés", "asiatiques", "essayons"],
+      "explanation": "'Goûter la cuisine de rue' = sample street food. Culinary exploration.",
+      "grammar_points": ["street_food_vocabulary", "market_vocabulary", "culinary_experiences"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_040",
+      "english": "I download offline maps before exploring.",
+      "correctFrench": ["Je", "télécharge", "des", "cartes", "hors", "ligne", "avant", "d'explorer"],
+      "wordOptions": ["Je", "télécharge", "des", "cartes", "hors", "ligne", "avant", "d'explorer", "plans", "offline"],
+      "explanation": "'Télécharger des cartes hors ligne' = download offline maps. Digital travel tools.",
+      "grammar_points": ["digital_travel_tools", "navigation_vocabulary", "travel_preparation"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_041",
+      "english": "The mountain resort offers skiing lessons.",
+      "correctFrench": ["La", "station", "de", "montagne", "propose", "des", "cours", "de", "ski"],
+      "wordOptions": ["La", "station", "de", "montagne", "propose", "des", "cours", "de", "ski", "offre", "leçons"],
+      "explanation": "'La station propose des cours' = resort offers lessons. Mountain tourism.",
+      "grammar_points": ["mountain_tourism", "skiing_vocabulary", "resort_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_042",
+      "english": "We reserve seats with extra legroom.",
+      "correctFrench": ["Nous", "réservons", "des", "sièges", "avec", "plus", "d'espace", "pour", "les", "jambes"],
+      "wordOptions": ["Nous", "réservons", "des", "sièges", "avec", "plus", "d'espace", "pour", "les", "jambes", "places"],
+      "explanation": "'Réserver des sièges avec plus d'espace' = reserve seats with extra space. Flight comfort.",
+      "grammar_points": ["flight_comfort", "seat_selection", "airline_services"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_043",
+      "english": "I learn about local customs and traditions.",
+      "correctFrench": ["J'apprends", "les", "coutumes", "et", "traditions", "locales"],
+      "wordOptions": ["J'apprends", "les", "coutumes", "et", "traditions", "locales", "découvre", "habitudes", "régionales"],
+      "explanation": "'Apprendre les coutumes locales' = learn local customs. Cultural preparation.",
+      "grammar_points": ["cultural_preparation", "customs_vocabulary", "tradition_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_044",
+      "english": "The hostel provides shared kitchen facilities.",
+      "correctFrench": ["L'auberge", "de", "jeunesse", "fournit", "une", "cuisine", "partagée"],
+      "wordOptions": ["L'auberge", "de", "jeunesse", "fournit", "une", "cuisine", "partagée", "propose", "commune"],
+      "explanation": "'L'auberge fournit une cuisine partagée' = hostel provides shared kitchen. Budget accommodation.",
+      "grammar_points": ["budget_accommodation", "hostel_facilities", "shared_spaces"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_045",
+      "english": "She documents her journey through photography.",
+      "correctFrench": ["Elle", "documente", "son", "voyage", "par", "la", "photographie"],
+      "wordOptions": ["Elle", "documente", "son", "voyage", "par", "la", "photographie", "immortalise", "avec", "photos"],
+      "explanation": "'Documenter par la photographie' = document through photography. Travel memories.",
+      "grammar_points": ["travel_photography", "journey_documentation", "memory_creation"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_046",
+      "english": "We participate in eco-tourism activities.",
+      "correctFrench": ["Nous", "participons", "à", "des", "activités", "d'écotourisme"],
+      "wordOptions": ["Nous", "participons", "à", "des", "activités", "d'écotourisme", "faisons", "tourisme", "vert"],
+      "explanation": "'Participer à des activités d'écotourisme' = participate in eco-tourism. Sustainable travel.",
+      "grammar_points": ["eco_tourism", "sustainable_travel", "environmental_awareness"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_047",
+      "english": "I avoid peak season to save money.",
+      "correctFrench": ["J'évite", "la", "haute", "saison", "pour", "économiser"],
+      "wordOptions": ["J'évite", "la", "haute", "saison", "pour", "économiser", "période", "touristique", "dépenser"],
+      "explanation": "'Éviter la haute saison pour économiser' = avoid peak season to save. Budget travel.",
+      "grammar_points": ["budget_travel", "seasonal_pricing", "money_saving"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_048",
+      "english": "The travel blog shares useful tips.",
+      "correctFrench": ["Le", "blog", "de", "voyage", "partage", "des", "conseils", "utiles"],
+      "wordOptions": ["Le", "blog", "de", "voyage", "partage", "des", "conseils", "utiles", "donne", "astuces"],
+      "explanation": "'Le blog partage des conseils' = blog shares tips. Travel information sources.",
+      "grammar_points": ["travel_blogs", "travel_tips", "information_sharing"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_049",
+      "english": "We upgrade to business class using points.",
+      "correctFrench": ["Nous", "passons", "en", "classe", "affaires", "avec", "nos", "points"],
+      "wordOptions": ["Nous", "passons", "en", "classe", "affaires", "avec", "nos", "points", "utilisant", "miles"],
+      "explanation": "'Passer en classe affaires avec des points' = upgrade to business class with points.",
+      "grammar_points": ["flight_upgrades", "loyalty_programs", "airline_rewards"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_050",
+      "english": "I respect dress codes at religious sites.",
+      "correctFrench": ["Je", "respecte", "les", "codes", "vestimentaires", "dans", "les", "sites", "religieux"],
+      "wordOptions": ["Je", "respecte", "les", "codes", "vestimentaires", "dans", "les", "sites", "religieux", "tenues", "lieux"],
+      "explanation": "'Respecter les codes vestimentaires' = respect dress codes. Cultural sensitivity.",
+      "grammar_points": ["cultural_sensitivity", "religious_sites", "dress_codes"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_travel_051",
+      "english": "The vacation rental has a private pool.",
+      "correctFrench": ["La", "location", "de", "vacances", "a", "une", "piscine", "privée"],
+      "wordOptions": ["La", "location", "de", "vacances", "a", "une", "piscine", "privée", "possède", "particulière"],
+      "explanation": "'La location a une piscine privée' = rental has private pool. Vacation accommodation.",
+      "grammar_points": ["vacation_rentals", "property_features", "accommodation_amenities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_travel_052",
+      "english": "She negotiates prices at local markets.",
+      "correctFrench": ["Elle", "négocie", "les", "prix", "dans", "les", "marchés", "locaux"],
+      "wordOptions": ["Elle", "négocie", "les", "prix", "dans", "les", "marchés", "locaux", "marchande", "tarifs"],
+      "explanation": "'Négocier les prix' = negotiate prices. Market shopping abroad.",
+      "grammar_points": ["price_negotiation", "market_shopping", "bargaining_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_053",
+      "english": "We use public transportation to reduce costs.",
+      "correctFrench": ["Nous", "utilisons", "les", "transports", "en", "commun", "pour", "réduire", "les", "coûts"],
+      "wordOptions": ["Nous", "utilisons", "les", "transports", "en", "commun", "pour", "réduire", "les", "coûts", "diminuer"],
+      "explanation": "'Utiliser les transports pour réduire' = use transport to reduce. Budget travel strategies.",
+      "grammar_points": ["public_transportation", "cost_reduction", "budget_strategies"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_054",
+      "english": "I maintain travel journals during trips.",
+      "correctFrench": ["Je", "tiens", "un", "journal", "de", "voyage", "pendant", "les", "voyages"],
+      "wordOptions": ["Je", "tiens", "un", "journal", "de", "voyage", "pendant", "les", "voyages", "écris", "durant"],
+      "explanation": "'Tenir un journal de voyage' = keep travel journal. Trip documentation.",
+      "grammar_points": ["travel_journaling", "trip_documentation", "personal_records"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_055",
+      "english": "The travel companion shares expenses.",
+      "correctFrench": ["Le", "compagnon", "de", "voyage", "partage", "les", "dépenses"],
+      "wordOptions": ["Le", "compagnon", "de", "voyage", "partage", "les", "dépenses", "La", "compagne", "frais"],
+      "explanation": "'Le compagnon partage les dépenses' = companion shares expenses. Travel partnerships.",
+      "grammar_points": ["travel_companions", "expense_sharing", "travel_partnerships"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_056",
+      "english": "We adapt our itinerary based on weather.",
+      "correctFrench": ["Nous", "adaptons", "notre", "itinéraire", "selon", "la", "météo"],
+      "wordOptions": ["Nous", "adaptons", "notre", "itinéraire", "selon", "la", "météo", "modifions", "programme"],
+      "explanation": "'Adapter selon la météo' = adapt according to weather. Flexible travel planning.",
+      "grammar_points": ["itinerary_flexibility", "weather_adaptation", "travel_adjustments"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_057",
+      "english": "I purchase local SIM cards for communication.",
+      "correctFrench": ["J'achète", "des", "cartes", "SIM", "locales", "pour", "communiquer"],
+      "wordOptions": ["J'achète", "des", "cartes", "SIM", "locales", "pour", "communiquer", "puces", "téléphoner"],
+      "explanation": "'Acheter des cartes SIM pour communiquer' = buy SIM cards to communicate. Travel connectivity.",
+      "grammar_points": ["travel_connectivity", "mobile_communication", "local_services"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_058",
+      "english": "The travel warning advises against certain areas.",
+      "correctFrench": ["L'avertissement", "de", "voyage", "déconseille", "certaines", "zones"],
+      "wordOptions": ["L'avertissement", "de", "voyage", "déconseille", "certaines", "zones", "alerte", "régions"],
+      "explanation": "'L'avertissement déconseille' = warning advises against. Travel safety information.",
+      "grammar_points": ["travel_warnings", "safety_information", "area_restrictions"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_059",
+      "english": "She exchanges contact information with fellow travelers.",
+      "correctFrench": ["Elle", "échange", "ses", "coordonnées", "avec", "d'autres", "voyageurs"],
+      "wordOptions": ["Elle", "échange", "ses", "coordonnées", "avec", "d'autres", "voyageurs", "contacts", "touristes"],
+      "explanation": "'Échanger ses coordonnées avec' = exchange contact info with. Travel networking.",
+      "grammar_points": ["travel_networking", "contact_exchange", "fellow_travelers"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_060",
+      "english": "We explore hidden gems off the beaten path.",
+      "correctFrench": ["Nous", "explorons", "des", "perles", "cachées", "hors", "des", "sentiers", "battus"],
+      "wordOptions": ["Nous", "explorons", "des", "perles", "cachées", "hors", "des", "sentiers", "battus", "trésors"],
+      "explanation": "'Explorer hors des sentiers battus' = explore off beaten path. Alternative tourism.",
+      "grammar_points": ["alternative_tourism", "hidden_places", "exploration_vocabulary"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "a2_travel_061",
+      "english": "I book accommodation with flexible cancellation.",
+      "correctFrench": ["Je", "réserve", "un", "hébergement", "avec", "annulation", "flexible"],
+      "wordOptions": ["Je", "réserve", "un", "hébergement", "avec", "annulation", "flexible", "gratuite", "souple"],
+      "explanation": "'Réserver avec annulation flexible' = book with flexible cancellation. Booking flexibility.",
+      "grammar_points": ["booking_flexibility", "cancellation_policies", "accommodation_booking"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_062",
+      "english": "The cultural immersion program teaches local traditions.",
+      "correctFrench": ["Le", "programme", "d'immersion", "culturelle", "enseigne", "les", "traditions", "locales"],
+      "wordOptions": ["Le", "programme", "d'immersion", "culturelle", "enseigne", "les", "traditions", "locales", "apprend"],
+      "explanation": "'Le programme d'immersion enseigne' = immersion program teaches. Cultural learning.",
+      "grammar_points": ["cultural_immersion", "tradition_learning", "educational_travel"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_travel_063",
+      "english": "We attend cooking classes to learn recipes.",
+      "correctFrench": ["Nous", "assistons", "à", "des", "cours", "de", "cuisine", "pour", "apprendre", "des", "recettes"],
+      "wordOptions": ["Nous", "assistons", "à", "des", "cours", "de", "cuisine", "pour", "apprendre", "des", "recettes", "suivons"],
+      "explanation": "'Assister à des cours pour apprendre' = attend classes to learn. Culinary tourism.",
+      "grammar_points": ["culinary_tourism", "cooking_classes", "recipe_learning"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_064",
+      "english": "I research visa requirements before traveling.",
+      "correctFrench": ["Je", "me", "renseigne", "sur", "les", "exigences", "de", "visa", "avant", "de", "voyager"],
+      "wordOptions": ["Je", "me", "renseigne", "sur", "les", "exigences", "de", "visa", "avant", "de", "voyager", "conditions"],
+      "explanation": "'Se renseigner sur les exigences' = research requirements. Travel documentation.",
+      "grammar_points": ["visa_requirements", "travel_documentation", "research_vocabulary"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_065",
+      "english": "The travel diary captures memorable moments.",
+      "correctFrench": ["Le", "carnet", "de", "voyage", "capture", "les", "moments", "mémorables"],
+      "wordOptions": ["Le", "carnet", "de", "voyage", "capture", "les", "moments", "mémorables", "journal", "immortalise"],
+      "explanation": "'Le carnet capture les moments' = diary captures moments. Memory preservation.",
+      "grammar_points": ["travel_memories", "diary_keeping", "moment_preservation"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_066",
+      "english": "She volunteers with local conservation projects.",
+      "correctFrench": ["Elle", "fait", "du", "bénévolat", "dans", "des", "projets", "de", "conservation", "locaux"],
+      "wordOptions": ["Elle", "fait", "du", "bénévolat", "dans", "des", "projets", "de", "conservation", "locaux", "aide"],
+      "explanation": "'Faire du bénévolat dans des projets' = volunteer in projects. Volunteer tourism.",
+      "grammar_points": ["volunteer_tourism", "conservation_vocabulary", "local_projects"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_travel_067",
+      "english": "We choose sustainable transportation options.",
+      "correctFrench": ["Nous", "choisissons", "des", "options", "de", "transport", "durables"],
+      "wordOptions": ["Nous", "choisissons", "des", "options", "de", "transport", "durables", "écologiques", "moyens"],
+      "explanation": "'Choisir des options durables' = choose sustainable options. Eco-friendly travel.",
+      "grammar_points": ["sustainable_travel", "transportation_choices", "environmental_responsibility"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_068",
+      "english": "I pack essential medicines in carry-on luggage.",
+      "correctFrench": ["Je", "mets", "les", "médicaments", "essentiels", "dans", "le", "bagage", "à", "main"],
+      "wordOptions": ["Je", "mets", "les", "médicaments", "essentiels", "dans", "le", "bagage", "à", "main", "place"],
+      "explanation": "'Mettre dans le bagage à main' = put in carry-on luggage. Travel health preparation.",
+      "grammar_points": ["travel_health", "medication_packing", "carry_on_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_069",
+      "english": "The homestay experience provides cultural insights.",
+      "correctFrench": ["L'expérience", "de", "famille", "d'accueil", "offre", "des", "aperçus", "culturels"],
+      "wordOptions": ["L'expérience", "de", "famille", "d'accueil", "offre", "des", "aperçus", "culturels", "donne"],
+      "explanation": "'L'expérience offre des aperçus' = experience provides insights. Homestay benefits.",
+      "grammar_points": ["homestay_vocabulary", "cultural_insights", "family_experiences"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_travel_070",
+      "english": "We navigate using GPS and paper maps.",
+      "correctFrench": ["Nous", "naviguons", "avec", "le", "GPS", "et", "des", "cartes", "papier"],
+      "wordOptions": ["Nous", "naviguons", "avec", "le", "GPS", "et", "des", "cartes", "papier", "plans", "physiques"],
+      "explanation": "'Naviguer avec le GPS et des cartes' = navigate with GPS and maps. Navigation methods.",
+      "grammar_points": ["navigation_methods", "gps_vocabulary", "backup_navigation"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_071",
+      "english": "I tip service workers according to local customs.",
+      "correctFrench": ["Je", "donne", "un", "pourboire", "selon", "les", "coutumes", "locales"],
+      "wordOptions": ["Je", "donne", "un", "pourboire", "selon", "les", "coutumes", "locales", "laisse", "habitudes"],
+      "explanation": "'Donner un pourboire selon les coutumes' = tip according to customs. Cultural awareness.",
+      "grammar_points": ["tipping_customs", "cultural_awareness", "service_etiquette"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_072",
+      "english": "The sunset cruise offers romantic views.",
+      "correctFrench": ["La", "croisière", "au", "coucher", "du", "soleil", "offre", "des", "vues", "romantiques"],
+      "wordOptions": ["La", "croisière", "au", "coucher", "du", "soleil", "offre", "des", "vues", "romantiques", "propose"],
+      "explanation": "'La croisière offre des vues' = cruise offers views. Romantic travel experiences.",
+      "grammar_points": ["romantic_travel", "sunset_vocabulary", "cruise_experiences"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_073",
+      "english": "She connects with locals through language exchange.",
+      "correctFrench": ["Elle", "rencontre", "des", "locaux", "grâce", "à", "l'échange", "linguistique"],
+      "wordOptions": ["Elle", "rencontre", "des", "locaux", "grâce", "à", "l'échange", "linguistique", "habitants", "par"],
+      "explanation": "'Rencontrer grâce à l'échange linguistique' = meet through language exchange. Cultural connection.",
+      "grammar_points": ["language_exchange", "local_connections", "cultural_interaction"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_074",
+      "english": "We monitor our budget throughout the trip.",
+      "correctFrench": ["Nous", "surveillons", "notre", "budget", "tout", "au", "long", "du", "voyage"],
+      "wordOptions": ["Nous", "surveillons", "notre", "budget", "tout", "au", "long", "du", "voyage", "contrôlons"],
+      "explanation": "'Surveiller tout au long du voyage' = monitor throughout trip. Budget management.",
+      "grammar_points": ["budget_monitoring", "trip_finances", "expense_tracking"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_075",
+      "english": "I collect postcards from every destination visited.",
+      "correctFrench": ["Je", "collectionne", "des", "cartes", "postales", "de", "chaque", "destination", "visitée"],
+      "wordOptions": ["Je", "collectionne", "des", "cartes", "postales", "de", "chaque", "destination", "visitée", "lieu"],
+      "explanation": "'Collectionner de chaque destination' = collect from each destination. Travel souvenirs.",
+      "grammar_points": ["souvenir_collecting", "postcard_vocabulary", "destination_tracking"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_076",
+      "english": "The adventure tour includes extreme sports.",
+      "correctFrench": ["Le", "tour", "d'aventure", "inclut", "des", "sports", "extrêmes"],
+      "wordOptions": ["Le", "tour", "d'aventure", "inclut", "des", "sports", "extrêmes", "voyage", "comprend"],
+      "explanation": "'Le tour inclut des sports extrêmes' = tour includes extreme sports. Adventure tourism.",
+      "grammar_points": ["adventure_tourism", "extreme_sports", "tour_activities"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_077",
+      "english": "She adjusts to different time zones gradually.",
+      "correctFrench": ["Elle", "s'adapte", "aux", "différents", "fuseaux", "horaires", "progressivement"],
+      "wordOptions": ["Elle", "s'adapte", "aux", "différents", "fuseaux", "horaires", "progressivement", "zones", "rapidement"],
+      "explanation": "'S'adapter aux fuseaux horaires' = adjust to time zones. Travel adaptation.",
+      "grammar_points": ["time_zone_adaptation", "travel_adjustment", "gradual_adaptation"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_travel_078",
+      "english": "We respect wildlife viewing guidelines.",
+      "correctFrench": ["Nous", "respectons", "les", "directives", "d'observation", "de", "la", "faune"],
+      "wordOptions": ["Nous", "respectons", "les", "directives", "d'observation", "de", "la", "faune", "règles", "animaux"],
+      "explanation": "'Respecter les directives d'observation' = respect viewing guidelines. Wildlife tourism.",
+      "grammar_points": ["wildlife_tourism", "conservation_guidelines", "responsible_tourism"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_travel_079",
+      "english": "I share travel experiences on social media.",
+      "correctFrench": ["Je", "partage", "mes", "expériences", "de", "voyage", "sur", "les", "réseaux", "sociaux"],
+      "wordOptions": ["Je", "partage", "mes", "expériences", "de", "voyage", "sur", "les", "réseaux", "sociaux", "médias"],
+      "explanation": "'Partager sur les réseaux sociaux' = share on social media. Digital travel sharing.",
+      "grammar_points": ["digital_sharing", "travel_experiences", "social_media"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_080",
+      "english": "The luxury resort provides concierge services.",
+      "correctFrench": ["Le", "complexe", "de", "luxe", "offre", "des", "services", "de", "conciergerie"],
+      "wordOptions": ["Le", "complexe", "de", "luxe", "offre", "des", "services", "de", "conciergerie", "propose"],
+      "explanation": "'Le complexe offre des services' = resort offers services. Luxury travel amenities.",
+      "grammar_points": ["luxury_travel", "concierge_services", "resort_amenities"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_081",
+      "english": "We embrace spontaneous travel decisions.",
+      "correctFrench": ["Nous", "embrassons", "les", "décisions", "de", "voyage", "spontanées"],
+      "wordOptions": ["Nous", "embrassons", "les", "décisions", "de", "voyage", "spontanées", "acceptons", "impulsives"],
+      "explanation": "'Embrasser les décisions spontanées' = embrace spontaneous decisions. Flexible travel.",
+      "grammar_points": ["spontaneous_travel", "flexible_planning", "travel_decisions"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_082",
+      "english": "I practice basic survival skills for camping.",
+      "correctFrench": ["Je", "pratique", "des", "compétences", "de", "survie", "de", "base", "pour", "le", "camping"],
+      "wordOptions": ["Je", "pratique", "des", "compétences", "de", "survie", "de", "base", "pour", "le", "camping", "aptitudes"],
+      "explanation": "'Pratiquer des compétences de survie' = practice survival skills. Outdoor travel preparation.",
+      "grammar_points": ["camping_vocabulary", "survival_skills", "outdoor_preparation"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_travel_083",
+      "english": "The road trip reveals spectacular landscapes.",
+      "correctFrench": ["Le", "voyage", "en", "voiture", "révèle", "des", "paysages", "spectaculaires"],
+      "wordOptions": ["Le", "voyage", "en", "voiture", "révèle", "des", "paysages", "spectaculaires", "dévoile", "magnifiques"],
+      "explanation": "'Le voyage révèle des paysages' = trip reveals landscapes. Road trip experiences.",
+      "grammar_points": ["road_trip_vocabulary", "landscape_vocabulary", "scenic_travel"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_084",
+      "english": "She maintains contact with family while abroad.",
+      "correctFrench": ["Elle", "maintient", "le", "contact", "avec", "sa", "famille", "à", "l'étranger"],
+      "wordOptions": ["Elle", "maintient", "le", "contact", "avec", "sa", "famille", "à", "l'étranger", "garde"],
+      "explanation": "'Maintenir le contact à l'étranger' = maintain contact abroad. Family communication.",
+      "grammar_points": ["family_contact", "international_communication", "staying_connected"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_085",
+      "english": "We analyze travel reviews before making bookings.",
+      "correctFrench": ["Nous", "analysons", "les", "avis", "de", "voyage", "avant", "de", "réserver"],
+      "wordOptions": ["Nous", "analysons", "les", "avis", "de", "voyage", "avant", "de", "réserver", "commentaires"],
+      "explanation": "'Analyser les avis avant de réserver' = analyze reviews before booking. Travel research.",
+      "grammar_points": ["travel_reviews", "booking_research", "review_analysis"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_travel_086",
+      "english": "I appreciate architectural styles in different cities.",
+      "correctFrench": ["J'apprécie", "les", "styles", "architecturaux", "dans", "différentes", "villes"],
+      "wordOptions": ["J'apprécie", "les", "styles", "architecturaux", "dans", "différentes", "villes", "admire", "diverses"],
+      "explanation": "'Apprécier les styles architecturaux' = appreciate architectural styles. Cultural appreciation.",
+      "grammar_points": ["architectural_vocabulary", "cultural_appreciation", "city_exploration"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_087",
+      "english": "The backpacking adventure tests personal limits.",
+      "correctFrench": ["L'aventure", "en", "sac", "à", "dos", "teste", "les", "limites", "personnelles"],
+      "wordOptions": ["L'aventure", "en", "sac", "à", "dos", "teste", "les", "limites", "personnelles", "éprouve"],
+      "explanation": "'L'aventure teste les limites' = adventure tests limits. Challenging travel experiences.",
+      "grammar_points": ["backpacking_vocabulary", "personal_challenges", "adventure_travel"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_travel_088",
+      "english": "We create lasting friendships through shared experiences.",
+      "correctFrench": ["Nous", "créons", "des", "amitiés", "durables", "grâce", "aux", "expériences", "partagées"],
+      "wordOptions": ["Nous", "créons", "des", "amitiés", "durables", "grâce", "aux", "expériences", "partagées", "par"],
+      "explanation": "'Créer des amitiés grâce aux expériences' = create friendships through experiences. Travel bonds.",
+      "grammar_points": ["travel_friendships", "shared_experiences", "lasting_connections"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_travel_089",
+      "english": "I document expenses for budget tracking.",
+      "correctFrench": ["Je", "documente", "les", "dépenses", "pour", "suivre", "le", "budget"],
+      "wordOptions": ["Je", "documente", "les", "dépenses", "pour", "suivre", "le", "budget", "enregistre", "contrôler"],
+      "explanation": "'Documenter pour suivre le budget' = document to track budget. Financial organization.",
+      "grammar_points": ["expense_tracking", "budget_management", "financial_documentation"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_travel_090",
+      "english": "The travel memoir inspires future adventures.",
+      "correctFrench": ["Le", "récit", "de", "voyage", "inspire", "de", "futures", "aventures"],
+      "wordOptions": ["Le", "récit", "de", "voyage", "inspire", "de", "futures", "aventures", "mémoires", "prochaines"],
+      "explanation": "'Le récit inspire de futures aventures' = memoir inspires future adventures. Travel inspiration.",
+      "grammar_points": ["travel_memoirs", "future_inspiration", "adventure_motivation"],
+      "difficulty": 2.5
     }
   ]
 }

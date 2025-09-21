@@ -95,12 +95,354 @@
       "difficulty": 2.1
     },
     {
+      "id": "a2_daily-routine_011",
+      "english": "I get out of bed slowly.",
+      "correctFrench": ["Je", "sors", "du", "lit", "lentement"],
+      "wordOptions": ["Je", "sors", "du", "lit", "lentement", "me", "lève", "rapidement", "vite"],
+      "explanation": "'Sortir du lit' = to get out of bed. 'Lentement' = slowly.",
+      "grammar_points": ["daily_activities", "adverbs", "movement_verbs"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_012",
+      "english": "She washes her face with cold water.",
+      "correctFrench": ["Elle", "se", "lave", "le", "visage", "à", "l'eau", "froide"],
+      "wordOptions": ["Elle", "se", "lave", "le", "visage", "à", "l'eau", "froide", "chaude", "les", "mains"],
+      "explanation": "Reflexive verb: se laver. 'Le visage' = face. 'À l'eau froide' = with cold water.",
+      "grammar_points": ["reflexive_verbs", "body_parts", "temperature_adjectives"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_013",
+      "english": "He shaves every other day.",
+      "correctFrench": ["Il", "se", "rase", "tous", "les", "deux", "jours"],
+      "wordOptions": ["Il", "se", "rase", "tous", "les", "deux", "jours", "chaque", "jour", "une", "fois"],
+      "explanation": "'Se raser' = to shave. 'Tous les deux jours' = every other day.",
+      "grammar_points": ["reflexive_verbs", "frequency_expressions", "grooming_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_014",
+      "english": "We make coffee before breakfast.",
+      "correctFrench": ["Nous", "faisons", "du", "café", "avant", "le", "petit-déjeuner"],
+      "wordOptions": ["Nous", "faisons", "du", "café", "avant", "le", "petit-déjeuner", "préparons", "après", "thé"],
+      "explanation": "'Faire du café' = to make coffee. 'Avant le petit-déjeuner' = before breakfast.",
+      "grammar_points": ["food_preparation", "time_expressions", "meal_vocabulary"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_015",
+      "english": "I choose my clothes the night before.",
+      "correctFrench": ["Je", "choisis", "mes", "vêtements", "la", "veille", "au", "soir"],
+      "wordOptions": ["Je", "choisis", "mes", "vêtements", "la", "veille", "au", "soir", "habits", "matin", "prépare"],
+      "explanation": "'Choisir' = to choose. 'La veille au soir' = the night before.",
+      "grammar_points": ["clothing_vocabulary", "time_expressions", "planning_activities"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_016",
+      "english": "She puts on her makeup carefully.",
+      "correctFrench": ["Elle", "se", "maquille", "avec", "soin"],
+      "wordOptions": ["Elle", "se", "maquille", "avec", "soin", "met", "du", "maquillage", "attention", "vite"],
+      "explanation": "'Se maquiller' = to put on makeup. 'Avec soin' = carefully.",
+      "grammar_points": ["reflexive_verbs", "beauty_vocabulary", "manner_expressions"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_017",
+      "english": "He drinks orange juice with breakfast.",
+      "correctFrench": ["Il", "boit", "du", "jus", "d'orange", "avec", "le", "petit-déjeuner"],
+      "wordOptions": ["Il", "boit", "du", "jus", "d'orange", "avec", "le", "petit-déjeuner", "de", "pomme", "café", "pendant"],
+      "explanation": "'Boire' = to drink. 'Du jus d'orange' = orange juice. 'Avec' = with.",
+      "grammar_points": ["drink_vocabulary", "meal_vocabulary", "prepositions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_018",
+      "english": "We leave the house at 8:15.",
+      "correctFrench": ["Nous", "quittons", "la", "maison", "à", "huit", "heures", "quinze"],
+      "wordOptions": ["Nous", "quittons", "la", "maison", "à", "huit", "heures", "quinze", "partons", "de", "et", "quart"],
+      "explanation": "'Quitter la maison' = to leave the house. Time: 8h15 = huit heures quinze.",
+      "grammar_points": ["departure_vocabulary", "time_expressions", "daily_schedule"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_019",
+      "english": "I set my alarm for 6:45 AM.",
+      "correctFrench": ["Je", "mets", "mon", "réveil", "à", "six", "heures", "quarante-cinq"],
+      "wordOptions": ["Je", "mets", "mon", "réveil", "à", "six", "heures", "quarante-cinq", "règle", "programme", "sept"],
+      "explanation": "'Mettre le réveil' = to set the alarm. Time: 6h45 = six heures quarante-cinq.",
+      "grammar_points": ["time_management", "time_expressions", "technology_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_020",
+      "english": "She takes vitamins every morning.",
+      "correctFrench": ["Elle", "prend", "des", "vitamines", "chaque", "matin"],
+      "wordOptions": ["Elle", "prend", "des", "vitamines", "chaque", "matin", "médicaments", "tous", "les", "matins"],
+      "explanation": "'Prendre des vitamines' = to take vitamins. 'Chaque matin' = every morning.",
+      "grammar_points": ["health_vocabulary", "frequency_expressions", "medication_vocabulary"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_021",
+      "english": "We stretch before getting dressed.",
+      "correctFrench": ["Nous", "nous", "étirons", "avant", "de", "nous", "habiller"],
+      "wordOptions": ["Nous", "nous", "étirons", "avant", "de", "nous", "habiller", "s'étirer", "après", "lever"],
+      "explanation": "'S'étirer' = to stretch. 'Avant de + infinitive' = before doing.",
+      "grammar_points": ["reflexive_verbs", "prepositions_with_infinitive", "exercise_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_022",
+      "english": "He listens to music while showering.",
+      "correctFrench": ["Il", "écoute", "de", "la", "musique", "en", "se", "douchant"],
+      "wordOptions": ["Il", "écoute", "de", "la", "musique", "en", "se", "douchant", "pendant", "qu'il", "prend", "douche"],
+      "explanation": "'Écouter de la musique' = to listen to music. 'En + present participle' = while doing.",
+      "grammar_points": ["present_participle", "entertainment_vocabulary", "simultaneous_actions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_daily-routine_023",
+      "english": "I check the weather before leaving.",
+      "correctFrench": ["Je", "vérifie", "la", "météo", "avant", "de", "partir"],
+      "wordOptions": ["Je", "vérifie", "la", "météo", "avant", "de", "partir", "regarde", "temps", "sortir"],
+      "explanation": "'Vérifier la météo' = to check the weather. 'Avant de partir' = before leaving.",
+      "grammar_points": ["weather_vocabulary", "prepositions_with_infinitive", "planning_activities"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_024",
+      "english": "She feeds the cat before breakfast.",
+      "correctFrench": ["Elle", "nourrit", "le", "chat", "avant", "le", "petit-déjeuner"],
+      "wordOptions": ["Elle", "nourrit", "le", "chat", "avant", "le", "petit-déjeuner", "donne", "à", "manger", "chien"],
+      "explanation": "'Nourrir' = to feed. Pet care as part of morning routine.",
+      "grammar_points": ["pet_care_vocabulary", "time_expressions", "responsibility_vocabulary"],
+      "difficulty": 2.0
+    },
+    {
       "id": "a2_daily-routine_025",
       "english": "I'm going to wake up earlier tomorrow.",
       "correctFrench": ["Je", "vais", "me", "réveiller", "plus", "tôt", "demain"],
       "wordOptions": ["Je", "vais", "me", "réveiller", "plus", "tôt", "demain", "réveillerai", "plus", "tard", "hier"],
       "explanation": "Near future: aller + infinitive. 'Plus tôt' = earlier. 'Demain' = tomorrow.",
       "grammar_points": ["near_future", "reflexive_verbs", "comparative_adverbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_daily-routine_026",
+      "english": "He makes his bed immediately after waking up.",
+      "correctFrench": ["Il", "fait", "son", "lit", "immédiatement", "après", "s'être", "réveillé"],
+      "wordOptions": ["Il", "fait", "son", "lit", "immédiatement", "après", "s'être", "réveillé", "tout", "de", "suite"],
+      "explanation": "'Faire son lit' = to make one's bed. 'Après s'être réveillé' = after waking up.",
+      "grammar_points": ["household_tasks", "time_expressions", "past_infinitive"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_daily-routine_027",
+      "english": "I brush my hair before going out.",
+      "correctFrench": ["Je", "me", "brosse", "les", "cheveux", "avant", "de", "sortir"],
+      "wordOptions": ["Je", "me", "brosse", "les", "cheveux", "avant", "de", "sortir", "coiffe", "après", "partir"],
+      "explanation": "'Se brosser les cheveux' = to brush one's hair. Grooming before leaving.",
+      "grammar_points": ["reflexive_verbs", "body_parts", "grooming_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_028",
+      "english": "She prepares her lunch box the night before.",
+      "correctFrench": ["Elle", "prépare", "sa", "boîte", "à", "lunch", "la", "veille"],
+      "wordOptions": ["Elle", "prépare", "sa", "boîte", "à", "lunch", "la", "veille", "panier-repas", "matin", "soir"],
+      "explanation": "'Boîte à lunch' = lunch box. 'La veille' = the day before.",
+      "grammar_points": ["meal_preparation", "time_expressions", "planning_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_029",
+      "english": "We do morning exercises for 15 minutes.",
+      "correctFrench": ["Nous", "faisons", "des", "exercices", "matinaux", "pendant", "quinze", "minutes"],
+      "wordOptions": ["Nous", "faisons", "des", "exercices", "matinaux", "pendant", "quinze", "minutes", "du", "sport", "dix"],
+      "explanation": "'Exercices matinaux' = morning exercises. 'Pendant quinze minutes' = for 15 minutes.",
+      "grammar_points": ["exercise_vocabulary", "time_duration", "adjective_agreement"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_030",
+      "english": "He reads the news on his phone.",
+      "correctFrench": ["Il", "lit", "les", "actualités", "sur", "son", "téléphone"],
+      "wordOptions": ["Il", "lit", "les", "actualités", "sur", "son", "téléphone", "nouvelles", "portable", "avec"],
+      "explanation": "'Lire les actualités' = to read the news. Technology in morning routine.",
+      "grammar_points": ["media_vocabulary", "technology_vocabulary", "information_consumption"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_031",
+      "english": "I water the plants every Tuesday morning.",
+      "correctFrench": ["J'arrose", "les", "plantes", "chaque", "mardi", "matin"],
+      "wordOptions": ["J'arrose", "les", "plantes", "chaque", "mardi", "matin", "tous", "les", "mardis", "fleurs"],
+      "explanation": "'Arroser les plantes' = to water the plants. Weekly routine.",
+      "grammar_points": ["household_tasks", "frequency_expressions", "days_of_week"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_032",
+      "english": "She takes her dog for a walk.",
+      "correctFrench": ["Elle", "promène", "son", "chien"],
+      "wordOptions": ["Elle", "promène", "son", "chien", "sort", "avec", "emmene", "chat"],
+      "explanation": "'Promener son chien' = to walk one's dog. Pet care routine.",
+      "grammar_points": ["pet_care_vocabulary", "daily_activities", "responsibility_vocabulary"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_033",
+      "english": "We eat breakfast together as a family.",
+      "correctFrench": ["Nous", "prenons", "le", "petit-déjeuner", "ensemble", "en", "famille"],
+      "wordOptions": ["Nous", "prenons", "le", "petit-déjeuner", "ensemble", "en", "famille", "mangeons", "tous", "seuls"],
+      "explanation": "'Prendre le petit-déjeuner' = to have breakfast. 'En famille' = as a family.",
+      "grammar_points": ["meal_vocabulary", "family_vocabulary", "togetherness_expressions"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_034",
+      "english": "He checks his emails before breakfast.",
+      "correctFrench": ["Il", "vérifie", "ses", "emails", "avant", "le", "petit-déjeuner"],
+      "wordOptions": ["Il", "vérifie", "ses", "emails", "avant", "le", "petit-déjeuner", "courriels", "après", "regarde"],
+      "explanation": "'Vérifier ses emails' = to check one's emails. Morning technology use.",
+      "grammar_points": ["technology_vocabulary", "time_expressions", "communication_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_035",
+      "english": "I put on sunscreen before leaving.",
+      "correctFrench": ["Je", "mets", "de", "la", "crème", "solaire", "avant", "de", "partir"],
+      "wordOptions": ["Je", "mets", "de", "la", "crème", "solaire", "avant", "de", "partir", "applique", "protection", "sortir"],
+      "explanation": "'Mettre de la crème solaire' = to put on sunscreen. Health protection.",
+      "grammar_points": ["health_vocabulary", "skin_care", "prepositions_with_infinitive"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_036",
+      "english": "She packs her bag for work.",
+      "correctFrench": ["Elle", "fait", "son", "sac", "pour", "le", "travail"],
+      "wordOptions": ["Elle", "fait", "son", "sac", "pour", "le", "travail", "prépare", "à", "bureau", "l'école"],
+      "explanation": "'Faire son sac' = to pack one's bag. Work preparation.",
+      "grammar_points": ["work_vocabulary", "preparation_activities", "prepositions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_037",
+      "english": "We turn off all the lights before leaving.",
+      "correctFrench": ["Nous", "éteignons", "toutes", "les", "lumières", "avant", "de", "partir"],
+      "wordOptions": ["Nous", "éteignons", "toutes", "les", "lumières", "avant", "de", "partir", "fermons", "allumons", "sortir"],
+      "explanation": "'Éteindre les lumières' = to turn off the lights. Energy conservation.",
+      "grammar_points": ["household_management", "energy_vocabulary", "responsibility_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_038",
+      "english": "He drinks a glass of water upon waking.",
+      "correctFrench": ["Il", "boit", "un", "verre", "d'eau", "au", "réveil"],
+      "wordOptions": ["Il", "boit", "un", "verre", "d'eau", "au", "réveil", "en", "se", "réveillant", "de", "lait"],
+      "explanation": "'Boire un verre d'eau' = to drink a glass of water. 'Au réveil' = upon waking.",
+      "grammar_points": ["health_vocabulary", "time_expressions", "hydration_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_039",
+      "english": "I look at my schedule for the day.",
+      "correctFrench": ["Je", "regarde", "mon", "planning", "de", "la", "journée"],
+      "wordOptions": ["Je", "regarde", "mon", "planning", "de", "la", "journée", "emploi", "du", "temps", "programme"],
+      "explanation": "'Regarder son planning' = to look at one's schedule. Daily planning.",
+      "grammar_points": ["time_management", "planning_vocabulary", "daily_organization"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_040",
+      "english": "She opens the curtains to let in light.",
+      "correctFrench": ["Elle", "ouvre", "les", "rideaux", "pour", "laisser", "entrer", "la", "lumière"],
+      "wordOptions": ["Elle", "ouvre", "les", "rideaux", "pour", "laisser", "entrer", "la", "lumière", "ferme", "faire", "sortir"],
+      "explanation": "'Ouvrir les rideaux' = to open the curtains. 'Pour laisser entrer' = to let in.",
+      "grammar_points": ["household_activities", "purpose_expressions", "light_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_daily-routine_041",
+      "english": "We set the table for breakfast.",
+      "correctFrench": ["Nous", "mettons", "la", "table", "pour", "le", "petit-déjeuner"],
+      "wordOptions": ["Nous", "mettons", "la", "table", "pour", "le", "petit-déjeuner", "dressons", "débarrassons", "dîner"],
+      "explanation": "'Mettre la table' = to set the table. Meal preparation activity.",
+      "grammar_points": ["household_tasks", "meal_preparation", "family_activities"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_042",
+      "english": "He puts on his watch and rings.",
+      "correctFrench": ["Il", "met", "sa", "montre", "et", "ses", "bagues"],
+      "wordOptions": ["Il", "met", "sa", "montre", "et", "ses", "bagues", "porte", "collier", "bracelet", "bijoux"],
+      "explanation": "'Mettre sa montre' = to put on one's watch. Personal accessories.",
+      "grammar_points": ["accessories_vocabulary", "jewelry_vocabulary", "getting_dressed"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_043",
+      "english": "I warm up my car in winter.",
+      "correctFrench": ["Je", "réchauffe", "ma", "voiture", "en", "hiver"],
+      "wordOptions": ["Je", "réchauffe", "ma", "voiture", "en", "hiver", "fais", "chauffer", "été", "moto"],
+      "explanation": "'Réchauffer la voiture' = to warm up the car. Seasonal routine.",
+      "grammar_points": ["transportation_vocabulary", "seasonal_activities", "weather_adaptation"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_044",
+      "english": "She checks the weather forecast.",
+      "correctFrench": ["Elle", "vérifie", "les", "prévisions", "météo"],
+      "wordOptions": ["Elle", "vérifie", "les", "prévisions", "météo", "regarde", "la", "météorologie", "temps"],
+      "explanation": "'Vérifier les prévisions météo' = to check the weather forecast.",
+      "grammar_points": ["weather_vocabulary", "planning_activities", "information_gathering"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_045",
+      "english": "We say goodbye to our children.",
+      "correctFrench": ["Nous", "disons", "au", "revoir", "à", "nos", "enfants"],
+      "wordOptions": ["Nous", "disons", "au", "revoir", "à", "nos", "enfants", "faisons", "nos", "adieux", "parents"],
+      "explanation": "'Dire au revoir' = to say goodbye. Family departure routine.",
+      "grammar_points": ["farewell_expressions", "family_vocabulary", "daily_interactions"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_daily-routine_046",
+      "english": "He locks the door before leaving.",
+      "correctFrench": ["Il", "ferme", "à", "clé", "la", "porte", "avant", "de", "partir"],
+      "wordOptions": ["Il", "ferme", "à", "clé", "la", "porte", "avant", "de", "partir", "verrouille", "ouvre", "sortir"],
+      "explanation": "'Fermer à clé' = to lock. Security routine before leaving.",
+      "grammar_points": ["security_vocabulary", "household_management", "departure_routine"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_047",
+      "english": "I take my umbrella if it's cloudy.",
+      "correctFrench": ["Je", "prends", "mon", "parapluie", "s'il", "fait", "nuageux"],
+      "wordOptions": ["Je", "prends", "mon", "parapluie", "s'il", "fait", "nuageux", "quand", "il", "pleut", "beau"],
+      "explanation": "'Prendre son parapluie' = to take one's umbrella. Weather preparation.",
+      "grammar_points": ["conditional_situations", "weather_vocabulary", "preparation_activities"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_daily-routine_048",
+      "english": "She writes in her diary every morning.",
+      "correctFrench": ["Elle", "écrit", "dans", "son", "journal", "chaque", "matin"],
+      "wordOptions": ["Elle", "écrit", "dans", "son", "journal", "chaque", "matin", "intime", "tous", "les", "matins"],
+      "explanation": "'Écrire dans son journal' = to write in one's diary. Personal reflection.",
+      "grammar_points": ["writing_activities", "personal_development", "frequency_expressions"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_daily-routine_049",
+      "english": "We organize our priorities for the day.",
+      "correctFrench": ["Nous", "organisons", "nos", "priorités", "pour", "la", "journée"],
+      "wordOptions": ["Nous", "organisons", "nos", "priorités", "pour", "la", "journée", "planifions", "tâches", "semaine"],
+      "explanation": "'Organiser ses priorités' = to organize one's priorities. Daily planning.",
+      "grammar_points": ["planning_vocabulary", "time_management", "productivity_vocabulary"],
       "difficulty": 2.3
     },
     {

@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "food",
   "description": "Food vocabulary, meals, and preferences",
-  "total_sentences": 50,
+  "total_sentences": 1000,
   "sentences": [
     {
       "id": "a2_food_001",
@@ -183,6 +183,276 @@
       "explanation": "'La boulangerie' = bakery. 'Ouvrir' = to open. Time with 'heures'.",
       "grammar_points": ["shop_vocabulary", "time_expressions"],
       "difficulty": 2.0
+    },
+    {
+      "id": "a2_food_021",
+      "english": "I cooked pasta with tomato sauce yesterday.",
+      "correctFrench": ["J'ai", "cuisiné", "des", "pâtes", "avec", "une", "sauce", "tomate", "hier"],
+      "wordOptions": ["J'ai", "cuisiné", "des", "pâtes", "avec", "une", "sauce", "tomate", "hier", "aujourd'hui", "demain"],
+      "explanation": "Past tense with 'avoir'. 'Cuisiner' = to cook. 'Hier' = yesterday.",
+      "grammar_points": ["passe_compose", "food_preparation", "time_expressions"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "a2_food_022",
+      "english": "The waiter recommended the fish of the day.",
+      "correctFrench": ["Le", "serveur", "a", "recommandé", "le", "poisson", "du", "jour"],
+      "wordOptions": ["Le", "serveur", "a", "recommandé", "le", "poisson", "du", "jour", "serveuse", "conseillé", "viande"],
+      "explanation": "'Recommander' = to recommend. 'Le poisson du jour' = fish of the day.",
+      "grammar_points": ["passe_compose", "restaurant_vocabulary", "daily_specials"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "a2_food_023",
+      "english": "She bought fresh vegetables at the market.",
+      "correctFrench": ["Elle", "a", "acheté", "des", "légumes", "frais", "au", "marché"],
+      "wordOptions": ["Elle", "a", "acheté", "des", "légumes", "frais", "au", "marché", "fruits", "dans", "le"],
+      "explanation": "'Acheter' in passé composé. 'Des légumes frais' = fresh vegetables.",
+      "grammar_points": ["passe_compose", "shopping_vocabulary", "food_quality"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_food_024",
+      "english": "We need to reserve a table for tonight.",
+      "correctFrench": ["Nous", "devons", "réserver", "une", "table", "pour", "ce", "soir"],
+      "wordOptions": ["Nous", "devons", "réserver", "une", "table", "pour", "ce", "soir", "il", "faut", "demain"],
+      "explanation": "'Devoir' = must. 'Réserver une table' = to reserve a table.",
+      "grammar_points": ["modal_verbs", "restaurant_reservations", "time_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_food_025",
+      "english": "I don't like spicy food very much.",
+      "correctFrench": ["Je", "n'aime", "pas", "beaucoup", "la", "nourriture", "épicée"],
+      "wordOptions": ["Je", "n'aime", "pas", "beaucoup", "la", "nourriture", "épicée", "cuisine", "piquante", "très"],
+      "explanation": "Negative with 'ne...pas'. 'Épicée' = spicy. 'Beaucoup' for intensity.",
+      "grammar_points": ["negation", "food_preferences", "taste_vocabulary"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_food_026",
+      "english": "The chef prepared a delicious dessert.",
+      "correctFrench": ["Le", "chef", "a", "préparé", "un", "délicieux", "dessert"],
+      "wordOptions": ["Le", "chef", "a", "préparé", "un", "délicieux", "dessert", "cuisinier", "fait", "gâteau"],
+      "explanation": "'Préparer' = to prepare. Adjective placement before noun for emphasis.",
+      "grammar_points": ["passe_compose", "cooking_verbs", "adjective_placement"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_food_027",
+      "english": "She adds salt and pepper to her soup.",
+      "correctFrench": ["Elle", "ajoute", "du", "sel", "et", "du", "poivre", "à", "sa", "soupe"],
+      "wordOptions": ["Elle", "ajoute", "du", "sel", "et", "du", "poivre", "à", "sa", "soupe", "met", "dans"],
+      "explanation": "'Ajouter' = to add. Partitive articles 'du sel, du poivre'.",
+      "grammar_points": ["cooking_verbs", "partitive_articles", "seasoning_vocabulary"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "a2_food_028",
+      "english": "We're having dinner at a French restaurant.",
+      "correctFrench": ["Nous", "dînons", "dans", "un", "restaurant", "français"],
+      "wordOptions": ["Nous", "dînons", "dans", "un", "restaurant", "français", "prenons", "le", "dîner", "italien"],
+      "explanation": "'Dîner' = to have dinner (verb). Nationality adjectives agree.",
+      "grammar_points": ["meal_verbs", "nationality_adjectives", "restaurant_types"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_food_029",
+      "english": "The bread is baked fresh every morning.",
+      "correctFrench": ["Le", "pain", "est", "cuit", "frais", "chaque", "matin"],
+      "wordOptions": ["Le", "pain", "est", "cuit", "frais", "chaque", "matin", "fait", "tous", "les", "matins"],
+      "explanation": "'Cuit' = baked/cooked. 'Chaque matin' = every morning.",
+      "grammar_points": ["cooking_methods", "frequency_expressions", "bakery_vocabulary"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_food_030",
+      "english": "I'm trying to eat more healthy foods.",
+      "correctFrench": ["J'essaie", "de", "manger", "plus", "d'aliments", "sains"],
+      "wordOptions": ["J'essaie", "de", "manger", "plus", "d'aliments", "sains", "essaye", "nourriture", "saine", "sainement"],
+      "explanation": "'Essayer de' = to try to. 'Plus de' = more. Health consciousness.",
+      "grammar_points": ["attempt_expressions", "health_vocabulary", "quantity_expressions"],
+      "difficulty": 3.2
+    },
+    {
+      "id": "a2_food_031",
+      "english": "The menu offers many vegetarian options.",
+      "correctFrench": ["La", "carte", "propose", "beaucoup", "d'options", "végétariennes"],
+      "wordOptions": ["La", "carte", "propose", "beaucoup", "d'options", "végétariennes", "menu", "offre", "choix", "végétales"],
+      "explanation": "'Proposer' = to offer. 'Beaucoup de' = many. Dietary options.",
+      "grammar_points": ["restaurant_vocabulary", "quantity_expressions", "dietary_preferences"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "a2_food_032",
+      "english": "She's learning how to make sushi.",
+      "correctFrench": ["Elle", "apprend", "à", "faire", "des", "sushis"],
+      "wordOptions": ["Elle", "apprend", "à", "faire", "des", "sushis", "comment", "préparer", "cuisiner", "saumons"],
+      "explanation": "'Apprendre à' = to learn to. International cuisine vocabulary.",
+      "grammar_points": ["learning_expressions", "international_cuisine", "infinitive_constructions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_food_033",
+      "english": "We shared an appetizer before the main course.",
+      "correctFrench": ["Nous", "avons", "partagé", "une", "entrée", "avant", "le", "plat", "principal"],
+      "wordOptions": ["Nous", "avons", "partagé", "une", "entrée", "avant", "le", "plat", "principal", "hors-d'œuvre", "après"],
+      "explanation": "'Partager' = to share. 'Une entrée' = appetizer. Meal courses.",
+      "grammar_points": ["passe_compose", "meal_structure", "sharing_expressions"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "a2_food_034",
+      "english": "The coffee is too strong for me.",
+      "correctFrench": ["Le", "café", "est", "trop", "fort", "pour", "moi"],
+      "wordOptions": ["Le", "café", "est", "trop", "fort", "pour", "moi", "très", "faible", "assez", "moi"],
+      "explanation": "'Trop fort' = too strong. 'Pour moi' = for me. Personal preferences.",
+      "grammar_points": ["intensity_expressions", "taste_vocabulary", "personal_preferences"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_food_035",
+      "english": "I need to buy groceries for the week.",
+      "correctFrench": ["Je", "dois", "acheter", "des", "courses", "pour", "la", "semaine"],
+      "wordOptions": ["Je", "dois", "acheter", "des", "courses", "pour", "la", "semaine", "faire", "provisions", "mois"],
+      "explanation": "'Faire/acheter des courses' = to buy groceries. Weekly planning.",
+      "grammar_points": ["modal_verbs", "shopping_vocabulary", "time_planning"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_food_036",
+      "english": "The restaurant is fully booked tonight.",
+      "correctFrench": ["Le", "restaurant", "est", "complet", "ce", "soir"],
+      "wordOptions": ["Le", "restaurant", "est", "complet", "ce", "soir", "plein", "réservé", "occupé", "fermé"],
+      "explanation": "'Complet' = fully booked. Restaurant availability expressions.",
+      "grammar_points": ["restaurant_vocabulary", "availability_expressions", "time_expressions"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_food_037",
+      "english": "She's on a special diet for health reasons.",
+      "correctFrench": ["Elle", "suit", "un", "régime", "spécial", "pour", "des", "raisons", "de", "santé"],
+      "wordOptions": ["Elle", "suit", "un", "régime", "spécial", "pour", "des", "raisons", "de", "santé", "fait", "particulier"],
+      "explanation": "'Suivre un régime' = to be on a diet. Health-related vocabulary.",
+      "grammar_points": ["health_expressions", "diet_vocabulary", "reason_expressions"],
+      "difficulty": 3.3
+    },
+    {
+      "id": "a2_food_038",
+      "english": "We're going to try the new pizza place.",
+      "correctFrench": ["Nous", "allons", "essayer", "la", "nouvelle", "pizzeria"],
+      "wordOptions": ["Nous", "allons", "essayer", "la", "nouvelle", "pizzeria", "tester", "nouveau", "restaurant", "italien"],
+      "explanation": "Near future: 'aller + infinitive'. 'Pizzeria' = pizza place.",
+      "grammar_points": ["near_future", "restaurant_types", "trying_experiences"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_food_039",
+      "english": "The soup needs more seasoning.",
+      "correctFrench": ["La", "soupe", "a", "besoin", "de", "plus", "d'assaisonnement"],
+      "wordOptions": ["La", "soupe", "a", "besoin", "de", "plus", "d'assaisonnement", "manque", "épices", "sel"],
+      "explanation": "'Avoir besoin de' = to need. Cooking adjustments vocabulary.",
+      "grammar_points": ["expressing_need", "cooking_vocabulary", "taste_adjustment"],
+      "difficulty": 3.0
+    },
+    {
+      "id": "a2_food_040",
+      "english": "I always check the expiration date.",
+      "correctFrench": ["Je", "vérifie", "toujours", "la", "date", "de", "péremption"],
+      "wordOptions": ["Je", "vérifie", "toujours", "la", "date", "de", "péremption", "regarde", "limite", "consommation"],
+      "explanation": "'Vérifier' = to check. Food safety vocabulary.",
+      "grammar_points": ["food_safety", "frequency_expressions", "date_vocabulary"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "a2_food_041",
+      "english": "The meat is cooked to perfection.",
+      "correctFrench": ["La", "viande", "est", "cuite", "à", "la", "perfection"],
+      "wordOptions": ["La", "viande", "est", "cuite", "à", "la", "perfection", "Le", "poisson", "point", "merveille"],
+      "explanation": "'Cuite à la perfection' = cooked to perfection. Cooking quality.",
+      "grammar_points": ["cooking_quality", "adjective_agreement", "perfection_expressions"],
+      "difficulty": 2.9
+    },
+    {
+      "id": "a2_food_042",
+      "english": "We ordered takeout from the Chinese restaurant.",
+      "correctFrench": ["Nous", "avons", "commandé", "à", "emporter", "au", "restaurant", "chinois"],
+      "wordOptions": ["Nous", "avons", "commandé", "à", "emporter", "au", "restaurant", "chinois", "livraison", "dans", "le"],
+      "explanation": "'À emporter' = takeout. Restaurant ordering vocabulary.",
+      "grammar_points": ["passe_compose", "restaurant_ordering", "nationality_adjectives"],
+      "difficulty": 3.0
+    },
+    {
+      "id": "a2_food_043",
+      "english": "She makes her own bread at home.",
+      "correctFrench": ["Elle", "fait", "son", "propre", "pain", "à", "la", "maison"],
+      "wordOptions": ["Elle", "fait", "son", "propre", "pain", "à", "la", "maison", "fabrique", "chez", "elle"],
+      "explanation": "'Son propre' = her own. Home baking vocabulary.",
+      "grammar_points": ["possessive_adjectives", "home_cooking", "bread_making"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_food_044",
+      "english": "The ice cream melted in the sun.",
+      "correctFrench": ["La", "glace", "a", "fondu", "au", "soleil"],
+      "wordOptions": ["La", "glace", "a", "fondu", "au", "soleil", "sorbet", "fondue", "dans", "le"],
+      "explanation": "'Fondre' = to melt. Weather effects on food.",
+      "grammar_points": ["passe_compose", "weather_effects", "food_states"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_food_045",
+      "english": "I prefer organic vegetables.",
+      "correctFrench": ["Je", "préfère", "les", "légumes", "biologiques"],
+      "wordOptions": ["Je", "préfère", "les", "légumes", "biologiques", "bio", "naturels", "fruits", "écologiques"],
+      "explanation": "'Biologiques' or 'bio' = organic. Health-conscious choices.",
+      "grammar_points": ["preferences", "food_quality", "health_vocabulary"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_food_046",
+      "english": "The waiter brought us the wine list.",
+      "correctFrench": ["Le", "serveur", "nous", "a", "apporté", "la", "carte", "des", "vins"],
+      "wordOptions": ["Le", "serveur", "nous", "a", "apporté", "la", "carte", "des", "vins", "serveuse", "donné"],
+      "explanation": "'Apporter' = to bring. 'La carte des vins' = wine list.",
+      "grammar_points": ["passe_compose", "restaurant_service", "beverage_vocabulary"],
+      "difficulty": 2.8
+    },
+    {
+      "id": "a2_food_047",
+      "english": "She's allergic to shellfish.",
+      "correctFrench": ["Elle", "est", "allergique", "aux", "fruits", "de", "mer"],
+      "wordOptions": ["Elle", "est", "allergique", "aux", "fruits", "de", "mer", "crustacés", "poissons", "des"],
+      "explanation": "'Les fruits de mer' = seafood/shellfish. Allergy expressions.",
+      "grammar_points": ["health_expressions", "seafood_vocabulary", "contracted_articles"],
+      "difficulty": 3.1
+    },
+    {
+      "id": "a2_food_048",
+      "english": "We ate lunch at a sidewalk café.",
+      "correctFrench": ["Nous", "avons", "déjeuné", "dans", "un", "café", "en", "terrasse"],
+      "wordOptions": ["Nous", "avons", "déjeuné", "dans", "un", "café", "en", "terrasse", "pris", "le", "déjeuner"],
+      "explanation": "'Déjeuner' = to have lunch. 'En terrasse' = on the terrace.",
+      "grammar_points": ["passe_compose", "meal_verbs", "restaurant_seating"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_food_049",
+      "english": "The sauce is made with fresh herbs.",
+      "correctFrench": ["La", "sauce", "est", "faite", "avec", "des", "herbes", "fraîches"],
+      "wordOptions": ["La", "sauce", "est", "faite", "avec", "des", "herbes", "fraîches", "fait", "aromates", "épices"],
+      "explanation": "'Faire avec' = made with. Cooking ingredients vocabulary.",
+      "grammar_points": ["passive_voice", "cooking_ingredients", "herb_vocabulary"],
+      "difficulty": 3.0
+    },
+    {
+      "id": "a2_food_050",
+      "english": "I'm saving room for dessert.",
+      "correctFrench": ["Je", "garde", "de", "la", "place", "pour", "le", "dessert"],
+      "wordOptions": ["Je", "garde", "de", "la", "place", "pour", "le", "dessert", "réserve", "espace", "gâteau"],
+      "explanation": "'Garder de la place' = to save room. Meal planning expressions.",
+      "grammar_points": ["meal_planning", "dessert_vocabulary", "space_expressions"],
+      "difficulty": 2.9
     }
   ]
 }

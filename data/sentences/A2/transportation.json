@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "transportation",
   "description": "Transportation, travel, vehicles, and getting around",
-  "total_sentences": 110,
+  "total_sentences": 210,
   "sentences": [
     {
       "id": "a2_transport_001",
@@ -183,6 +183,726 @@
       "explanation": "'Avoir besoin d'indications' = to need directions. 'Pour l'aéroport' = to the airport.",
       "grammar_points": ["asking_directions", "expressing_need", "airport_vocabulary"],
       "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_021",
+      "english": "The motorcycle is faster than the bicycle.",
+      "correctFrench": ["La", "moto", "est", "plus", "rapide", "que", "le", "vélo"],
+      "wordOptions": ["La", "moto", "est", "plus", "rapide", "que", "le", "vélo", "motocyclette", "moins", "lente"],
+      "explanation": "'Plus rapide que' = faster than. Comparative structure in transportation.",
+      "grammar_points": ["comparative_adjectives", "vehicle_comparison", "speed_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_022",
+      "english": "We missed our connection flight.",
+      "correctFrench": ["Nous", "avons", "raté", "notre", "vol", "de", "correspondance"],
+      "wordOptions": ["Nous", "avons", "raté", "notre", "vol", "de", "correspondance", "manqué", "avion", "connexion"],
+      "explanation": "Passé composé: avons raté. 'Vol de correspondance' = connection flight.",
+      "grammar_points": ["passe_compose", "air_travel", "travel_problems"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_transport_023",
+      "english": "The driver pays the toll at the highway.",
+      "correctFrench": ["Le", "conducteur", "paie", "le", "péage", "sur", "l'autoroute"],
+      "wordOptions": ["Le", "conducteur", "paie", "le", "péage", "sur", "l'autoroute", "La", "conductrice", "à", "route"],
+      "explanation": "'Payer le péage' = to pay the toll. 'Sur l'autoroute' = on the highway.",
+      "grammar_points": ["driving_costs", "highway_vocabulary", "payment_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_024",
+      "english": "I prefer traveling during off-peak hours.",
+      "correctFrench": ["Je", "préfère", "voyager", "pendant", "les", "heures", "creuses"],
+      "wordOptions": ["Je", "préfère", "voyager", "pendant", "les", "heures", "creuses", "aux", "de", "pointe", "calmes"],
+      "explanation": "'Les heures creuses' = off-peak hours. Travel timing preferences.",
+      "grammar_points": ["time_preferences", "traffic_patterns", "travel_planning"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_025",
+      "english": "The cruise ship docks at the port tomorrow.",
+      "correctFrench": ["Le", "bateau", "de", "croisière", "accoste", "au", "port", "demain"],
+      "wordOptions": ["Le", "bateau", "de", "croisière", "accoste", "au", "port", "demain", "navire", "arrive", "hier"],
+      "explanation": "'Le bateau de croisière' = cruise ship. Future scheduling vocabulary.",
+      "grammar_points": ["cruise_vocabulary", "port_activities", "future_time"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_026",
+      "english": "She books tickets online in advance.",
+      "correctFrench": ["Elle", "réserve", "des", "billets", "en", "ligne", "à", "l'avance"],
+      "wordOptions": ["Elle", "réserve", "des", "billets", "en", "ligne", "à", "l'avance", "achète", "tickets", "internet"],
+      "explanation": "'Réserver en ligne' = to book online. 'À l'avance' = in advance.",
+      "grammar_points": ["online_booking", "advance_planning", "ticket_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_027",
+      "english": "The tram runs every ten minutes.",
+      "correctFrench": ["Le", "tramway", "passe", "toutes", "les", "dix", "minutes"],
+      "wordOptions": ["Le", "tramway", "passe", "toutes", "les", "dix", "minutes", "tram", "cinq", "quinze", "chaque"],
+      "explanation": "'Le tramway passe' = the tram runs. 'Toutes les dix minutes' = every ten minutes.",
+      "grammar_points": ["public_transport", "frequency_expressions", "time_intervals"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_028",
+      "english": "I need to refuel my car.",
+      "correctFrench": ["Je", "dois", "faire", "le", "plein", "de", "ma", "voiture"],
+      "wordOptions": ["Je", "dois", "faire", "le", "plein", "de", "ma", "voiture", "refaire", "essence", "carburant"],
+      "explanation": "'Faire le plein' = to refuel. 'Devoir' + infinitive = need to.",
+      "grammar_points": ["vehicle_maintenance", "fuel_vocabulary", "modal_verbs"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_029",
+      "english": "The ferry connects the two islands.",
+      "correctFrench": ["Le", "ferry", "relie", "les", "deux", "îles"],
+      "wordOptions": ["Le", "ferry", "relie", "les", "deux", "îles", "bac", "connecte", "trois", "continents"],
+      "explanation": "'Le ferry relie' = the ferry connects. Island transportation vocabulary.",
+      "grammar_points": ["water_transport", "island_connections", "geographical_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_030",
+      "english": "We carpool to save money.",
+      "correctFrench": ["Nous", "faisons", "du", "covoiturage", "pour", "économiser"],
+      "wordOptions": ["Nous", "faisons", "du", "covoiturage", "pour", "économiser", "partageons", "voiture", "dépenser", "argent"],
+      "explanation": "'Faire du covoiturage' = to carpool. 'Pour économiser' = to save money.",
+      "grammar_points": ["shared_transport", "money_saving", "purpose_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_031",
+      "english": "The speed limit is 130 km/h.",
+      "correctFrench": ["La", "limitation", "de", "vitesse", "est", "de", "cent", "trente", "kilomètres", "heure"],
+      "wordOptions": ["La", "limitation", "de", "vitesse", "est", "de", "cent", "trente", "kilomètres", "heure", "limite", "par"],
+      "explanation": "'La limitation de vitesse' = speed limit. Road regulations vocabulary.",
+      "grammar_points": ["traffic_rules", "speed_vocabulary", "numbers"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_032",
+      "english": "I lost my parking ticket.",
+      "correctFrench": ["J'ai", "perdu", "mon", "ticket", "de", "parking"],
+      "wordOptions": ["J'ai", "perdu", "mon", "ticket", "de", "parking", "oublié", "stationnement", "billet", "trouvé"],
+      "explanation": "Passé composé: j'ai perdu. 'Ticket de parking' = parking ticket.",
+      "grammar_points": ["passe_compose", "parking_vocabulary", "lost_items"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_033",
+      "english": "The helicopter flies over the city.",
+      "correctFrench": ["L'hélicoptère", "vole", "au-dessus", "de", "la", "ville"],
+      "wordOptions": ["L'hélicoptère", "vole", "au-dessus", "de", "la", "ville", "survole", "sur", "en", "dessous"],
+      "explanation": "'Voler au-dessus de' = to fly over. Aerial transportation vocabulary.",
+      "grammar_points": ["air_transport", "prepositions_of_place", "city_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_034",
+      "english": "She checks in at the airport counter.",
+      "correctFrench": ["Elle", "s'enregistre", "au", "comptoir", "de", "l'aéroport"],
+      "wordOptions": ["Elle", "s'enregistre", "au", "comptoir", "de", "l'aéroport", "fait", "check-in", "guichet", "gare"],
+      "explanation": "'S'enregistrer' = to check in. Airport procedures vocabulary.",
+      "grammar_points": ["airport_procedures", "reflexive_verbs", "travel_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_035",
+      "english": "The van can carry eight passengers.",
+      "correctFrench": ["Le", "van", "peut", "transporter", "huit", "passagers"],
+      "wordOptions": ["Le", "van", "peut", "transporter", "huit", "passagers", "fourgonnette", "porter", "neuf", "personnes"],
+      "explanation": "'Transporter des passagers' = to carry passengers. Vehicle capacity vocabulary.",
+      "grammar_points": ["vehicle_capacity", "modal_verbs", "passenger_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_036",
+      "english": "I called a ride-sharing service.",
+      "correctFrench": ["J'ai", "appelé", "un", "service", "de", "covoiturage"],
+      "wordOptions": ["J'ai", "appelé", "un", "service", "de", "covoiturage", "contacté", "VTC", "transport", "partagé"],
+      "explanation": "Passé composé: j'ai appelé. Modern transportation services vocabulary.",
+      "grammar_points": ["passe_compose", "modern_transport", "service_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_037",
+      "english": "The cable car goes up the mountain.",
+      "correctFrench": ["Le", "téléphérique", "monte", "la", "montagne"],
+      "wordOptions": ["Le", "téléphérique", "monte", "la", "montagne", "funiculaire", "descend", "colline", "vallée"],
+      "explanation": "'Le téléphérique' = cable car. Mountain transportation vocabulary.",
+      "grammar_points": ["mountain_transport", "movement_verbs", "geographical_features"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_038",
+      "english": "We wait at the bus shelter.",
+      "correctFrench": ["Nous", "attendons", "à", "l'abribus"],
+      "wordOptions": ["Nous", "attendons", "à", "l'abribus", "patientons", "arrêt", "de", "bus", "gare"],
+      "explanation": "'L'abribus' = bus shelter. Public transport infrastructure vocabulary.",
+      "grammar_points": ["public_transport", "waiting_locations", "infrastructure_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_transport_039",
+      "english": "The truck delivers goods to stores.",
+      "correctFrench": ["Le", "camion", "livre", "des", "marchandises", "aux", "magasins"],
+      "wordOptions": ["Le", "camion", "livre", "des", "marchandises", "aux", "magasins", "poids", "lourd", "boutiques"],
+      "explanation": "'Livrer des marchandises' = to deliver goods. Commercial transport vocabulary.",
+      "grammar_points": ["commercial_transport", "delivery_vocabulary", "business_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_040",
+      "english": "I'm learning to drive a manual car.",
+      "correctFrench": ["J'apprends", "à", "conduire", "une", "voiture", "manuelle"],
+      "wordOptions": ["J'apprends", "à", "conduire", "une", "voiture", "manuelle", "automatique", "boîte", "vitesses"],
+      "explanation": "'Apprendre à conduire' = to learn to drive. Manual vs automatic transmission.",
+      "grammar_points": ["learning_to_drive", "vehicle_types", "transmission_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_041",
+      "english": "The train whistle announces departure.",
+      "correctFrench": ["Le", "sifflet", "du", "train", "annonce", "le", "départ"],
+      "wordOptions": ["Le", "sifflet", "du", "train", "annonce", "le", "départ", "klaxon", "signale", "l'arrivée"],
+      "explanation": "'Le sifflet du train' = train whistle. Railway signals vocabulary.",
+      "grammar_points": ["railway_signals", "departure_vocabulary", "sound_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_042",
+      "english": "She prefers aisle seats on airplanes.",
+      "correctFrench": ["Elle", "préfère", "les", "sièges", "côté", "couloir", "dans", "les", "avions"],
+      "wordOptions": ["Elle", "préfère", "les", "sièges", "côté", "couloir", "dans", "les", "avions", "hublot", "fenêtre"],
+      "explanation": "'Sièges côté couloir' = aisle seats. Airplane seating preferences.",
+      "grammar_points": ["airplane_seating", "preference_expressions", "aircraft_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_043",
+      "english": "The taxi meter shows the fare.",
+      "correctFrench": ["Le", "compteur", "du", "taxi", "affiche", "le", "prix"],
+      "wordOptions": ["Le", "compteur", "du", "taxi", "affiche", "le", "prix", "taximètre", "montre", "tarif"],
+      "explanation": "'Le compteur du taxi' = taxi meter. 'Afficher le prix' = to show the fare.",
+      "grammar_points": ["taxi_vocabulary", "fare_calculation", "price_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_044",
+      "english": "We crossed the bridge by foot.",
+      "correctFrench": ["Nous", "avons", "traversé", "le", "pont", "à", "pied"],
+      "wordOptions": ["Nous", "avons", "traversé", "le", "pont", "à", "pied", "passé", "en", "voiture", "vélo"],
+      "explanation": "Passé composé: avons traversé. 'À pied' = by foot/on foot.",
+      "grammar_points": ["passe_compose", "crossing_structures", "walking_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_045",
+      "english": "The scooter is parked illegally.",
+      "correctFrench": ["Le", "scooter", "est", "garé", "illégalement"],
+      "wordOptions": ["Le", "scooter", "est", "garé", "illégalement", "stationné", "légalement", "correctement", "mal"],
+      "explanation": "'Garé illégalement' = parked illegally. Parking violations vocabulary.",
+      "grammar_points": ["parking_violations", "legal_vocabulary", "traffic_regulations"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_046",
+      "english": "I bought a monthly travel pass.",
+      "correctFrench": ["J'ai", "acheté", "un", "abonnement", "mensuel", "de", "transport"],
+      "wordOptions": ["J'ai", "acheté", "un", "abonnement", "mensuel", "de", "transport", "pass", "annuel", "hebdomadaire"],
+      "explanation": "Passé composé: j'ai acheté. 'Abonnement mensuel' = monthly pass.",
+      "grammar_points": ["passe_compose", "transport_passes", "subscription_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_047",
+      "english": "The road is closed for construction.",
+      "correctFrench": ["La", "route", "est", "fermée", "pour", "travaux"],
+      "wordOptions": ["La", "route", "est", "fermée", "pour", "travaux", "ouverte", "construction", "réparations", "des"],
+      "explanation": "'Fermée pour travaux' = closed for construction. Road conditions vocabulary.",
+      "grammar_points": ["road_conditions", "construction_vocabulary", "traffic_disruptions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_048",
+      "english": "She signals before changing lanes.",
+      "correctFrench": ["Elle", "signale", "avant", "de", "changer", "de", "voie"],
+      "wordOptions": ["Elle", "signale", "avant", "de", "changer", "de", "voie", "indique", "clignotant", "file"],
+      "explanation": "'Signaler avant de changer de voie' = to signal before changing lanes.",
+      "grammar_points": ["driving_safety", "lane_changes", "traffic_signals"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_049",
+      "english": "The luggage weighs too much.",
+      "correctFrench": ["Les", "bagages", "pèsent", "trop", "lourd"],
+      "wordOptions": ["Les", "bagages", "pèsent", "trop", "lourd", "valises", "léger", "assez", "beaucoup"],
+      "explanation": "'Peser trop lourd' = to weigh too much. Travel luggage vocabulary.",
+      "grammar_points": ["luggage_vocabulary", "weight_expressions", "travel_restrictions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_050",
+      "english": "I rent a car for the weekend.",
+      "correctFrench": ["Je", "loue", "une", "voiture", "pour", "le", "week-end"],
+      "wordOptions": ["Je", "loue", "une", "voiture", "pour", "le", "week-end", "location", "fin", "de", "semaine"],
+      "explanation": "'Louer une voiture' = to rent a car. Car rental vocabulary.",
+      "grammar_points": ["car_rental", "weekend_vocabulary", "rental_services"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_051",
+      "english": "The escalator is out of order.",
+      "correctFrench": ["L'escalator", "est", "en", "panne"],
+      "wordOptions": ["L'escalator", "est", "en", "panne", "L'escalier", "mécanique", "hors", "service", "marche"],
+      "explanation": "'En panne' = out of order. Public facility problems vocabulary.",
+      "grammar_points": ["facility_problems", "malfunction_vocabulary", "public_infrastructure"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_052",
+      "english": "We board the plane at gate 15.",
+      "correctFrench": ["Nous", "embarquons", "dans", "l'avion", "porte", "15"],
+      "wordOptions": ["Nous", "embarquons", "dans", "l'avion", "porte", "15", "montons", "à", "quinze", "seize"],
+      "explanation": "'Embarquer dans l'avion' = to board the plane. Airport boarding vocabulary.",
+      "grammar_points": ["boarding_procedures", "airport_vocabulary", "numbers"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_053",
+      "english": "The motorcycle helmet is mandatory.",
+      "correctFrench": ["Le", "casque", "de", "moto", "est", "obligatoire"],
+      "wordOptions": ["Le", "casque", "de", "moto", "est", "obligatoire", "motocyclette", "facultatif", "nécessaire"],
+      "explanation": "'Le casque est obligatoire' = the helmet is mandatory. Safety regulations.",
+      "grammar_points": ["safety_equipment", "legal_requirements", "motorcycle_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_054",
+      "english": "I parallel park between two cars.",
+      "correctFrench": ["Je", "me", "gare", "en", "créneau", "entre", "deux", "voitures"],
+      "wordOptions": ["Je", "me", "gare", "en", "créneau", "entre", "deux", "voitures", "bataille", "parallèle", "trois"],
+      "explanation": "'Se garer en créneau' = to parallel park. Parking techniques vocabulary.",
+      "grammar_points": ["parking_techniques", "reflexive_verbs", "positioning_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_transport_055",
+      "english": "The ticket inspector checks our passes.",
+      "correctFrench": ["Le", "contrôleur", "vérifie", "nos", "titres", "de", "transport"],
+      "wordOptions": ["Le", "contrôleur", "vérifie", "nos", "titres", "de", "transport", "La", "contrôleuse", "billets"],
+      "explanation": "'Le contrôleur vérifie' = the inspector checks. Public transport control.",
+      "grammar_points": ["transport_control", "ticket_verification", "official_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_056",
+      "english": "She fastens her seatbelt before driving.",
+      "correctFrench": ["Elle", "attache", "sa", "ceinture", "avant", "de", "conduire"],
+      "wordOptions": ["Elle", "attache", "sa", "ceinture", "avant", "de", "conduire", "boucle", "sécurité", "après"],
+      "explanation": "'Attacher sa ceinture' = to fasten seatbelt. Driving safety vocabulary.",
+      "grammar_points": ["driving_safety", "safety_equipment", "prepositions_with_infinitive"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_057",
+      "english": "The GPS gives turn-by-turn directions.",
+      "correctFrench": ["Le", "GPS", "donne", "des", "indications", "étape", "par", "étape"],
+      "wordOptions": ["Le", "GPS", "donne", "des", "indications", "étape", "par", "étape", "directions", "pas", "à"],
+      "explanation": "'Étape par étape' = step by step/turn by turn. Navigation vocabulary.",
+      "grammar_points": ["navigation_technology", "direction_vocabulary", "step_by_step"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_058",
+      "english": "We took a detour to avoid traffic.",
+      "correctFrench": ["Nous", "avons", "pris", "un", "détour", "pour", "éviter", "les", "bouchons"],
+      "wordOptions": ["Nous", "avons", "pris", "un", "détour", "pour", "éviter", "les", "bouchons", "déviation", "embouteillages"],
+      "explanation": "Passé composé: avons pris. 'Prendre un détour' = to take a detour.",
+      "grammar_points": ["passe_compose", "traffic_avoidance", "route_planning"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_059",
+      "english": "The hybrid car uses less fuel.",
+      "correctFrench": ["La", "voiture", "hybride", "consomme", "moins", "d'essence"],
+      "wordOptions": ["La", "voiture", "hybride", "consomme", "moins", "d'essence", "électrique", "plus", "de", "carburant"],
+      "explanation": "'Consommer moins d'essence' = to use less fuel. Eco-friendly vehicles.",
+      "grammar_points": ["eco_vehicles", "fuel_consumption", "comparative_expressions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_transport_060",
+      "english": "I validate my ticket before entering.",
+      "correctFrench": ["Je", "valide", "mon", "billet", "avant", "d'entrer"],
+      "wordOptions": ["Je", "valide", "mon", "billet", "avant", "d'entrer", "composte", "ticket", "après", "sortir"],
+      "explanation": "'Valider son billet' = to validate ticket. Public transport procedures.",
+      "grammar_points": ["ticket_validation", "transport_procedures", "prepositions_with_infinitive"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_061",
+      "english": "The roundabout regulates traffic flow.",
+      "correctFrench": ["Le", "rond-point", "régule", "la", "circulation"],
+      "wordOptions": ["Le", "rond-point", "régule", "la", "circulation", "carrefour", "contrôle", "trafic", "giratoire"],
+      "explanation": "'Le rond-point régule' = the roundabout regulates. Traffic management.",
+      "grammar_points": ["traffic_management", "road_infrastructure", "flow_control"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_062",
+      "english": "She adjusts the mirrors before driving.",
+      "correctFrench": ["Elle", "règle", "les", "rétroviseurs", "avant", "de", "conduire"],
+      "wordOptions": ["Elle", "règle", "les", "rétroviseurs", "avant", "de", "conduire", "ajuste", "miroirs", "après"],
+      "explanation": "'Régler les rétroviseurs' = to adjust mirrors. Pre-driving preparation.",
+      "grammar_points": ["driving_preparation", "vehicle_adjustment", "safety_checks"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_063",
+      "english": "The electric scooter needs charging.",
+      "correctFrench": ["La", "trottinette", "électrique", "a", "besoin", "de", "recharge"],
+      "wordOptions": ["La", "trottinette", "électrique", "a", "besoin", "de", "recharge", "doit", "être", "rechargée"],
+      "explanation": "'Avoir besoin de recharge' = to need charging. Electric transport vocabulary.",
+      "grammar_points": ["electric_vehicles", "charging_vocabulary", "expressing_need"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_064",
+      "english": "We transfer at the next station.",
+      "correctFrench": ["Nous", "changeons", "à", "la", "prochaine", "station"],
+      "wordOptions": ["Nous", "changeons", "à", "la", "prochaine", "station", "gare", "suivante", "dernière", "première"],
+      "explanation": "'Changer à la station' = to transfer at the station. Public transport connections.",
+      "grammar_points": ["transport_transfers", "station_vocabulary", "route_changes"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_065",
+      "english": "The cargo ship carries containers.",
+      "correctFrench": ["Le", "cargo", "transporte", "des", "conteneurs"],
+      "wordOptions": ["Le", "cargo", "transporte", "des", "conteneurs", "navire", "porte", "containers", "marchandises"],
+      "explanation": "'Le cargo transporte' = the cargo ship carries. Maritime freight vocabulary.",
+      "grammar_points": ["maritime_transport", "cargo_vocabulary", "container_shipping"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_066",
+      "english": "I pump air into the bicycle tires.",
+      "correctFrench": ["Je", "gonfle", "les", "pneus", "du", "vélo"],
+      "wordOptions": ["Je", "gonfle", "les", "pneus", "du", "vélo", "pompe", "air", "dans", "roues"],
+      "explanation": "'Gonfler les pneus' = to pump/inflate tires. Bicycle maintenance vocabulary.",
+      "grammar_points": ["bicycle_maintenance", "tire_vocabulary", "maintenance_verbs"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_067",
+      "english": "The flight is delayed due to weather.",
+      "correctFrench": ["Le", "vol", "est", "retardé", "à", "cause", "du", "temps"],
+      "wordOptions": ["Le", "vol", "est", "retardé", "à", "cause", "du", "temps", "avion", "météo", "en", "raison"],
+      "explanation": "'À cause du temps' = due to weather. Flight delay vocabulary.",
+      "grammar_points": ["flight_delays", "weather_causes", "causal_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_068",
+      "english": "She calls a tow truck for help.",
+      "correctFrench": ["Elle", "appelle", "une", "dépanneuse", "pour", "de", "l'aide"],
+      "wordOptions": ["Elle", "appelle", "une", "dépanneuse", "pour", "de", "l'aide", "remorqueuse", "assistance", "secours"],
+      "explanation": "'Appeler une dépanneuse' = to call a tow truck. Vehicle breakdown vocabulary.",
+      "grammar_points": ["vehicle_breakdown", "emergency_services", "help_requests"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_069",
+      "english": "The commuter train connects suburbs.",
+      "correctFrench": ["Le", "train", "de", "banlieue", "relie", "les", "banlieues"],
+      "wordOptions": ["Le", "train", "de", "banlieue", "relie", "les", "banlieues", "RER", "connecte", "villes"],
+      "explanation": "'Le train de banlieue' = commuter train. Suburban transport vocabulary.",
+      "grammar_points": ["suburban_transport", "commuter_vocabulary", "urban_connections"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_transport_070",
+      "english": "I wear protective gear when cycling.",
+      "correctFrench": ["Je", "porte", "des", "équipements", "de", "protection", "à", "vélo"],
+      "wordOptions": ["Je", "porte", "des", "équipements", "de", "protection", "à", "vélo", "casque", "genouillères", "en"],
+      "explanation": "'Porter des équipements de protection' = to wear protective gear.",
+      "grammar_points": ["cycling_safety", "protective_equipment", "sports_safety"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_071",
+      "english": "The bus stop has a digital display.",
+      "correctFrench": ["L'arrêt", "de", "bus", "a", "un", "affichage", "numérique"],
+      "wordOptions": ["L'arrêt", "de", "bus", "a", "un", "affichage", "numérique", "électronique", "écran", "digital"],
+      "explanation": "'Un affichage numérique' = a digital display. Modern transport infrastructure.",
+      "grammar_points": ["modern_infrastructure", "digital_technology", "public_transport"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_072",
+      "english": "We respect traffic signals.",
+      "correctFrench": ["Nous", "respectons", "les", "feux", "de", "circulation"],
+      "wordOptions": ["Nous", "respectons", "les", "feux", "de", "circulation", "signalisation", "tricolores", "rouge"],
+      "explanation": "'Respecter les feux' = to respect traffic lights. Traffic safety vocabulary.",
+      "grammar_points": ["traffic_safety", "traffic_signals", "road_rules"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_073",
+      "english": "The delivery truck blocks the street.",
+      "correctFrench": ["Le", "camion", "de", "livraison", "bloque", "la", "rue"],
+      "wordOptions": ["Le", "camion", "de", "livraison", "bloque", "la", "rue", "fourgon", "route", "avenue"],
+      "explanation": "'Le camion de livraison' = delivery truck. Urban traffic vocabulary.",
+      "grammar_points": ["delivery_vehicles", "traffic_obstruction", "street_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_074",
+      "english": "I reserve a seat by the window.",
+      "correctFrench": ["Je", "réserve", "une", "place", "côté", "fenêtre"],
+      "wordOptions": ["Je", "réserve", "une", "place", "côté", "fenêtre", "siège", "hublot", "couloir", "près"],
+      "explanation": "'Une place côté fenêtre' = a window seat. Seat reservation vocabulary.",
+      "grammar_points": ["seat_preferences", "reservation_vocabulary", "position_expressions"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_075",
+      "english": "The mechanic repairs the engine.",
+      "correctFrench": ["Le", "mécanicien", "répare", "le", "moteur"],
+      "wordOptions": ["Le", "mécanicien", "répare", "le", "moteur", "La", "mécanicienne", "arrange", "frein", "transmission"],
+      "explanation": "'Réparer le moteur' = to repair the engine. Vehicle repair vocabulary.",
+      "grammar_points": ["vehicle_repair", "mechanic_services", "engine_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_076",
+      "english": "We use public transport to reduce pollution.",
+      "correctFrench": ["Nous", "utilisons", "les", "transports", "en", "commun", "pour", "réduire", "la", "pollution"],
+      "wordOptions": ["Nous", "utilisons", "les", "transports", "en", "commun", "pour", "réduire", "la", "pollution", "diminuer"],
+      "explanation": "'Pour réduire la pollution' = to reduce pollution. Environmental awareness.",
+      "grammar_points": ["environmental_transport", "pollution_reduction", "purpose_expressions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_transport_077",
+      "english": "The highway has three lanes each direction.",
+      "correctFrench": ["L'autoroute", "a", "trois", "voies", "dans", "chaque", "sens"],
+      "wordOptions": ["L'autoroute", "a", "trois", "voies", "dans", "chaque", "sens", "files", "direction", "deux"],
+      "explanation": "'Trois voies dans chaque sens' = three lanes each direction. Highway vocabulary.",
+      "grammar_points": ["highway_structure", "lane_vocabulary", "direction_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_078",
+      "english": "I follow the route on my smartphone.",
+      "correctFrench": ["Je", "suis", "l'itinéraire", "sur", "mon", "smartphone"],
+      "wordOptions": ["Je", "suis", "l'itinéraire", "sur", "mon", "smartphone", "route", "portable", "téléphone"],
+      "explanation": "'Suivre l'itinéraire' = to follow the route. Modern navigation vocabulary.",
+      "grammar_points": ["digital_navigation", "route_following", "technology_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_079",
+      "english": "The pedestrian crosses at the crosswalk.",
+      "correctFrench": ["Le", "piéton", "traverse", "au", "passage", "protégé"],
+      "wordOptions": ["Le", "piéton", "traverse", "au", "passage", "protégé", "La", "piétonne", "clouté", "pour"],
+      "explanation": "'Traverser au passage protégé' = to cross at the crosswalk. Pedestrian safety.",
+      "grammar_points": ["pedestrian_safety", "crossing_vocabulary", "street_safety"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_080",
+      "english": "She reports the accident to insurance.",
+      "correctFrench": ["Elle", "déclare", "l'accident", "à", "l'assurance"],
+      "wordOptions": ["Elle", "déclare", "l'accident", "à", "l'assurance", "signale", "rapporte", "assureur", "compagnie"],
+      "explanation": "'Déclarer l'accident' = to report the accident. Insurance procedures.",
+      "grammar_points": ["accident_reporting", "insurance_vocabulary", "administrative_procedures"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_081",
+      "english": "The tunnel goes under the river.",
+      "correctFrench": ["Le", "tunnel", "passe", "sous", "la", "rivière"],
+      "wordOptions": ["Le", "tunnel", "passe", "sous", "la", "rivière", "traverse", "fleuve", "sur", "au-dessus"],
+      "explanation": "'Passer sous' = to go under. Underground infrastructure vocabulary.",
+      "grammar_points": ["underground_infrastructure", "prepositions_of_place", "river_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_082",
+      "english": "I check tire pressure regularly.",
+      "correctFrench": ["Je", "vérifie", "la", "pression", "des", "pneus", "régulièrement"],
+      "wordOptions": ["Je", "vérifie", "la", "pression", "des", "pneus", "régulièrement", "contrôle", "souvent", "rarement"],
+      "explanation": "'Vérifier la pression' = to check pressure. Vehicle maintenance vocabulary.",
+      "grammar_points": ["vehicle_maintenance", "pressure_vocabulary", "frequency_adverbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_083",
+      "english": "The airport shuttle runs every 20 minutes.",
+      "correctFrench": ["La", "navette", "d'aéroport", "passe", "toutes", "les", "20", "minutes"],
+      "wordOptions": ["La", "navette", "d'aéroport", "passe", "toutes", "les", "20", "minutes", "bus", "vingt", "dix"],
+      "explanation": "'La navette d'aéroport' = airport shuttle. Airport transport vocabulary.",
+      "grammar_points": ["airport_transport", "shuttle_services", "time_frequency"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_084",
+      "english": "We share the cost of gasoline.",
+      "correctFrench": ["Nous", "partageons", "le", "coût", "de", "l'essence"],
+      "wordOptions": ["Nous", "partageons", "le", "coût", "de", "l'essence", "prix", "carburant", "frais", "divisons"],
+      "explanation": "'Partager le coût' = to share the cost. Cost-sharing vocabulary.",
+      "grammar_points": ["cost_sharing", "fuel_costs", "shared_expenses"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_085",
+      "english": "The first-class compartment is more comfortable.",
+      "correctFrench": ["Le", "compartiment", "première", "classe", "est", "plus", "confortable"],
+      "wordOptions": ["Le", "compartiment", "première", "classe", "est", "plus", "confortable", "wagon", "moins", "deuxième"],
+      "explanation": "'Plus confortable' = more comfortable. Travel class comparisons.",
+      "grammar_points": ["travel_classes", "comparative_adjectives", "comfort_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_086",
+      "english": "I show my driver's license to police.",
+      "correctFrench": ["Je", "montre", "mon", "permis", "de", "conduire", "à", "la", "police"],
+      "wordOptions": ["Je", "montre", "mon", "permis", "de", "conduire", "à", "la", "police", "présente", "gendarme"],
+      "explanation": "'Montrer son permis' = to show license. Police control vocabulary.",
+      "grammar_points": ["police_control", "driving_documents", "legal_requirements"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_087",
+      "english": "The bike lane is separated from traffic.",
+      "correctFrench": ["La", "piste", "cyclable", "est", "séparée", "de", "la", "circulation"],
+      "wordOptions": ["La", "piste", "cyclable", "est", "séparée", "de", "la", "circulation", "voie", "protégée", "trafic"],
+      "explanation": "'La piste cyclable' = bike lane. Cycling infrastructure vocabulary.",
+      "grammar_points": ["cycling_infrastructure", "traffic_separation", "urban_planning"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_088",
+      "english": "We arrive at our destination safely.",
+      "correctFrench": ["Nous", "arrivons", "à", "destination", "en", "sécurité"],
+      "wordOptions": ["Nous", "arrivons", "à", "destination", "en", "sécurité", "notre", "sains", "et", "saufs"],
+      "explanation": "'Arriver en sécurité' = to arrive safely. Safe arrival vocabulary.",
+      "grammar_points": ["safe_arrival", "destination_vocabulary", "safety_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_transport_089",
+      "english": "The express train skips several stations.",
+      "correctFrench": ["Le", "train", "express", "saute", "plusieurs", "gares"],
+      "wordOptions": ["Le", "train", "express", "saute", "plusieurs", "gares", "rapide", "évite", "stations", "quelques"],
+      "explanation": "'Sauter des gares' = to skip stations. Express service vocabulary.",
+      "grammar_points": ["express_services", "station_vocabulary", "service_types"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_090",
+      "english": "I maintain a safe following distance.",
+      "correctFrench": ["Je", "garde", "une", "distance", "de", "sécurité"],
+      "wordOptions": ["Je", "garde", "une", "distance", "de", "sécurité", "maintiens", "sûre", "suffisante", "prudence"],
+      "explanation": "'Garder une distance de sécurité' = to maintain safe distance. Driving safety.",
+      "grammar_points": ["driving_safety", "distance_vocabulary", "safety_measures"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_091",
+      "english": "The traffic circle improves flow.",
+      "correctFrench": ["Le", "rond-point", "améliore", "la", "fluidité"],
+      "wordOptions": ["Le", "rond-point", "améliore", "la", "fluidité", "carrefour", "circulation", "trafic", "giratoire"],
+      "explanation": "'Améliorer la fluidité' = to improve flow. Traffic engineering vocabulary.",
+      "grammar_points": ["traffic_engineering", "flow_improvement", "infrastructure_benefits"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_transport_092",
+      "english": "She uses public charging stations.",
+      "correctFrench": ["Elle", "utilise", "les", "bornes", "de", "recharge", "publiques"],
+      "wordOptions": ["Elle", "utilise", "les", "bornes", "de", "recharge", "publiques", "stations", "électriques", "privées"],
+      "explanation": "'Les bornes de recharge' = charging stations. Electric vehicle infrastructure.",
+      "grammar_points": ["electric_infrastructure", "charging_stations", "public_services"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_transport_093",
+      "english": "The boat captain navigates by GPS.",
+      "correctFrench": ["Le", "capitaine", "du", "bateau", "navigue", "au", "GPS"],
+      "wordOptions": ["Le", "capitaine", "du", "bateau", "navigue", "au", "GPS", "La", "capitaine", "avec", "le"],
+      "explanation": "'Naviguer au GPS' = to navigate by GPS. Maritime navigation vocabulary.",
+      "grammar_points": ["maritime_navigation", "gps_technology", "boat_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_094",
+      "english": "I return the rental car on time.",
+      "correctFrench": ["Je", "rends", "la", "voiture", "de", "location", "à", "l'heure"],
+      "wordOptions": ["Je", "rends", "la", "voiture", "de", "location", "à", "l'heure", "restitue", "temps", "en", "retard"],
+      "explanation": "'Rendre à l'heure' = to return on time. Car rental procedures.",
+      "grammar_points": ["car_rental", "return_procedures", "punctuality"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_095",
+      "english": "The pedestrian bridge connects both sides.",
+      "correctFrench": ["La", "passerelle", "piétonne", "relie", "les", "deux", "côtés"],
+      "wordOptions": ["La", "passerelle", "piétonne", "relie", "les", "deux", "côtés", "pont", "connecte", "rives"],
+      "explanation": "'La passerelle piétonne' = pedestrian bridge. Urban infrastructure vocabulary.",
+      "grammar_points": ["pedestrian_infrastructure", "bridge_vocabulary", "urban_connections"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_096",
+      "english": "We board the last train home.",
+      "correctFrench": ["Nous", "prenons", "le", "dernier", "train", "pour", "rentrer"],
+      "wordOptions": ["Nous", "prenons", "le", "dernier", "train", "pour", "rentrer", "montons", "premier", "retourner"],
+      "explanation": "'Le dernier train pour rentrer' = the last train home. Late travel vocabulary.",
+      "grammar_points": ["late_travel", "last_services", "returning_home"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_097",
+      "english": "The intersection has traffic cameras.",
+      "correctFrench": ["Le", "carrefour", "a", "des", "caméras", "de", "circulation"],
+      "wordOptions": ["Le", "carrefour", "a", "des", "caméras", "de", "circulation", "intersection", "surveillance", "trafic"],
+      "explanation": "'Des caméras de circulation' = traffic cameras. Traffic monitoring vocabulary.",
+      "grammar_points": ["traffic_monitoring", "intersection_vocabulary", "surveillance_technology"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_098",
+      "english": "I avoid rush hour whenever possible.",
+      "correctFrench": ["J'évite", "les", "heures", "de", "pointe", "quand", "c'est", "possible"],
+      "wordOptions": ["J'évite", "les", "heures", "de", "pointe", "quand", "c'est", "possible", "si", "lorsque"],
+      "explanation": "'Éviter les heures de pointe' = to avoid rush hour. Traffic timing vocabulary.",
+      "grammar_points": ["traffic_avoidance", "rush_hour", "conditional_expressions"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_transport_099",
+      "english": "The automatic doors open at stations.",
+      "correctFrench": ["Les", "portes", "automatiques", "s'ouvrent", "aux", "gares"],
+      "wordOptions": ["Les", "portes", "automatiques", "s'ouvrent", "aux", "gares", "se", "ferment", "stations", "arrêts"],
+      "explanation": "'Les portes automatiques s'ouvrent' = automatic doors open. Transport technology.",
+      "grammar_points": ["transport_technology", "automatic_systems", "reflexive_verbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_transport_100",
+      "english": "We plan our journey using transport apps.",
+      "correctFrench": ["Nous", "planifions", "notre", "voyage", "avec", "des", "applis", "de", "transport"],
+      "wordOptions": ["Nous", "planifions", "notre", "voyage", "avec", "des", "applis", "de", "transport", "applications"],
+      "explanation": "'Planifier avec des applis' = to plan using apps. Modern travel planning.",
+      "grammar_points": ["digital_planning", "transport_apps", "journey_planning"],
+      "difficulty": 2.5
     }
   ]
 }

@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "education-learning",
   "description": "Education, school, studying, learning, and academic activities",
-  "total_sentences": 100,
+  "total_sentences": 220,
   "sentences": [
     {
       "id": "a2_education_001",
@@ -183,6 +183,636 @@
       "explanation": "'Réviser ses notes avant' = to review notes before. Exam preparation.",
       "grammar_points": ["exam_preparation", "study_strategies", "temporal_expressions"],
       "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_021",
+      "english": "The cafeteria serves lunch from noon to 2 PM.",
+      "correctFrench": ["La", "cantine", "sert", "le", "déjeuner", "de", "midi", "à", "14h"],
+      "wordOptions": ["La", "cantine", "sert", "le", "déjeuner", "de", "midi", "à", "14h", "restaurant", "repas", "heures"],
+      "explanation": "'La cantine sert' = cafeteria serves. Time ranges with 'de...à'.",
+      "grammar_points": ["school_facilities", "meal_times", "time_ranges"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_022",
+      "english": "I learn vocabulary with flashcards.",
+      "correctFrench": ["J'apprends", "le", "vocabulaire", "avec", "des", "cartes", "mémoire"],
+      "wordOptions": ["J'apprends", "le", "vocabulaire", "avec", "des", "cartes", "mémoire", "flashcards", "fiches", "mémorise"],
+      "explanation": "'Apprendre avec des cartes mémoire' = learn with flashcards. Study methods.",
+      "grammar_points": ["vocabulary_learning", "study_methods", "learning_tools"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_023",
+      "english": "She registered for five courses this semester.",
+      "correctFrench": ["Elle", "s'est", "inscrite", "à", "cinq", "cours", "ce", "semestre"],
+      "wordOptions": ["Elle", "s'est", "inscrite", "à", "cinq", "cours", "ce", "semestre", "matières", "quatre", "six"],
+      "explanation": "'S'inscrire à des cours' = to register for courses. Academic enrollment.",
+      "grammar_points": ["course_registration", "numbers", "reflexive_verbs"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_024",
+      "english": "The online course starts next month.",
+      "correctFrench": ["Le", "cours", "en", "ligne", "commence", "le", "mois", "prochain"],
+      "wordOptions": ["Le", "cours", "en", "ligne", "commence", "le", "mois", "prochain", "formation", "semaine", "prochaine"],
+      "explanation": "'Le cours en ligne' = online course. Digital education vocabulary.",
+      "grammar_points": ["online_learning", "course_scheduling", "future_time"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_025",
+      "english": "We present our projects to the class.",
+      "correctFrench": ["Nous", "présentons", "nos", "projets", "à", "la", "classe"],
+      "wordOptions": ["Nous", "présentons", "nos", "projets", "à", "la", "classe", "exposons", "devant", "groupe", "exposés"],
+      "explanation": "'Présenter ses projets à' = to present projects to. Oral presentations.",
+      "grammar_points": ["class_presentations", "academic_sharing", "project_work"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_026",
+      "english": "I failed the math test yesterday.",
+      "correctFrench": ["J'ai", "raté", "le", "contrôle", "de", "maths", "hier"],
+      "wordOptions": ["J'ai", "raté", "le", "contrôle", "de", "maths", "hier", "échoué", "examen", "réussi", "test"],
+      "explanation": "Passé composé: j'ai raté. 'Rater' = to fail. Academic setbacks.",
+      "grammar_points": ["passe_compose", "academic_failure", "school_subjects"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_027",
+      "english": "The tutor helps me with chemistry.",
+      "correctFrench": ["Le", "professeur", "particulier", "m'aide", "en", "chimie"],
+      "wordOptions": ["Le", "professeur", "particulier", "m'aide", "en", "chimie", "tuteur", "avec", "la", "physique"],
+      "explanation": "'Le professeur particulier m'aide en' = tutor helps me with. Extra support.",
+      "grammar_points": ["tutoring_vocabulary", "academic_support", "school_subjects"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_028",
+      "english": "She copies notes from her friend.",
+      "correctFrench": ["Elle", "copie", "les", "notes", "de", "son", "amie"],
+      "wordOptions": ["Elle", "copie", "les", "notes", "de", "son", "amie", "recopie", "ami", "camarade", "cours"],
+      "explanation": "'Copier les notes de' = to copy notes from. Study collaboration.",
+      "grammar_points": ["note_sharing", "study_collaboration", "possessive_pronouns"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_education_029",
+      "english": "I need to improve my pronunciation.",
+      "correctFrench": ["Je", "dois", "améliorer", "ma", "prononciation"],
+      "wordOptions": ["Je", "dois", "améliorer", "ma", "prononciation", "travailler", "perfectionner", "accent", "élocution"],
+      "explanation": "'Améliorer sa prononciation' = to improve pronunciation. Language skills.",
+      "grammar_points": ["language_improvement", "pronunciation_vocabulary", "modal_verbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_030",
+      "english": "The art class meets on Wednesdays.",
+      "correctFrench": ["Le", "cours", "d'art", "a", "lieu", "le", "mercredi"],
+      "wordOptions": ["Le", "cours", "d'art", "a", "lieu", "le", "mercredi", "se", "déroule", "mardi", "jeudi"],
+      "explanation": "'Avoir lieu le mercredi' = to take place on Wednesday. Class schedules.",
+      "grammar_points": ["class_scheduling", "days_of_week", "artistic_subjects"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_031",
+      "english": "We use calculators for complex problems.",
+      "correctFrench": ["Nous", "utilisons", "des", "calculatrices", "pour", "les", "problèmes", "complexes"],
+      "wordOptions": ["Nous", "utilisons", "des", "calculatrices", "pour", "les", "problèmes", "complexes", "difficiles", "simples"],
+      "explanation": "'Utiliser des calculatrices pour' = to use calculators for. Math tools.",
+      "grammar_points": ["mathematical_tools", "problem_complexity", "classroom_equipment"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_032",
+      "english": "I struggle with grammar rules.",
+      "correctFrench": ["J'ai", "du", "mal", "avec", "les", "règles", "de", "grammaire"],
+      "wordOptions": ["J'ai", "du", "mal", "avec", "les", "règles", "de", "grammaire", "des", "difficultés", "conjugaison"],
+      "explanation": "'Avoir du mal avec' = to struggle with. Learning difficulties.",
+      "grammar_points": ["learning_difficulties", "grammar_vocabulary", "expressing_struggle"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_033",
+      "english": "She memorizes poems for literature class.",
+      "correctFrench": ["Elle", "mémorise", "des", "poèmes", "pour", "le", "cours", "de", "littérature"],
+      "wordOptions": ["Elle", "mémorise", "des", "poèmes", "pour", "le", "cours", "de", "littérature", "apprend", "récitations"],
+      "explanation": "'Mémoriser des poèmes pour' = to memorize poems for. Literature study.",
+      "grammar_points": ["memorization_vocabulary", "literature_vocabulary", "academic_subjects"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_034",
+      "english": "The computer lab has twenty machines.",
+      "correctFrench": ["La", "salle", "informatique", "a", "vingt", "ordinateurs"],
+      "wordOptions": ["La", "salle", "informatique", "a", "vingt", "ordinateurs", "laboratoire", "machines", "postes", "quinze"],
+      "explanation": "'La salle informatique' = computer lab. School technology facilities.",
+      "grammar_points": ["school_facilities", "technology_vocabulary", "numbers"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_035",
+      "english": "I practice speaking with a language partner.",
+      "correctFrench": ["Je", "pratique", "l'oral", "avec", "un", "partenaire", "linguistique"],
+      "wordOptions": ["Je", "pratique", "l'oral", "avec", "un", "partenaire", "linguistique", "m'exerce", "conversation", "tandem"],
+      "explanation": "'Pratiquer l'oral avec' = to practice speaking with. Language exchange.",
+      "grammar_points": ["language_practice", "speaking_skills", "language_exchange"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_036",
+      "english": "The dean addresses the new students.",
+      "correctFrench": ["Le", "doyen", "s'adresse", "aux", "nouveaux", "étudiants"],
+      "wordOptions": ["Le", "doyen", "s'adresse", "aux", "nouveaux", "étudiants", "La", "doyenne", "élèves", "parle"],
+      "explanation": "'S'adresser aux nouveaux étudiants' = to address new students. University administration.",
+      "grammar_points": ["university_administration", "formal_communication", "student_orientation"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_037",
+      "english": "We conduct experiments in the science lab.",
+      "correctFrench": ["Nous", "menons", "des", "expériences", "dans", "le", "laboratoire", "de", "sciences"],
+      "wordOptions": ["Nous", "menons", "des", "expériences", "dans", "le", "laboratoire", "de", "sciences", "faisons", "réalisons"],
+      "explanation": "'Mener des expériences' = to conduct experiments. Scientific methodology.",
+      "grammar_points": ["scientific_vocabulary", "laboratory_work", "experimental_methods"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_038",
+      "english": "I download course materials from the website.",
+      "correctFrench": ["Je", "télécharge", "les", "supports", "de", "cours", "depuis", "le", "site"],
+      "wordOptions": ["Je", "télécharge", "les", "supports", "de", "cours", "depuis", "le", "site", "matériel", "documents"],
+      "explanation": "'Télécharger les supports depuis' = to download materials from. Digital learning.",
+      "grammar_points": ["digital_learning", "course_materials", "website_resources"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_039",
+      "english": "She completes all assignments on time.",
+      "correctFrench": ["Elle", "termine", "tous", "les", "devoirs", "à", "temps"],
+      "wordOptions": ["Elle", "termine", "tous", "les", "devoirs", "à", "temps", "finit", "travaux", "en", "retard"],
+      "explanation": "'Terminer à temps' = to complete on time. Time management.",
+      "grammar_points": ["assignment_completion", "time_management", "academic_responsibility"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_040",
+      "english": "The music teacher plays piano beautifully.",
+      "correctFrench": ["Le", "professeur", "de", "musique", "joue", "du", "piano", "magnifiquement"],
+      "wordOptions": ["Le", "professeur", "de", "musique", "joue", "du", "piano", "magnifiquement", "La", "guitare", "bien"],
+      "explanation": "'Jouer du piano magnifiquement' = play piano beautifully. Musical education.",
+      "grammar_points": ["music_education", "musical_instruments", "adverb_formation"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_041",
+      "english": "I participate actively in class discussions.",
+      "correctFrench": ["Je", "participe", "activement", "aux", "discussions", "de", "classe"],
+      "wordOptions": ["Je", "participe", "activement", "aux", "discussions", "de", "classe", "débats", "conversations", "passivement"],
+      "explanation": "'Participer activement aux discussions' = participate actively in discussions. Engagement.",
+      "grammar_points": ["class_participation", "active_learning", "discussion_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_042",
+      "english": "The report is due next Friday.",
+      "correctFrench": ["Le", "rapport", "est", "à", "rendre", "vendredi", "prochain"],
+      "wordOptions": ["Le", "rapport", "est", "à", "rendre", "vendredi", "prochain", "dossier", "pour", "mardi", "suivant"],
+      "explanation": "'Être à rendre' = to be due. Assignment deadlines.",
+      "grammar_points": ["assignment_deadlines", "future_obligations", "academic_requirements"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_043",
+      "english": "We analyze texts in French literature.",
+      "correctFrench": ["Nous", "analysons", "des", "textes", "en", "littérature", "française"],
+      "wordOptions": ["Nous", "analysons", "des", "textes", "en", "littérature", "française", "étudions", "cours", "de"],
+      "explanation": "'Analyser des textes en littérature' = analyze texts in literature. Literary studies.",
+      "grammar_points": ["literary_analysis", "text_study", "academic_subjects"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_044",
+      "english": "I check my grades online regularly.",
+      "correctFrench": ["Je", "vérifie", "mes", "notes", "en", "ligne", "régulièrement"],
+      "wordOptions": ["Je", "vérifie", "mes", "notes", "en", "ligne", "régulièrement", "consulte", "résultats", "souvent"],
+      "explanation": "'Vérifier ses notes en ligne' = check grades online. Digital student services.",
+      "grammar_points": ["grade_checking", "digital_services", "frequency_adverbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_045",
+      "english": "She answers questions confidently.",
+      "correctFrench": ["Elle", "répond", "aux", "questions", "avec", "confiance"],
+      "wordOptions": ["Elle", "répond", "aux", "questions", "avec", "confiance", "assurance", "timidement", "facilement"],
+      "explanation": "'Répondre avec confiance' = to answer with confidence. Classroom confidence.",
+      "grammar_points": ["classroom_participation", "confidence_expressions", "question_responses"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_046",
+      "english": "The history exam covers three chapters.",
+      "correctFrench": ["L'examen", "d'histoire", "porte", "sur", "trois", "chapitres"],
+      "wordOptions": ["L'examen", "d'histoire", "porte", "sur", "trois", "chapitres", "couvre", "quatre", "deux", "leçons"],
+      "explanation": "'Porter sur trois chapitres' = to cover three chapters. Exam content.",
+      "grammar_points": ["exam_content", "academic_subjects", "chapter_organization"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_047",
+      "english": "I join the debate club this year.",
+      "correctFrench": ["Je", "rejoins", "le", "club", "de", "débat", "cette", "année"],
+      "wordOptions": ["Je", "rejoins", "le", "club", "de", "débat", "cette", "année", "m'inscris", "équipe", "groupe"],
+      "explanation": "'Rejoindre le club de débat' = to join debate club. Extracurricular activities.",
+      "grammar_points": ["extracurricular_activities", "club_participation", "academic_year"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_048",
+      "english": "We schedule study sessions before exams.",
+      "correctFrench": ["Nous", "planifions", "des", "séances", "d'étude", "avant", "les", "examens"],
+      "wordOptions": ["Nous", "planifions", "des", "séances", "d'étude", "avant", "les", "examens", "organisons", "sessions", "après"],
+      "explanation": "'Planifier des séances d'étude' = to schedule study sessions. Study organization.",
+      "grammar_points": ["study_organization", "exam_preparation", "group_study"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_049",
+      "english": "The teacher corrects our papers quickly.",
+      "correctFrench": ["Le", "professeur", "corrige", "nos", "copies", "rapidement"],
+      "wordOptions": ["Le", "professeur", "corrige", "nos", "copies", "rapidement", "La", "devoirs", "lentement", "vite"],
+      "explanation": "'Corriger les copies rapidement' = correct papers quickly. Teacher tasks.",
+      "grammar_points": ["teacher_duties", "paper_correction", "speed_adverbs"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_050",
+      "english": "I understand the concept after explanation.",
+      "correctFrench": ["Je", "comprends", "le", "concept", "après", "l'explication"],
+      "wordOptions": ["Je", "comprends", "le", "concept", "après", "l'explication", "saisis", "avant", "pendant", "notion"],
+      "explanation": "'Comprendre après l'explication' = understand after explanation. Learning process.",
+      "grammar_points": ["comprehension_vocabulary", "learning_process", "temporal_expressions"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_education_051",
+      "english": "She gets help from the guidance counselor.",
+      "correctFrench": ["Elle", "reçoit", "de", "l'aide", "du", "conseiller", "d'orientation"],
+      "wordOptions": ["Elle", "reçoit", "de", "l'aide", "du", "conseiller", "d'orientation", "obtient", "La", "conseillère"],
+      "explanation": "'Recevoir de l'aide du conseiller' = get help from counselor. Student support.",
+      "grammar_points": ["student_support", "guidance_services", "academic_counseling"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_052",
+      "english": "We organize a science fair project.",
+      "correctFrench": ["Nous", "organisons", "un", "projet", "de", "foire", "scientifique"],
+      "wordOptions": ["Nous", "organisons", "un", "projet", "de", "foire", "scientifique", "préparons", "salon", "des", "sciences"],
+      "explanation": "'Organiser un projet de foire scientifique' = organize science fair project. School events.",
+      "grammar_points": ["science_events", "project_organization", "school_competitions"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_053",
+      "english": "I learn through practice and repetition.",
+      "correctFrench": ["J'apprends", "par", "la", "pratique", "et", "la", "répétition"],
+      "wordOptions": ["J'apprends", "par", "la", "pratique", "et", "la", "répétition", "grâce", "à", "l'exercice"],
+      "explanation": "'Apprendre par la pratique et la répétition' = learn through practice and repetition.",
+      "grammar_points": ["learning_methods", "practice_vocabulary", "educational_strategies"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_054",
+      "english": "The yearbook committee meets after school.",
+      "correctFrench": ["Le", "comité", "de", "l'album", "se", "réunit", "après", "les", "cours"],
+      "wordOptions": ["Le", "comité", "de", "l'album", "se", "réunit", "après", "les", "cours", "équipe", "avant"],
+      "explanation": "'Se réunir après les cours' = meet after school. School activities.",
+      "grammar_points": ["school_committees", "extracurricular_activities", "reflexive_verbs"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_055",
+      "english": "I highlight important information in texts.",
+      "correctFrench": ["Je", "surligne", "les", "informations", "importantes", "dans", "les", "textes"],
+      "wordOptions": ["Je", "surligne", "les", "informations", "importantes", "dans", "les", "textes", "souligne", "données"],
+      "explanation": "'Surligner les informations importantes' = highlight important information. Study techniques.",
+      "grammar_points": ["study_techniques", "text_processing", "information_selection"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_056",
+      "english": "She writes essays on various topics.",
+      "correctFrench": ["Elle", "écrit", "des", "dissertations", "sur", "divers", "sujets"],
+      "wordOptions": ["Elle", "écrit", "des", "dissertations", "sur", "divers", "sujets", "rédige", "différents", "thèmes"],
+      "explanation": "'Écrire des dissertations sur divers sujets' = write essays on various topics.",
+      "grammar_points": ["academic_writing", "essay_vocabulary", "topic_diversity"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_057",
+      "english": "The gym class exercises outdoors today.",
+      "correctFrench": ["Le", "cours", "de", "sport", "s'exerce", "dehors", "aujourd'hui"],
+      "wordOptions": ["Le", "cours", "de", "sport", "s'exerce", "dehors", "aujourd'hui", "gymnastique", "à", "l'extérieur"],
+      "explanation": "'S'exercer dehors' = exercise outdoors. Physical education locations.",
+      "grammar_points": ["physical_education", "outdoor_activities", "location_vocabulary"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_058",
+      "english": "I set study goals for each subject.",
+      "correctFrench": ["Je", "fixe", "des", "objectifs", "d'étude", "pour", "chaque", "matière"],
+      "wordOptions": ["Je", "fixe", "des", "objectifs", "d'étude", "pour", "chaque", "matière", "établis", "buts", "cours"],
+      "explanation": "'Fixer des objectifs d'étude' = set study goals. Academic planning.",
+      "grammar_points": ["goal_setting", "study_planning", "academic_organization"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_059",
+      "english": "We compare different learning methods.",
+      "correctFrench": ["Nous", "comparons", "différentes", "méthodes", "d'apprentissage"],
+      "wordOptions": ["Nous", "comparons", "différentes", "méthodes", "d'apprentissage", "diverses", "techniques", "façons"],
+      "explanation": "'Comparer différentes méthodes' = compare different methods. Learning strategies.",
+      "grammar_points": ["learning_strategies", "method_comparison", "educational_approaches"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_060",
+      "english": "The professor assigns reading homework.",
+      "correctFrench": ["Le", "professeur", "donne", "des", "devoirs", "de", "lecture"],
+      "wordOptions": ["Le", "professeur", "donne", "des", "devoirs", "de", "lecture", "La", "professeure", "assigne"],
+      "explanation": "'Donner des devoirs de lecture' = assign reading homework. Academic assignments.",
+      "grammar_points": ["homework_assignment", "reading_activities", "academic_tasks"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_061",
+      "english": "I improve my writing skills gradually.",
+      "correctFrench": ["J'améliore", "mes", "compétences", "en", "écriture", "progressivement"],
+      "wordOptions": ["J'améliore", "mes", "compétences", "en", "écriture", "progressivement", "aptitudes", "rapidement", "lentement"],
+      "explanation": "'Améliorer progressivement' = improve gradually. Skill development.",
+      "grammar_points": ["skill_improvement", "writing_skills", "gradual_progress"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_062",
+      "english": "She takes advanced placement courses.",
+      "correctFrench": ["Elle", "suit", "des", "cours", "de", "niveau", "avancé"],
+      "wordOptions": ["Elle", "suit", "des", "cours", "de", "niveau", "avancé", "prend", "matières", "supérieur"],
+      "explanation": "'Suivre des cours de niveau avancé' = take advanced level courses. Academic challenges.",
+      "grammar_points": ["advanced_courses", "academic_levels", "challenging_academics"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_063",
+      "english": "The campus tour shows all facilities.",
+      "correctFrench": ["La", "visite", "du", "campus", "montre", "toutes", "les", "installations"],
+      "wordOptions": ["La", "visite", "du", "campus", "montre", "toutes", "les", "installations", "tour", "présente", "équipements"],
+      "explanation": "'La visite du campus montre' = campus tour shows. University orientation.",
+      "grammar_points": ["campus_vocabulary", "facility_vocabulary", "university_tours"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_064",
+      "english": "I create mind maps for complex topics.",
+      "correctFrench": ["Je", "crée", "des", "cartes", "mentales", "pour", "les", "sujets", "complexes"],
+      "wordOptions": ["Je", "crée", "des", "cartes", "mentales", "pour", "les", "sujets", "complexes", "fais", "schémas"],
+      "explanation": "'Créer des cartes mentales' = create mind maps. Visual learning techniques.",
+      "grammar_points": ["visual_learning", "study_techniques", "concept_organization"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_065",
+      "english": "We discuss current events in civics class.",
+      "correctFrench": ["Nous", "discutons", "de", "l'actualité", "en", "cours", "d'éducation", "civique"],
+      "wordOptions": ["Nous", "discutons", "de", "l'actualité", "en", "cours", "d'éducation", "civique", "parlons", "nouvelles"],
+      "explanation": "'Discuter de l'actualité' = discuss current events. Civic education.",
+      "grammar_points": ["current_events", "civic_education", "classroom_discussion"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_education_066",
+      "english": "I memorize formulas for the physics exam.",
+      "correctFrench": ["Je", "mémorise", "les", "formules", "pour", "l'examen", "de", "physique"],
+      "wordOptions": ["Je", "mémorise", "les", "formules", "pour", "l'examen", "de", "physique", "apprends", "contrôle", "chimie"],
+      "explanation": "'Mémoriser les formules pour' = memorize formulas for. Science preparation.",
+      "grammar_points": ["formula_memorization", "science_vocabulary", "exam_preparation"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_067",
+      "english": "She participates in the student council.",
+      "correctFrench": ["Elle", "participe", "au", "conseil", "des", "élèves"],
+      "wordOptions": ["Elle", "participe", "au", "conseil", "des", "élèves", "fait", "partie", "du", "étudiants"],
+      "explanation": "'Participer au conseil des élèves' = participate in student council. Student government.",
+      "grammar_points": ["student_government", "school_participation", "leadership_roles"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_068",
+      "english": "The workshop teaches practical skills.",
+      "correctFrench": ["L'atelier", "enseigne", "des", "compétences", "pratiques"],
+      "wordOptions": ["L'atelier", "enseigne", "des", "compétences", "pratiques", "apprend", "aptitudes", "techniques", "théoriques"],
+      "explanation": "'L'atelier enseigne des compétences' = workshop teaches skills. Practical education.",
+      "grammar_points": ["practical_education", "skill_development", "workshop_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_069",
+      "english": "I research topics using multiple sources.",
+      "correctFrench": ["Je", "recherche", "des", "sujets", "en", "utilisant", "plusieurs", "sources"],
+      "wordOptions": ["Je", "recherche", "des", "sujets", "en", "utilisant", "plusieurs", "sources", "étudie", "différentes"],
+      "explanation": "'Rechercher en utilisant plusieurs sources' = research using multiple sources. Academic research.",
+      "grammar_points": ["academic_research", "source_utilization", "research_methods"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_070",
+      "english": "We solve problems collaboratively in groups.",
+      "correctFrench": ["Nous", "résolvons", "les", "problèmes", "en", "collaboration", "dans", "des", "groupes"],
+      "wordOptions": ["Nous", "résolvons", "les", "problèmes", "en", "collaboration", "dans", "des", "groupes", "ensemble", "équipes"],
+      "explanation": "'Résoudre en collaboration' = solve collaboratively. Teamwork in education.",
+      "grammar_points": ["collaborative_learning", "problem_solving", "group_dynamics"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_education_071",
+      "english": "The scholarship covers tuition fees.",
+      "correctFrench": ["La", "bourse", "couvre", "les", "frais", "de", "scolarité"],
+      "wordOptions": ["La", "bourse", "couvre", "les", "frais", "de", "scolarité", "paie", "études", "universitaires"],
+      "explanation": "'La bourse couvre les frais' = scholarship covers fees. Financial aid.",
+      "grammar_points": ["financial_aid", "education_costs", "scholarship_benefits"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_072",
+      "english": "I attend lectures twice a week.",
+      "correctFrench": ["J'assiste", "aux", "cours", "magistraux", "deux", "fois", "par", "semaine"],
+      "wordOptions": ["J'assiste", "aux", "cours", "magistraux", "deux", "fois", "par", "semaine", "conférences", "trois"],
+      "explanation": "'Assister aux cours magistraux' = attend lectures. University education format.",
+      "grammar_points": ["university_format", "lecture_attendance", "frequency_expressions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_073",
+      "english": "She explains concepts to struggling classmates.",
+      "correctFrench": ["Elle", "explique", "les", "concepts", "aux", "camarades", "en", "difficulté"],
+      "wordOptions": ["Elle", "explique", "les", "concepts", "aux", "camarades", "en", "difficulté", "aide", "élèves"],
+      "explanation": "'Expliquer aux camarades en difficulté' = explain to struggling classmates. Peer help.",
+      "grammar_points": ["peer_tutoring", "helping_others", "academic_support"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_074",
+      "english": "The virtual classroom connects remote students.",
+      "correctFrench": ["La", "classe", "virtuelle", "connecte", "les", "étudiants", "à", "distance"],
+      "wordOptions": ["La", "classe", "virtuelle", "connecte", "les", "étudiants", "à", "distance", "relie", "élèves"],
+      "explanation": "'La classe virtuelle connecte' = virtual classroom connects. Distance learning.",
+      "grammar_points": ["virtual_learning", "remote_education", "digital_classrooms"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_education_075",
+      "english": "I organize my binder by subject.",
+      "correctFrench": ["J'organise", "mon", "classeur", "par", "matière"],
+      "wordOptions": ["J'organise", "mon", "classeur", "par", "matière", "range", "dossier", "cours", "sujet"],
+      "explanation": "'Organiser par matière' = organize by subject. Study organization.",
+      "grammar_points": ["study_organization", "school_supplies", "organizational_methods"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_076",
+      "english": "We design posters for the science project.",
+      "correctFrench": ["Nous", "concevons", "des", "affiches", "pour", "le", "projet", "scientifique"],
+      "wordOptions": ["Nous", "concevons", "des", "affiches", "pour", "le", "projet", "scientifique", "créons", "posters"],
+      "explanation": "'Concevoir des affiches pour' = design posters for. Creative academic work.",
+      "grammar_points": ["project_presentation", "visual_design", "scientific_projects"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_077",
+      "english": "The final grade includes participation points.",
+      "correctFrench": ["La", "note", "finale", "inclut", "les", "points", "de", "participation"],
+      "wordOptions": ["La", "note", "finale", "inclut", "les", "points", "de", "participation", "comprend", "évaluation"],
+      "explanation": "'La note finale inclut' = final grade includes. Assessment components.",
+      "grammar_points": ["grade_calculation", "participation_assessment", "final_evaluation"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_078",
+      "english": "I email questions to my professor.",
+      "correctFrench": ["J'envoie", "des", "questions", "par", "email", "à", "mon", "professeur"],
+      "wordOptions": ["J'envoie", "des", "questions", "par", "email", "à", "mon", "professeur", "mail", "courrier"],
+      "explanation": "'Envoyer par email à' = email to. Digital communication with teachers.",
+      "grammar_points": ["digital_communication", "teacher_contact", "question_asking"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_079",
+      "english": "She types notes during online lectures.",
+      "correctFrench": ["Elle", "tape", "des", "notes", "pendant", "les", "cours", "en", "ligne"],
+      "wordOptions": ["Elle", "tape", "des", "notes", "pendant", "les", "cours", "en", "ligne", "écrit", "prend"],
+      "explanation": "'Taper des notes pendant' = type notes during. Digital note-taking.",
+      "grammar_points": ["digital_note_taking", "online_learning", "typing_skills"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_080",
+      "english": "The academic calendar shows important dates.",
+      "correctFrench": ["Le", "calendrier", "académique", "indique", "les", "dates", "importantes"],
+      "wordOptions": ["Le", "calendrier", "académique", "indique", "les", "dates", "importantes", "montre", "scolaire", "essentielles"],
+      "explanation": "'Le calendrier académique indique' = academic calendar shows. School scheduling.",
+      "grammar_points": ["academic_calendar", "important_dates", "school_planning"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_081",
+      "english": "I revise chapters before each test.",
+      "correctFrench": ["Je", "révise", "les", "chapitres", "avant", "chaque", "contrôle"],
+      "wordOptions": ["Je", "révise", "les", "chapitres", "avant", "chaque", "contrôle", "relis", "examen", "test"],
+      "explanation": "'Réviser avant chaque contrôle' = revise before each test. Test preparation.",
+      "grammar_points": ["test_preparation", "revision_strategies", "study_habits"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_education_082",
+      "english": "We volunteer for the school fundraiser.",
+      "correctFrench": ["Nous", "faisons", "du", "bénévolat", "pour", "la", "collecte", "de", "fonds", "scolaire"],
+      "wordOptions": ["Nous", "faisons", "du", "bénévolat", "pour", "la", "collecte", "de", "fonds", "scolaire", "aidons"],
+      "explanation": "'Faire du bénévolat pour' = volunteer for. School community service.",
+      "grammar_points": ["volunteer_work", "school_fundraising", "community_involvement"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_education_083",
+      "english": "The graduation ceremony is in June.",
+      "correctFrench": ["La", "cérémonie", "de", "remise", "des", "diplômes", "a", "lieu", "en", "juin"],
+      "wordOptions": ["La", "cérémonie", "de", "remise", "des", "diplômes", "a", "lieu", "en", "juin", "mai", "juillet"],
+      "explanation": "'La cérémonie de remise des diplômes' = graduation ceremony. Academic milestones.",
+      "grammar_points": ["graduation_ceremony", "academic_milestones", "months"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_084",
+      "english": "I bookmark useful websites for research.",
+      "correctFrench": ["Je", "marque", "des", "sites", "utiles", "pour", "mes", "recherches"],
+      "wordOptions": ["Je", "marque", "des", "sites", "utiles", "pour", "mes", "recherches", "sauvegarde", "favoris"],
+      "explanation": "'Marquer des sites pour ses recherches' = bookmark sites for research. Digital research.",
+      "grammar_points": ["digital_research", "website_organization", "research_tools"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_education_085",
+      "english": "She formats her essay according to guidelines.",
+      "correctFrench": ["Elle", "formate", "sa", "dissertation", "selon", "les", "directives"],
+      "wordOptions": ["Elle", "formate", "sa", "dissertation", "selon", "les", "directives", "met", "en", "forme"],
+      "explanation": "'Formater selon les directives' = format according to guidelines. Academic writing.",
+      "grammar_points": ["essay_formatting", "academic_guidelines", "writing_standards"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_086",
+      "english": "The exchange program lasts one semester.",
+      "correctFrench": ["Le", "programme", "d'échange", "dure", "un", "semestre"],
+      "wordOptions": ["Le", "programme", "d'échange", "dure", "un", "semestre", "trimestre", "année", "mois"],
+      "explanation": "'Le programme d'échange dure' = exchange program lasts. Study abroad duration.",
+      "grammar_points": ["exchange_programs", "program_duration", "international_education"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_087",
+      "english": "I take breaks between study sessions.",
+      "correctFrench": ["Je", "prends", "des", "pauses", "entre", "les", "séances", "d'étude"],
+      "wordOptions": ["Je", "prends", "des", "pauses", "entre", "les", "séances", "d'étude", "fais", "sessions"],
+      "explanation": "'Prendre des pauses entre' = take breaks between. Study wellness.",
+      "grammar_points": ["study_breaks", "study_wellness", "time_management"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_education_088",
+      "english": "We critique each other's presentations.",
+      "correctFrench": ["Nous", "critiquons", "les", "présentations", "des", "autres"],
+      "wordOptions": ["Nous", "critiquons", "les", "présentations", "des", "autres", "évaluons", "exposés", "analysons"],
+      "explanation": "'Critiquer les présentations des autres' = critique others' presentations. Peer evaluation.",
+      "grammar_points": ["peer_evaluation", "constructive_criticism", "presentation_skills"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_education_089",
+      "english": "The laboratory report requires detailed analysis.",
+      "correctFrench": ["Le", "rapport", "de", "laboratoire", "exige", "une", "analyse", "détaillée"],
+      "wordOptions": ["Le", "rapport", "de", "laboratoire", "exige", "une", "analyse", "détaillée", "demande", "approfondie"],
+      "explanation": "'Exiger une analyse détaillée' = require detailed analysis. Lab work standards.",
+      "grammar_points": ["laboratory_work", "analysis_requirements", "scientific_writing"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_education_090",
+      "english": "I track my progress throughout the semester.",
+      "correctFrench": ["Je", "suis", "mes", "progrès", "tout", "au", "long", "du", "semestre"],
+      "wordOptions": ["Je", "suis", "mes", "progrès", "tout", "au", "long", "du", "semestre", "surveille", "année"],
+      "explanation": "'Suivre ses progrès tout au long de' = track progress throughout. Self-monitoring.",
+      "grammar_points": ["progress_tracking", "self_monitoring", "semester_planning"],
+      "difficulty": 2.6
     }
   ]
 }

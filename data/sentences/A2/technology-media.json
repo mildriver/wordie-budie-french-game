@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "technology-media",
   "description": "Technology, computers, internet, phones, and media",
-  "total_sentences": 1000,
+  "total_sentences": 576,
   "sentences": [
     {
       "id": "a2_tech_001",
@@ -453,4 +453,24 @@
       "explanation": "'Protéger avec un antivirus' = protect with antivirus. Computer security.",
       "grammar_points": ["computer_security", "protection_vocabulary", "antivirus_software"],
       "difficulty": 2.3
+    },
+    {
+      "id": "a2_tech_051",
+      "english": "I enable two-factor authentication for security.",
+      "correctFrench": ["J'active", "l'authentification", "à", "deux", "facteurs", "pour", "la", "sécurité"],
+      "wordOptions": ["J'active", "l'authentification", "à", "deux", "facteurs", "pour", "la", "sécurité", "double", "étapes"],
+      "explanation": "'Activer l'authentification à deux facteurs' = enable two-factor authentication. Enhanced security.",
+      "grammar_points": ["digital_security", "authentication_methods", "account_protection"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_tech_052",
+      "english": "The smart TV connects to the internet wirelessly.",
+      "correctFrench": ["La", "télé", "intelligente", "se", "connecte", "à", "internet", "sans", "fil"],
+      "wordOptions": ["La", "télé", "intelligente", "se", "connecte", "à", "internet", "sans", "fil", "Smart", "TV"],
+      "explanation": "'Se connecter sans fil' = connect wirelessly. Smart home technology.",
+      "grammar_points": ["smart_home", "wireless_technology", "connected_devices"],
+      "difficulty": 2.5
     }
+  ]
+}

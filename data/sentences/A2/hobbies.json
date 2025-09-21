@@ -2,7 +2,7 @@
   "level": "A2",
   "topic": "hobbies",
   "description": "Hobbies, leisure activities, sports, and entertainment",
-  "total_sentences": 120,
+  "total_sentences": 220,
   "sentences": [
     {
       "id": "a2_hobbies_001",
@@ -183,6 +183,726 @@
       "explanation": "'Jouer aux jeux de société' = to play board games. 'Les jours de pluie' = rainy days.",
       "grammar_points": ["indoor_activities", "weather_expressions", "game_vocabulary"],
       "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_021",
+      "english": "She collects vintage postcards.",
+      "correctFrench": ["Elle", "collectionne", "les", "cartes", "postales", "vintage"],
+      "wordOptions": ["Elle", "collectionne", "les", "cartes", "postales", "vintage", "anciennes", "rétro", "timbres"],
+      "explanation": "'Collectionner les cartes postales' = to collect postcards. Vintage collecting hobby.",
+      "grammar_points": ["collecting_hobbies", "vintage_vocabulary", "postal_items"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_022",
+      "english": "I practice piano for one hour daily.",
+      "correctFrench": ["Je", "fais", "du", "piano", "une", "heure", "par", "jour"],
+      "wordOptions": ["Je", "fais", "du", "piano", "une", "heure", "par", "jour", "pratique", "le", "quotidiennement"],
+      "explanation": "'Faire du piano' = to practice piano. 'Une heure par jour' = one hour daily.",
+      "grammar_points": ["musical_practice", "time_expressions", "daily_routine"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_hobbies_023",
+      "english": "We go camping every summer.",
+      "correctFrench": ["Nous", "faisons", "du", "camping", "chaque", "été"],
+      "wordOptions": ["Nous", "faisons", "du", "camping", "chaque", "été", "allons", "camper", "tous", "les", "étés"],
+      "explanation": "'Faire du camping' = to go camping. Seasonal outdoor activity vocabulary.",
+      "grammar_points": ["outdoor_activities", "seasonal_hobbies", "camping_vocabulary"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_hobbies_024",
+      "english": "He builds model trains in his garage.",
+      "correctFrench": ["Il", "construit", "des", "trains", "miniatures", "dans", "son", "garage"],
+      "wordOptions": ["Il", "construit", "des", "trains", "miniatures", "dans", "son", "garage", "fabrique", "maquettes", "atelier"],
+      "explanation": "'Construire des trains miniatures' = to build model trains. Model hobby vocabulary.",
+      "grammar_points": ["model_building", "miniature_vocabulary", "workshop_locations"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_025",
+      "english": "I enjoy birdwatching in the park.",
+      "correctFrench": ["J'aime", "observer", "les", "oiseaux", "dans", "le", "parc"],
+      "wordOptions": ["J'aime", "observer", "les", "oiseaux", "dans", "le", "parc", "regarder", "nature", "forêt"],
+      "explanation": "'Observer les oiseaux' = to watch birds. Nature observation hobby.",
+      "grammar_points": ["nature_activities", "observation_vocabulary", "wildlife_vocabulary"],
+      "difficulty": 2.2
+    },
+    {
+      "id": "a2_hobbies_026",
+      "english": "She learns calligraphy on weekends.",
+      "correctFrench": ["Elle", "apprend", "la", "calligraphie", "le", "week-end"],
+      "wordOptions": ["Elle", "apprend", "la", "calligraphie", "le", "week-end", "étudie", "pendant", "les", "fins", "de", "semaine"],
+      "explanation": "'Apprendre la calligraphie' = to learn calligraphy. Artistic learning hobby.",
+      "grammar_points": ["artistic_learning", "calligraphy_vocabulary", "weekend_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_027",
+      "english": "We organize chess tournaments.",
+      "correctFrench": ["Nous", "organisons", "des", "tournois", "d'échecs"],
+      "wordOptions": ["Nous", "organisons", "des", "tournois", "d'échecs", "compétitions", "matches", "de", "jeu"],
+      "explanation": "'Organiser des tournois' = to organize tournaments. Chess competition vocabulary.",
+      "grammar_points": ["chess_vocabulary", "tournament_organization", "competitive_activities"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_028",
+      "english": "I paint watercolor landscapes.",
+      "correctFrench": ["Je", "peins", "des", "paysages", "à", "l'aquarelle"],
+      "wordOptions": ["Je", "peins", "des", "paysages", "à", "l'aquarelle", "fais", "de", "la", "peinture", "portraits"],
+      "explanation": "'Peindre à l'aquarelle' = to paint with watercolors. Artistic technique vocabulary.",
+      "grammar_points": ["painting_techniques", "landscape_vocabulary", "art_materials"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_029",
+      "english": "He volunteers at the animal shelter.",
+      "correctFrench": ["Il", "fait", "du", "bénévolat", "au", "refuge", "pour", "animaux"],
+      "wordOptions": ["Il", "fait", "du", "bénévolat", "au", "refuge", "pour", "animaux", "volontariat", "SPA", "chiens"],
+      "explanation": "'Faire du bénévolat' = to volunteer. Animal welfare hobby vocabulary.",
+      "grammar_points": ["volunteer_work", "animal_welfare", "charitable_activities"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_030",
+      "english": "She practices meditation daily.",
+      "correctFrench": ["Elle", "pratique", "la", "méditation", "quotidiennement"],
+      "wordOptions": ["Elle", "pratique", "la", "méditation", "quotidiennement", "fait", "de", "chaque", "jour", "tous", "les", "jours"],
+      "explanation": "'Pratiquer la méditation' = to practice meditation. Wellness hobby vocabulary.",
+      "grammar_points": ["wellness_activities", "meditation_vocabulary", "frequency_adverbs"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_031",
+      "english": "I restore antique furniture.",
+      "correctFrench": ["Je", "restaure", "des", "meubles", "anciens"],
+      "wordOptions": ["Je", "restaure", "des", "meubles", "anciens", "répare", "rénove", "antiques", "vieux"],
+      "explanation": "'Restaurer des meubles' = to restore furniture. Restoration hobby vocabulary.",
+      "grammar_points": ["restoration_activities", "antique_vocabulary", "furniture_types"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_032",
+      "english": "We attend live jazz concerts.",
+      "correctFrench": ["Nous", "assistons", "à", "des", "concerts", "de", "jazz", "en", "direct"],
+      "wordOptions": ["Nous", "assistons", "à", "des", "concerts", "de", "jazz", "en", "direct", "allons", "live", "spectacles"],
+      "explanation": "'Assister à des concerts' = to attend concerts. Live music vocabulary.",
+      "grammar_points": ["live_music", "concert_attendance", "jazz_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_033",
+      "english": "He creates digital art on his tablet.",
+      "correctFrench": ["Il", "crée", "de", "l'art", "numérique", "sur", "sa", "tablette"],
+      "wordOptions": ["Il", "crée", "de", "l'art", "numérique", "sur", "sa", "tablette", "fait", "digital", "ordinateur"],
+      "explanation": "'Créer de l'art numérique' = to create digital art. Digital hobby vocabulary.",
+      "grammar_points": ["digital_art", "technology_hobbies", "creative_technology"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_034",
+      "english": "I grow herbs in my kitchen garden.",
+      "correctFrench": ["Je", "cultive", "des", "herbes", "aromatiques", "dans", "mon", "jardin", "de", "cuisine"],
+      "wordOptions": ["Je", "cultive", "des", "herbes", "aromatiques", "dans", "mon", "jardin", "de", "cuisine", "fais", "pousser"],
+      "explanation": "'Cultiver des herbes aromatiques' = to grow herbs. Kitchen gardening vocabulary.",
+      "grammar_points": ["gardening_hobbies", "herb_vocabulary", "kitchen_gardening"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_035",
+      "english": "She performs in community theater.",
+      "correctFrench": ["Elle", "joue", "dans", "le", "théâtre", "communautaire"],
+      "wordOptions": ["Elle", "joue", "dans", "le", "théâtre", "communautaire", "fait", "du", "amateur", "local"],
+      "explanation": "'Jouer dans le théâtre' = to perform in theater. Community theater vocabulary.",
+      "grammar_points": ["theater_activities", "community_involvement", "performing_arts"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_036",
+      "english": "We explore historical sites on vacation.",
+      "correctFrench": ["Nous", "explorons", "des", "sites", "historiques", "en", "vacances"],
+      "wordOptions": ["Nous", "explorons", "des", "sites", "historiques", "en", "vacances", "visitons", "lieux", "pendant", "les"],
+      "explanation": "'Explorer des sites historiques' = to explore historical sites. Cultural tourism hobby.",
+      "grammar_points": ["cultural_tourism", "historical_vocabulary", "exploration_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_037",
+      "english": "I learn origami from online tutorials.",
+      "correctFrench": ["J'apprends", "l'origami", "grâce", "à", "des", "tutoriels", "en", "ligne"],
+      "wordOptions": ["J'apprends", "l'origami", "grâce", "à", "des", "tutoriels", "en", "ligne", "avec", "vidéos", "internet"],
+      "explanation": "'Apprendre grâce à' = to learn thanks to. Online learning hobby vocabulary.",
+      "grammar_points": ["online_learning", "origami_vocabulary", "tutorial_learning"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_038",
+      "english": "He plays basketball with friends.",
+      "correctFrench": ["Il", "joue", "au", "basket", "avec", "ses", "amis"],
+      "wordOptions": ["Il", "joue", "au", "basket", "avec", "ses", "amis", "basketball", "copains", "équipe"],
+      "explanation": "'Jouer au basket' = to play basketball. Team sports vocabulary.",
+      "grammar_points": ["team_sports", "basketball_vocabulary", "social_activities"],
+      "difficulty": 2.0
+    },
+    {
+      "id": "a2_hobbies_039",
+      "english": "She designs her own jewelry.",
+      "correctFrench": ["Elle", "dessine", "ses", "propres", "bijoux"],
+      "wordOptions": ["Elle", "dessine", "ses", "propres", "bijoux", "crée", "conçoit", "fait", "colliers", "bagues"],
+      "explanation": "'Dessiner ses propres bijoux' = to design one's own jewelry. Creative hobby vocabulary.",
+      "grammar_points": ["jewelry_design", "creative_activities", "possessive_adjectives"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_040",
+      "english": "I participate in charity runs.",
+      "correctFrench": ["Je", "participe", "à", "des", "courses", "caritatives"],
+      "wordOptions": ["Je", "participe", "à", "des", "courses", "caritatives", "prends", "part", "marathons", "solidaires"],
+      "explanation": "'Participer à des courses caritatives' = to participate in charity runs. Charitable sports.",
+      "grammar_points": ["charitable_sports", "running_vocabulary", "participation_expressions"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_041",
+      "english": "We make homemade soap together.",
+      "correctFrench": ["Nous", "fabriquons", "du", "savon", "maison", "ensemble"],
+      "wordOptions": ["Nous", "fabriquons", "du", "savon", "maison", "ensemble", "faisons", "artisanal", "à", "la"],
+      "explanation": "'Fabriquer du savon maison' = to make homemade soap. Craft hobby vocabulary.",
+      "grammar_points": ["craft_activities", "homemade_products", "group_activities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_042",
+      "english": "He studies astronomy with a telescope.",
+      "correctFrench": ["Il", "étudie", "l'astronomie", "avec", "un", "télescope"],
+      "wordOptions": ["Il", "étudie", "l'astronomie", "avec", "un", "télescope", "observe", "les", "étoiles", "planètes"],
+      "explanation": "'Étudier l'astronomie' = to study astronomy. Scientific hobby vocabulary.",
+      "grammar_points": ["scientific_hobbies", "astronomy_vocabulary", "observation_tools"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_043",
+      "english": "I learn salsa dancing online.",
+      "correctFrench": ["J'apprends", "la", "salsa", "en", "ligne"],
+      "wordOptions": ["J'apprends", "la", "salsa", "en", "ligne", "danse", "sur", "internet", "cours", "vidéos"],
+      "explanation": "'Apprendre en ligne' = to learn online. Online dance learning vocabulary.",
+      "grammar_points": ["online_learning", "dance_vocabulary", "salsa_dancing"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_044",
+      "english": "She breeds tropical fish.",
+      "correctFrench": ["Elle", "élève", "des", "poissons", "tropicaux"],
+      "wordOptions": ["Elle", "élève", "des", "poissons", "tropicaux", "fait", "l'élevage", "de", "aquarium", "exotiques"],
+      "explanation": "'Élever des poissons' = to breed fish. Aquarium hobby vocabulary.",
+      "grammar_points": ["pet_breeding", "aquarium_vocabulary", "tropical_animals"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_045",
+      "english": "We organize weekend hiking trips.",
+      "correctFrench": ["Nous", "organisons", "des", "randonnées", "de", "week-end"],
+      "wordOptions": ["Nous", "organisons", "des", "randonnées", "de", "week-end", "sorties", "excursions", "fin", "semaine"],
+      "explanation": "'Organiser des randonnées' = to organize hikes. Group outdoor activity vocabulary.",
+      "grammar_points": ["group_activities", "hiking_vocabulary", "weekend_planning"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_046",
+      "english": "I collect rare coins from different countries.",
+      "correctFrench": ["Je", "collectionne", "les", "pièces", "rares", "de", "différents", "pays"],
+      "wordOptions": ["Je", "collectionne", "les", "pièces", "rares", "de", "différents", "pays", "monnaies", "diverses", "nations"],
+      "explanation": "'Collectionner les pièces rares' = to collect rare coins. Numismatic hobby vocabulary.",
+      "grammar_points": ["coin_collecting", "rarity_vocabulary", "international_collections"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_047",
+      "english": "He plays harmonica in a blues band.",
+      "correctFrench": ["Il", "joue", "de", "l'harmonica", "dans", "un", "groupe", "de", "blues"],
+      "wordOptions": ["Il", "joue", "de", "l'harmonica", "dans", "un", "groupe", "de", "blues", "orchestre", "band"],
+      "explanation": "'Jouer de l'harmonica' = to play harmonica. Musical ensemble vocabulary.",
+      "grammar_points": ["musical_instruments", "band_participation", "blues_music"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_048",
+      "english": "She writes poetry in her spare time.",
+      "correctFrench": ["Elle", "écrit", "de", "la", "poésie", "pendant", "son", "temps", "libre"],
+      "wordOptions": ["Elle", "écrit", "de", "la", "poésie", "pendant", "son", "temps", "libre", "des", "poèmes", "dans"],
+      "explanation": "'Écrire de la poésie' = to write poetry. Creative writing hobby vocabulary.",
+      "grammar_points": ["creative_writing", "poetry_vocabulary", "spare_time_activities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_049",
+      "english": "I practice archery at the club.",
+      "correctFrench": ["Je", "pratique", "le", "tir", "à", "l'arc", "au", "club"],
+      "wordOptions": ["Je", "pratique", "le", "tir", "à", "l'arc", "au", "club", "fais", "du", "centre", "sportif"],
+      "explanation": "'Pratiquer le tir à l'arc' = to practice archery. Precision sports vocabulary.",
+      "grammar_points": ["precision_sports", "archery_vocabulary", "club_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_050",
+      "english": "We build sandcastles at the beach.",
+      "correctFrench": ["Nous", "construisons", "des", "châteaux", "de", "sable", "à", "la", "plage"],
+      "wordOptions": ["Nous", "construisons", "des", "châteaux", "de", "sable", "à", "la", "plage", "faisons", "sculptures"],
+      "explanation": "'Construire des châteaux de sable' = to build sandcastles. Beach activity vocabulary.",
+      "grammar_points": ["beach_activities", "construction_vocabulary", "family_fun"],
+      "difficulty": 2.1
+    },
+    {
+      "id": "a2_hobbies_051",
+      "english": "He learns magic tricks from books.",
+      "correctFrench": ["Il", "apprend", "des", "tours", "de", "magie", "dans", "les", "livres"],
+      "wordOptions": ["Il", "apprend", "des", "tours", "de", "magie", "dans", "les", "livres", "trucs", "prestidigitation"],
+      "explanation": "'Apprendre des tours de magie' = to learn magic tricks. Entertainment hobby vocabulary.",
+      "grammar_points": ["magic_vocabulary", "learning_sources", "entertainment_skills"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_052",
+      "english": "I volunteer at the local library.",
+      "correctFrench": ["Je", "fais", "du", "bénévolat", "à", "la", "bibliothèque", "locale"],
+      "wordOptions": ["Je", "fais", "du", "bénévolat", "à", "la", "bibliothèque", "locale", "aide", "municipale", "du", "quartier"],
+      "explanation": "'Faire du bénévolat' = to volunteer. Community service vocabulary.",
+      "grammar_points": ["volunteer_work", "library_vocabulary", "community_service"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_053",
+      "english": "She makes quilts for her family.",
+      "correctFrench": ["Elle", "fait", "des", "courtepointes", "pour", "sa", "famille"],
+      "wordOptions": ["Elle", "fait", "des", "courtepointes", "pour", "sa", "famille", "couds", "quilts", "patchwork", "couvertures"],
+      "explanation": "'Faire des courtepointes' = to make quilts. Traditional craft vocabulary.",
+      "grammar_points": ["traditional_crafts", "quilting_vocabulary", "family_gifts"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_054",
+      "english": "We attend film festivals regularly.",
+      "correctFrench": ["Nous", "assistons", "à", "des", "festivals", "de", "cinéma", "régulièrement"],
+      "wordOptions": ["Nous", "assistons", "à", "des", "festivals", "de", "cinéma", "régulièrement", "allons", "films", "souvent"],
+      "explanation": "'Assister à des festivals' = to attend festivals. Cultural event vocabulary.",
+      "grammar_points": ["cultural_events", "film_festivals", "regular_attendance"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_055",
+      "english": "I practice martial arts twice a week.",
+      "correctFrench": ["Je", "pratique", "les", "arts", "martiaux", "deux", "fois", "par", "semaine"],
+      "wordOptions": ["Je", "pratique", "les", "arts", "martiaux", "deux", "fois", "par", "semaine", "fais", "des", "trois"],
+      "explanation": "'Pratiquer les arts martiaux' = to practice martial arts. Combat sports vocabulary.",
+      "grammar_points": ["martial_arts", "frequency_expressions", "physical_training"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_056",
+      "english": "He builds his own computers.",
+      "correctFrench": ["Il", "monte", "ses", "propres", "ordinateurs"],
+      "wordOptions": ["Il", "monte", "ses", "propres", "ordinateurs", "construit", "assemble", "fabrique", "PC"],
+      "explanation": "'Monter ses ordinateurs' = to build computers. Technology hobby vocabulary.",
+      "grammar_points": ["computer_building", "technology_hobbies", "assembly_vocabulary"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_057",
+      "english": "She practices ice skating at the rink.",
+      "correctFrench": ["Elle", "fait", "du", "patinage", "à", "la", "patinoire"],
+      "wordOptions": ["Elle", "fait", "du", "patinage", "à", "la", "patinoire", "pratique", "le", "sur", "glace"],
+      "explanation": "'Faire du patinage' = to ice skate. Winter sports vocabulary.",
+      "grammar_points": ["winter_sports", "ice_skating", "sports_facilities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_058",
+      "english": "I create stop-motion animations.",
+      "correctFrench": ["Je", "crée", "des", "animations", "en", "stop-motion"],
+      "wordOptions": ["Je", "crée", "des", "animations", "en", "stop-motion", "fais", "dessins", "animés", "image", "par"],
+      "explanation": "'Créer des animations' = to create animations. Digital art hobby vocabulary.",
+      "grammar_points": ["animation_techniques", "creative_technology", "stop_motion"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_059",
+      "english": "We go mushroom picking in autumn.",
+      "correctFrench": ["Nous", "allons", "aux", "champignons", "en", "automne"],
+      "wordOptions": ["Nous", "allons", "aux", "champignons", "en", "automne", "ramassons", "cueillons", "des", "forêt"],
+      "explanation": "'Aller aux champignons' = to go mushroom picking. Seasonal foraging vocabulary.",
+      "grammar_points": ["foraging_activities", "seasonal_hobbies", "mushroom_picking"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_060",
+      "english": "He teaches guitar lessons to children.",
+      "correctFrench": ["Il", "donne", "des", "cours", "de", "guitare", "aux", "enfants"],
+      "wordOptions": ["Il", "donne", "des", "cours", "de", "guitare", "aux", "enfants", "enseigne", "la", "leçons"],
+      "explanation": "'Donner des cours' = to give lessons. Music teaching vocabulary.",
+      "grammar_points": ["music_teaching", "guitar_lessons", "children_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_061",
+      "english": "I brew my own beer at home.",
+      "correctFrench": ["Je", "brasse", "ma", "propre", "bière", "à", "la", "maison"],
+      "wordOptions": ["Je", "brasse", "ma", "propre", "bière", "à", "la", "maison", "fabrique", "fais", "chez", "moi"],
+      "explanation": "'Brasser sa bière' = to brew beer. Home brewing hobby vocabulary.",
+      "grammar_points": ["home_brewing", "beer_making", "homemade_products"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_062",
+      "english": "She practices synchronized swimming.",
+      "correctFrench": ["Elle", "pratique", "la", "natation", "synchronisée"],
+      "wordOptions": ["Elle", "pratique", "la", "natation", "synchronisée", "fait", "de", "nage", "artistique"],
+      "explanation": "'Pratiquer la natation synchronisée' = to practice synchronized swimming. Aquatic sports.",
+      "grammar_points": ["aquatic_sports", "synchronized_swimming", "artistic_sports"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_063",
+      "english": "We organize costume parties.",
+      "correctFrench": ["Nous", "organisons", "des", "fêtes", "costumées"],
+      "wordOptions": ["Nous", "organisons", "des", "fêtes", "costumées", "soirées", "déguisées", "bals", "masqués"],
+      "explanation": "'Organiser des fêtes costumées' = to organize costume parties. Party planning vocabulary.",
+      "grammar_points": ["party_planning", "costume_vocabulary", "social_events"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_064",
+      "english": "I study genealogy to trace my family.",
+      "correctFrench": ["J'étudie", "la", "généalogie", "pour", "retracer", "ma", "famille"],
+      "wordOptions": ["J'étudie", "la", "généalogie", "pour", "retracer", "ma", "famille", "rechercher", "mes", "ancêtres"],
+      "explanation": "'Étudier la généalogie' = to study genealogy. Family research hobby vocabulary.",
+      "grammar_points": ["genealogy_research", "family_history", "research_activities"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_065",
+      "english": "He plays video games competitively.",
+      "correctFrench": ["Il", "joue", "aux", "jeux", "vidéo", "en", "compétition"],
+      "wordOptions": ["Il", "joue", "aux", "jeux", "vidéo", "en", "compétition", "fait", "de", "l'esport", "tournois"],
+      "explanation": "'Jouer en compétition' = to play competitively. Competitive gaming vocabulary.",
+      "grammar_points": ["competitive_gaming", "video_games", "esports_vocabulary"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_066",
+      "english": "She makes documentary films about nature.",
+      "correctFrench": ["Elle", "fait", "des", "documentaires", "sur", "la", "nature"],
+      "wordOptions": ["Elle", "fait", "des", "documentaires", "sur", "la", "nature", "réalise", "films", "environnement"],
+      "explanation": "'Faire des documentaires' = to make documentaries. Filmmaking hobby vocabulary.",
+      "grammar_points": ["documentary_making", "nature_filming", "creative_projects"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_067",
+      "english": "I participate in escape room challenges.",
+      "correctFrench": ["Je", "participe", "à", "des", "escape", "games"],
+      "wordOptions": ["Je", "participe", "à", "des", "escape", "games", "jeux", "d'évasion", "salles", "énigmes"],
+      "explanation": "'Participer à des escape games' = to participate in escape rooms. Puzzle activity vocabulary.",
+      "grammar_points": ["puzzle_activities", "escape_rooms", "team_challenges"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_068",
+      "english": "We attend cooking classes together.",
+      "correctFrench": ["Nous", "assistons", "à", "des", "cours", "de", "cuisine", "ensemble"],
+      "wordOptions": ["Nous", "assistons", "à", "des", "cours", "de", "cuisine", "ensemble", "prenons", "des", "leçons"],
+      "explanation": "'Assister à des cours de cuisine' = to attend cooking classes. Culinary learning vocabulary.",
+      "grammar_points": ["culinary_learning", "cooking_classes", "group_learning"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_069",
+      "english": "He builds miniature railroad systems.",
+      "correctFrench": ["Il", "construit", "des", "réseaux", "de", "trains", "miniatures"],
+      "wordOptions": ["Il", "construit", "des", "réseaux", "de", "trains", "miniatures", "systèmes", "chemins", "de", "fer"],
+      "explanation": "'Construire des réseaux' = to build networks. Model railroad vocabulary.",
+      "grammar_points": ["model_railroads", "miniature_systems", "complex_hobbies"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_070",
+      "english": "I practice stand-up comedy.",
+      "correctFrench": ["Je", "pratique", "le", "stand-up"],
+      "wordOptions": ["Je", "pratique", "le", "stand-up", "fais", "du", "comedy", "humour", "spectacle"],
+      "explanation": "'Pratiquer le stand-up' = to practice stand-up comedy. Performance hobby vocabulary.",
+      "grammar_points": ["comedy_performance", "stand_up", "entertainment_skills"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_071",
+      "english": "She organizes book clubs at work.",
+      "correctFrench": ["Elle", "organise", "des", "clubs", "de", "lecture", "au", "travail"],
+      "wordOptions": ["Elle", "organise", "des", "clubs", "de", "lecture", "au", "travail", "cercles", "groupes", "bureau"],
+      "explanation": "'Organiser des clubs de lecture' = to organize book clubs. Reading community vocabulary.",
+      "grammar_points": ["reading_communities", "book_clubs", "workplace_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_072",
+      "english": "I practice parkour in the city.",
+      "correctFrench": ["Je", "pratique", "le", "parkour", "en", "ville"],
+      "wordOptions": ["Je", "pratique", "le", "parkour", "en", "ville", "fais", "du", "dans", "la", "urbain"],
+      "explanation": "'Pratiquer le parkour' = to practice parkour. Urban sports vocabulary.",
+      "grammar_points": ["urban_sports", "parkour_vocabulary", "city_activities"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_073",
+      "english": "We collect vintage vinyl records.",
+      "correctFrench": ["Nous", "collectionnons", "les", "disques", "vinyles", "vintage"],
+      "wordOptions": ["Nous", "collectionnons", "les", "disques", "vinyles", "vintage", "anciens", "rétro", "LP"],
+      "explanation": "'Collectionner les disques vinyles' = to collect vinyl records. Music collecting vocabulary.",
+      "grammar_points": ["music_collecting", "vinyl_records", "vintage_items"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_074",
+      "english": "He practices blacksmithing as a hobby.",
+      "correctFrench": ["Il", "pratique", "la", "forge", "comme", "loisir"],
+      "wordOptions": ["Il", "pratique", "la", "forge", "comme", "loisir", "fait", "de", "passe-temps", "hobby"],
+      "explanation": "'Pratiquer la forge' = to practice blacksmithing. Traditional craft vocabulary.",
+      "grammar_points": ["traditional_crafts", "blacksmithing", "metalworking"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_075",
+      "english": "I design websites for small businesses.",
+      "correctFrench": ["Je", "conçois", "des", "sites", "web", "pour", "petites", "entreprises"],
+      "wordOptions": ["Je", "conçois", "des", "sites", "web", "pour", "petites", "entreprises", "crée", "internet", "PME"],
+      "explanation": "'Concevoir des sites web' = to design websites. Web design hobby vocabulary.",
+      "grammar_points": ["web_design", "technology_skills", "business_services"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_076",
+      "english": "She trains her dog for agility competitions.",
+      "correctFrench": ["Elle", "entraîne", "son", "chien", "pour", "les", "concours", "d'agilité"],
+      "wordOptions": ["Elle", "entraîne", "son", "chien", "pour", "les", "concours", "d'agilité", "dresse", "compétitions"],
+      "explanation": "'Entraîner pour les concours' = to train for competitions. Dog training vocabulary.",
+      "grammar_points": ["dog_training", "agility_competitions", "pet_sports"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_077",
+      "english": "We go spelunking in limestone caves.",
+      "correctFrench": ["Nous", "faisons", "de", "la", "spéléologie", "dans", "les", "grottes", "calcaires"],
+      "wordOptions": ["Nous", "faisons", "de", "la", "spéléologie", "dans", "les", "grottes", "calcaires", "explorons", "cavernes"],
+      "explanation": "'Faire de la spéléologie' = to go spelunking. Cave exploration vocabulary.",
+      "grammar_points": ["cave_exploration", "spelunking", "geological_features"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_hobbies_078",
+      "english": "I create podcasts about history.",
+      "correctFrench": ["Je", "crée", "des", "podcasts", "sur", "l'histoire"],
+      "wordOptions": ["Je", "crée", "des", "podcasts", "sur", "l'histoire", "fais", "émissions", "audio", "historique"],
+      "explanation": "'Créer des podcasts' = to create podcasts. Digital media hobby vocabulary.",
+      "grammar_points": ["podcast_creation", "digital_media", "history_content"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_079",
+      "english": "He practices beekeeping in his backyard.",
+      "correctFrench": ["Il", "pratique", "l'apiculture", "dans", "son", "jardin"],
+      "wordOptions": ["Il", "pratique", "l'apiculture", "dans", "son", "jardin", "fait", "de", "élève", "abeilles"],
+      "explanation": "'Pratiquer l'apiculture' = to practice beekeeping. Agricultural hobby vocabulary.",
+      "grammar_points": ["beekeeping", "agricultural_hobbies", "backyard_activities"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_080",
+      "english": "She volunteers as a museum guide.",
+      "correctFrench": ["Elle", "fait", "du", "bénévolat", "comme", "guide", "de", "musée"],
+      "wordOptions": ["Elle", "fait", "du", "bénévolat", "comme", "guide", "de", "musée", "travaille", "en", "tant", "que"],
+      "explanation": "'Faire du bénévolat comme guide' = to volunteer as a guide. Museum volunteer vocabulary.",
+      "grammar_points": ["museum_volunteering", "cultural_activities", "guide_work"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_081",
+      "english": "I restore classic motorcycles.",
+      "correctFrench": ["Je", "restaure", "des", "motos", "classiques"],
+      "wordOptions": ["Je", "restaure", "des", "motos", "classiques", "répare", "rénove", "anciennes", "vintage"],
+      "explanation": "'Restaurer des motos' = to restore motorcycles. Vehicle restoration vocabulary.",
+      "grammar_points": ["vehicle_restoration", "classic_motorcycles", "mechanical_hobbies"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_082",
+      "english": "We organize outdoor movie nights.",
+      "correctFrench": ["Nous", "organisons", "des", "soirées", "cinéma", "en", "plein", "air"],
+      "wordOptions": ["Nous", "organisons", "des", "soirées", "cinéma", "en", "plein", "air", "films", "dehors", "extérieur"],
+      "explanation": "'Organiser des soirées cinéma' = to organize movie nights. Outdoor entertainment vocabulary.",
+      "grammar_points": ["outdoor_entertainment", "movie_nights", "event_organization"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_083",
+      "english": "He collects meteorites and minerals.",
+      "correctFrench": ["Il", "collectionne", "les", "météorites", "et", "les", "minéraux"],
+      "wordOptions": ["Il", "collectionne", "les", "météorites", "et", "les", "minéraux", "pierres", "roches", "cristaux"],
+      "explanation": "'Collectionner les météorites' = to collect meteorites. Geological collecting vocabulary.",
+      "grammar_points": ["geological_collecting", "meteorites", "mineral_collections"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_084",
+      "english": "I practice calligraphy with brush pens.",
+      "correctFrench": ["Je", "pratique", "la", "calligraphie", "avec", "des", "pinceaux"],
+      "wordOptions": ["Je", "pratique", "la", "calligraphie", "avec", "des", "pinceaux", "fais", "de", "brush", "pens"],
+      "explanation": "'Pratiquer avec des pinceaux' = to practice with brushes. Calligraphy tools vocabulary.",
+      "grammar_points": ["calligraphy_tools", "artistic_tools", "writing_arts"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_085",
+      "english": "She grows orchids in her greenhouse.",
+      "correctFrench": ["Elle", "cultive", "des", "orchidées", "dans", "sa", "serre"],
+      "wordOptions": ["Elle", "cultive", "des", "orchidées", "dans", "sa", "serre", "fait", "pousser", "fleurs", "jardin"],
+      "explanation": "'Cultiver des orchidées' = to grow orchids. Specialized gardening vocabulary.",
+      "grammar_points": ["specialized_gardening", "orchid_growing", "greenhouse_gardening"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_086",
+      "english": "We perform improv comedy shows.",
+      "correctFrench": ["Nous", "faisons", "des", "spectacles", "d'improvisation"],
+      "wordOptions": ["Nous", "faisons", "des", "spectacles", "d'improvisation", "jouons", "improv", "comedy", "théâtre"],
+      "explanation": "'Faire des spectacles d'improvisation' = to perform improv shows. Performance hobby vocabulary.",
+      "grammar_points": ["improv_comedy", "performance_arts", "theater_activities"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_087",
+      "english": "I learn traditional folk dances.",
+      "correctFrench": ["J'apprends", "les", "danses", "folkloriques", "traditionnelles"],
+      "wordOptions": ["J'apprends", "les", "danses", "folkloriques", "traditionnelles", "populaires", "folk", "anciennes"],
+      "explanation": "'Apprendre les danses folkloriques' = to learn folk dances. Cultural dance vocabulary.",
+      "grammar_points": ["folk_dancing", "traditional_culture", "cultural_learning"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_088",
+      "english": "He builds custom furniture.",
+      "correctFrench": ["Il", "fabrique", "des", "meubles", "sur", "mesure"],
+      "wordOptions": ["Il", "fabrique", "des", "meubles", "sur", "mesure", "construit", "fait", "personnalisés", "custom"],
+      "explanation": "'Fabriquer des meubles sur mesure' = to build custom furniture. Woodworking vocabulary.",
+      "grammar_points": ["woodworking", "custom_furniture", "craftsmanship"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_089",
+      "english": "She teaches yoga classes at the studio.",
+      "correctFrench": ["Elle", "donne", "des", "cours", "de", "yoga", "au", "studio"],
+      "wordOptions": ["Elle", "donne", "des", "cours", "de", "yoga", "au", "studio", "enseigne", "le", "centre"],
+      "explanation": "'Donner des cours de yoga' = to teach yoga classes. Fitness teaching vocabulary.",
+      "grammar_points": ["yoga_teaching", "fitness_instruction", "studio_activities"],
+      "difficulty": 2.4
+    },
+    {
+      "id": "a2_hobbies_090",
+      "english": "I participate in historical reenactments.",
+      "correctFrench": ["Je", "participe", "à", "des", "reconstitutions", "historiques"],
+      "wordOptions": ["Je", "participe", "à", "des", "reconstitutions", "historiques", "spectacles", "reenactments", "événements"],
+      "explanation": "'Participer à des reconstitutions' = to participate in reenactments. Historical hobby vocabulary.",
+      "grammar_points": ["historical_reenactments", "living_history", "cultural_participation"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_091",
+      "english": "We organize charity concerts.",
+      "correctFrench": ["Nous", "organisons", "des", "concerts", "de", "charité"],
+      "wordOptions": ["Nous", "organisons", "des", "concerts", "de", "charité", "caritatifs", "solidaires", "spectacles", "bienfaisance"],
+      "explanation": "'Organiser des concerts de charité' = to organize charity concerts. Charitable events vocabulary.",
+      "grammar_points": ["charity_events", "concert_organization", "fundraising_activities"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_092",
+      "english": "He creates sculptures from recycled materials.",
+      "correctFrench": ["Il", "crée", "des", "sculptures", "avec", "des", "matériaux", "recyclés"],
+      "wordOptions": ["Il", "crée", "des", "sculptures", "avec", "des", "matériaux", "recyclés", "fait", "objets", "récupérés"],
+      "explanation": "'Créer avec des matériaux recyclés' = to create with recycled materials. Eco-art vocabulary.",
+      "grammar_points": ["eco_art", "recycled_materials", "sustainable_crafts"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_093",
+      "english": "I study foreign languages online.",
+      "correctFrench": ["J'étudie", "les", "langues", "étrangères", "en", "ligne"],
+      "wordOptions": ["J'étudie", "les", "langues", "étrangères", "en", "ligne", "apprends", "sur", "internet", "apps"],
+      "explanation": "'Étudier les langues étrangères' = to study foreign languages. Language learning vocabulary.",
+      "grammar_points": ["language_learning", "foreign_languages", "online_education"],
+      "difficulty": 2.3
+    },
+    {
+      "id": "a2_hobbies_094",
+      "english": "She practices aerial silk dancing.",
+      "correctFrench": ["Elle", "pratique", "la", "danse", "sur", "tissu", "aérien"],
+      "wordOptions": ["Elle", "pratique", "la", "danse", "sur", "tissu", "aérien", "fait", "de", "soie", "aerial"],
+      "explanation": "'Pratiquer la danse sur tissu aérien' = to practice aerial silk dancing. Aerial arts vocabulary.",
+      "grammar_points": ["aerial_arts", "silk_dancing", "contemporary_dance"],
+      "difficulty": 2.7
+    },
+    {
+      "id": "a2_hobbies_095",
+      "english": "We organize community clean-up events.",
+      "correctFrench": ["Nous", "organisons", "des", "événements", "de", "nettoyage", "communautaire"],
+      "wordOptions": ["Nous", "organisons", "des", "événements", "de", "nettoyage", "communautaire", "actions", "citoyennes", "bénévoles"],
+      "explanation": "'Organiser des événements de nettoyage' = to organize clean-up events. Environmental activism.",
+      "grammar_points": ["environmental_activism", "community_service", "civic_engagement"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_096",
+      "english": "I create stop-motion videos with clay.",
+      "correctFrench": ["Je", "crée", "des", "vidéos", "en", "stop-motion", "avec", "de", "l'argile"],
+      "wordOptions": ["Je", "crée", "des", "vidéos", "en", "stop-motion", "avec", "de", "l'argile", "fais", "pâte", "à", "modeler"],
+      "explanation": "'Créer avec de l'argile' = to create with clay. Animation hobby vocabulary.",
+      "grammar_points": ["clay_animation", "stop_motion", "creative_video"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_097",
+      "english": "He trains for ultramarathon races.",
+      "correctFrench": ["Il", "s'entraîne", "pour", "les", "courses", "d'ultramarathon"],
+      "wordOptions": ["Il", "s'entraîne", "pour", "les", "courses", "d'ultramarathon", "prépare", "ultra", "marathons", "trail"],
+      "explanation": "'S'entraîner pour les courses' = to train for races. Extreme sports vocabulary.",
+      "grammar_points": ["extreme_sports", "ultramarathon", "athletic_training"],
+      "difficulty": 2.6
+    },
+    {
+      "id": "a2_hobbies_098",
+      "english": "She makes artisanal cheese at home.",
+      "correctFrench": ["Elle", "fait", "du", "fromage", "artisanal", "à", "la", "maison"],
+      "wordOptions": ["Elle", "fait", "du", "fromage", "artisanal", "à", "la", "maison", "fabrique", "chez", "elle", "maison"],
+      "explanation": "'Faire du fromage artisanal' = to make artisanal cheese. Food craft vocabulary.",
+      "grammar_points": ["food_crafts", "cheese_making", "artisanal_production"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_099",
+      "english": "I participate in geocaching adventures.",
+      "correctFrench": ["Je", "participe", "à", "des", "aventures", "de", "géocaching"],
+      "wordOptions": ["Je", "participe", "à", "des", "aventures", "de", "géocaching", "fais", "du", "chasse", "au", "trésor"],
+      "explanation": "'Participer au géocaching' = to participate in geocaching. Modern treasure hunting vocabulary.",
+      "grammar_points": ["geocaching", "treasure_hunting", "gps_activities"],
+      "difficulty": 2.5
+    },
+    {
+      "id": "a2_hobbies_100",
+      "english": "We create collaborative art projects online.",
+      "correctFrench": ["Nous", "créons", "des", "projets", "artistiques", "collaboratifs", "en", "ligne"],
+      "wordOptions": ["Nous", "créons", "des", "projets", "artistiques", "collaboratifs", "en", "ligne", "œuvres", "communes", "internet"],
+      "explanation": "'Créer des projets collaboratifs' = to create collaborative projects. Digital art community vocabulary.",
+      "grammar_points": ["collaborative_art", "digital_communities", "online_creativity"],
+      "difficulty": 2.7
     }
   ]
 }
