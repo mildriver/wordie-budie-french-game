@@ -83,8 +83,8 @@
                     </div>
 
                     <div class="french-construction">
-                        <div id="answer-area" class="answer-area" role="region" aria-label="Selected French words" aria-live="polite">
-                            <!-- Selected words will appear here -->
+                        <div id="answer-area" class="answer-area" role="region" aria-label="Selected French words - Click words to return them" aria-live="polite">
+                            <!-- Selected words will appear here - Click any word to return it to the word bank -->
                         </div>
                     </div>
 
@@ -476,16 +476,33 @@
                 // Show in answer area
                 const answerArea = document.getElementById('answer-area');
                 const selectedElement = document.createElement('span');
-                selectedElement.textContent = word + ' ';
-                selectedElement.style.cssText = `
-                    display: inline-block;
-                    margin: 2px;
-                    padding: 4px 8px;
-                    background: #51cf66;
-                    color: white;
-                    border-radius: 4px;
-                `;
+                selectedElement.textContent = word;
+                selectedElement.className = 'selected-word-clickable';
+                selectedElement.title = 'Click to return this word to the word bank';
+
+                // Add click event to return word to bank
+                selectedElement.addEventListener('click', () => this.returnWord(word, selectedElement, element));
+
                 answerArea.appendChild(selectedElement);
+            }
+
+            returnWord(word, selectedElement, originalElement) {
+                // Remove word from selected words array
+                const wordIndex = this.selectedWords.indexOf(word);
+                if (wordIndex > -1) {
+                    this.selectedWords.splice(wordIndex, 1);
+                }
+
+                // Remove the selected element from answer area
+                selectedElement.remove();
+
+                // Reset the original word option in the word bank
+                originalElement.style.backgroundColor = '#667eea';
+                originalElement.style.borderColor = '#667eea';
+                originalElement.style.color = 'white';
+                originalElement.style.opacity = '1';
+                originalElement.style.transform = 'rotate(-1deg)';
+                originalElement.style.pointerEvents = 'auto';
             }
 
             clearAnswer() {

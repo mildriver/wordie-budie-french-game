@@ -224,6 +224,31 @@ main {
     transition: all 0.3s ease;
 }
 
+.selected-word-clickable {
+    display: inline-block;
+    margin: 2px;
+    padding: 6px 12px;
+    background: linear-gradient(135deg, #48bb78 0%, #38a169 100%);
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    box-shadow: 0 2px 8px rgba(72, 187, 120, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.selected-word-clickable:hover {
+    background: linear-gradient(135deg, #45b049 0%, #2d7d32 100%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(72, 187, 120, 0.4);
+}
+
+.selected-word-clickable:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 6px rgba(72, 187, 120, 0.3);
+}
+
 .answer-area.drag-over {
     border-color: #667eea;
     background: #edf2f7;
